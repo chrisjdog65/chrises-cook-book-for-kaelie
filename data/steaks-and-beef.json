@@ -92,7 +92,7 @@
         "If your kitchen fills with smoke, you can finish the sear on a grill or outdoor burner — the technique is identical, just hotter and better ventilated.",
         "Save the rendered beef fat left in the skillet, strain it into a jar, and use it to roast potatoes; it is the best fat in your kitchen."
       ],
-      "keyTemp": "Pull from the oven at 115°F (46°C), sear, and serve at 130 to 135°F (54 to 57°C) for medium-rare. Medium is 140°F (60°C); past 150°F (66°C) a ribeye goes gray and dry.",
+      "keyTemp": "This is a pull temperature: take the steaks out of the oven at 115°F (46°C). The sear plus carryover adds another 15 to 20°F (8 to 11°C), landing you at 130 to 135°F (54 to 57°C) for medium-rare. Medium is 140°F (60°C); past 150°F (66°C) a ribeye goes gray and dry.",
       "pairing": "Creamy mashed potatoes and a wedge salad, with a big Cabernet Sauvignon or a cold dark beer.",
       "videoQuery": "reverse sear ribeye steak cast iron",
       "photoQuery": "reverse seared ribeye herb butter",
@@ -181,7 +181,7 @@
         "Do not throw away the garlic cloves — they turn sweet and jammy in the butter and are fantastic smashed onto bread.",
         "No fresh thyme? Rosemary works, or skip the herbs entirely; the garlic and butter carry the dish on their own."
       ],
-      "keyTemp": "Pull at 125°F (52°C) for medium-rare, 135°F (57°C) for medium; after a 8-minute rest they land at 130 to 140°F (54 to 60°C).",
+      "keyTemp": "These are pull temperatures, not serving temperatures: pull at 125°F (52°C) for medium-rare or 135°F (57°C) for medium. Carryover cooking during the 8-minute rest adds 5 to 8°F (3 to 4°C), so they finish at 130 to 143°F (54 to 62°C).",
       "pairing": "Crispy roasted potatoes and blistered green beans, with a glass of Malbec.",
       "videoQuery": "cast iron new york strip butter basted",
       "photoQuery": "cast iron new york strip steak",
@@ -196,7 +196,7 @@
       "difficulty": "Medium",
       "servings": "2 servings",
       "prepTime": "15 min",
-      "cookTime": "25 min",
+      "cookTime": "35 min",
       "totalTime": "50 min",
       "ingredients": [
         {
@@ -279,7 +279,7 @@
         "Filet has almost no fat, so it is the one steak worth wrapping in bacon if you like — secure it with the twine and render the bacon in the pan first.",
         "Do not use nonstick for this recipe. You need fond stuck to the pan, and nonstick is specifically designed to prevent it."
       ],
-      "keyTemp": "Pull at 125°F (52°C) for medium-rare; after resting, the center will read 130 to 135°F (54 to 57°C). Medium is 140°F (60°C) and is as far as filet should ever go.",
+      "keyTemp": "Pull at 125°F (52°C) for medium-rare — that is a pull temperature, taken the moment the skillet leaves the oven. Carryover adds 5 to 10°F (3 to 6°C) over the 10-minute rest, so the center settles at 130 to 135°F (54 to 57°C). Medium is 140°F (60°C) and is as far as filet should ever go.",
       "pairing": "Roasted asparagus and a potato gratin, with the same red wine you used in the sauce.",
       "videoQuery": "filet mignon red wine pan sauce",
       "photoQuery": "filet mignon red wine sauce plated",
@@ -294,14 +294,14 @@
       "difficulty": "Medium",
       "servings": "2 servings",
       "prepTime": "15 min",
-      "cookTime": "20 min",
-      "totalTime": "40 min",
+      "cookTime": "25 min",
+      "totalTime": "55 min",
       "ingredients": [
         {
           "group": "For the steaks",
           "items": [
             "2 steaks, filet mignon or New York strip (8 oz / 225 g each, 1½ in / 4 cm thick)",
-            "3 tbsp (25 g) whole black peppercorns",
+            "3 tbsp (21 g) whole black peppercorns",
             "1¼ tsp (6 g) kosher salt",
             "1 tbsp (15 ml) neutral oil",
             "1 tbsp (14 g) unsalted butter"
@@ -358,7 +358,7 @@
         },
         {
           "title": "Build the cream sauce",
-          "text": "Add the beef stock and simmer 2 minutes, then stir in the heavy cream and Dijon. Let it bubble gently for 4 to 5 minutes until it thickens enough to coat the back of a spoon and a finger swiped through leaves a clean line. Stir in any resting juices from the steak plate and taste for salt."
+          "text": "Add the ½ cup beef stock and simmer 2 minutes, then stir in the ¾ cup heavy cream and the 1 tsp Dijon. Let it bubble gently for 4 to 5 minutes until it thickens enough to coat the back of a spoon and a finger swiped through leaves a clean line. Stir in any resting juices from the steak plate, then season with the ¼ tsp kosher salt, tasting as you go — the stock and the peppercorn crust already bring salt, so add the last pinch only if it needs it."
         },
         {
           "title": "Serve immediately",
@@ -387,14 +387,15 @@
       "servings": "4 servings",
       "prepTime": "20 min",
       "cookTime": "10 min",
-      "totalTime": "4 hr 30 min",
+      "totalTime": "2 hr 40 min",
       "ingredients": [
         {
           "group": "For the steak",
           "items": [
             "2 lb (900 g) outside skirt steak, cut into 3 or 4 manageable lengths",
             "1½ tsp (7 g) kosher salt",
-            "1 tsp freshly ground black pepper"
+            "1 tsp freshly ground black pepper",
+            "2 tsp (10 ml) neutral oil, for wiping the grill grate"
           ]
         },
         {
@@ -416,6 +417,7 @@
           "items": [
             "12 corn tortillas (6 in / 15 cm), warmed",
             "½ cup (60 g) finely diced white onion",
+            "⅓ cup (8 g) chopped fresh cilantro leaves",
             "2 limes, cut into wedges"
           ]
         }
@@ -443,7 +445,7 @@
         },
         {
           "title": "Season and oil the grate",
-          "text": "Season the dried steak with the 1½ tsp kosher salt and 1 tsp black pepper right before it goes on. Wipe the hot grate with an oil-soaked paper towel held in long tongs so the meat releases cleanly. Have your platter and tongs ready by the grill, because from here the cooking takes under 6 minutes."
+          "text": "Season the dried steak with the 1½ tsp kosher salt and 1 tsp black pepper right before it goes on — salting earlier would pull moisture back to the surface you just dried. Fold a paper towel into a pad, soak it with the 2 tsp neutral oil, and wipe the hot grate with it held in long tongs so the meat releases cleanly instead of tearing. Have your platter and tongs ready by the grill, because from here the cooking takes under 6 minutes."
         },
         {
           "title": "Grill the first side",
@@ -463,7 +465,7 @@
         },
         {
           "title": "Warm the tortillas and serve",
-          "text": "Lay the corn tortillas directly on the grill grate for 20 to 30 seconds a side until they puff slightly and smell toasty. Pile the sliced steak onto a platter with the diced white onion, extra cilantro, and lime wedges. Serve immediately while the meat is hot and the tortillas are still pliable."
+          "text": "Lay the corn tortillas directly on the grill grate for 20 to 30 seconds a side until they puff slightly and smell toasty, then stack them in a clean towel so they steam themselves soft. Pile the sliced steak onto a platter and scatter over the ½ cup diced white onion and the ⅓ cup chopped cilantro, with the lime wedges around the edge. Serve immediately while the meat is hot and the tortillas are still pliable — a squeeze of lime right before eating is what ties the whole thing together."
         }
       ],
       "tips": [
@@ -473,7 +475,7 @@
         "Leftovers make outstanding quesadillas and steak-and-egg breakfasts; slice only what you need and keep the rest in a whole piece so it stays juicy.",
         "Save a few tablespoons of the marinade in a separate container before it touches the meat, then brush it on after grilling for a fresh citrus hit."
       ],
-      "keyTemp": "Pull skirt steak at 125 to 130°F (52 to 54°C) and rest to 130 to 135°F (54 to 57°C). Do not take it past 140°F (60°C) or it will turn tough.",
+      "keyTemp": "Pull skirt steak off the grill at 125 to 130°F (52 to 54°C) — a pull temperature, not a serving one. Carryover over the 8- to 10-minute rest adds about 5°F (3°C), finishing at 130 to 135°F (54 to 57°C). Do not take it past 140°F (60°C) or it will turn tough.",
       "pairing": "Charred scallions, refried beans, and a cold Mexican lager with lime.",
       "videoQuery": "carne asada skirt steak marinade grill",
       "photoQuery": "carne asada skirt steak sliced tacos",
@@ -567,7 +569,7 @@
         "Do not trim the fat cap before cooking. Render it on the grill and trim any leftover heavy pieces after slicing.",
         "Reheat leftovers gently in a 250°F (120°C) oven to 110°F (43°C), then flash them in a hot pan — microwaving turns great steak into gray rubber."
       ],
-      "keyTemp": "Pull off indirect heat at 115°F (46°C), sear, and serve at 130 to 135°F (54 to 57°C) for medium-rare. Keep the probe 1 inch away from the bone or it will read low.",
+      "keyTemp": "Pull off indirect heat at 115°F (46°C) — that is a pull temperature. The direct sear plus carryover through the 12- to 15-minute rest adds 15 to 20°F (8 to 11°C), landing at 130 to 135°F (54 to 57°C) for medium-rare. Keep the probe 1 inch away from the bone or it will read low.",
       "pairing": "Grilled asparagus and a loaf of garlic bread, with a bold Zinfandel or Syrah.",
       "videoQuery": "grilled tomahawk steak reverse sear charcoal",
       "photoQuery": "grilled tomahawk ribeye sliced board",
@@ -582,8 +584,8 @@
       "difficulty": "Advanced",
       "servings": "6 servings",
       "prepTime": "1 hr",
-      "cookTime": "45 min",
-      "totalTime": "3 hr 30 min",
+      "cookTime": "1 hr 15 min",
+      "totalTime": "3 hr 50 min",
       "ingredients": [
         {
           "group": "For the beef",
@@ -612,6 +614,7 @@
           "items": [
             "10 to 12 thin slices prosciutto (about 6 oz / 170 g)",
             "1 lb (450 g) all-butter puff pastry, thawed but cold",
+            "2 tbsp (16 g) all-purpose flour, for dusting the counter",
             "2 large egg yolks beaten with 1 tbsp (15 ml) heavy cream",
             "1 tsp flaky sea salt, for the crust"
           ]
@@ -652,7 +655,7 @@
         },
         {
           "title": "Wrap in puff pastry",
-          "text": "Roll the cold puff pastry on a lightly floured counter into a rectangle about 14 by 16 inches (36 by 40 cm) and ⅛ inch (3 mm) thick. Unwrap the chilled log, set it on the pastry, brush the pastry borders with egg wash, and roll it up, trimming any excess so the seam overlaps by only 1 inch. Press the seam and both ends closed, tuck the ends underneath, and set it seam-side down on a parchment-lined sheet pan."
+          "text": "Dust the counter with the 2 tbsp all-purpose flour and roll the cold puff pastry into a rectangle about 14 by 16 inches (36 by 40 cm) and ⅛ inch (3 mm) thick, working quickly so it does not warm and get sticky. Unwrap the chilled log, set it on the pastry, brush the pastry borders with egg wash, and roll it up, trimming any excess so the seam overlaps by only 1 inch. Press the seam and both ends closed, tuck the ends underneath, and set it seam-side down on a parchment-lined sheet pan."
         },
         {
           "title": "Chill again, then decorate",
@@ -689,12 +692,12 @@
       "title": "Classic Sunday Pot Roast",
       "emoji": "🥘",
       "art": "roast",
-      "blurb": "Chuck roast braised until a spoon goes through it, with carrots, potatoes, and gravy made right in the pot. It takes three hours and about twenty minutes of actual work.",
+      "blurb": "Chuck roast braised until a spoon goes through it, with carrots, potatoes, and gravy made right in the pot. It ties up an afternoon, but only about half an hour of that is actual work.",
       "difficulty": "Easy",
       "servings": "6 servings",
       "prepTime": "25 min",
-      "cookTime": "3 hr 30 min",
-      "totalTime": "3 hr 55 min",
+      "cookTime": "4 hr",
+      "totalTime": "4 hr 25 min",
       "ingredients": [
         {
           "group": "For the roast",
@@ -800,8 +803,8 @@
       "difficulty": "Medium",
       "servings": "4 to 6 servings",
       "prepTime": "30 min",
-      "cookTime": "3 hr 15 min",
-      "totalTime": "3 hr 45 min",
+      "cookTime": "3 hr 45 min",
+      "totalTime": "4 hr 15 min",
       "ingredients": [
         {
           "group": "For the ribs",
@@ -831,6 +834,7 @@
           "items": [
             "1 tbsp (15 ml) red wine vinegar",
             "2 tbsp (28 g) cold unsalted butter",
+            "2 tbsp chopped fresh flat-leaf parsley, for serving",
             "½ tsp flaky sea salt, plus more to taste"
           ]
         }
@@ -858,7 +862,7 @@
         },
         {
           "title": "Reduce the wine hard",
-          "text": "Pour in the entire bottle of red wine and bring it to a strong simmer, scraping the bottom clean. Reduce it by about half, 12 to 15 minutes, until the harsh alcohol smell is gone and the liquid smells like fruit and wood. Skipping this reduction is the reason home braises sometimes taste sour and thin."
+          "text": "Pour in the entire bottle of red wine and bring it to a strong simmer, scraping the bottom clean. Reduce it by about half, 15 to 20 minutes — a full 750 ml takes real time to come down in a wide pot, so do not cut this short. You will know it is there when the harsh alcohol smell is gone and the liquid smells like fruit and wood. Skipping this reduction is the reason home braises sometimes taste sour and thin."
         },
         {
           "title": "Add the ribs and stock",

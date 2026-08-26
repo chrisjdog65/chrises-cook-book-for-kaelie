@@ -1,0 +1,410 @@
+{
+  "category": "Chef-Level Signatures",
+  "categoryEmoji": "👨‍🍳",
+  "categoryBlurb": "These are the plates you would pay real money for in a room with cloth napkins — lacquered duck skin, scallops on a cloud of cauliflower, a Wellington that gets a gasp when you slice it. None of it is magic; it is a handful of careful steps done in the right order, and you can absolutely do this.",
+  "recipes": [
+    {
+      "id": "crispy-duck-breast-cherry-gastrique",
+      "title": "Crispy Duck Breast with Cherry Gastrique",
+      "emoji": "🦆",
+      "art": "chicken",
+      "blurb": "Skin rendered until it shatters like glass, meat the color of a rose, and a sweet-sour cherry sauce that cuts straight through the richness. This is the dish that makes people ask where you learned to cook.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "totalTime": "55 min",
+      "ingredients": [
+        {
+          "group": "For the duck",
+          "items": [
+            "2 boneless Pekin duck breasts, skin on (about 8 oz / 225 g each)",
+            "1 1/2 tsp kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "2 thyme sprigs"
+          ]
+        },
+        {
+          "group": "Cherry gastrique",
+          "items": [
+            "1/3 cup (67 g) granulated sugar",
+            "1/3 cup (80 ml) red wine vinegar",
+            "1/4 cup (60 ml) ruby port or dry red wine",
+            "1/2 cup (120 ml) chicken or duck stock",
+            "1 cup (140 g) pitted sweet cherries, fresh or frozen, halved",
+            "1 tbsp (14 g) cold unsalted butter",
+            "1/4 tsp kosher salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Trim and score the skin",
+          "text": "Pat the duck breasts completely dry and trim any flaps of skin or fat that hang past the meat. With a sharp knife held at a shallow angle, cut a crosshatch through the skin and fat about 1/4 in (6 mm) apart, stopping before you reach the red meat — if you see meat in the cuts you have gone too deep and juice will leak out and steam the skin. Those channels give the fat a road to escape by, which is the whole secret to crisp duck."
+        },
+        {
+          "title": "Salt and rest the duck",
+          "text": "Season both sides with the 1 1/2 tsp kosher salt and 1/2 tsp pepper, then set the breasts skin side up on a rack over a plate. Refrigerate uncovered for at least 30 minutes and up to 24 hours. Cold dry air pulls water out of the skin, and dry skin browns while wet skin steams. If you are short on time, even 30 minutes makes a visible difference."
+        },
+        {
+          "title": "Start in a cold pan",
+          "text": "Lay the duck skin side down in a dry, cold 10 in (25 cm) stainless or cast iron skillet — no oil, no preheating. Then turn the burner to medium-low. Starting cold lets the fat melt slowly and evenly instead of seizing the skin shut, and it is the single most common thing home cooks get wrong with duck."
+        },
+        {
+          "title": "Render low and slow",
+          "text": "Let the duck sit undisturbed for 12 to 15 minutes over medium-low heat. You want a lazy, steady bubbling sound, never a violent sizzle or any smoke — if it gets loud, drop the heat. Every 4 to 5 minutes, carefully pour the rendered fat into a heatproof jar so the skin is frying in a thin film, not swimming in a deep pool. You should end up with 1/4 to 1/3 cup of gorgeous duck fat; save it for potatoes."
+        },
+        {
+          "title": "Check the skin, then flip",
+          "text": "Lift a breast with tongs and look: the skin should be evenly deep golden brown, thin, and stiff, and the fat layer beneath it should have shrunk to almost nothing. If it is still pale or soft in the middle, give it another 3 to 4 minutes. When it looks right, flip the breasts over and add the thyme sprigs to the pan."
+        },
+        {
+          "title": "Finish on the flesh side",
+          "text": "Cook flesh side down for just 2 to 4 minutes over medium heat, spooning a little of the hot fat over the top as it goes. Check the thickest part with an instant-read thermometer and pull the duck at 130°F (54°C) for a rosy medium-rare. Duck is a red meat and is meant to be served pink; cooked past 150°F (66°C) it turns dry and livery."
+        },
+        {
+          "title": "Rest the duck",
+          "text": "Move the breasts to a cutting board, skin side up, and rest them 8 to 10 minutes. The internal temperature will coast up to about 135°F (57°C) and the juices will settle back into the fibers instead of running out on your board. Never tent duck with foil — trapped steam will soften the crackling skin you just spent 15 minutes building."
+        },
+        {
+          "title": "Make the caramel",
+          "text": "Wipe out a small saucepan, add the 1/3 cup sugar in an even layer, and set it over medium heat. Do not stir; just swirl the pan occasionally as the edges melt and the sugar turns from clear to straw to a deep amber, which takes about 4 to 6 minutes. Amber is where the flavor is, but it goes to burnt fast, so pull it the moment it smells like toasted caramel rather than coffee."
+        },
+        {
+          "title": "Deglaze with vinegar",
+          "text": "Stand back and pour in the 1/3 cup red wine vinegar all at once — it will hiss violently and throw off sharp-smelling steam, and the caramel will seize into a hard lump. That is completely normal. Keep it over medium heat and stir for 1 to 2 minutes until the lump dissolves back into a smooth syrup. This sweet-sour base is what gastrique means."
+        },
+        {
+          "title": "Build and reduce the sauce",
+          "text": "Add the 1/4 cup port and 1/2 cup stock and simmer briskly for 6 to 8 minutes, until the sauce has reduced by about half and coats the back of a spoon. Drag your finger through it — the line should hold for a second before closing. Stir in the cherries and simmer 3 more minutes, just until they soften but still hold their shape."
+        },
+        {
+          "title": "Mount with butter",
+          "text": "Take the pan off the heat, add the 1 tbsp cold butter, and swirl the pan until it disappears into the sauce and gives it a glossy sheen. Season with the 1/4 tsp salt and taste: it should hit sweet, then sour, then savory, in that order. If it is too sharp add a pinch of sugar; too sweet, a few drops more vinegar."
+        },
+        {
+          "title": "Slice and plate",
+          "text": "Slice each breast against the grain into 1/4 in (6 mm) planks, cutting straight down through the skin with a sharp knife so the crust does not tear. Spoon a shallow pool of gastrique slightly off-center on two warm plates, then fan the duck slices over the sauce with the crisp skin facing up and visible. Scatter the cherries around, add a few flakes of salt on the meat, and serve at once. Never pour sauce over the skin — that is how you undo all of it."
+        }
+      ],
+      "tips": [
+        "Save the rendered duck fat in a jar in the fridge for up to 3 months. Roast potatoes in it at 425°F (220°C) and you will understand why cooks hoard the stuff.",
+        "Frozen cherries work beautifully here and need no thawing — just add them straight to the reducing sauce and give them an extra minute.",
+        "The gastrique can be made up to 5 days ahead through the reduction step. Rewarm it gently, then add the cherries and butter fresh so the sauce stays glossy.",
+        "If your skin is browning fast but still thick and soft underneath, your heat is too high. Move the pan off the burner for a minute and go back at a lower setting; rendering is a patience game.",
+        "No port on hand? Use dry red wine plus 1 tsp sugar, or even a splash of balsamic vinegar cut with water."
+      ],
+      "keyTemp": "Pull the duck at 130°F (54°C) for medium-rare; it will rest up to about 135°F (57°C). Duck breast is safe and best served pink — do not take it past 150°F (66°C).",
+      "pairing": "A cool glass of Pinot Noir and a pile of duck-fat roasted potatoes or a bitter greens salad.",
+      "videoQuery": "how to cook duck breast crispy skin gastrique",
+      "photoQuery": "sliced duck breast cherry sauce plate",
+      "tags": [
+        "Date Night",
+        "Restaurant at Home",
+        "Cast Iron"
+      ]
+    },
+    {
+      "id": "seared-scallops-cauliflower-puree",
+      "title": "Seared Scallops with Cauliflower Puree",
+      "emoji": "🐚",
+      "art": "scallop",
+      "blurb": "Silky white puree, deeply caramelized scallops, and a nutty brown butter poured over at the table. It looks like a tasting menu course and takes about forty-five minutes.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "Cauliflower puree",
+          "items": [
+            "1 medium head cauliflower (about 1 1/2 lb / 680 g), cut into small florets",
+            "1 1/2 cups (360 ml) whole milk",
+            "2 tbsp (28 g) unsalted butter",
+            "1/4 cup (60 ml) heavy cream, warmed",
+            "3/4 tsp kosher salt, plus more to taste",
+            "1 pinch white pepper"
+          ]
+        },
+        {
+          "group": "For the scallops",
+          "items": [
+            "10 to 12 dry-packed sea scallops (about 1 lb / 450 g, U-10 or U-12)",
+            "3/4 tsp kosher salt",
+            "1/4 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) grapeseed or avocado oil"
+          ]
+        },
+        {
+          "group": "Hazelnut brown butter",
+          "items": [
+            "4 tbsp (55 g) unsalted butter, cut into 4 pieces",
+            "3 tbsp (25 g) toasted hazelnuts, roughly chopped",
+            "1 tbsp (15 ml) fresh lemon juice",
+            "1 tbsp (3 g) snipped chives",
+            "1/2 tsp flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cook cauliflower in milk",
+          "text": "Put the cauliflower florets in a 3 qt (3 L) saucepan with the 1 1/2 cups milk, the 2 tbsp butter, and the 3/4 tsp salt. Bring to a bare simmer over medium heat and cook 14 to 18 minutes, stirring now and then so the milk does not scorch on the bottom. The cauliflower is ready when a knife slides through a floret with zero resistance — undercooked cauliflower will never blend smooth, no matter how long you run the blender."
+        },
+        {
+          "title": "Blend the puree silky",
+          "text": "Drain the cauliflower, saving the milk. Blend the florets with the 1/4 cup warm cream and about 1/3 cup (80 ml) of the reserved milk on high for a full 60 to 90 seconds. Add more milk a tablespoon at a time until it moves like thick pancake batter and falls off the spatula in a ribbon. Season with the white pepper and more salt to taste, then keep it warm in the covered pot over the lowest heat."
+        },
+        {
+          "title": "Pull the side muscle",
+          "text": "Look along the side of each scallop for a small rectangular tab of firmer, slightly fibrous flesh. Pinch it and peel it away with your fingers; it takes two seconds each. That muscle turns rubbery and stringy when cooked, so removing it is the difference between silky and chewy."
+        },
+        {
+          "title": "Dry the scallops hard",
+          "text": "Lay the scallops on a doubled paper towel, press another towel firmly on top, and leave them uncovered for 10 minutes. Change the towel once if it soaks through. Surface water has to boil away before browning can even begin, so every drop you blot now is a second of real searing you get back later. They should feel dry and slightly tacky."
+        },
+        {
+          "title": "Season at the last second",
+          "text": "Season the scallops with the 3/4 tsp kosher salt and 1/4 tsp pepper right before they go in the pan, not a minute earlier. Salt draws moisture back to the surface within about 60 seconds, which quietly undoes all your blotting. Set the seasoned scallops in a row next to the stove so you can load the pan quickly."
+        },
+        {
+          "title": "Get the pan properly hot",
+          "text": "Heat a 12 in (30 cm) stainless or cast iron skillet over medium-high for 2 to 3 minutes, then add the 1 tbsp oil and swirl to coat. The oil should shimmer and run thin like water with the very first wisp of smoke. If it is billowing smoke, pull the pan off the burner for 30 seconds — scorched fat tastes acrid. Skip nonstick here; it does not hold enough heat to build a crust."
+        },
+        {
+          "title": "Sear and do not touch",
+          "text": "Lay the scallops in one at a time, working clockwise so you know which went in first, leaving 1 in (2.5 cm) between them. Do not move, poke, or peek for 2 to 3 full minutes — you want a steady aggressive sizzle, not a quiet hiss. When the bottom edge has gone deep amber, each scallop will release from the pan on its own. If it sticks, it is not ready."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Turn each scallop with a thin spatula and cook just 60 to 90 seconds on the second side, which is only there to set the interior. Press the side gently: it should feel like the fleshy pad below your thumb, with a little give. Pull them at 125 to 130°F (52 to 54°C) in the center for a sweet, barely translucent middle. Firm and springy means overcooked."
+        },
+        {
+          "title": "Brown the butter",
+          "text": "Move the scallops to a warm plate, seared side up, and turn the heat to medium. Add the 4 tbsp butter to the same pan and swirl constantly as it melts, foams, and quiets down. In 2 to 3 minutes the milk solids on the bottom will turn hazelnut brown and it will smell toasty and sweet. Brown butter goes from perfect to burnt in about 20 seconds, so trust your nose over your eyes."
+        },
+        {
+          "title": "Finish the butter off heat",
+          "text": "Pull the pan off the burner and stir in the hazelnuts, the 1 tbsp lemon juice, and the chives. The lemon will hiss and instantly cut the richness, and the residual heat is enough to warm the nuts without burning them. Taste and add a pinch of salt if it needs it."
+        },
+        {
+          "title": "Plate it like a restaurant",
+          "text": "Spoon a generous pool of warm puree into the center of each warm plate and drag the back of the spoon through it to make a wide comma-shaped swoosh. Arrange 5 or 6 scallops along the puree, seared side up, spaced evenly so each one is visible. Spoon the hazelnut brown butter over and around them, finish with the 1/2 tsp flaky salt on the scallops only, and serve immediately while the crust is still crisp."
+        }
+      ],
+      "tips": [
+        "Buy dry-packed scallops. Wet-packed ones sit in a phosphate solution, leak liquid the moment they hit the pan, and will never brown properly.",
+        "The puree can be made 3 days ahead and refrigerated. Rewarm it gently with a splash of milk, whisking, and it comes right back to silky.",
+        "If your puree is grainy, it is either undercooked cauliflower or an underworked blender. Give it another 60 seconds on high before you add more liquid.",
+        "Sear in two batches rather than crowding a small pan. Two great batches beat one steamed one, and the second batch benefits from a hotter pan.",
+        "Toast the hazelnuts at 350°F (175°C) for 8 to 10 minutes and rub off the skins in a towel — it takes ten minutes and doubles their flavor."
+      ],
+      "keyTemp": "Pull the scallops at 125 to 130°F (52 to 54°C) for a sweet, just-set center. The FDA guideline for fully cooked shellfish is 145°F (63°C), which will be noticeably firmer.",
+      "pairing": "A cold, mineral white like Sancerre or Chablis, with a thin slice of grilled sourdough to chase the brown butter.",
+      "videoQuery": "seared scallops cauliflower puree brown butter",
+      "photoQuery": "seared scallops cauliflower puree plate",
+      "tags": [
+        "Date Night",
+        "Restaurant at Home",
+        "Under an Hour"
+      ]
+    },
+    {
+      "id": "filet-mignon-bordelaise",
+      "title": "Filet Mignon with Bordelaise Sauce",
+      "emoji": "🥩",
+      "art": "steak",
+      "blurb": "Thick, tender filets with a dark crust, sitting in a glossy red wine sauce that took an hour of quiet reducing and tastes like a hundred dollars. This is the classic French steakhouse plate, done properly at home.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "45 min",
+      "totalTime": "1 hr 10 min",
+      "ingredients": [
+        {
+          "group": "For the steaks",
+          "items": [
+            "4 center-cut filet mignon steaks (6 oz / 170 g each, 1 1/2 in / 4 cm thick)",
+            "2 tsp kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "1 tbsp (15 ml) grapeseed or canola oil",
+            "2 tbsp (28 g) unsalted butter",
+            "3 thyme sprigs and 2 smashed garlic cloves"
+          ]
+        },
+        {
+          "group": "Bordelaise sauce",
+          "items": [
+            "2 tbsp (28 g) unsalted butter",
+            "2 medium shallots, finely minced (about 1/3 cup / 50 g)",
+            "1 1/2 cups (360 ml) dry red wine, ideally a Bordeaux or Cabernet",
+            "1 1/2 cups (360 ml) veal or good beef stock",
+            "1 tsp (5 g) tomato paste",
+            "1 thyme sprig, 1 bay leaf, and 6 crushed black peppercorns",
+            "3 tbsp (42 g) cold unsalted butter, cut into cubes",
+            "1/2 tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Salt the steaks early",
+          "text": "Pat the filets bone dry and season all over, including the sides, with the 2 tsp kosher salt and 1 tsp pepper. Set them on a rack over a sheet pan and refrigerate uncovered for at least 45 minutes and up to 24 hours. The salt first pulls moisture out, then the meat reabsorbs it seasoned all the way through, and the surface dries so it can brown. Take them out 30 minutes before cooking so the centers are not ice cold."
+        },
+        {
+          "title": "Sweat the shallots",
+          "text": "Melt the 2 tbsp butter in a 2 qt (2 L) saucepan over medium-low heat and add the minced shallots with a pinch of salt. Cook gently for 4 to 5 minutes, stirring, until they are soft and translucent but not browned. Browned shallots turn the sauce bitter and cloudy, so keep the heat modest and stop the moment they go glassy."
+        },
+        {
+          "title": "Reduce the wine to almost nothing",
+          "text": "Stir in the 1 tsp tomato paste and cook 30 seconds until it darkens, then pour in the 1 1/2 cups red wine and add the thyme, bay leaf, and crushed peppercorns. Simmer briskly over medium heat for 12 to 15 minutes until only about 1/4 cup (60 ml) of syrupy liquid remains. This step burns off the raw alcohol and concentrates the wine into something deep and sweet rather than sharp."
+        },
+        {
+          "title": "Add stock and reduce again",
+          "text": "Pour in the 1 1/2 cups veal or beef stock and simmer over medium-low for 20 to 25 minutes, until the sauce has reduced to about 3/4 cup (180 ml) and coats the back of a spoon. Drag your finger through the coating: the line should hold for a beat before closing. Strain through a fine sieve into a small clean pot, pressing on the solids, and set it aside off the heat."
+        },
+        {
+          "title": "Heat the pan properly",
+          "text": "Set a 12 in (30 cm) cast iron skillet over medium-high heat for 4 to 5 minutes, until a drop of water skitters and vanishes instantly. Preheat the oven to 400°F (205°C) at the same time. Add the 1 tbsp oil and swirl — it should shimmer with the first thread of smoke. A properly hot pan is what gives you crust in 3 minutes instead of gray meat in 8."
+        },
+        {
+          "title": "Sear the flat sides",
+          "text": "Lay the filets in the pan without crowding, leaving at least 1 1/2 in (4 cm) between them, and press each one down for the first few seconds so the whole face makes contact. Sear 2 1/2 to 3 minutes without moving them; you want a loud steady roar, not smoke pouring off. Flip and sear the second side another 2 1/2 minutes, until both faces are deep brown all the way to the edges."
+        },
+        {
+          "title": "Roll the edges",
+          "text": "Filets are tall, so use tongs to stand each one on its rounded side and roll it around the pan for 30 to 45 seconds per section until the whole perimeter is browned. Untouched sides are pale and taste boiled next to the seared faces. Work quickly here so the centers do not run away from you."
+        },
+        {
+          "title": "Baste with butter and herbs",
+          "text": "Drop in the 2 tbsp butter, the thyme sprigs, and the smashed garlic and let the butter foam. Tilt the pan toward you and spoon the foaming butter over the steaks continuously for about 60 seconds. The butter should be sputtering and smell nutty and herbal — if it is smoking black, the heat is too high, so pull the pan off for a moment."
+        },
+        {
+          "title": "Finish in the oven",
+          "text": "Slide the whole skillet into the 400°F (205°C) oven and roast 4 to 7 minutes depending on thickness. Start checking at 4 minutes with an instant-read thermometer pushed into the center from the side. Pull the steaks at 125°F (52°C) for medium-rare or 133°F (56°C) for medium — these are pull temperatures, not final ones."
+        },
+        {
+          "title": "Rest the steaks",
+          "text": "Move the filets to a warm plate or board and let them rest for 8 to 10 minutes, loosely tented if your kitchen is cold. They will carry over about 5 to 8°F (3 to 4°C), landing at a final 130 to 135°F (54 to 57°C) for medium-rare. Cutting early dumps the juices onto the board and leaves the meat dry, so this wait genuinely matters."
+        },
+        {
+          "title": "Mount the sauce with cold butter",
+          "text": "Warm the strained sauce over low heat until it steams but does not boil, then take it off the burner and whisk in the 3 tbsp cold butter one cube at a time. Each cube should melt into a glossy emulsion before the next one goes in; if you rush it or let it boil, the sauce will break and look oily. Season with the 1/2 tsp salt and taste for balance."
+        },
+        {
+          "title": "Plate and pour",
+          "text": "Spoon 2 to 3 tablespoons of bordelaise slightly off-center onto each warm plate and set a rested filet on top so the sauce frames it rather than drowning it. Add a small pile of something creamy at the two o'clock position — potato puree or spinach — and keep one third of the plate empty so the food has room to breathe. Finish with a few flakes of salt on the meat and serve immediately with the rest of the sauce in a small pitcher."
+        }
+      ],
+      "tips": [
+        "The sauce is better made a day ahead. Reduce and strain it, refrigerate, then rewarm and mount with cold butter right before serving — never reheat a mounted sauce, it will break.",
+        "Use a wine you would happily drink. Cooking does not fix a bad bottle, it concentrates it, and cooking wine from the supermarket is salted and harsh.",
+        "If you cannot find veal stock, reduce 3 cups (720 ml) of good beef stock down to 1 1/2 cups first — the extra body is what makes a bordelaise cling.",
+        "Traditional bordelaise finishes with poached beef marrow. If you can get a marrow bone, poach 2 oz (55 g) of diced marrow in the sauce for 2 minutes at the end.",
+        "A broken sauce can often be saved: whisk 1 tbsp (15 ml) of hot water into it off the heat, drop by drop, to bring the emulsion back together."
+      ],
+      "keyTemp": "Pull filets at 125°F (52°C) for medium-rare or 133°F (56°C) for medium; after a 10 minute rest they finish at 130 to 135°F (54 to 57°C) and 138 to 140°F (59 to 60°C) respectively.",
+      "pairing": "The same red you reduced into the sauce, plus potato puree and a handful of buttered haricots verts.",
+      "videoQuery": "filet mignon bordelaise sauce red wine reduction",
+      "photoQuery": "filet mignon red wine sauce plated",
+      "tags": [
+        "Date Night",
+        "Restaurant at Home",
+        "Cast Iron"
+      ]
+    },
+    {
+      "id": "butter-poached-lobster-tails",
+      "title": "Butter-Poached Lobster Tails",
+      "emoji": "🦞",
+      "art": "lobster",
+      "blurb": "Lobster gently cooked in a warm bath of emulsified butter comes out sweeter and more tender than boiling could ever manage. No sous vide machine, no immersion circulator, just a small pot and a thermometer.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "20 min",
+      "totalTime": "35 min",
+      "ingredients": [
+        {
+          "group": "For the lobster",
+          "items": [
+            "4 cold-water lobster tails (5 to 6 oz / 140 to 170 g each), thawed if frozen",
+            "2 tbsp (36 g) kosher salt, for the blanching water",
+            "1/2 tsp kosher salt, for seasoning the meat",
+            "1 lemon, cut into wedges"
+          ]
+        },
+        {
+          "group": "Beurre monte poaching butter",
+          "items": [
+            "3 tbsp (45 ml) water",
+            "1 lb (450 g) unsalted butter, cut into 1 tbsp pieces and kept cold",
+            "2 garlic cloves, smashed",
+            "2 tarragon sprigs (or 3 thyme sprigs)",
+            "1/2 tsp kosher salt",
+            "1 tsp (5 ml) fresh lemon juice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Blanch to release the shells",
+          "text": "Bring a large pot of water with the 2 tbsp kosher salt to a rolling boil, then drop the tails in for exactly 60 to 90 seconds. This is not cooking them, it is loosening the meat from the shell so it slides out whole. Pull them immediately into a bowl of ice water and leave them 2 minutes to stop the cooking cold. Skip this step and you will end up shredding the meat trying to pry it free."
+        },
+        {
+          "title": "Remove the meat whole",
+          "text": "Set a cooled tail on the cutting board and snip down both sides of the soft underside shell with kitchen shears. Peel back the flap and lift the meat out in one piece, using your thumb to work it loose from the wide end. Pull out the dark digestive vein along the back with the tip of a knife, then pat the meat completely dry and season it with the 1/2 tsp kosher salt."
+        },
+        {
+          "title": "Set up the butter bath",
+          "text": "Pour the 3 tbsp water into a small deep saucepan, 1 1/2 to 2 qt (1.5 to 2 L), and bring it to a simmer over medium heat. The pot needs to be small and deep so the butter is deep enough to actually submerge the lobster — a wide skillet will spread it too thin. Have a clip-on or instant-read thermometer ready, because temperature control is the entire technique here."
+        },
+        {
+          "title": "Build the beurre monte",
+          "text": "Turn the heat to low and whisk in the cold butter one or two pieces at a time, adding the next only after the last has melted and the mixture looks like glossy cream. Never let it boil — above about 190°F (88°C) the emulsion breaks and separates into oil and milky solids. Keep whisking steadily and you will end up with roughly 2 cups of thick, opaque, sauce-like butter, not a clear puddle of grease."
+        },
+        {
+          "title": "Hold the temperature",
+          "text": "Add the smashed garlic, the tarragon, and the 1/2 tsp salt, then adjust the burner to hold the butter between 160 and 180°F (71 and 82°C). On most home stoves that means the lowest setting, with the pot pulled halfway off the burner whenever it climbs. Check the thermometer every couple of minutes; this range is warm enough to cook lobster gently but cool enough that the proteins never seize and toughen."
+        },
+        {
+          "title": "Poach the tails",
+          "text": "Slip the lobster meat into the butter, making sure each piece is fully submerged, and poach for 6 to 8 minutes depending on thickness. Turn the pieces once halfway through with a spoon. The meat will go from translucent to opaque ivory and firm up slightly, and it should stay glossy and plump rather than shrinking and curling tight."
+        },
+        {
+          "title": "Check for doneness",
+          "text": "Push an instant-read thermometer into the thickest part of a tail; you are looking for 135 to 140°F (57 to 60°C). At that point the meat is just set, sweet, and yielding — the FDA guideline for fully cooked shellfish is 145°F (63°C), which is firmer. If your thermometer will not read a piece that thin, press it: it should feel like a ripe plum, springy but not hard."
+        },
+        {
+          "title": "Rest in the butter",
+          "text": "Take the pot off the heat and let the lobster sit in the warm butter for 2 to 3 minutes while you get the plates ready. It will hold at serving temperature without overcooking as long as the butter stays under 150°F (66°C). Stir the 1 tsp lemon juice into the butter now, off the heat, so the acid brightens it without threatening the emulsion."
+        },
+        {
+          "title": "Reduce a little sauce",
+          "text": "Ladle about 1/3 cup (80 ml) of the poaching butter into a small warm bowl and whisk in a teaspoon of the lobster juices from the bottom of the pot. That is your sauce, and it is already perfect — do not reduce it or heat it further. The rest of the butter can be strained and saved."
+        },
+        {
+          "title": "Slice and plate",
+          "text": "Cut each tail on a slight bias into 4 or 5 thick medallions, or leave them whole if you want the shape to show. Fan the medallions in a slight arc across the upper half of two warm plates, overlapping them like fallen dominoes so every cut face catches the light. Spoon the warm butter sauce over the meat, add a few torn tarragon leaves and a lemon wedge at the edge, and serve right away."
+        }
+      ],
+      "tips": [
+        "Strain and refrigerate the leftover butter — it keeps for 2 weeks and is spectacular tossed with pasta, brushed on corn, or used to poach fish or shrimp another night.",
+        "Cold-water tails (Maine, Canadian) are sweeter and firmer than warm-water ones, which can be mushy. Look for tails whose shell is hard and whose meat is white, not gray.",
+        "If your butter breaks and turns oily, take it off the heat, add 1 tbsp (15 ml) cold water, and whisk hard — it will usually pull back together.",
+        "You can poach in a smaller amount of butter by using a narrow pot and turning the pieces every 90 seconds, but keep at least enough to half-cover them.",
+        "The same beurre monte poaches shrimp in 3 minutes and thick fish fillets in 10 to 12 — this technique is worth learning for more than lobster."
+      ],
+      "keyTemp": "Hold the butter at 160 to 180°F (71 to 82°C) and pull the lobster at 135 to 140°F (57 to 60°C) for tender, just-set meat; the FDA guideline for fully cooked shellfish is 145°F (63°C).",
+      "pairing": "A buttery Chardonnay or a glass of Champagne, with asparagus and a lemon wedge on the side.",
+      "videoQuery": "butter poached lobster tail beurre monte no sous vide",
+      "photoQuery": "butter poached lobster tail medallions plate",
+      "tags": [
+        "Date Night",
+        "Restaurant at Home",
+        "Under an Hour"
+      ]
+    }
+  ]
+}

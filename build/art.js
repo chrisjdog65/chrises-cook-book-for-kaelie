@@ -98,7 +98,40 @@ const grillMarks = (x, y, w, h, angle = -14, n = 4, c = '#2a1408') => {
 
 const D = {};
 
-D.steak = r => `${skillet()}
+/* Steak is by far the most repeated drawing in the book (a whole chapter of it),
+   so it gets three genuinely different plates rather than one image ten times. */
+D.steak = (r, v) => {
+  if (v === 1) {                                  // sliced and fanned on a board
+    let slices = '';
+    for (let i = 0; i < 6; i++) {
+      const x = 128 + i * 28, a = -14 + i * 5;
+      slices += `<g transform="translate(${x},150) rotate(${a})">
+        <rect x="-16" y="-38" width="32" height="76" rx="12" fill="#4f2610"/>
+        <rect x="-13" y="-35" width="26" height="70" rx="10" fill="#8f4420"/>
+        <ellipse cx="0" cy="0" rx="9" ry="26" fill="#c4506a"/>
+        <ellipse cx="0" cy="-1" rx="5.5" ry="20" fill="#dd8390"/>
+        <rect x="-13" y="-35" width="26" height="8" rx="4" fill="#6b3417"/>
+      </g>`;
+    }
+    return `${board()}${slices}
+      ${herb(316, 128, 0.7)}
+      ${scatter(r, 12, 100, 186, 200, 12, ['#f0e3c0', '#3f8b4a'], 2.2)}`;
+  }
+  if (v === 2) {                                  // plated with a sauce swoosh
+    return `${plate(200, 172, 134, 48)}
+      <path d="M92,168 C120,140 180,132 232,142 C268,149 292,164 300,176 C262,186 120,186 92,168 z" fill="#5c2412" opacity=".55"/>
+      <g transform="translate(0,-10)">
+        <path d="M112,152 C112,122 150,108 198,108 C250,108 288,122 288,152 C288,178 250,190 198,190 C150,190 112,178 112,152 z" fill="#5a2c13"/>
+        <path d="M118,148 C118,120 154,108 198,108 C246,108 282,120 282,148 C282,172 246,182 198,182 C154,182 118,172 118,148 z" fill="#8a441c"/>
+        ${grillMarks(132, 116, 132, 58, -10, 3)}
+        <path d="M156,144 C164,130 180,126 198,126 C220,126 238,132 244,146 C236,158 220,162 198,162 C176,162 162,156 156,144 z" fill="#c4506a" opacity=".85"/>
+        <rect x="184" y="94" width="34" height="15" rx="6" fill="#fbe9a8"/>
+        <rect x="184" y="94" width="34" height="6" rx="3" fill="#fdf4cf"/>
+      </g>
+      ${herb(300, 150, 0.75)}
+      ${scatter(r, 10, 130, 176, 150, 14, ['#f0e3c0', '#2f1b0c'], 2.4)}`;
+  }
+  return `${skillet()}                             <!-- whole steak in the pan -->
   <g transform="translate(0,-4)">
     <path d="M96,150 C96,116 140,100 196,100 C258,100 300,116 300,150 C300,180 256,194 196,194 C140,194 96,180 96,150 z" fill="#5a2c13"/>
     <path d="M100,146 C100,114 142,98 196,98 C256,98 296,114 296,146 C296,174 254,188 196,188 C142,188 100,174 100,146 z" fill="#7d3d18"/>
@@ -112,6 +145,7 @@ D.steak = r => `${skillet()}
   </g>
   ${herb(268, 120, 0.85)}
   ${scatter(r, 9, 120, 168, 160, 18, ['#f0e3c0', '#e3d3a8'], 2)}`;
+};
 
 D.roast = r => `${board()}
   <path d="M92,158 C92,120 132,100 190,100 C250,100 296,118 296,156 C296,180 250,192 190,192 C132,192 92,182 92,158 z" fill="#6b3417"/>
@@ -775,11 +809,23 @@ D.default = D.plateDefault = r => `${plate()}
   ${scatter(r, 16, 150, 138, 100, 32, ['#c8442f', '#3f8b4a', '#f7ead0'], 5)}
   ${herb(200, 140, 0.5)}`;
 
-/* ---------- background palettes ---------- */
+/* ---------- background palettes ----------
+   Each family holds several variants. A chapter can easily contain ten recipes that
+   share one drawing (ten steaks, ten pasta bowls); picking the variant from the seed
+   is what keeps those ten cards from looking like the same card ten times. */
+const FAMILIES = {
+  warm: [['#fff3e0', '#ffd9a8'], ['#fff6e8', '#f7cf9c'], ['#fdf0dd', '#ffcf9a'], ['#fff4e4', '#f6d2ae']],
+  red: [['#fff0ec', '#ffc4b4'], ['#ffeee9', '#f7bda9'], ['#fff2ef', '#ffc9bd'], ['#ffedea', '#f2b8a8']],
+  green: [['#eefbe9', '#bfe8b8'], ['#f0fae8', '#c8e6a8'], ['#ebfaee', '#b4e6c4'], ['#f2fbe6', '#cbe9a4']],
+  blue: [['#eaf5fb', '#b9dcee'], ['#e9f6fa', '#aed8e8'], ['#eef4fc', '#bcd4f0'], ['#e7f3f8', '#a8d2e4']],
+  gold: [['#fff8e2', '#ffe1a0'], ['#fffaea', '#fbdb96'], ['#fef7dd', '#ffe4ac'], ['#fff9e6', '#f6d894']],
+  plum: [['#f7eefb', '#dcc2ec'], ['#f5edfa', '#d2b8ea'], ['#faeef8', '#e6c0e2'], ['#f3ecfb', '#cbb6ee']],
+  clay: [['#fdf0e6', '#f3c9a8'], ['#fdf1e4', '#eec3a0'], ['#fcefe4', '#f0cbaa'], ['#fdf2e8', '#e8bf9e']],
+  mint: [['#eafaf4', '#b6e6d4'], ['#e8faf2', '#aae2cc'], ['#edfaf6', '#bceadb'], ['#e6f9f0', '#a4dfc6']],
+};
 const P = {
-  warm: ['#fff3e0', '#ffd9a8'], red: ['#fff0ec', '#ffc4b4'], green: ['#eefbe9', '#bfe8b8'],
-  blue: ['#eaf5fb', '#b9dcee'], gold: ['#fff8e2', '#ffe1a0'], plum: ['#f7eefb', '#dcc2ec'],
-  clay: ['#fdf0e6', '#f3c9a8'], mint: ['#eafaf4', '#b6e6d4'],
+  warm: 'warm', red: 'red', green: 'green', blue: 'blue',
+  gold: 'gold', plum: 'plum', clay: 'clay', mint: 'mint',
 };
 const BG = {
   steak: P.warm, roast: P.warm, burger: P.gold, sandwich: P.gold, wrap: P.gold, taco: P.clay,
@@ -811,13 +857,16 @@ function namespaceIds(svg, uid) {
 
 function art(key, seed) {
   const k = D[key] ? key : (ALIAS[key] && D[ALIAS[key]] ? ALIAS[key] : 'default');
-  const r = rng(hash(String(seed || key)));
-  const pal = BG[k] || BG.default;
-  // small deterministic nudge so two cards of the same dish type don't look identical
-  const tilt = Math.floor(r() * 3);
-  const [c0, c1] = pal;
-  const uid = 'a' + (hash(String(seed || key)) % 1000000).toString(36);
-  const body = D[k](r);
+  const h = hash(String(seed || key));
+  const r = rng(h);
+  const fam = FAMILIES[BG[k] || BG.default] || FAMILIES.warm;
+  const [c0, c1] = fam[h % fam.length];
+  // deterministic nudges so two cards of the same dish type don't look identical
+  const tilt = h % 3;
+  const spin = ((h >> 3) % 5) - 2;                 // -2..2 degrees
+  const nudge = ((h >> 6) % 7) - 3;                // -3..3 px
+  const uid = 'a' + (h % 1000000).toString(36);
+  const body = D[k](r, (h >> 11) % 3);   // drawings that offer variants pick one from the seed
   const svg = `<svg class="dishArt" viewBox="0 0 400 260" role="img" aria-hidden="true" preserveAspectRatio="xMidYMid slice">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
@@ -830,9 +879,9 @@ function art(key, seed) {
     <linearGradient id="panSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity=".06"/></linearGradient>
   </defs>
   <rect width="400" height="260" fill="url(#bg)"/>
-  <circle cx="${60 + tilt * 30}" cy="46" r="86" fill="#ffffff" opacity=".22"/>
-  <circle cx="352" cy="${28 + tilt * 12}" r="52" fill="#ffffff" opacity=".16"/>
-  ${body}
+  <circle cx="${40 + tilt * 46}" cy="${34 + tilt * 14}" r="86" fill="#ffffff" opacity=".22"/>
+  <circle cx="${368 - tilt * 26}" cy="${24 + tilt * 20}" r="52" fill="#ffffff" opacity=".16"/>
+  <g transform="translate(${nudge},0) rotate(${spin} 200 150)">${body}</g>
 </svg>`;
   return namespaceIds(svg, uid);
 }

@@ -1,0 +1,820 @@
+{
+  "category": "Italian Classics",
+  "categoryEmoji": "🍝",
+  "categoryBlurb": "The Sunday-afternoon side of Italian cooking — golden cutlets, slow braises, risotto stirred with a glass of wine in your other hand, and dough that fills the whole apartment with the smell of a good bakery.",
+  "recipes": [
+    {
+      "id": "chicken-parmesan",
+      "title": "Crispy Chicken Parmesan",
+      "emoji": "🍗",
+      "art": "chicken",
+      "blurb": "Thin cutlets fried until they shatter, a bright five-ingredient tomato sauce, and just enough mozzarella to melt into ropes. The trick is sauce and cheese only on top, so the crust never goes soggy.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "35 min",
+      "totalTime": "1 hr",
+      "ingredients": [
+        {
+          "group": "For the cutlets",
+          "items": [
+            "2 large boneless skinless chicken breasts (about 1 1/2 lb / 680 g total)",
+            "1 1/2 tsp kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "1 cup (125 g) all-purpose flour",
+            "3 large eggs",
+            "1 tbsp (15 ml) water",
+            "1 1/2 cups (90 g) panko breadcrumbs",
+            "1/2 cup (50 g) finely grated Parmigiano-Reggiano",
+            "1 tsp dried oregano",
+            "3/4 cup (180 ml) neutral oil, such as canola or grapeseed, for frying"
+          ]
+        },
+        {
+          "group": "Quick tomato sauce",
+          "items": [
+            "2 tbsp (30 ml) extra-virgin olive oil",
+            "4 garlic cloves, thinly sliced",
+            "1 can (28 oz / 794 g) whole peeled San Marzano tomatoes, crushed by hand",
+            "3/4 tsp kosher salt",
+            "1/4 tsp red pepper flakes",
+            "6 large fresh basil leaves"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "8 oz (225 g) low-moisture whole-milk mozzarella, coarsely shredded",
+            "1/4 cup (25 g) grated Parmigiano-Reggiano",
+            "1/4 cup (10 g) fresh basil leaves, torn"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the sauce first",
+          "text": "Warm the 2 tbsp olive oil and sliced garlic in a saucepan over medium-low heat for 2 to 3 minutes, until the garlic is pale gold and smells sweet but has no brown edges. Add the hand-crushed tomatoes, 3/4 tsp salt, and the red pepper flakes, then simmer uncovered over medium-low for 20 to 25 minutes, stirring now and then. It is ready when a spoon dragged through the pan leaves a track that fills in slowly. Stir in the basil leaves off the heat and set aside; making the sauce first means it is done before the fried cutlets have a chance to get cold."
+        },
+        {
+          "title": "Cut the breasts into cutlets",
+          "text": "Lay a chicken breast flat and press one palm on top, then run a sharp knife horizontally through the middle to split it into two thin pieces. Repeat with the second breast so you have 4 cutlets. Thin cutlets cook through in the same few minutes it takes the crust to brown, which is the entire secret to chicken parm that is not dry in the middle."
+        },
+        {
+          "title": "Pound them even",
+          "text": "Put each cutlet between two sheets of plastic wrap or in a zip-top bag and pound with a flat meat mallet, a small skillet, or a rolling pin until it is an even 1/4 in (6 mm) thick. Work from the center outward with firm taps rather than hard smacks, which tear the meat. Even thickness matters more than thinness — a cutlet that is thin at one end and fat at the other will always overcook somewhere. Season both sides with the 1 1/2 tsp kosher salt and 1/2 tsp pepper."
+        },
+        {
+          "title": "Set up three stations",
+          "text": "Line up three shallow dishes: flour in the first, the 3 eggs beaten with 1 tbsp water in the second, and the panko tossed with the 1/2 cup grated Parmigiano and 1 tsp oregano in the third. Keep one hand for dry and one hand for wet so your fingers do not turn into breaded clubs. Putting cheese directly into the crumbs means the crust itself tastes like Parmesan, not just the topping."
+        },
+        {
+          "title": "Bread the cutlets",
+          "text": "Dredge a cutlet in flour and shake off every loose speck, dip it in egg and let the excess run off for 3 seconds, then press it firmly into the panko on both sides. Real pressure here is what makes the crust stick instead of sliding off in the pan. Set the breaded cutlets on a rack and let them rest 10 minutes if you have the time, which lets the coating hydrate and glue itself on."
+        },
+        {
+          "title": "Heat the oil correctly",
+          "text": "Pour the 3/4 cup oil into a 12 in (30 cm) skillet — it should come about 1/4 in (6 mm) up the sides — and heat over medium-high to 350°F (175°C). Without a thermometer, drop in a pinch of panko: it should sizzle steadily and float, not sit still and not crackle violently. Oil that is too cool soaks in and goes greasy; oil that is smoking burns the crumbs before the chicken is done."
+        },
+        {
+          "title": "Fry two at a time",
+          "text": "Lay 2 cutlets in the oil away from you and fry 3 to 4 minutes on the first side, until the edges you can see are deep golden. Flip once with tongs and fry 2 to 3 minutes more. Do not crowd the pan; four at once drops the oil temperature and you get pale, oily breading. Move the finished cutlets to a wire rack, never paper towels, so the underside stays crisp while the second batch fries."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Slide an instant-read thermometer sideways into the thickest part of a cutlet — it should read 165°F (74°C). Pounded cutlets almost always get there during the fry, so if one reads low, the broiler step will finish it. Never rely on the color of the crust to tell you the chicken is cooked."
+        },
+        {
+          "title": "Sauce and cheese the tops only",
+          "text": "Heat the broiler with a rack 6 in (15 cm) below the element. Arrange the cutlets on a foil-lined sheet pan, spoon about 3 tbsp of sauce onto the center of each, and leave a wide border of bare crust all the way around. Divide the shredded mozzarella and 1/4 cup Parmigiano over the sauce. Sauce touching the crust is the number one reason chicken parm turns soggy, so resist the urge to drown it."
+        },
+        {
+          "title": "Broil just until bubbling",
+          "text": "Broil for 2 to 4 minutes, watching the whole time, until the mozzarella is melted with a few brown blisters. Broilers vary wildly and cheese goes from perfect to burnt in about 30 seconds, so do not walk away or check your phone. Pull the pan the moment the cheese stops looking rubbery and starts to bubble at the edges."
+        },
+        {
+          "title": "Rest, then serve",
+          "text": "Let the cutlets sit for 3 minutes so the molten cheese sets enough to slice without sliding off. Scatter the torn basil over the top and serve the remaining sauce warm in a bowl on the side for dipping or for a small pile of spaghetti. Serve immediately — chicken parm is at its best about four minutes out of the broiler and never really comes back."
+        }
+      ],
+      "tips": [
+        "Bread the cutlets up to 6 hours ahead and keep them on a rack in the fridge, uncovered. The coating dries slightly and fries up even crisper.",
+        "No San Marzano tomatoes? Any can of whole peeled tomatoes works better than pre-crushed, which is usually made from lower-grade fruit and tastes tinny.",
+        "Fresh mozzarella in water releases too much liquid under a broiler and floods the crust. Use the firm low-moisture block and shred it yourself.",
+        "If the breading slides off in the pan, the cutlets were wet or the flour layer was too thick. Pat them dry and tap off the flour like you mean it.",
+        "Leftovers reheat well at 375°F (190°C) on a rack for 10 minutes. The microwave will turn that crust into a wet paper towel."
+      ],
+      "keyTemp": "Chicken is safe and still juicy at 165°F (74°C) measured at the thickest point of the cutlet.",
+      "pairing": "A simple arugula salad with lemon and a glass of Chianti Classico, with garlic bread for the extra sauce.",
+      "videoQuery": "crispy chicken parmesan cutlets from scratch",
+      "photoQuery": "chicken parmesan melted mozzarella plate",
+      "tags": ["Comfort Food", "Date Night", "Fried"]
+    },
+    {
+      "id": "chicken-piccata",
+      "title": "Chicken Piccata with Lemon and Capers",
+      "emoji": "🍋",
+      "art": "chicken",
+      "blurb": "Golden cutlets under a sharp, buttery lemon-caper pan sauce that comes together in the same skillet in about four minutes. This is the weeknight dinner that tastes like you tried much harder than you did.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "For the chicken",
+          "items": [
+            "2 large boneless skinless chicken breasts (about 1 1/2 lb / 680 g total)",
+            "1 tsp kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "1/2 cup (65 g) all-purpose flour",
+            "2 tbsp (30 ml) extra-virgin olive oil",
+            "1 tbsp (14 g) unsalted butter"
+          ]
+        },
+        {
+          "group": "Lemon caper pan sauce",
+          "items": [
+            "1/2 cup (120 ml) dry white wine, such as Pinot Grigio",
+            "3/4 cup (180 ml) low-sodium chicken stock",
+            "3 tbsp (45 ml) fresh lemon juice (about 1 1/2 lemons)",
+            "3 tbsp (27 g) capers, drained and rinsed",
+            "4 tbsp (55 g) cold unsalted butter, cut into 4 pieces",
+            "3 tbsp (12 g) chopped fresh flat-leaf parsley",
+            "1 lemon, cut into thin rounds, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Split and pound the breasts",
+          "text": "Press one hand flat on a chicken breast and slice it horizontally into two thin pieces, then repeat with the second breast for 4 cutlets total. Put each between plastic wrap and pound to an even 1/4 in (6 mm) with a mallet or small skillet. At that thickness the cutlets cook in about 6 minutes total, which is the whole point of piccata."
+        },
+        {
+          "title": "Season and dredge",
+          "text": "Season the cutlets on both sides with the 1 tsp kosher salt and 1/2 tsp pepper, then dredge each in the 1/2 cup flour and shake off the excess until you see only a thin, dusty film. Too much flour goes gummy in the sauce and tastes raw. Dredge right before cooking, because flour sitting on damp chicken turns into paste within a few minutes."
+        },
+        {
+          "title": "Heat the skillet",
+          "text": "Set a 12 in (30 cm) stainless steel skillet over medium-high heat, add the 2 tbsp olive oil and 1 tbsp butter, and wait until the butter foam subsides and the fat shimmers. Skip nonstick if you can — the browned bits that stick to stainless steel are the backbone of the sauce. If the butter turns dark brown immediately, the pan is too hot; pull it off for 20 seconds."
+        },
+        {
+          "title": "Brown the first two cutlets",
+          "text": "Lay 2 cutlets in the pan and cook 3 minutes without moving them, until the underside is golden and releases easily from the pan. Flip and cook 2 minutes more. They should sizzle steadily and confidently, not scream or smoke. Crowding the pan drops the heat and steams the chicken gray, so do not try to fit all four."
+        },
+        {
+          "title": "Cook the second batch",
+          "text": "Move the first two cutlets to a plate and repeat with the remaining two, adding another teaspoon of oil if the pan looks dry. Check the thickest cutlet with an instant-read thermometer: 165°F (74°C) means done. Tent the plate loosely with foil and let the chicken rest while you build the sauce."
+        },
+        {
+          "title": "Deglaze with wine",
+          "text": "Pour the 1/2 cup white wine into the hot skillet and scrape the bottom hard with a wooden spoon as it bubbles — every brown fleck is concentrated chicken flavor. Let the wine reduce over medium-high heat for about 2 minutes, until it has cooked down by half and no longer smells sharply of alcohol. This step is what separates a real pan sauce from lemon butter."
+        },
+        {
+          "title": "Build the sauce body",
+          "text": "Add the 3/4 cup chicken stock, 3 tbsp lemon juice, and 3 tbsp capers, and simmer briskly for 3 to 4 minutes until the liquid reduces to about 2/3 cup and coats the back of a spoon lightly. Rinsing the capers first keeps the sauce from turning aggressively salty. Taste it now — it should be bracingly lemony, because the butter is about to soften all of that."
+        },
+        {
+          "title": "Mount the butter off the heat",
+          "text": "Take the skillet completely off the burner, wait 15 seconds, then add the 4 tbsp cold butter one piece at a time, swirling the pan constantly until each piece disappears. Cold butter added off direct heat emulsifies into a glossy sauce; butter dumped into a boiling pan splits into greasy pools. The sauce should look silky and slightly thickened, like warm cream."
+        },
+        {
+          "title": "Return the chicken",
+          "text": "Slide the cutlets and any juices from the plate back into the skillet and turn them once to coat, keeping the pan off the heat or on the lowest possible setting. Ninety seconds is plenty to warm them through. Boiling the chicken in the sauce now would both overcook it and break the emulsion you just made."
+        },
+        {
+          "title": "Finish and serve",
+          "text": "Stir in the 3 tbsp chopped parsley, taste, and add a pinch more salt or a squeeze of lemon if it feels flat. Serve straight from the skillet or on a warm platter with the lemon rounds tucked around, spooning the sauce generously over each cutlet. Piccata sauce thickens as it cools, so get it to the table right away."
+        }
+      ],
+      "tips": [
+        "No wine in the house? Use an extra 1/2 cup (120 ml) stock plus 1 extra tsp lemon juice. The sauce will be a little less complex but still excellent.",
+        "Bottled lemon juice tastes metallic here and there is nowhere to hide it. Squeeze real lemons — you need about a lemon and a half.",
+        "Veal or pork cutlets pounded to the same 1/4 in (6 mm) work identically; pork should hit 145°F (63°C) with a 3 minute rest.",
+        "If the sauce breaks and looks oily, pull it off the heat and whisk in 1 tbsp cold stock or an ice cube to bring it back together."
+      ],
+      "keyTemp": "Chicken cutlets are done at 165°F (74°C) at the thickest point; pull them from the pan the moment they get there.",
+      "pairing": "Buttered angel hair or roasted asparagus, and the rest of the Pinot Grigio you cooked with.",
+      "videoQuery": "chicken piccata lemon caper pan sauce",
+      "photoQuery": "chicken piccata capers lemon skillet",
+      "tags": ["30 Minutes", "Weeknight", "One Pan"]
+    },
+    {
+      "id": "chicken-marsala",
+      "title": "Chicken Marsala with Mushrooms",
+      "emoji": "🍷",
+      "art": "chicken",
+      "blurb": "Deeply browned mushrooms, sweet Marsala cooked down until it is almost syrupy, and cutlets that soak it all up. It is a thirty-five minute dinner that eats like a restaurant special.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "25 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "For the chicken",
+          "items": [
+            "2 large boneless skinless chicken breasts (about 1 1/2 lb / 680 g total)",
+            "1 1/4 tsp kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "1/2 cup (65 g) all-purpose flour",
+            "3 tbsp (45 ml) extra-virgin olive oil"
+          ]
+        },
+        {
+          "group": "Mushroom Marsala sauce",
+          "items": [
+            "10 oz (285 g) cremini mushrooms, sliced 1/4 in (6 mm) thick",
+            "2 tbsp (28 g) unsalted butter",
+            "2 medium shallots, finely chopped (about 1/2 cup / 70 g)",
+            "3 garlic cloves, minced",
+            "3/4 cup (180 ml) dry Marsala wine",
+            "1 cup (240 ml) low-sodium chicken stock",
+            "1/3 cup (80 ml) heavy cream",
+            "1 tsp fresh thyme leaves",
+            "3 tbsp (42 g) cold unsalted butter, cut into 3 pieces",
+            "2 tbsp (8 g) chopped fresh flat-leaf parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make even cutlets",
+          "text": "Slice each breast horizontally into two thin pieces, then pound them between plastic wrap to an even 1/3 in (8 mm). You want 4 cutlets of the same thickness so they all finish at the same moment. Season both sides with the 1 1/4 tsp kosher salt and 1/2 tsp pepper."
+        },
+        {
+          "title": "Dredge lightly",
+          "text": "Coat each cutlet in the 1/2 cup flour and tap off everything that is not clinging. The flour does two jobs: it browns fast for color, and the starch that sheds into the pan later helps thicken the Marsala sauce. A heavy, pasty coat will make the finished sauce cloudy and taste of raw flour."
+        },
+        {
+          "title": "Sear the cutlets",
+          "text": "Heat 2 tbsp of the olive oil in a 12 in (30 cm) stainless skillet over medium-high until it shimmers, then cook 2 cutlets at a time for 3 minutes on the first side and 2 on the second, until deeply golden. Work in two batches so the pan stays hot. Move them to a plate — they will finish cooking in the sauce, so a little pink in the very center is fine at this stage."
+        },
+        {
+          "title": "Brown the mushrooms hard",
+          "text": "Add the remaining 1 tbsp oil and the 2 tbsp butter to the same pan, then add the sliced mushrooms in one layer and leave them alone for 3 full minutes. They will release water and look sad, then the water will boil off and they will start to brown. Keep cooking 5 to 6 minutes more, stirring occasionally, until they are genuinely dark brown at the edges. Undercooked, gray mushrooms are the most common thing wrong with homemade marsala."
+        },
+        {
+          "title": "Add shallots and garlic",
+          "text": "Stir in the chopped shallots with a pinch of salt and cook 2 minutes until softened and translucent, then add the minced garlic and cook just 30 seconds more until fragrant. Garlic added earlier would burn against the hot mushrooms and turn bitter. The pan bottom should now be covered in brown glaze."
+        },
+        {
+          "title": "Deglaze with Marsala",
+          "text": "Pour in the 3/4 cup Marsala and immediately scrape the bottom of the pan with a wooden spoon while it bubbles hard. Let it reduce over medium-high heat for 3 to 4 minutes, until the liquid is thick, glossy, and reduced by about half. This is the flavor engine of the dish — rushing it leaves a raw, boozy sweetness that no amount of cream will fix."
+        },
+        {
+          "title": "Simmer with stock",
+          "text": "Add the 1 cup chicken stock and 1 tsp thyme leaves and simmer over medium heat for 5 to 6 minutes, until the sauce reduces by roughly a third and lightly coats a spoon. Scrape the pan again as it reduces. The sauce should smell nutty and winey rather than sharp."
+        },
+        {
+          "title": "Add the cream",
+          "text": "Stir in the 1/3 cup heavy cream and let it bubble gently for 2 minutes to thicken slightly and turn the sauce a soft caramel color. Traditional Marsala is often made without cream, but a small amount rounds off the sweetness of the wine beautifully. Do not let it hit a rolling boil or it can separate."
+        },
+        {
+          "title": "Return the chicken",
+          "text": "Nestle the cutlets and every drop of resting juice back into the pan, spoon sauce over them, and simmer gently for 3 to 4 minutes. Check the thickest cutlet with a thermometer: you are looking for 165°F (74°C). The cutlets will drink up sauce as they finish, which is exactly what you want."
+        },
+        {
+          "title": "Finish with cold butter",
+          "text": "Pull the pan off the heat and swirl in the 3 tbsp cold butter, one piece at a time, until the sauce turns glossy and slightly thicker. Taste and adjust with salt and a few grinds of pepper. Scatter the 2 tbsp parsley over the top and serve immediately, with plenty of sauce spooned over each piece."
+        }
+      ],
+      "tips": [
+        "Buy dry Marsala, not sweet, and never the salted cooking Marsala from the vinegar aisle. A drinkable bottle costs about ten dollars and lasts months.",
+        "Mixing in 4 oz (115 g) of sliced shiitake or rehydrated porcini with the cremini gives the sauce far more depth for almost no extra work.",
+        "Do not wash mushrooms under running water; wipe them with a damp towel so they brown instead of steaming.",
+        "The sauce can be made through the cream step a day ahead and refrigerated. Reheat gently, then sear fresh cutlets and combine.",
+        "If the sauce gets too thick while resting, loosen it with a splash of stock rather than water so you do not dilute the flavor."
+      ],
+      "keyTemp": "Chicken is done at 165°F (74°C); simmer it in the sauce only until it reaches that, or it will go stringy.",
+      "pairing": "Creamy polenta or mashed potatoes to catch the sauce, with a glass of Barbera or the dry Marsala itself.",
+      "videoQuery": "chicken marsala mushrooms restaurant style",
+      "photoQuery": "chicken marsala mushroom sauce skillet",
+      "tags": ["Date Night", "One Pan", "Weeknight"]
+    },
+    {
+      "id": "chicken-saltimbocca",
+      "title": "Chicken Saltimbocca alla Romana",
+      "emoji": "🥓",
+      "art": "chicken",
+      "blurb": "Sage leaves pressed onto thin cutlets, wrapped in prosciutto, and crisped in butter until the ham goes crackly. The name means jump in the mouth, and after one bite you will understand why.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "12 min",
+      "totalTime": "27 min",
+      "ingredients": [
+        {
+          "group": "For the cutlets",
+          "items": [
+            "2 large boneless skinless chicken breasts (about 1 1/2 lb / 680 g total)",
+            "1/2 tsp kosher salt",
+            "3/4 tsp freshly ground black pepper",
+            "12 large fresh sage leaves",
+            "8 thin slices prosciutto di Parma (about 4 oz / 115 g)",
+            "1/3 cup (45 g) all-purpose flour",
+            "2 tbsp (30 ml) extra-virgin olive oil",
+            "2 tbsp (28 g) unsalted butter"
+          ]
+        },
+        {
+          "group": "Pan sauce",
+          "items": [
+            "1/2 cup (120 ml) dry white wine",
+            "1/2 cup (120 ml) low-sodium chicken stock",
+            "3 tbsp (42 g) cold unsalted butter, cut into 3 pieces",
+            "1 tbsp (15 ml) fresh lemon juice",
+            "1/4 tsp flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make four thin cutlets",
+          "text": "Slice each breast horizontally into two pieces, then pound them between plastic wrap to a very even 1/4 in (6 mm). Saltimbocca lives or dies on thinness — the prosciutto needs to crisp in the same 3 minutes the chicken takes to cook. Pat the cutlets completely dry with paper towels."
+        },
+        {
+          "title": "Season carefully",
+          "text": "Season the cutlets with only the 1/2 tsp kosher salt and all of the 3/4 tsp pepper. Prosciutto is already very salty and it will season the whole dish as it cooks, so this is one of the rare times you deliberately underseason the meat. Pepper, on the other hand, you want plenty of."
+        },
+        {
+          "title": "Layer sage and prosciutto",
+          "text": "Lay 3 sage leaves down the length of each cutlet, then drape 2 slices of prosciutto over the top so they overlap slightly and cover the surface almost completely. Press the prosciutto down firmly with your palm — the moisture from the chicken makes it stick without any toothpicks. Do not wrap the prosciutto all the way around; leaving the bottom bare lets that side brown properly."
+        },
+        {
+          "title": "Flour only the bare side",
+          "text": "Dust the naked chicken side of each cutlet lightly with the flour and shake off the excess, leaving the prosciutto side completely bare. The floured side browns evenly, and the unfloured ham side crisps directly against the metal. Handle them gently so the sage stays put."
+        },
+        {
+          "title": "Heat the pan",
+          "text": "Set a 12 in (30 cm) skillet over medium-high heat, add the 2 tbsp olive oil and 2 tbsp butter, and swirl until the butter has foamed and the foam has just started to settle. The combination gives you the browning power of oil and the flavor of butter without the butter scorching. It should shimmer, not smoke."
+        },
+        {
+          "title": "Cook prosciutto side down",
+          "text": "Lay 2 cutlets prosciutto side down in the pan and press them flat with a spatula for the first 20 seconds so the ham makes full contact. Cook 2 1/2 to 3 minutes without moving, until the prosciutto is deep bronze and crisp at the edges. Resist flipping early; that crackly ham surface is the entire dish."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Turn the cutlets over and cook 2 minutes more on the floured side, until golden. Check the thickest one with an instant-read thermometer and pull at 165°F (74°C). Move to a warm plate and cook the second pair the same way, adding a little more oil if the pan looks dry."
+        },
+        {
+          "title": "Deglaze the pan",
+          "text": "Pour the 1/2 cup white wine into the empty skillet over medium-high heat and scrape up the browned bits with a wooden spoon. Let it bubble down for about 2 minutes, until reduced by half and no longer smelling boozy. There will be a lot of salty, sagey fond in that pan and you want all of it."
+        },
+        {
+          "title": "Reduce with stock",
+          "text": "Add the 1/2 cup chicken stock and simmer 3 minutes until the liquid is reduced to roughly 1/3 cup and looks slightly syrupy. Taste it before adding any salt — prosciutto fond is salty enough that it usually needs none. This is a small, intense sauce, not a pool."
+        },
+        {
+          "title": "Emulsify and serve",
+          "text": "Take the pan off the heat, swirl in the 3 tbsp cold butter piece by piece until glossy, then stir in the 1 tbsp lemon juice. Spoon the sauce around the cutlets rather than over them so the crisp prosciutto stays crisp. Finish with the flaky salt and serve right away, while the ham still crackles."
+        }
+      ],
+      "tips": [
+        "Ask the deli to slice the prosciutto thin but not paper-thin, and to layer it between parchment. Slices that are too delicate tear when you lift them.",
+        "Fresh sage only. Dried sage tastes dusty here and there are no other flavors to hide behind.",
+        "Veal scaloppine is the Roman original if you can find it — cook it exactly the same way, about 90 seconds per side.",
+        "Assemble the cutlets up to 4 hours ahead, cover, and refrigerate. Let them sit out 15 minutes before cooking so they cook evenly."
+      ],
+      "keyTemp": "Chicken is safe at 165°F (74°C) at the thickest point; thin cutlets get there in about 5 minutes total.",
+      "pairing": "Sauteed spinach with garlic and a crisp Frascati or Vermentino.",
+      "videoQuery": "chicken saltimbocca prosciutto sage pan sauce",
+      "photoQuery": "chicken saltimbocca prosciutto sage plated",
+      "tags": ["30 Minutes", "Date Night", "One Pan"]
+    },
+    {
+      "id": "chicken-cacciatore",
+      "title": "Chicken Cacciatore with Peppers",
+      "emoji": "🐔",
+      "art": "chicken",
+      "blurb": "Hunter's chicken — bone-in thighs braised with peppers, onions, wine, and tomatoes until the meat slides off the bone. It is a one-pot dinner that gets better the day after you make it.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "55 min",
+      "totalTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "group": "For the chicken",
+          "items": [
+            "8 bone-in, skin-on chicken thighs (about 3 lb / 1.35 kg)",
+            "2 tsp kosher salt",
+            "1 tsp freshly ground black pepper",
+            "2 tbsp (30 ml) extra-virgin olive oil"
+          ]
+        },
+        {
+          "group": "The braise",
+          "items": [
+            "1 large yellow onion, sliced 1/4 in (6 mm) thick",
+            "1 red bell pepper, cut into 1/2 in (12 mm) strips",
+            "1 yellow bell pepper, cut into 1/2 in (12 mm) strips",
+            "8 oz (225 g) cremini mushrooms, quartered",
+            "4 garlic cloves, thinly sliced",
+            "1 tbsp (16 g) tomato paste",
+            "3/4 cup (180 ml) dry red wine, such as Chianti",
+            "1 can (28 oz / 794 g) whole peeled tomatoes, crushed by hand",
+            "2 sprigs fresh rosemary",
+            "3 sprigs fresh thyme",
+            "1 bay leaf",
+            "1/4 tsp red pepper flakes",
+            "1/3 cup (45 g) pitted Kalamata or Gaeta olives, halved",
+            "3 tbsp (12 g) chopped fresh flat-leaf parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry and season the thighs",
+          "text": "Pat the chicken thighs completely dry with paper towels, then season all over with the 2 tsp kosher salt and 1 tsp pepper. If you have 30 extra minutes, let them sit on a rack in the fridge uncovered — dry skin browns and wet skin steams. Take them out of the fridge about 20 minutes before cooking."
+        },
+        {
+          "title": "Brown the skin properly",
+          "text": "Heat the 2 tbsp olive oil in a 12 in (30 cm) Dutch oven or deep skillet over medium-high until it shimmers, then lay in the thighs skin side down, 4 at a time. Cook 6 to 8 minutes without touching them, until the skin is deep golden brown and releases from the pan on its own. If the skin sticks, it is not ready to flip. Brown the second side for 3 minutes, then move all the thighs to a plate."
+        },
+        {
+          "title": "Pour off excess fat",
+          "text": "Spoon off all but about 2 tbsp of the rendered fat, leaving every bit of the browned residue on the bottom of the pot. Chicken thighs give up a surprising amount of fat and leaving it all in makes a greasy braise. That brown layer on the pot is pure flavor and it goes into the sauce in two minutes."
+        },
+        {
+          "title": "Soften the vegetables",
+          "text": "Add the sliced onion and both bell peppers with a pinch of salt and cook over medium heat for 7 to 8 minutes, stirring often, until they are limp and just beginning to color at the edges. The salt pulls water out of the vegetables, which loosens the fond so you can scrape it up. Do not rush this into a hard sear; you want them sweet and soft."
+        },
+        {
+          "title": "Brown the mushrooms",
+          "text": "Add the quartered mushrooms and cook 5 minutes more over medium-high, stirring only occasionally so they get some real color. They will release liquid first and then start to brown once it evaporates. Stir in the sliced garlic and the 1/4 tsp red pepper flakes and cook 45 seconds until fragrant."
+        },
+        {
+          "title": "Cook the tomato paste",
+          "text": "Push the vegetables to one side, add the 1 tbsp tomato paste to the bare spot, and fry it for 60 to 90 seconds, stirring, until it darkens from bright red to brick. Cooking the paste this way removes its tinny raw edge and builds a deep savory base. Then stir it through the vegetables."
+        },
+        {
+          "title": "Deglaze with red wine",
+          "text": "Pour in the 3/4 cup red wine and scrape the bottom of the pot hard while it bubbles. Simmer 3 to 4 minutes until reduced by half and the sharp alcohol smell is gone. Under-reduced wine leaves the whole braise tasting thin and acidic, so let it cook down properly."
+        },
+        {
+          "title": "Add tomatoes and herbs",
+          "text": "Stir in the hand-crushed tomatoes with their juice, the rosemary and thyme sprigs, and the bay leaf. Bring everything to a gentle simmer. Crushing whole tomatoes by hand gives you a rustic sauce with real texture instead of the uniform slurry you get from a can of crushed."
+        },
+        {
+          "title": "Nestle the chicken back in",
+          "text": "Return the thighs and any juices to the pot skin side up, arranging them so the skin stays above the sauce line. Half-submerged chicken keeps its browned skin instead of turning to wet rubber. The liquid should come about two-thirds of the way up the thighs; add 1/4 cup water if it is much lower."
+        },
+        {
+          "title": "Braise low and slow",
+          "text": "Cover with the lid slightly ajar and simmer over low heat for 35 to 40 minutes, adjusting so the surface barely blips rather than boils. Thighs are safe at 165°F (74°C) but they are genuinely tender closer to 185°F (85°C), when the connective tissue has melted. A hard boil will tighten the meat, so keep it lazy."
+        },
+        {
+          "title": "Finish with olives",
+          "text": "Fish out the rosemary and thyme stems and the bay leaf, then stir the halved olives into the sauce around the chicken and simmer uncovered for 5 more minutes. Adding olives at the end keeps them bright and firm instead of leaching salt through the whole pot. Taste the sauce and adjust the salt now."
+        },
+        {
+          "title": "Rest and serve",
+          "text": "Let the pot sit off the heat for 10 minutes so the sauce thickens slightly and the chicken reabsorbs its juices. Scatter the 3 tbsp parsley over everything just before serving. Bring it to the table in the pot with plenty of bread — this is a dish that wants to be eaten out of the middle."
+        }
+      ],
+      "tips": [
+        "Cacciatore is genuinely better on day two. Cool it, refrigerate, and reheat gently on the stove; crisp the skin under the broiler for 2 minutes if you want it back.",
+        "Bone-in thighs are non-negotiable for flavor. Boneless thighs work in a pinch but cut the braise to 20 minutes and expect a thinner sauce.",
+        "If your sauce is watery at the end, lift out the chicken and boil the sauce hard for 5 minutes to reduce before serving.",
+        "A 2 in (5 cm) piece of Parmesan rind dropped in with the tomatoes adds savory depth for free. Remove it before serving.",
+        "White wine and no peppers gives you the lighter Tuscan version; both are traditional depending on which part of Italy you ask."
+      ],
+      "keyTemp": "Thighs are safe at 165°F (74°C) but braise them to about 185°F (85°C) for meat that pulls off the bone.",
+      "pairing": "Soft polenta or crusty bread, and a glass of the same Chianti that went into the pot.",
+      "videoQuery": "chicken cacciatore braised peppers tomatoes",
+      "photoQuery": "chicken cacciatore dutch oven peppers",
+      "tags": ["One Pot", "Comfort Food", "Make Ahead"]
+    },
+    {
+      "id": "eggplant-parmigiana",
+      "title": "Eggplant Parmigiana",
+      "emoji": "🍆",
+      "art": "veggie",
+      "blurb": "Layers of silky roasted eggplant, long-simmered tomato, torn basil, and three cheeses that set into clean, tall squares. Made properly it tastes rich without ever being greasy.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "40 min",
+      "cookTime": "1 hr 15 min",
+      "totalTime": "2 hr 25 min",
+      "ingredients": [
+        {
+          "group": "For the eggplant",
+          "items": [
+            "3 lb (1.35 kg) globe eggplant (about 3 medium)",
+            "1 tbsp kosher salt, for drawing out moisture",
+            "1/3 cup (80 ml) extra-virgin olive oil"
+          ]
+        },
+        {
+          "group": "Tomato sauce",
+          "items": [
+            "3 tbsp (45 ml) extra-virgin olive oil",
+            "5 garlic cloves, thinly sliced",
+            "2 cans (28 oz / 794 g each) whole peeled San Marzano tomatoes, crushed by hand",
+            "1 tsp kosher salt",
+            "1/2 tsp red pepper flakes",
+            "1 cup (25 g) fresh basil leaves, divided"
+          ]
+        },
+        {
+          "group": "To assemble",
+          "items": [
+            "16 oz (450 g) low-moisture whole-milk mozzarella, coarsely shredded",
+            "1 1/2 cups (150 g) finely grated Parmigiano-Reggiano",
+            "1 cup (250 g) whole-milk ricotta, drained 30 minutes if wet",
+            "1 large egg, beaten"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Slice and salt the eggplant",
+          "text": "Trim the eggplants and cut them lengthwise into 1/3 in (8 mm) planks — thinner slices collapse into mush and thicker ones stay spongy. Lay them on racks set over sheet pans and sprinkle both sides with the 1 tbsp kosher salt. Let them sweat for 30 minutes, until you see beads of moisture on the surface. Salting pulls out water so the finished dish is not soupy and seasons the eggplant from the inside."
+        },
+        {
+          "title": "Start the sauce",
+          "text": "While the eggplant sweats, warm the 3 tbsp olive oil and sliced garlic in a large saucepan over medium-low for 3 minutes, until the garlic is fragrant and pale gold. Add both cans of hand-crushed tomatoes, 1 tsp salt, and the 1/2 tsp red pepper flakes. Bring to a simmer, then cook uncovered over low heat for 40 to 45 minutes."
+        },
+        {
+          "title": "Reduce it properly",
+          "text": "Stir the sauce every 10 minutes and let it reduce until a spoon dragged across the bottom leaves a trail that closes slowly, roughly the texture of loose jam. You should end with about 5 cups. A thin, watery sauce is the single biggest cause of eggplant parm that slumps into a puddle on the plate. Stir in half the basil off the heat."
+        },
+        {
+          "title": "Dry and oil the slices",
+          "text": "Press the eggplant slices firmly between paper towels or a clean kitchen towel to remove the surface water and most of the salt. Brush both sides lightly with the 1/3 cup olive oil — brushing uses a fraction of the oil that frying does, and eggplant will absorb every drop you give it. They should look glossy, not swimming."
+        },
+        {
+          "title": "Roast until tender",
+          "text": "Heat the oven to 425°F (220°C) and roast the slices on parchment-lined sheet pans for 20 to 25 minutes, flipping once halfway, until they are golden brown and completely floppy. Undercooked eggplant stays rubbery and bitter no matter how long the casserole bakes, so cook it all the way now. Let the slices cool for 10 minutes."
+        },
+        {
+          "title": "Mix the ricotta",
+          "text": "Stir the 1 cup ricotta with the beaten egg and 1/2 cup (50 g) of the Parmigiano until smooth. The egg binds the ricotta so it sets into distinct creamy layers rather than running out when you cut a square. If your ricotta looked watery in the tub, drain it in a sieve for 30 minutes first."
+        },
+        {
+          "title": "Lower the oven and build",
+          "text": "Reduce the oven to 375°F (190°C). Spread 1 cup of sauce across the bottom of a 9x13 in (23x33 cm) baking dish so nothing sticks. Lay down a snug single layer of eggplant, slightly overlapping, covering the whole surface. Gaps in the layers are where the finished dish falls apart."
+        },
+        {
+          "title": "Layer it up",
+          "text": "Spread half the ricotta mixture over the eggplant, then a third of the remaining sauce, a third of the mozzarella, and a scattering of Parmigiano and torn basil. Repeat with a second layer of eggplant, the rest of the ricotta, more sauce, and more cheese. Finish with a third layer of eggplant, the last of the sauce, and all the remaining mozzarella and Parmigiano on top."
+        },
+        {
+          "title": "Bake covered",
+          "text": "Cover the dish with foil tented so it does not touch the cheese, set it on a rimmed sheet pan to catch drips, and bake for 35 minutes. Covering it first heats everything through gently and lets the layers meld without the top browning too early. You should hear it bubbling when you pull it out."
+        },
+        {
+          "title": "Uncover and brown",
+          "text": "Remove the foil and bake 20 to 25 minutes more, until the top is blistered and deep golden in spots and the sauce is bubbling around the edges. The center should register 165°F (74°C) on a thermometer, which tells you the whole casserole is hot through. If the top is pale, run it under the broiler for 90 seconds."
+        },
+        {
+          "title": "Rest before cutting",
+          "text": "Let the dish rest on a rack for at least 25 minutes, and 40 is better. This is not optional — hot eggplant parm is molten and will slide apart the moment a knife touches it, while a rested one cuts into clean squares. Scatter the remaining fresh basil over the top just before serving."
+        }
+      ],
+      "tips": [
+        "Modern eggplant is bred to be far less bitter, so the salting step is mostly about removing water. Do not skip it anyway — water is the enemy here.",
+        "Assemble the whole dish a day ahead, refrigerate unbaked, and add 15 minutes to the covered bake time. It genuinely improves overnight.",
+        "Roasting instead of frying uses about a quarter of the oil and makes a dish that is rich rather than heavy. Fried is traditional if you want it.",
+        "Fresh mozzarella packed in water will flood the layers. Use the low-moisture block, or tear fresh mozzarella and drain it on towels for an hour first.",
+        "Leftovers cut cleanly when cold. Reheat squares at 350°F (175°C) for 20 minutes rather than microwaving."
+      ],
+      "keyTemp": "Bake until the center of the casserole reads 165°F (74°C) and the edges bubble; then rest 25 minutes before cutting.",
+      "pairing": "A bitter green salad with lemon vinaigrette and a bottle of Aglianico or Nero d'Avola.",
+      "videoQuery": "eggplant parmigiana roasted layers baked",
+      "photoQuery": "eggplant parmigiana baked dish slice",
+      "tags": ["Vegetarian", "Make Ahead", "Comfort Food"]
+    },
+    {
+      "id": "sunday-gravy-meatballs",
+      "title": "Sunday Gravy with Meatballs",
+      "emoji": "🍖",
+      "art": "sauce",
+      "blurb": "A big pot of tomato sauce simmered all afternoon with meatballs, sausage, and pork ribs until it turns dark and glossy. Start it after breakfast and let the smell take care of the rest of the day.",
+      "difficulty": "Medium",
+      "servings": "8 servings",
+      "prepTime": "45 min",
+      "cookTime": "3 hr 45 min",
+      "totalTime": "4 hr 30 min",
+      "ingredients": [
+        {
+          "group": "For the meatballs",
+          "items": [
+            "1 lb (450 g) ground beef, 80/20",
+            "1/2 lb (225 g) ground pork",
+            "1 1/2 cups (75 g) torn day-old white bread, crusts removed",
+            "3/4 cup (180 ml) whole milk",
+            "2 large eggs, beaten",
+            "3/4 cup (75 g) finely grated Parmigiano-Reggiano",
+            "4 garlic cloves, minced",
+            "1/3 cup (13 g) chopped fresh flat-leaf parsley",
+            "2 tsp kosher salt",
+            "1 tsp freshly ground black pepper",
+            "3 tbsp (45 ml) extra-virgin olive oil, for browning"
+          ]
+        },
+        {
+          "group": "For the gravy",
+          "items": [
+            "1 1/2 lb (680 g) bone-in country-style pork ribs",
+            "1 lb (450 g) sweet Italian sausage links",
+            "1 large yellow onion, finely chopped",
+            "6 garlic cloves, thinly sliced",
+            "1/4 cup (65 g) tomato paste",
+            "1 cup (240 ml) dry red wine",
+            "3 cans (28 oz / 794 g each) whole peeled San Marzano tomatoes, crushed by hand",
+            "2 cups (480 ml) water",
+            "2 tsp kosher salt, plus more to taste",
+            "1/2 tsp red pepper flakes",
+            "1 Parmigiano-Reggiano rind, about 3 in (8 cm)",
+            "1 cup (25 g) fresh basil leaves"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make a panade",
+          "text": "Tear the bread into small pieces, cover it with the 3/4 cup milk in a bowl, and let it soak 10 minutes until completely soft. Mash it into a paste with a fork. This milk-and-bread paste is called a panade, and it is the reason great meatballs are tender — the starch traps moisture that would otherwise squeeze out as the meat proteins tighten."
+        },
+        {
+          "title": "Mix the meatballs gently",
+          "text": "Add the ground beef, ground pork, beaten eggs, 3/4 cup Parmigiano, minced garlic, parsley, 2 tsp salt, and 1 tsp pepper to the panade. Mix with your hands just until you no longer see streaks of egg, about 30 seconds. Overmixing develops the proteins and gives you meatballs with the texture of a hot dog, so stop early."
+        },
+        {
+          "title": "Roll and chill",
+          "text": "With wet hands, roll the mixture into 16 to 18 balls about 2 in (5 cm) across, roughly the size of a golf ball, setting them on a sheet pan. Wet hands stop the mixture sticking to you. Chill them for 20 minutes if you have time; cold meatballs hold their shape much better when they hit hot oil."
+        },
+        {
+          "title": "Brown the meatballs",
+          "text": "Heat the 3 tbsp olive oil in a large Dutch oven over medium-high and brown the meatballs in two or three batches, about 5 minutes each, turning to get color on several sides. They do not need to be cooked through — they will finish in the sauce for hours. Crowding the pot steams them gray, so give each batch room. Set them aside on a plate."
+        },
+        {
+          "title": "Brown the pork and sausage",
+          "text": "In the same pot, brown the country-style ribs on all sides, about 8 minutes total, then set them aside and brown the sausage links for 5 minutes until well colored. Every one of these browning steps leaves fond on the bottom of the pot, and the layered fond from three different meats is what makes Sunday gravy taste different from ordinary marinara."
+        },
+        {
+          "title": "Sweat the aromatics",
+          "text": "Pour off all but 3 tbsp of fat, then add the chopped onion with a pinch of salt and cook over medium heat 8 minutes until soft and translucent, scraping the bottom as the onion releases water. Add the sliced garlic and 1/2 tsp red pepper flakes and cook 1 minute more. Do not let the garlic brown or the whole pot will carry a bitter edge for hours."
+        },
+        {
+          "title": "Caramelize the tomato paste",
+          "text": "Stir in the 1/4 cup tomato paste and cook it for 3 to 4 minutes, stirring constantly, until it darkens to a deep brick red and starts to stick to the pot. This step concentrates the tomato sugars and drives off the raw canned flavor. It smells noticeably sweeter and rounder when it is ready."
+        },
+        {
+          "title": "Deglaze with wine",
+          "text": "Add the 1 cup red wine and scrape every bit of stuck-on fond loose with a wooden spoon while it bubbles. Simmer 4 to 5 minutes until the wine has reduced by about half and lost its sharp alcohol smell. The pot bottom should be clean and the liquid should look dark and glossy."
+        },
+        {
+          "title": "Build the pot",
+          "text": "Add the three cans of hand-crushed tomatoes, the 2 cups water, 2 tsp salt, and the Parmesan rind, then return the ribs and sausage to the pot. Bring it up to a simmer, then drop the heat until the surface just barely blips once or twice a second. A rolling boil will scorch the bottom and turn the tomatoes bitter."
+        },
+        {
+          "title": "Simmer, then add the meatballs",
+          "text": "Simmer partly covered for 2 hours, stirring every 30 minutes and scraping the bottom each time. Then gently lower the meatballs in, submerging them, and continue to simmer for 1 hour and 15 minutes more. Adding them partway through means they absorb sauce without falling apart over the full cooking time."
+        },
+        {
+          "title": "Check the meats",
+          "text": "The pork ribs are ready when the meat pulls away from the bone with no resistance, around 195°F (91°C) internal, and the sausages should read at least 160°F (71°C). Pull the ribs out, shred the meat off the bones, discard the bones and any cartilage, and stir the meat back in. Slice the sausages into thick coins and return them too."
+        },
+        {
+          "title": "Finish and season",
+          "text": "Fish out the Parmesan rind, then tear the basil leaves in and stir. Taste carefully and adjust with salt — after four hours the sauce is concentrated, so add in small pinches. If it tastes sharp, a 1/2 tsp of sugar or an extra splash of olive oil will round it out."
+        },
+        {
+          "title": "Serve in courses",
+          "text": "Traditionally the sauce goes on pasta first and the meats come out on a platter afterward as the second course. Spoon a ladle of gravy over each serving and put the platter of meatballs, sausage, and shredded pork in the middle of the table. Give everyone bread; there will be sauce left on every plate."
+        }
+      ],
+      "tips": [
+        "Sunday gravy freezes beautifully for 3 months. Freeze the sauce and meats together in quart containers, leaving an inch of headroom.",
+        "Use 80/20 beef, not lean. Fat is what keeps the meatballs from turning into dry pellets over a long simmer.",
+        "If you only have one afternoon and no ribs, the recipe still works with just meatballs and sausage. Cut the initial simmer to 1 hour.",
+        "A scorched bottom ruins the whole pot and cannot be fixed. Set a timer to stir every 30 minutes and never let it boil.",
+        "Bake the meatballs at 425°F (220°C) for 15 minutes instead of frying if you want a cleaner kitchen; you lose a little crust but save a lot of splatter."
+      ],
+      "keyTemp": "Ground meat is safe at 160°F (71°C), but the ribs want 195°F (91°C) to shred; the meatballs finish far past safe during the long simmer.",
+      "pairing": "Rigatoni or a big bowl of ziti, plenty of bread, and a jug of Sangiovese.",
+      "videoQuery": "italian sunday gravy meatballs sausage pork",
+      "photoQuery": "sunday gravy meatballs sausage pot",
+      "tags": ["Weekend Project", "Make Ahead", "Comfort Food"]
+    },
+    {
+      "id": "osso-buco-alla-milanese",
+      "title": "Osso Buco alla Milanese",
+      "emoji": "🥩",
+      "art": "stew",
+      "blurb": "Veal shanks braised for three hours until the meat gives way to a spoon, finished with a bright hit of gremolata. The marrow in the center of the bone is the best bite on the plate.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "3 hr",
+      "totalTime": "3 hr 30 min",
+      "ingredients": [
+        {
+          "group": "For the shanks",
+          "items": [
+            "4 cross-cut veal shanks, 1 1/2 in (4 cm) thick (about 3 1/2 lb / 1.6 kg total)",
+            "2 tsp kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1/2 cup (65 g) all-purpose flour",
+            "3 tbsp (45 ml) extra-virgin olive oil",
+            "2 tbsp (28 g) unsalted butter",
+            "4 ft (1.2 m) kitchen twine, for tying"
+          ]
+        },
+        {
+          "group": "The braise",
+          "items": [
+            "1 large yellow onion, finely diced",
+            "2 medium carrots, finely diced (about 1 cup / 130 g)",
+            "2 celery stalks, finely diced (about 1 cup / 120 g)",
+            "4 garlic cloves, minced",
+            "2 tbsp (32 g) tomato paste",
+            "1 1/2 cups (360 ml) dry white wine",
+            "2 cups (480 ml) low-sodium veal or chicken stock",
+            "1 can (14 oz / 400 g) whole peeled tomatoes, crushed by hand",
+            "2 bay leaves",
+            "4 sprigs fresh thyme",
+            "1 strip lemon peel, 3 in (8 cm)"
+          ]
+        },
+        {
+          "group": "Gremolata",
+          "items": [
+            "1/3 cup (13 g) finely chopped fresh flat-leaf parsley",
+            "2 tsp finely grated lemon zest (from 2 lemons)",
+            "2 garlic cloves, very finely minced",
+            "1/4 tsp flaky sea salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Tie the shanks",
+          "text": "Wrap a length of kitchen twine around the outside circumference of each shank and tie it snugly, like a belt. Veal shanks are ringed by a band of connective tissue that contracts as it cooks and will pull the whole shank apart into a loose mess. The twine keeps each one in a neat round for three hours. Pat them completely dry afterward."
+        },
+        {
+          "title": "Season and flour",
+          "text": "Season the shanks all over with the 2 tsp kosher salt and 1 tsp pepper, then dredge them in the 1/2 cup flour and knock off the excess. The thin flour coat browns quickly and, over the long braise, thickens the sauce to exactly the right body. Only flour them right before they go in the pan, or the coating turns to glue."
+        },
+        {
+          "title": "Sear hard",
+          "text": "Heat the 3 tbsp olive oil and 2 tbsp butter in a heavy Dutch oven over medium-high until the butter foam subsides. Brown the shanks 5 to 6 minutes per side, in two batches, until they are a deep even brown with no pale patches. This is the most important flavor step in the dish and it cannot be rushed. Set them on a plate; they will look almost cooked, but they are nowhere near done."
+        },
+        {
+          "title": "Start the soffritto",
+          "text": "Lower the heat to medium and add the diced onion, carrot, and celery to the pot with a pinch of salt. Cook 10 to 12 minutes, stirring often, until everything is soft and the onion is translucent with just a little golden color. Dice them small and evenly so they melt into the sauce rather than showing up as chunks. Scrape the bottom as the vegetables give up their water."
+        },
+        {
+          "title": "Add garlic and tomato paste",
+          "text": "Stir in the minced garlic and cook 45 seconds, then add the 2 tbsp tomato paste and cook 2 to 3 minutes more, stirring, until it darkens to brick red and coats the vegetables. Cooking the paste out removes its raw, tinny taste. The whole pot should smell sweet and deeply savory now."
+        },
+        {
+          "title": "Deglaze with white wine",
+          "text": "Pour in the 1 1/2 cups white wine and scrape the bottom of the pot with a wooden spoon while it bubbles hard. Simmer 5 to 6 minutes until the wine has reduced by roughly half. White wine, not red, is the Milanese tradition — it keeps the sauce light enough that the veal still tastes like veal."
+        },
+        {
+          "title": "Build the braising liquid",
+          "text": "Add the 2 cups stock, the hand-crushed tomatoes, the bay leaves, thyme sprigs, and lemon peel, and bring to a gentle simmer. Heat the oven to 325°F (165°C) while this comes up. Taste the liquid; it should be pleasantly seasoned but not salty, because it will reduce and concentrate over the next three hours."
+        },
+        {
+          "title": "Return the shanks",
+          "text": "Nestle the shanks into the pot in a single layer, standing them so the marrow bones stay upright and the marrow does not slide out. The liquid should come about two-thirds of the way up the meat, not cover it — add a splash of stock if you are short. Spoon a little liquid over the exposed tops."
+        },
+        {
+          "title": "Braise in the oven",
+          "text": "Cover with a tight lid and transfer to the 325°F (165°C) oven for 2 hours and 30 minutes to 3 hours. Check at the 2 hour mark: the liquid should be barely trembling, not bubbling. If it is boiling, drop the oven to 300°F (150°C), since a hard braise squeezes the meat fibers tight and makes veal stringy instead of silky."
+        },
+        {
+          "title": "Test for doneness",
+          "text": "The shanks are ready when a fork slides into the meat with no resistance and the meat has pulled visibly away from the bone, around 200°F (93°C) internal. This is well past any food-safety threshold — collagen only melts into gelatin in that 190°F to 205°F (88°C to 96°C) window. If it is still tight, give it another 30 minutes and check again."
+        },
+        {
+          "title": "Reduce the sauce",
+          "text": "Carefully lift the shanks onto a warm platter and snip off the twine. Fish out the bay leaves, thyme stems, and lemon peel, then simmer the sauce on the stovetop over medium-high for 8 to 10 minutes until it thickens enough to coat a spoon. Skim off any orange fat that rises. Taste and adjust the salt."
+        },
+        {
+          "title": "Make the gremolata",
+          "text": "Chop the parsley, lemon zest, and garlic together on a board until they are fine and well mixed, then stir in the flaky salt. Making it at the last minute matters — the volatile oils in raw garlic and lemon zest fade within about 20 minutes. This raw, sharp mixture is what cuts through three hours of richness."
+        },
+        {
+          "title": "Serve with a marrow spoon",
+          "text": "Spoon sauce over each shank, scatter the gremolata generously on top, and set the platter down with small spoons or the handle end of a teaspoon for digging out the marrow. Osso buco means bone with a hole, and that hole is the point. Serve immediately, while everything is hot enough that the marrow is soft."
+        }
+      ],
+      "tips": [
+        "Ask the butcher for center-cut hind shanks 1 1/2 in (4 cm) thick. Thin shanks dry out and end-cut shanks have almost no marrow.",
+        "Osso buco is better made a day ahead. Cool it in its sauce, refrigerate, lift off the solid fat, and reheat at 325°F (165°C) for 40 minutes covered.",
+        "Beef shanks are a third of the price and work with the same method, though they need about 30 extra minutes and taste heartier.",
+        "Never let the braise boil. If you hear active bubbling through the lid, lower the oven 25 degrees — a trembling surface makes silky meat.",
+        "Make the gremolata within 20 minutes of serving. Chopped ahead, it goes dull and slightly bitter."
+      ],
+      "keyTemp": "Braise to roughly 200°F (93°C) internal — fork-tender, far past the 145°F (63°C) safety point, which is where collagen turns to gelatin.",
+      "pairing": "Risotto alla Milanese is the classic partner, with a Barolo or a good Nebbiolo.",
+      "videoQuery": "osso buco veal shanks braised gremolata",
+      "photoQuery": "osso buco veal shank gremolata plate",
+      "tags": ["Weekend Project", "Braised", "Special Occasion"]
+    }
+  ]
+}

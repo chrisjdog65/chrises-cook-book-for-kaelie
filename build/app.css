@@ -93,7 +93,7 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
 }
 .topbar-row { display:flex; align-items:center; gap:10px; }
 .brand { font-family:var(--display); font-size:20px; font-weight:400; flex:1; min-width:0;
-  white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis; cursor:pointer; }
 .brand b { color:var(--accent); font-weight:400; }
 .iconbtn {
   border:1px solid var(--line); background:var(--bg2); border-radius:11px;
@@ -110,6 +110,9 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
   background:var(--bg2); border:1px solid var(--line); border-radius:13px; font-family:inherit;
 }
 .search input::placeholder { color:var(--muted); }
+/* we draw our own clear button; suppress the native one so there aren't two */
+.search input::-webkit-search-cancel-button,
+.search input::-webkit-search-decoration { -webkit-appearance:none; appearance:none; display:none; }
 .search .mag { position:absolute; left:14px; top:50%; transform:translateY(-50%); opacity:.55; font-size:15px; pointer-events:none; }
 .search .clr { position:absolute; right:7px; top:50%; transform:translateY(-50%); border:0;
   background:var(--bg3); border-radius:50%; width:27px; height:27px; font-size:15px; line-height:1; color:var(--muted); }
