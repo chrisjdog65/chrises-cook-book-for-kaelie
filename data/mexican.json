@@ -127,11 +127,11 @@
       "emoji": "🍗",
       "art": "chicken",
       "blurb": "Shredded chicken simmered in a smoky chipotle and tomato sauce until it soaks up every bit of it, spooned onto crisp tostadas with beans and crema. It is a weeknight dinner that tastes like it took all afternoon.",
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "servings": "4 servings (12 tostadas)",
-      "prepTime": "15 min",
-      "cookTime": "35 min",
-      "totalTime": "50 min",
+      "prepTime": "20 min",
+      "cookTime": "55 min",
+      "totalTime": "1 hr 15 min",
       "ingredients": [
         {
           "group": "For the chicken",
@@ -181,7 +181,7 @@
         },
         {
           "title": "Blanch and peel the tomatoes",
-          "text": "Bring a small pot of water to a boil, cut a shallow X in the bottom of each Roma tomato, and drop them in for 45 to 60 seconds. Move them to a bowl of cold water and the skins will slip off with your thumb. Peeling matters here because tomato skins roll up into little leathery curls in a simmered sauce. If you would rather skip it, use one 14.5 oz (411 g) can of whole peeled tomatoes instead."
+          "text": "Bring a small pot of water to a boil, cut a shallow X in the bottom of each Roma tomato, and drop them in for 45 to 60 seconds. Move them to a bowl of cold water and the skins will slip off with your thumb. Peeling matters here because tomato skins roll up into little leathery curls in a simmered sauce. If you would rather skip it, use one 28 oz (794 g) can of whole peeled tomatoes, drained, which is the equivalent of 1 1/2 lb of fresh."
         },
         {
           "title": "Blend the tomato base",
@@ -261,7 +261,7 @@
             "2 bay leaves",
             "1 cinnamon stick, 3 in (8 cm)",
             "1/2 cup (120 ml) whole milk",
-            "1 cup (240 ml) water"
+            "2 cups (475 ml) water"
           ]
         },
         {
@@ -286,7 +286,7 @@
         },
         {
           "title": "Melt the lard and start the braise",
-          "text": "Melt the 1/2 cup (110 g) lard in a large heavy Dutch oven over medium heat, then add the pork in a single layer or as close as you can get. Squeeze the orange halves over the pot and drop the spent shells in, then add the onion, garlic, bay leaves, cinnamon stick, milk and water. The liquid should come about halfway up the pork, not cover it. This is a confit, not a stew — the pork mostly cooks in fat with just enough liquid to keep the bottom from scorching."
+          "text": "Melt the 1/2 cup (110 g) lard in a large heavy Dutch oven over medium heat, then add the pork in a single layer or as close as you can get. Squeeze the orange halves over the pot and drop the spent shells in, then add the onion, garlic, bay leaves, cinnamon stick, milk and the 2 cups (475 ml) water. The liquid should come about halfway up the pork, not cover it — top up with a splash more water if your pot is wide and the pork looks stranded. This is a confit, not a stew — the pork mostly cooks in fat with just enough liquid to keep the bottom from scorching."
         },
         {
           "title": "Simmer low and slow",
@@ -328,7 +328,7 @@
         "If your pork tastes flat after crisping, it needs salt and acid, in that order. A pinch of salt and a squeeze of lime fixes almost every batch.",
         "Leftovers make outstanding breakfast: crisp them again in a skillet and top with two fried eggs and salsa verde."
       ],
-      "keyTemp": "Braise the pork to about 200°F (93°C), well past the 145°F (63°C) safety minimum, because that is where the collagen turns to gelatin and the meat shreds. Judge it by fork tenderness, not the clock.",
+      "keyTemp": "Braise the pork to about 200°F (93°C), far past the 145°F (63°C) plus a 3-minute rest that pork needs for safety, because that is where the collagen turns to gelatin and the meat shreds. Judge it by fork tenderness, not the clock.",
       "pairing": "A Mexican lager or a michelada, with refried beans and pickled red onions on the side.",
       "videoQuery": "authentic pork carnitas michoacan style",
       "photoQuery": "crispy pork carnitas tacos",
@@ -354,14 +354,15 @@
           "group": "Fish and beer batter",
           "items": [
             "1 1/2 lb (680 g) cod, halibut or mahi mahi, cut into strips 1 in x 4 in (2.5 cm x 10 cm)",
-            "1 cup (125 g) all-purpose flour, plus 1/2 cup (65 g) for dredging",
+            "1 cup (120 g) all-purpose flour, plus 1/2 cup (60 g) for dredging",
             "1/4 cup (30 g) cornstarch",
             "1 tsp (4 g) baking powder",
-            "1 tsp (6 g) kosher salt",
+            "1 tsp (6 g) kosher salt, for the batter",
+            "1 tsp (6 g) kosher salt, for seasoning the fish and the fried strips",
             "1/2 tsp garlic powder",
             "1/2 tsp chili powder",
             "1 cup (240 ml) cold Mexican lager",
-            "6 cups (1.4 L) neutral oil, for frying"
+            "8 cups (1.9 L) neutral oil, for frying"
           ]
         },
         {
@@ -404,15 +405,15 @@
         },
         {
           "title": "Cut and dry the fish",
-          "text": "Cut the fillets into strips about 1 in (2.5 cm) wide and 4 in (10 cm) long, roughly the width of two fingers, so they cook through in the same time it takes the batter to brown. Blot every piece dry on paper towels and season lightly with a pinch of salt. Wet fish makes the batter slide right off in the oil. Keep the fish in the fridge until the oil is at temperature."
+          "text": "Cut the fillets into strips about 1 in (2.5 cm) wide and 4 in (10 cm) long, roughly the width of two fingers, so they cook through in the same time it takes the batter to brown. Blot every piece dry on paper towels and season them lightly with half of the 1 tsp of salt set aside for the fish, saving the rest for after they come out of the oil. Wet fish makes the batter slide right off in the oil. Keep the fish in the fridge until the oil is at temperature."
         },
         {
           "title": "Heat the oil to 375°F",
-          "text": "Pour the oil into a heavy Dutch oven to a depth of about 2 in (5 cm) and clip a thermometer to the side. Heat over medium-high to 375°F (190°C), which usually takes 8 to 10 minutes. Starting high matters because adding cold fish drops the oil by 25 to 50 degrees, and you want to land near 350°F (175°C) while frying. Oil below 325°F (163°C) gives you greasy, pale batter every time."
+          "text": "Pour the 8 cups (1.9 L) of oil into a heavy 5 to 6 qt Dutch oven, which gives you a depth of about 1 1/2 in (4 cm) — enough for the strips to float free without the pot being dangerously full — and clip a thermometer to the side. Heat over medium-high to 375°F (190°C), which usually takes 8 to 10 minutes. Starting high matters because adding cold fish drops the oil by 25 to 50 degrees, and you want to land near 350°F (175°C) while frying. Oil below 325°F (163°C) gives you greasy, pale batter every time."
         },
         {
           "title": "Mix the batter at the last second",
-          "text": "Whisk the 1 cup flour, cornstarch, baking powder, 1 tsp salt, garlic powder and chili powder in a bowl, then pour in the cold beer and stir just until it comes together with a few small lumps left. Overmixing develops gluten and gives you a bready, tough coating instead of a crisp shell. The batter should be about the thickness of heavy cream and drip off a spoon in a slow ribbon. Mix it right before frying so the bubbles are still lively."
+          "text": "Whisk the 1 cup (120 g) flour, cornstarch, baking powder, the 1 tsp of batter salt, garlic powder and chili powder in a bowl, then pour in the cold beer and stir just until it comes together with a few small lumps left. Overmixing develops gluten and gives you a bready, tough coating instead of a crisp shell. The batter should be about the thickness of heavy cream and drip off a spoon in a slow ribbon. Mix it right before frying so the bubbles are still lively."
         },
         {
           "title": "Dredge, then batter",
@@ -424,7 +425,7 @@
         },
         {
           "title": "Drain on a rack, not paper",
-          "text": "Lift each piece onto a wire rack set over a sheet pan and sprinkle immediately with a pinch of salt while the surface is still glistening. A rack lets air circulate underneath so the bottom stays crisp; paper towels trap steam and the coating goes soft in two minutes. If you are frying several batches, keep the finished fish in a 200°F (95°C) oven. Never stack fried fish on top of itself."
+          "text": "Lift each piece onto a wire rack set over a sheet pan and sprinkle immediately with the remaining 1/2 tsp of fish salt while the surface is still glistening — salt only sticks to hot, oily batter. A rack lets air circulate underneath so the bottom stays crisp; paper towels trap steam and the coating goes soft in two minutes. If you are frying several batches, keep the finished fish in a 200°F (95°C) oven. Never stack fried fish on top of itself."
         },
         {
           "title": "Warm the tortillas",
@@ -462,7 +463,7 @@
       "servings": "3 to 4 servings (6 chiles)",
       "prepTime": "40 min",
       "cookTime": "35 min",
-      "totalTime": "1 hr 15 min",
+      "totalTime": "1 hr 30 min (includes 15 min chill)",
       "ingredients": [
         {
           "group": "Chiles and filling",
@@ -489,10 +490,10 @@
           "group": "Egg batter and frying",
           "items": [
             "4 large eggs, separated, at room temperature",
-            "2 tbsp (16 g) all-purpose flour, for the batter",
-            "1/2 cup (65 g) all-purpose flour, for dusting",
+            "2 tbsp (15 g) all-purpose flour, for the batter",
+            "1/2 cup (60 g) all-purpose flour, for dusting",
             "1/2 tsp (3 g) kosher salt",
-            "3 cups (700 ml) neutral oil, for frying"
+            "4 cups (950 ml) neutral oil, for frying"
           ]
         }
       ],
@@ -519,7 +520,7 @@
         },
         {
           "title": "Heat the frying oil",
-          "text": "Pour the 3 cups (700 ml) oil into a 10 in (25 cm) skillet or wide saucepan to a depth of about 1 in (2.5 cm) and heat over medium to 350°F (175°C). Use a thermometer — this batter is unforgiving. Too cool and it soaks up oil and slides off; too hot and the outside browns before the cheese melts. While it heats, set a wire rack over a sheet pan next to the stove."
+          "text": "Pour the 4 cups (950 ml) oil into a 10 in (25 cm) skillet or wide saucepan, which gives a depth of about 3/4 in (2 cm), and heat over medium to 350°F (175°C). That is shallow on purpose: chiles rellenos are basted with hot oil rather than submerged, so the puffed batter never gets pressed flat against the pan. Use a thermometer — this batter is unforgiving. Too cool and it soaks up oil and slides off; too hot and the outside browns before the cheese melts. While it heats, set a wire rack over a sheet pan next to the stove."
         },
         {
           "title": "Beat the whites to stiff peaks",
@@ -572,8 +573,8 @@
       "difficulty": "Medium",
       "servings": "4 servings (12 enchiladas)",
       "prepTime": "30 min",
-      "cookTime": "35 min",
-      "totalTime": "1 hr 5 min",
+      "cookTime": "45 min",
+      "totalTime": "1 hr 25 min (includes 10 min rest)",
       "ingredients": [
         {
           "group": "Salsa verde",
@@ -605,7 +606,8 @@
             "1/2 cup (55 g) crumbled queso fresco",
             "1/2 small white onion, sliced paper thin (about 1/2 cup / 70 g)",
             "1/4 cup (10 g) chopped cilantro",
-            "1 avocado, sliced"
+            "1 avocado, sliced",
+            "2 limes, cut into wedges"
           ]
         }
       ],
@@ -681,8 +683,8 @@
       "difficulty": "Medium",
       "servings": "4 servings (12 enchiladas)",
       "prepTime": "30 min",
-      "cookTime": "35 min",
-      "totalTime": "1 hr 5 min",
+      "cookTime": "45 min",
+      "totalTime": "1 hr 25 min (includes 10 min rest)",
       "ingredients": [
         {
           "group": "Red chile sauce",
@@ -696,9 +698,10 @@
             "1 tsp (1 g) dried Mexican oregano",
             "1/2 tsp ground cumin",
             "1/4 tsp ground cinnamon",
-            "1 tbsp (15 ml) apple cider vinegar",
+            "1 tbsp (15 ml) apple cider vinegar, plus more to taste",
             "2 tbsp (30 ml) neutral oil",
-            "1 1/2 cups (350 ml) chicken broth",
+            "2 cups (475 ml) chicken broth",
+            "1 tsp (7 g) honey, optional, if the sauce tastes bitter",
             "1 1/2 tsp (9 g) kosher salt, plus more to taste"
           ]
         },
@@ -717,7 +720,8 @@
             "1/2 cup (55 g) crumbled queso fresco",
             "1/2 cup (120 ml) Mexican crema",
             "1/2 white onion, sliced paper thin (about 1/2 cup / 70 g)",
-            "1/4 cup (10 g) chopped cilantro"
+            "1/4 cup (10 g) chopped cilantro",
+            "2 limes, cut into wedges"
           ]
         }
       ],
@@ -728,7 +732,7 @@
         },
         {
           "title": "Toast the chiles",
-          "text": "Heat a dry comal or heavy skillet over medium heat and press the opened chiles flat against the surface for 15 to 20 seconds per side. They should soften slightly, turn a shade lighter, and release a smell like sweet tobacco and dried fruit. Do not let them darken or smoke — a scorched chile turns the entire sauce acrid and bitter, and there is no way to rescue it. Work in batches so you can watch every piece."
+          "text": "Heat a dry comal or heavy skillet over medium heat and press the opened chiles flat against the surface for 15 to 20 seconds per side. They should soften slightly, turn a shade lighter, and release a smell like sweet tobacco and dried fruit. Do not let them darken or smoke — a scorched chile turns the entire sauce acrid and bitter, and there is no way to rescue it. If you want real heat, toast the 2 chiles de arbol alongside them for 10 seconds a side only, since small thin chiles scorch in half the time. Work in batches so you can watch every piece."
         },
         {
           "title": "Rehydrate in hot water",
@@ -849,7 +853,7 @@
         },
         {
           "title": "Check for doneness",
-          "text": "Press a kernel with your thumbnail — it should give slightly and release a little milky juice rather than squirting water. The corn is heated through when the surface reaches about 165°F (74°C), which is really just a proxy for hot all the way in. Fresh summer corn only needs to be warmed and charred; it is perfectly edible raw. Older corn from the supermarket wants the full 12 minutes."
+          "text": "Corn carries no food-safety temperature, so judge it by texture: press a kernel with your thumbnail and it should give slightly and release a little milky juice rather than squirting thin water. The kernels should be plump and glossy and the cob too hot to hold bare-handed, roughly 150°F to 165°F (65°C to 74°C) if you push a thermometer into the center of a row. Fresh summer corn only needs to be warmed and charred, since it is perfectly good raw. Older supermarket corn wants the full 12 minutes to lose its starchy chew."
         },
         {
           "title": "Skewer them while hot",
@@ -875,7 +879,7 @@
         "Tajin brings lime and salt along with the chile, so if you use it, cut the added salt in the dressing to a pinch.",
         "Buy corn the same day you cook it. Sugars turn to starch fast, and day-old supermarket corn is noticeably less sweet."
       ],
-      "keyTemp": "Grill the corn to about 165°F (74°C) internally, which simply means hot through with kernels that pop and give under a thumbnail. Aim for a grill surface around 450°F (230°C).",
+      "keyTemp": "Corn has no safety temperature — the cue is texture. Grill over a surface around 450°F (230°C) until the kernels are blistered in spots, plump, and release milky juice under a thumbnail, which lands around 150°F to 165°F (65°C to 74°C) inside.",
       "pairing": "Anything off the grill, especially carne asada, plus a cold Mexican lager or a watermelon agua fresca.",
       "videoQuery": "mexican street corn elote grill recipe",
       "photoQuery": "mexican street corn elote cotija",
@@ -894,8 +898,8 @@
       "difficulty": "Medium",
       "servings": "6 to 8 servings",
       "prepTime": "30 min",
-      "cookTime": "2 hr 45 min",
-      "totalTime": "3 hr 15 min",
+      "cookTime": "2 hr 50 min",
+      "totalTime": "3 hr 20 min",
       "ingredients": [
         {
           "group": "Pork and broth",
@@ -905,7 +909,7 @@
             "1 white onion, halved (about 8 oz / 225 g)",
             "8 garlic cloves, peeled",
             "2 bay leaves",
-            "1 tbsp (1 g) dried Mexican oregano",
+            "1 tbsp (3 g) dried Mexican oregano",
             "1 tbsp (14 g) kosher salt, plus more to taste",
             "14 cups (3.3 L) water"
           ]
@@ -939,7 +943,7 @@
             "1/2 white onion, finely diced (about 3/4 cup / 110 g)",
             "1/2 cup (20 g) chopped cilantro",
             "3 limes, cut into wedges",
-            "2 tsp (4 g) dried Mexican oregano, for sprinkling",
+            "2 tsp (2 g) dried Mexican oregano, for sprinkling",
             "1 tsp (2 g) chile piquin or chili powder",
             "12 tostada shells"
           ]
@@ -1002,7 +1006,7 @@
         "If the broth tastes bitter, one of your chiles scorched during toasting. A teaspoon of honey and an extra pinch of salt will mask it, but next time pull the chiles the second they smell fragrant.",
         "Freeze leftovers without the garnishes in quart containers for up to 3 months. Add fresh cabbage and radish when you reheat."
       ],
-      "keyTemp": "Simmer the pork to about 195°F (91°C), well past the 145°F (63°C) safety minimum, so the collagen melts and the meat shreds. Serve the soup steaming at 165°F (74°C) or above.",
+      "keyTemp": "Simmer the pork to about 195°F (91°C), far past the 145°F (63°C) plus 3-minute rest that pork needs for safety, so the collagen melts and the meat shreds. Serve the soup steaming at 165°F (74°C) or above.",
       "pairing": "Warm tostadas or a bolillo on the side, with a cold Mexican lager or a bright hibiscus agua fresca.",
       "videoQuery": "pozole rojo pork hominy authentic recipe",
       "photoQuery": "pozole rojo bowl garnishes",
@@ -1021,8 +1025,8 @@
       "difficulty": "Easy",
       "servings": "4 servings (4 quesadillas)",
       "prepTime": "15 min",
-      "cookTime": "15 min",
-      "totalTime": "30 min",
+      "cookTime": "35 min",
+      "totalTime": "50 min",
       "ingredients": [
         {
           "group": "Chicken filling",
@@ -1034,7 +1038,7 @@
             "1 tsp (2 g) ground cumin",
             "1 tsp (2 g) chili powder",
             "1/2 tsp (1 g) dried Mexican oregano",
-            "1 tsp (6 g) kosher salt",
+            "1 tsp (6 g) kosher salt, plus a pinch for the vegetables",
             "1/2 tsp freshly ground black pepper",
             "1 tbsp (15 ml) fresh lime juice"
           ]
@@ -1044,7 +1048,7 @@
           "items": [
             "4 flour tortillas, 10 in (25 cm)",
             "12 oz (340 g) Oaxaca or Monterey Jack cheese, shredded (about 3 cups)",
-            "2 tbsp (28 g) unsalted butter, softened",
+            "4 tbsp (57 g, half a stick) unsalted butter, softened",
             "1/4 cup (10 g) chopped cilantro"
           ]
         },
@@ -1085,11 +1089,11 @@
         },
         {
           "title": "Butter the outside",
-          "text": "Spread a thin film of the softened butter over the top surface of the folded quesadilla, using about 1/2 tbsp per quesadilla. Butter browns more evenly than oil and gives you that blistered, freckled crust with a nutty flavor. Do not use so much that it pools in the pan and fries the tortilla greasy. A thin swipe is all it takes."
+          "text": "Spread a thin film of the softened butter over the top surface of the folded quesadilla, using about 1/2 tbsp per side — 4 quesadillas buttered on both sides is where the 4 tbsp goes. Butter browns more evenly than oil and gives you that blistered, freckled crust with a nutty flavor. Do not use so much that it pools in the pan and fries the tortilla greasy. A thin swipe is all it takes."
         },
         {
           "title": "Griddle low and slow",
-          "text": "Wipe the skillet clean and set it over medium-low heat, then lay the quesadilla in butter side down and cook for 3 to 4 minutes. Medium-low is the key: the tortilla needs time for the cheese in the center to melt completely before the outside burns. It should hiss quietly, not crackle aggressively. Butter the exposed top side while the first side cooks."
+          "text": "Wipe the skillet clean and set it over medium-low heat, then lay the quesadilla in butter side down and cook for 3 to 4 minutes. Medium-low is the key: the tortilla needs time for the cheese in the center to melt completely before the outside burns. It should hiss quietly, not crackle aggressively. Butter the exposed top side while the first side cooks. One skillet holds one quesadilla, so budget about 7 minutes each and hold the finished ones in a warm oven."
         },
         {
           "title": "Flip and finish",
@@ -1113,7 +1117,7 @@
       "photoQuery": "chicken quesadilla cheese pull",
       "tags": [
         "Weeknight",
-        "30 Minutes",
+        "One Skillet",
         "Kid Friendly"
       ]
     },
@@ -1125,9 +1129,9 @@
       "blurb": "Layered so every single chip gets cheese, beef and beans, then baked until it all fuses together. The trick is building it in two layers instead of one big pile.",
       "difficulty": "Easy",
       "servings": "6 servings",
-      "prepTime": "15 min",
-      "cookTime": "15 min",
-      "totalTime": "30 min",
+      "prepTime": "20 min",
+      "cookTime": "20 min",
+      "totalTime": "40 min",
       "ingredients": [
         {
           "group": "Seasoned beef",
@@ -1220,7 +1224,7 @@
       "photoQuery": "loaded sheet pan nachos",
       "tags": [
         "Game Day",
-        "30 Minutes",
+        "Sheet Pan",
         "Crowd Pleaser"
       ]
     },
@@ -1247,10 +1251,12 @@
             "8 cups (1.9 L) water",
             "8 dried guajillo chiles (about 2 oz / 55 g), stemmed and seeded",
             "4 dried ancho chiles (about 2 oz / 55 g), stemmed and seeded",
+            "3 cups (700 ml) hot water, for soaking the chiles",
             "1 tsp (2 g) ground cumin",
             "1 tsp (1 g) dried Mexican oregano",
             "1 tbsp (15 ml) apple cider vinegar",
-            "2 tbsp (30 ml) neutral oil"
+            "2 tbsp (30 ml) neutral oil",
+            "1 tsp (6 g) kosher salt, for the chile sauce, plus more to taste"
           ]
         },
         {
@@ -1260,7 +1266,7 @@
             "1 1/3 cups (280 g) lard, at room temperature",
             "1 tbsp (12 g) baking powder",
             "2 tsp (12 g) kosher salt",
-            "4 1/2 cups (1.05 L) warm pork broth, from the braise"
+            "3 1/2 cups (830 ml) warm pork broth, from the braise, plus more as needed"
           ]
         },
         {
@@ -1275,7 +1281,7 @@
       "instructions": [
         {
           "title": "Braise the pork",
-          "text": "Put the pork chunks, onion, garlic, bay leaves and 1 tbsp salt in a large pot with the 8 cups (1.9 L) water, bring to a boil, then lower to a bare simmer. Skim the gray foam off during the first 15 minutes so the broth stays clean. Simmer partially covered for 2 hours, until the pork shreds under fork pressure at about 195°F (91°C). Reserve every drop of the broth — you need 4 1/2 cups of it for the masa, and it is what makes homemade tamales taste like tamales."
+          "text": "Put the pork chunks, onion, garlic, bay leaves and 1 tbsp salt in a large pot with the 8 cups (1.9 L) water, bring to a boil, then lower to a bare simmer. Skim the gray foam off during the first 15 minutes so the broth stays clean. Simmer partially covered for 2 hours, until the pork shreds under fork pressure at about 195°F (91°C). Reserve every drop of the broth — you need 3 1/2 cups of it for the masa and another 1 1/2 cups for the chile sauce, and it is what makes homemade tamales taste like tamales."
         },
         {
           "title": "Soak the corn husks",

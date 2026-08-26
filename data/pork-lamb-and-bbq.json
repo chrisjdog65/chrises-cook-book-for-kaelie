@@ -1011,13 +1011,13 @@
       "servings": "4 servings",
       "prepTime": "15 min",
       "cookTime": "10 min",
-      "totalTime": "25 min",
+      "totalTime": "30 min",
       "ingredients": [
         {
           "group": "For the chops",
           "items": [
-            "8 lamb rib or loin chops (about 3 oz / 85 g each, 1 in / 2.5 cm thick)",
-            "1½ tsp (7 g) kosher salt",
+            "12 lamb rib or loin chops (about 3 oz / 85 g each, 1 in / 2.5 cm thick, 2¼ lb / 1 kg total)",
+            "2 tsp (9 g) kosher salt",
             "1 tsp coarsely ground black pepper",
             "1 tbsp (15 ml) neutral oil such as grapeseed",
             "1 tsp flaky sea salt, for finishing"
@@ -1044,12 +1044,12 @@
           "text": "Stir the shallot, garlic, red wine vinegar, kosher salt, and red pepper flakes together in a bowl and let them sit for 10 minutes. The acid takes the raw bite off the garlic and shallot and softens them, which is the difference between a balanced sauce and one that burns. This is also why you make it before you touch the lamb."
         },
         {
-          "title": "Finish the sauce",
-          "text": "Stir in the chopped parsley, mint, and dried oregano, then pour in the olive oil and stir — do not blend it. A food processor turns chimichurri into a dull green purée, while hand-chopping keeps the herbs distinct and the texture loose. It should look like herbs suspended in oil, not a paste."
+          "title": "Chop the herbs properly",
+          "text": "While the shallot mixture sits, chop the parsley and mint with a very sharp knife, using a rocking motion rather than crushing them, and do it right before you mix the sauce. A dull blade tears the leaves instead of cutting them, and mint bruises and darkens within minutes once its cells are torn, turning black and tasting flat. If you want to prep ahead, chop the parsley early and add the mint at the last moment."
         },
         {
-          "title": "Chop the herbs properly",
-          "text": "Use a very sharp knife and chop the parsley and mint in a rocking motion rather than crushing them, and do it right before mixing. Mint bruises and darkens within minutes once its cells are torn, turning black and tasting flat. If you need to prep ahead, chop the parsley early and add the mint at the last moment."
+          "title": "Finish the sauce",
+          "text": "Stir the chopped parsley, mint, and dried oregano into the soaked shallot and garlic, then pour in the olive oil and stir it through — do not blend it. A food processor turns chimichurri into a dull green purée, while hand-chopping keeps the herbs distinct and the texture loose. It should look like herbs suspended in oil, not a paste, and it should taste sharp and salty on its own, since the lamb is rich."
         },
         {
           "title": "Season the chops",
@@ -1061,11 +1061,11 @@
         },
         {
           "title": "Render the fat edge first",
-          "text": "Stand the chops on their fat edges, leaning them against each other or the pan wall, and cook 60 to 90 seconds until that strip turns golden and gives up its fat. This is not optional with lamb: unrendered lamb fat is waxy and is the main reason people think they dislike lamb. The rendered fat then cooks the chops."
+          "text": "Stand the chops on their fat edges in two batches, leaning them against each other or the pan wall, and cook 60 to 90 seconds per batch until that strip turns golden and gives up its fat. This is not optional with lamb: unrendered lamb fat is waxy and is the main reason people think they dislike lamb. The rendered fat then cooks the chops."
         },
         {
           "title": "Sear both flat sides",
-          "text": "Lay the chops flat in the pan in a single layer, working in two batches if they do not all fit with space between them. Sear 2 minutes without moving, until a deep brown crust forms, then flip and go 1½ to 2 minutes more. Crowding the pan drops its temperature and steams the chops gray."
+          "text": "Lay the chops flat in the pan in a single layer, six at a time in a 12-inch (30 cm) skillet, with space between them. Sear 2 minutes without moving, until a deep brown crust forms, then flip and go 1½ to 2 minutes more. Crowding the pan drops its temperature and steams the chops gray, so keep the second batch waiting rather than squeezing all twelve in at once. Hold the first batch on a warm plate while the second cooks; they will only lose a degree or two."
         },
         {
           "title": "Check the temperature",
@@ -1097,8 +1097,8 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "25 min",
-      "cookTime": "1 hr",
-      "totalTime": "1 hr 45 min",
+      "cookTime": "1 hr 15 min",
+      "totalTime": "2 hr",
       "ingredients": [
         {
           "group": "Gyro loaf",
@@ -1112,7 +1112,8 @@
             "1 tbsp finely chopped fresh rosemary",
             "2 tsp (9 g) kosher salt",
             "1½ tsp coarsely ground black pepper",
-            "2 tbsp (30 ml) olive oil, for crisping the slices"
+            "2 tbsp (30 ml) olive oil, for crisping the slices and brushing the pitas",
+            "4 cups (about 1 L) boiling water, for the water bath"
           ]
         },
         {
@@ -1180,7 +1181,7 @@
         },
         {
           "title": "Warm the pita",
-          "text": "Brush the pitas lightly with oil and warm them 30 seconds per side in the same skillet, or directly over a gas flame for 15 seconds a side. A warm, pliable pita folds around the filling; a cold one cracks down the middle and dumps everything on your plate. Stack them in a towel to stay soft."
+          "text": "Brush the pitas lightly with the seasoned oil left in the skillet and warm them 30 seconds per side in that same pan, or directly over a gas flame for 15 seconds a side. A warm, pliable pita folds around the filling; a cold one cracks down the middle and dumps everything on your plate. Stack them in a towel to stay soft."
         },
         {
           "title": "Build the gyros",
@@ -1324,7 +1325,8 @@
             "3 tbsp (20 g) coarsely ground black pepper",
             "2 tbsp (18 g) kosher salt",
             "1 tbsp (8 g) garlic powder",
-            "4 or 5 chunks oak, hickory, or pecan wood (about 1 lb / 450 g)"
+            "4 or 5 chunks oak, hickory, or pecan wood (about 1 lb / 450 g)",
+            "1 cup (240 ml) water, in a spray bottle for spritzing"
           ]
         },
         {
@@ -1406,14 +1408,14 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "20 min",
-      "cookTime": "40 min",
-      "totalTime": "13 hr",
+      "cookTime": "45 min",
+      "totalTime": "13 hr 15 min",
       "ingredients": [
         {
           "group": "For the pork",
           "items": [
             "2 lb (900 g) boneless pork shoulder, cut into strips 2 in (5 cm) wide and 1½ in (4 cm) thick",
-            "1 cup (240 ml) water, for the roasting pan"
+            "1 cup (240 ml) water, for the roasting pan, plus up to ½ cup (120 ml) more to top it up"
           ]
         },
         {
@@ -1508,12 +1510,12 @@
       "title": "Italian Sausage and Peppers",
       "emoji": "🌭",
       "art": "sandwich",
-      "blurb": "One skillet, half an hour, and the smell that takes over a street fair. Brown the sausages, soften the peppers in their fat, and let a splash of wine pull it all together.",
+      "blurb": "One skillet, forty easy minutes, and the smell that takes over a street fair. Brown the sausages, soften the peppers in their fat, and let a splash of wine pull it all together.",
       "difficulty": "Easy",
       "servings": "4 servings",
       "prepTime": "10 min",
-      "cookTime": "20 min",
-      "totalTime": "30 min",
+      "cookTime": "30 min",
+      "totalTime": "40 min",
       "ingredients": [
         {
           "group": "Ingredients",
@@ -1582,7 +1584,7 @@
       "pairing": "Crusty rolls or soft polenta, a simple green salad, and a glass of Chianti or a cold Peroni.",
       "videoQuery": "italian sausage and peppers skillet recipe",
       "photoQuery": "italian sausage peppers onions skillet",
-      "tags": ["30 Minutes", "One Pan", "Weeknight"]
+      "tags": ["One Pan", "Skillet", "Weeknight"]
     }
   ]
 }

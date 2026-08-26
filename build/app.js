@@ -82,7 +82,10 @@
   }
 
   /* ---------- links out ---------- */
-  function videoUrl(r) { return 'https://www.youtube.com/results?search_query=' + encodeURIComponent(r.videoQuery + ' recipe'); }
+  function videoUrl(r) {
+    var q = String(r.videoQuery).replace(/\s+recipe\s*$/i, '');   // don't end up with "... recipe recipe"
+    return 'https://www.youtube.com/results?search_query=' + encodeURIComponent(q + ' recipe');
+  }
   function photoUrl(r) { return 'https://www.google.com/search?tbm=isch&q=' + encodeURIComponent(r.photoQuery); }
 
   /* ---------- card ---------- */

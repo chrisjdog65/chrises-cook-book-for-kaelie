@@ -204,8 +204,8 @@
       "difficulty": "Advanced",
       "servings": "12 servings",
       "prepTime": "30 min",
-      "cookTime": "1 hr 30 min",
-      "totalTime": "12 hr",
+      "cookTime": "1 hr 40 min",
+      "totalTime": "12 hr 10 min",
       "ingredients": [
         {
           "group": "Graham crust",
@@ -326,10 +326,10 @@
         {
           "group": "Assembly",
           "items": [
-            "1 1/2 cups (360 ml) strong brewed espresso or very strong coffee, cooled to room temperature",
+            "2 cups (480 ml) strong brewed espresso or very strong coffee, cooled to room temperature",
             "2 tbsp (30 ml) dark rum or Marsala",
             "1 tbsp (13 g) granulated sugar",
-            "24 to 30 crisp Savoiardi ladyfingers (about 7 oz / 200 g)",
+            "30 to 36 crisp Savoiardi ladyfingers (about 9 oz / 250 g)",
             "2 tbsp (10 g) unsweetened cocoa powder, for dusting",
             "1 oz (28 g) dark chocolate, for shaving (optional)"
           ]
@@ -370,7 +370,7 @@
         },
         {
           "title": "Dip fast, not long",
-          "text": "Dip each ladyfinger flat for about 1 second per side, then lift it out immediately. It should still feel firm in the middle when you set it down, because it will keep absorbing moisture from the cream for hours in the fridge. Soggy tiramisu is almost always over-dipping; count out loud if it helps. Line the bottom of an 8-in (20 cm) square dish with a snug single layer, breaking pieces to fill gaps."
+          "text": "Dip each ladyfinger flat for about 1 second per side, then lift it out immediately. It should still feel firm in the middle when you set it down, because it will keep absorbing moisture from the cream for hours in the fridge. Soggy tiramisu is almost always over-dipping; count out loud if it helps. Line the bottom of a 9-in (23 cm) square dish — you want one that holds about 2 1/2 quarts (2.4 L), because this much cream will climb over the rim of a standard shallow 8-in pan — with a snug single layer, breaking pieces to fill gaps. That takes roughly 15 to 18 biscuits per layer."
         },
         {
           "title": "Layer it",
@@ -408,7 +408,7 @@
       "servings": "6 servings",
       "prepTime": "15 min",
       "cookTime": "40 min",
-      "totalTime": "4 hr 55 min",
+      "totalTime": "5 hr 25 min",
       "ingredients": [
         {
           "group": "Custard",
@@ -886,7 +886,7 @@
       "servings": "12 servings",
       "prepTime": "30 min",
       "cookTime": "35 min",
-      "totalTime": "3 hr 15 min",
+      "totalTime": "3 hr 25 min",
       "ingredients": [
         {
           "group": "Dry",
@@ -1100,7 +1100,7 @@
       "emoji": "🍨",
       "art": "icecream",
       "blurb": "Barely set, wobbling, pure cream and vanilla with a bright berry sauce spooned over. Fifteen minutes of work and the fridge does everything else.",
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "15 min",
       "cookTime": "10 min",
@@ -1111,7 +1111,7 @@
           "items": [
             "2 1/4 tsp (7 g) unflavored powdered gelatin (one 1/4-oz packet)",
             "3 tbsp (45 ml) cold water",
-            "2 1/2 cups (600 ml) heavy cream",
+            "2 cups (480 ml) heavy cream",
             "1 cup (240 ml) whole milk",
             "1/2 cup (100 g) granulated sugar",
             "1 vanilla bean, split and scraped (or 1 tbsp / 15 ml vanilla bean paste)",
@@ -1147,7 +1147,7 @@
         },
         {
           "title": "Portion into glasses",
-          "text": "Divide the mixture among six 6-oz (180 ml) glasses, ramekins, or small bowls, filling each about three-quarters full. If you plan to unmold them, lightly oil the ramekins first with a neutral oil on a paper towel. Serving in glasses is easier and looks lovely with the sauce on top, so there is no shame in skipping the unmolding."
+          "text": "Divide the mixture among six 6-oz (180 ml) glasses, ramekins, or small bowls — you have about 720 ml, so roughly 120 ml each, which fills them about two-thirds full. One packet of gelatin sets exactly this much liquid to a soft, spoonable wobble; stretch the same packet over more cream and you get a panna cotta that never quite firms up. If you plan to unmold them, lightly oil the ramekins first with a neutral oil on a paper towel. Serving in glasses is easier and looks lovely with the sauce on top, so there is no shame in skipping the unmolding."
         },
         {
           "title": "Chill until set",
@@ -1210,7 +1210,7 @@
         {
           "group": "Frying and coating",
           "items": [
-            "6 cups (1.4 L) neutral oil such as canola or peanut, for frying",
+            "8 cups (1.9 L) neutral oil such as canola or peanut, for frying",
             "1/2 cup (100 g) granulated sugar",
             "1 1/2 tsp ground cinnamon"
           ]
@@ -1254,7 +1254,7 @@
         },
         {
           "title": "Heat the oil precisely",
-          "text": "Pour 2 in (5 cm) of oil into a heavy Dutch oven or deep pot and heat it over medium to 360°F (182°C) on a clip-on thermometer. Temperature is everything here: below 340°F (171°C) the churros absorb oil and go greasy, and above 375°F (190°C) they brown before the inside cooks and can split violently. Never fill the pot more than halfway with oil."
+          "text": "Pour all 8 cups (1.9 L) of oil into a heavy 4-quart (3.8 L) Dutch oven or deep pot about 9 in (23 cm) across, which gives you the 2 in (5 cm) depth a churro needs to float rather than sit on the bottom, and heat it over medium to 360°F (182°C) on a clip-on thermometer. Use a wider pot and you will need noticeably more oil to reach that depth. Temperature is everything here: below 340°F (171°C) the churros absorb oil and go greasy, and above 375°F (190°C) they brown before the inside cooks and can split violently. Never fill the pot more than halfway with oil."
         },
         {
           "title": "Fill the piping bag",
@@ -1387,7 +1387,7 @@
       "servings": "8 servings",
       "prepTime": "20 min",
       "cookTime": "50 min",
-      "totalTime": "1 hr 30 min",
+      "totalTime": "1 hr 40 min",
       "ingredients": [
         {
           "group": "Peach filling",
@@ -1446,7 +1446,7 @@
         },
         {
           "title": "Drop the biscuits",
-          "text": "Scoop the dough into 8 to 10 rough mounds of about 1/4 cup (60 g) each and drop them over the fruit, leaving gaps between them. Those gaps let steam escape so the fruit thickens instead of steaming the biscuit bottoms into paste. Sprinkle the turbinado sugar generously over every biscuit top."
+          "text": "Scoop the dough into 8 or 9 rough mounds of about 1/4 cup (60 g) each — the batch weighs roughly 520 g, so do not try to stretch it to a dozen — and drop them over the fruit, leaving gaps between them. Those gaps let steam escape so the fruit thickens instead of steaming the biscuit bottoms into paste. Sprinkle the turbinado sugar generously over every biscuit top."
         },
         {
           "title": "Bake until bubbling",

@@ -802,7 +802,7 @@
         },
         {
           "title": "Flip and finish",
-          "text": "Flip with a wide spatula, steadying the top with your hand, and cook another 4 to 5 minutes. Look for cheese visibly melting out of the seams, which is your best signal that the middle is properly hot. Cover the pan for the last minute if the cheese is lagging behind the bread."
+          "text": "Flip with a wide spatula, steadying the top with your hand, and cook another 4 to 5 minutes. Look for cheese visibly melting out of the seams, which is your best signal that the middle is properly hot — reheated deli meat should come up to a steaming 165°F (74°C), and an instant-read thermometer slid in through the edge will confirm it if you are unsure. Cover the pan for the last minute if the cheese is lagging behind the bread."
         },
         {
           "title": "Rest on a rack and cut",
@@ -816,7 +816,7 @@
         "Mayonnaise on the outside of the bread instead of butter browns more evenly and has a higher smoke point, which is a genuinely useful cheat.",
         "Making four at once? Griddle them all, then hold on a rack in a 200°F (95°C) oven for up to 15 minutes without losing crispness."
       ],
-      "keyTemp": "Deli corned beef is already cooked; you are only reheating it to about 140°F (60°C), which is when the Swiss will be fully melted and running at the seams.",
+      "keyTemp": "Deli corned beef is already cooked, but reheated deli meat should come back up to a steaming 165°F (74°C) — by the time the Swiss is visibly running out of the seams, the center of the sandwich is comfortably past that.",
       "pairing": "A crisp dill pickle, kettle chips, and a dark lager or a cream soda.",
       "videoQuery": "reuben sandwich griddle russian dressing",
       "photoQuery": "reuben sandwich rye corned beef melted",
@@ -852,7 +852,7 @@
         {
           "group": "Dredge and frying",
           "items": [
-            "2 cups (250 g) all-purpose flour",
+            "2 cups (240 g) all-purpose flour",
             "2 tbsp (16 g) cornstarch",
             "1 tbsp (8 g) paprika",
             "2 tsp (6 g) garlic powder",
@@ -865,7 +865,7 @@
           "group": "Hot paste",
           "items": [
             "½ cup (120 ml) hot frying oil, reserved from the pot",
-            "3 tbsp (24 g) cayenne pepper, or 2 tbsp for medium heat",
+            "3 tbsp (24 g) cayenne pepper, or 1½ tbsp (12 g) for medium heat",
             "1 tbsp (12 g) dark brown sugar",
             "1 tsp (3 g) smoked paprika",
             "1 tsp (3 g) garlic powder",
@@ -884,12 +884,12 @@
       ],
       "instructions": [
         {
-          "title": "Brine the thighs",
-          "text": "Whisk the buttermilk, 1 tbsp kosher salt, pickle brine, 1 tsp cayenne, and the egg together in a bowl, then submerge the chicken thighs. Cover and refrigerate at least 4 hours, or overnight for the best result. Buttermilk's acidity and salt tenderize the meat and season it all the way through, and the egg gives the dredge something to grip."
+          "title": "Pound to even thickness",
+          "text": "Before anything else, lay each thigh flat between two sheets of plastic wrap and press or gently pound the thick end until the whole piece is a fairly even ¾ inch (2 cm). Uneven thighs are the reason home fried chicken comes out raw in one spot and dry in another — the thin edge is done in four minutes while the fat lobe is still sitting at 130°F (54°C). Trim off any hanging fat, which will not render in the short fry time. Wash your hands, the board, and the mallet before you touch anything else."
         },
         {
-          "title": "Pound to even thickness",
-          "text": "Before brining, lay each thigh flat and press or gently pound the thick end so the whole piece is a fairly even ¾ inch (2 cm). Uneven thighs are the reason home fried chicken comes out raw in one spot and dry in another. Trim off any hanging fat, which will not render in the short fry time."
+          "title": "Brine the thighs",
+          "text": "Whisk the buttermilk, 1 tbsp kosher salt, pickle brine, 1 tsp cayenne, and the egg together in a bowl, then submerge the pounded chicken thighs. Cover and refrigerate at least 4 hours, or overnight for the best result. Buttermilk's acidity and salt tenderize the meat and season it all the way through, and the egg gives the dredge something to grip."
         },
         {
           "title": "Mix the dredge",
@@ -997,11 +997,11 @@
         },
         {
           "title": "Break the bacon to fit",
-          "text": "Snap each bacon slice in half so the pieces sit inside the footprint of the bread, then arrange them in a tight single layer with the halves running in opposite directions. Crosshatching this way means every bite gets bacon rather than a mouthful of plain bread followed by a mouthful of all bacon. Four half-slices per sandwich is the right load."
+          "text": "Snap each bacon slice in half so the pieces sit inside the footprint of the bread, then lay four halves down side by side and cross a second set of four over them at right angles. Crosshatching this way means every bite gets bacon rather than a mouthful of plain bread followed by a mouthful of all bacon. Four whole slices per sandwich, which is eight halves, is the right load and divides the 8 slices evenly between the two sandwiches."
         },
         {
           "title": "Stack in the correct order",
-          "text": "Build it bottom bread, lettuce, bacon, tomato, lettuce, top bread. The lettuce leaves act as gaskets on both sides, keeping the wet tomato from ever touching the bread, and the bacon underneath keeps the tomato from sliding. Season the tomato with the remaining flaky salt and the black pepper the moment before you cap it."
+          "text": "Build it bottom bread, one lettuce leaf, the crosshatched bacon, 3 tomato slices, a second lettuce leaf, top bread. The lettuce leaves act as gaskets on both sides, keeping the wet tomato from ever touching the bread, and the bacon underneath keeps the tomato from sliding. Season the tomato with the remaining flaky salt and the black pepper the moment before you cap it."
         },
         {
           "title": "Press, cut, and eat now",
@@ -1034,8 +1034,8 @@
       "difficulty": "Easy",
       "servings": "4 servings",
       "prepTime": "15 min",
-      "cookTime": "35 min",
-      "totalTime": "50 min",
+      "cookTime": "45 min",
+      "totalTime": "1 hr",
       "ingredients": [
         {
           "group": "Tomato soup",
@@ -1163,7 +1163,7 @@
           "group": "To build",
           "items": [
             "6 sturdy Italian sub rolls, 7 in (18 cm) long",
-            "3 tbsp (42 g) unsalted butter, softened",
+            "6 tbsp (85 g) unsalted butter, softened",
             "2 garlic cloves, finely grated",
             "12 slices provolone (about 8 oz / 225 g total)",
             "½ cup (50 g) grated Parmesan, for finishing"
@@ -1181,7 +1181,7 @@
         },
         {
           "title": "Roll and chill",
-          "text": "Roll the mixture into 18 meatballs of about 1½ inches (4 cm), roughly 1½ oz (42 g) each, wetting your hands with cold water so nothing sticks. Set them on a parchment-lined sheet pan and chill 15 minutes while you start the sauce. Chilled meatballs hold their shape far better when they hit hot oil."
+          "text": "Roll the mixture into 18 meatballs of about 1½ inches (4 cm), roughly 1½ oz (42 g) each, wetting your hands with cold water so nothing sticks. Set them on a parchment-lined sheet pan and chill 15 minutes while you start the sauce, and heat the oven to 425°F (220°C) now so it is ready when they are. Chilled meatballs hold their shape far better than room-temperature ones when they hit a hot oven."
         },
         {
           "title": "Start the marinara",
@@ -1201,7 +1201,7 @@
         },
         {
           "title": "Make the garlic butter",
-          "text": "Mash the 3 tbsp softened butter with the 2 finely grated garlic cloves and a pinch of salt. Split the sub rolls three-quarters of the way through, leaving a hinge, and spread the garlic butter across both cut faces. The hinge matters structurally, and the butter is about to become a waterproof barrier between the bread and the sauce."
+          "text": "Mash the 6 tbsp softened butter with the 2 finely grated garlic cloves and a pinch of salt, which works out to about 1 tbsp of garlic butter per roll. Split the sub rolls three-quarters of the way through, leaving a hinge, and spread the garlic butter across both cut faces. The hinge matters structurally, and the butter is about to become a waterproof barrier between the bread and the sauce."
         },
         {
           "title": "Toast the rolls hard",
@@ -1242,15 +1242,15 @@
       "difficulty": "Easy",
       "servings": "4 servings",
       "prepTime": "15 min",
-      "cookTime": "12 min",
-      "totalTime": "1 hr 27 min",
+      "cookTime": "15 min",
+      "totalTime": "1 hr 30 min",
       "ingredients": [
         {
           "group": "Lobster",
           "items": [
-            "1½ lb (680 g) cooked lobster meat, from about 4 lb (1.8 kg) whole lobsters",
-            "1 tbsp (15 g) kosher salt, for the steaming water",
-            "2 cups (480 ml) water, for steaming"
+            "1¼ lb (570 g) cooked lobster meat, picked from four 1¼ lb (570 g) live lobsters, about 5 lb (2.3 kg) total",
+            "2 tbsp (30 g) kosher salt, for the steaming water",
+            "8 cups (2 L) water, for steaming"
           ]
         },
         {
@@ -1277,7 +1277,7 @@
       "instructions": [
         {
           "title": "Steam the lobsters",
-          "text": "If starting from live lobsters, bring the 2 cups of water and 1 tbsp of salt to a rolling boil in a large pot with a steamer rack, add the lobsters head first, cover, and steam 8 to 9 minutes for 1¼ lb (570 g) each. The shells should be bright red and the meat opaque, around 140°F (60°C) at the thickest part of the tail. Overcooked lobster turns dense and squeaky, so set a timer rather than guessing."
+          "text": "Bring the 8 cups of water and the 2 tbsp of salt to a rolling boil in a tall stockpot fitted with a steamer rack — you want about 2 inches (5 cm) of water below the rack, not enough to touch the lobsters. Add the four lobsters head first, cover, and steam 8 to 9 minutes for 1¼ lb (570 g) each, working in two batches if they do not sit in a single layer. The shells should be bright red and the meat opaque, around 140°F (60°C) at the thickest part of the tail. Overcooked lobster turns dense and squeaky, so set a timer rather than guessing."
         },
         {
           "title": "Chill the meat quickly",
@@ -1293,7 +1293,7 @@
         },
         {
           "title": "Mix a restrained dressing",
-          "text": "Whisk the mayonnaise, diced celery, lemon juice, chives, ½ tsp salt, and pepper together in a bowl. The ratio is roughly 1 part mayonnaise to 4 parts lobster by volume, which is far less than most people expect. You are seasoning lobster, not making a salad, and anything heavier buries the flavor you paid for."
+          "text": "Whisk the mayonnaise, diced celery, lemon juice, chives, ½ tsp salt, and pepper together in a bowl. That ⅓ cup of dressing has to cover a full 1¼ lb of meat, which works out to under 1½ tbsp per roll — far less than most people expect, and deliberately so. You are seasoning lobster, not making a salad, and anything heavier buries the flavor you paid for."
         },
         {
           "title": "Fold, do not stir",
@@ -1309,7 +1309,7 @@
         },
         {
           "title": "Line the bun and fill",
-          "text": "Tuck a small pinch of shredded lettuce into the bottom of each bun if you are using it, which acts as a barrier as much as a garnish. Divide the lobster among the four buns, about 6 oz (170 g) each, mounding it high rather than packing it down. A lobster roll should look overstuffed; that is the point of it."
+          "text": "Tuck a small pinch of shredded lettuce into the bottom of each bun if you are using it, which acts as a barrier as much as a garnish. Divide the lobster among the four buns, about 5 oz (140 g) each, mounding it high rather than packing it down. A lobster roll should look overstuffed; that is the point of it."
         },
         {
           "title": "Finish and serve cold",
@@ -1330,7 +1330,7 @@
       "tags": [
         "Summer",
         "Date Night",
-        "30 Minutes"
+        "New England"
       ]
     },
     {
@@ -1343,7 +1343,7 @@
       "servings": "6 servings",
       "prepTime": "30 min",
       "cookTime": "15 min",
-      "totalTime": "24 hr 45 min",
+      "totalTime": "32 hr 45 min",
       "ingredients": [
         {
           "group": "Olive salad",
@@ -1445,7 +1445,7 @@
       "servings": "8 servings",
       "prepTime": "30 min",
       "cookTime": "8 hr",
-      "totalTime": "9 hr 30 min",
+      "totalTime": "18 hr 30 min",
       "ingredients": [
         {
           "group": "Pork and rub",
@@ -1459,7 +1459,8 @@
             "1 tsp (3 g) onion powder",
             "1 tsp (2 g) dry mustard powder",
             "½ tsp (1 g) cayenne pepper",
-            "1 tbsp (15 ml) yellow mustard, as a binder"
+            "1 tbsp (15 ml) yellow mustard, as a binder",
+            "1 cup (240 ml) water, for the roasting pan"
           ]
         },
         {
@@ -1494,7 +1495,7 @@
         },
         {
           "title": "Roast low and steady",
-          "text": "Roast at 275°F (135°C) with a rack in the lower third of the oven. Pour 1 cup (240 ml) of water into the pan below the rack to keep the drippings from scorching and to add humidity. Plan on roughly 1 hour 20 minutes per pound, which is 7 to 8 hours for a 6-pound shoulder."
+          "text": "Roast at 275°F (135°C) with a rack in the lower third of the oven. Pour 1 cup (240 ml) of water into the pan below the rack to keep the drippings from scorching and to add humidity. Plan on roughly 1 hour 20 minutes per pound, which is a full 8 hours for a 6-pound shoulder, and treat that as an estimate rather than a promise — the thermometer decides when it is done, not the clock."
         },
         {
           "title": "Expect the stall",
@@ -1564,9 +1565,9 @@
             "6 slices good white sandwich bread, ½ in (1 cm) thick",
             "8 slices thick-cut bacon (about 8 oz / 225 g)",
             "8 oz (225 g) thinly sliced roast turkey breast",
-            "5 tbsp (75 g) mayonnaise",
+            "½ cup (120 g) mayonnaise",
             "4 large leaves crisp romaine or iceberg lettuce",
-            "1 medium ripe tomato (about 6 oz / 170 g), cut into 4 slices ¼ in (6 mm) thick",
+            "2 medium ripe tomatoes (about 12 oz / 340 g), cut into 8 slices ¼ in (6 mm) thick",
             "½ tsp (2 g) flaky sea salt",
             "¼ tsp (1 g) freshly ground black pepper",
             "8 frilled sandwich picks or long toothpicks"
@@ -1580,7 +1581,7 @@
         },
         {
           "title": "Salt and drain the tomato",
-          "text": "Lay the 4 tomato slices on paper towels, season with ¼ tsp of the flaky salt, and let them drain 10 minutes while the bacon cooks. Blot the tops before using. A club has two layers of filling and twice the opportunity to go soggy, so drying the tomato matters even more here than in a BLT."
+          "text": "Lay all 8 tomato slices on paper towels, season with ¼ tsp of the flaky salt, and let them drain 10 minutes while the bacon cooks. Blot the tops before using. A club has two layers of filling and twice the opportunity to go soggy, so drying the tomato matters even more here than in a BLT."
         },
         {
           "title": "Crisp the lettuce",

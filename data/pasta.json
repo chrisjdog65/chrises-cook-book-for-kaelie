@@ -234,7 +234,7 @@
         },
         {
           "title": "Reserve the starchy water",
-          "text": "Scoop out 1 1/2 cups (360 ml) of pasta water before draining. In a dish that is essentially oil and water, this starch is the only thing that will hold the two together. Keep it hot next to the stove."
+          "text": "Scoop out 1 1/2 cups (360 ml) of pasta water before draining, using a heatproof mug or measuring cup dipped straight into the pot. In a dish that is essentially oil and water, this starch is the only thing that will hold the two together into a sauce instead of a slick. Reserve more than you think you need — the single most common mistake here is draining the pot and realizing the water is gone. Keep the cup hot right next to the stove so you are not adding cold liquid to a hot pan."
         },
         {
           "title": "Marry pasta and oil",
@@ -246,7 +246,7 @@
         },
         {
           "title": "Serve right away",
-          "text": "Divide among four warmed bowls and finish each with a thin drizzle of raw olive oil for aroma. This dish waits for no one — the emulsion tightens within a few minutes and the parsley loses its brightness. Eat it standing up in the kitchen if you have to."
+          "text": "Divide among four warmed bowls and finish each with a thin drizzle of the reserved 1 tbsp (15 ml) raw olive oil for aroma. This dish waits for no one — the emulsion tightens within a few minutes and the parsley loses its brightness. Eat it standing up in the kitchen if you have to."
         }
       ],
       "tips": [
@@ -314,6 +314,7 @@
             "1 lb (450 g) fresh egg tagliatelle, or 1 lb (450 g) dried tagliatelle or pappardelle",
             "2 tbsp (28 g) unsalted butter, cold",
             "3 oz (85 g) Parmigiano-Reggiano, finely grated, plus more at the table",
+            "5 qt (4.7 L) water, for the pasta",
             "2 tbsp (30 g) kosher salt, for the pasta water"
           ]
         }
@@ -478,8 +479,8 @@
       "difficulty": "Easy",
       "servings": "8 servings",
       "prepTime": "25 min",
-      "cookTime": "55 min",
-      "totalTime": "1 hr 20 min",
+      "cookTime": "1 hr 15 min",
+      "totalTime": "1 hr 55 min (includes 15 min rest)",
       "ingredients": [
         {
           "group": "Sauce",
@@ -491,7 +492,7 @@
             "1 tsp (1 g) dried oregano",
             "1/2 tsp red pepper flakes",
             "1 (28 oz / 794 g) can crushed tomatoes",
-            "1 (14.5 oz / 411 g) can tomato sauce",
+            "1 (15 oz / 425 g) can tomato sauce",
             "1 1/2 tsp kosher salt",
             "1/2 tsp freshly ground black pepper",
             "1/2 cup (20 g) fresh basil leaves, torn"
@@ -501,19 +502,21 @@
           "group": "Cheese and pasta",
           "items": [
             "1 lb (450 g) ziti or penne rigate",
+            "5 qt (4.7 L) water, for the pasta",
             "2 tbsp (30 g) kosher salt, for the pasta water",
             "15 oz (425 g) whole-milk ricotta",
             "1 large egg",
-            "3 oz (85 g) Parmigiano-Reggiano, finely grated",
+            "3 oz (85 g) Parmigiano-Reggiano, finely grated, plus more for serving",
             "12 oz (340 g) low-moisture whole-milk mozzarella, shredded",
-            "1/4 cup (10 g) chopped fresh flat-leaf parsley"
+            "1/4 cup (10 g) chopped fresh flat-leaf parsley",
+            "1/2 tsp kosher salt and 1/4 tsp freshly ground black pepper, for the ricotta filling"
           ]
         }
       ],
       "instructions": [
         {
           "title": "Heat the oven and pan",
-          "text": "Set an oven rack in the upper third and heat the oven to 375°F (190°C). Lightly oil a 9x13 in (23x33 cm) baking dish. Putting the rack high means the cheese on top browns properly instead of just melting into a pale blanket."
+          "text": "Set an oven rack in the upper third and heat the oven to 375°F (190°C), giving it a full 15 minutes to come up to temperature before anything goes in. Lightly oil a 9x13 in (23x33 cm) baking dish, getting into the corners so the edges release cleanly later. Putting the rack high means the cheese on top browns properly instead of just melting into a pale blanket, because the heating element radiates down onto it. Start the oven now and it will be ready by the time the sauce has simmered."
         },
         {
           "title": "Brown the sausage hard",
@@ -537,7 +540,7 @@
         },
         {
           "title": "Mix the ricotta filling",
-          "text": "In a bowl, stir the 15 oz (425 g) ricotta with the egg, two-thirds of the grated Parmigiano, the parsley, 1/2 tsp salt, and a few grinds of pepper until smooth. The egg is what sets the ricotta into creamy pockets instead of letting it go grainy and watery in the oven. If your ricotta looks wet, drain it in a sieve for 10 minutes first."
+          "text": "In a bowl, stir the 15 oz (425 g) ricotta with the egg, two-thirds of the grated Parmigiano, the parsley, and the 1/2 tsp kosher salt and 1/4 tsp black pepper set aside for the filling until smooth. The egg is what sets the ricotta into creamy pockets instead of letting it go grainy and watery in the oven. If your ricotta looks wet, drain it in a sieve for 10 minutes first."
         },
         {
           "title": "Combine pasta and sauce",
@@ -586,8 +589,8 @@
       "difficulty": "Advanced",
       "servings": "8 servings",
       "prepTime": "45 min",
-      "cookTime": "4 hr 15 min",
-      "totalTime": "5 hr 30 min (includes 30 min rest)",
+      "cookTime": "4 hr 45 min",
+      "totalTime": "6 hr (includes 30 min rest)",
       "ingredients": [
         {
           "group": "Ragu",
@@ -606,8 +609,8 @@
         {
           "group": "Besciamella",
           "items": [
-            "5 tbsp (70 g) unsalted butter",
-            "1/3 cup (42 g) all-purpose flour",
+            "4 tbsp (57 g) unsalted butter",
+            "1/2 cup (60 g) all-purpose flour",
             "4 cups (960 ml) whole milk, warmed",
             "1 1/4 tsp kosher salt",
             "1/4 tsp freshly grated nutmeg",
@@ -619,7 +622,8 @@
           "items": [
             "1 lb (450 g) fresh egg lasagna sheets, or 12 oz (340 g) dried flat lasagna noodles",
             "8 oz (225 g) Parmigiano-Reggiano, finely grated",
-            "2 tbsp (28 g) unsalted butter, cut into small bits",
+            "3 tbsp (42 g) unsalted butter — 1 tbsp softened for the dish, 2 tbsp cut into small bits for the top",
+            "6 qt (5.7 L) water, for blanching the pasta",
             "2 tbsp (30 g) kosher salt, for blanching the pasta"
           ]
         }
@@ -643,7 +647,7 @@
         },
         {
           "title": "Make the besciamella",
-          "text": "Melt the 5 tbsp (70 g) butter in a saucepan over medium heat, whisk in the 1/3 cup (42 g) flour, and cook 2 minutes until it smells faintly like toasted popcorn but is still pale. Pour in the warm milk in three additions, whisking hard after each, and let it come to a bare simmer. Cook 6-8 minutes until it thickly coats the back of a spoon, then season with the salt, nutmeg and white pepper."
+          "text": "Melt the 4 tbsp (57 g) butter in a 3 qt (3 L) saucepan over medium heat, whisk in the 1/2 cup (60 g) flour, and cook 2 minutes until it smells faintly like toasted popcorn but is still pale. Equal weights of butter and flour is the ratio that actually sets — a besciamella built on less flour stays runny and your layers will slide apart when you cut the lasagna. Pour in the warm milk in three additions, whisking hard after each until completely smooth before the next goes in. Bring it to a bare simmer and cook 6-8 minutes until it thickly coats the back of a spoon, then season with the salt, nutmeg and white pepper."
         },
         {
           "title": "Keep the sauce from skinning",
@@ -655,7 +659,7 @@
         },
         {
           "title": "Heat the oven and prep the pan",
-          "text": "Heat the oven to 375°F (190°C) with a rack in the middle and butter a 9x13 in (23x33 cm) baking dish. Spread a thin layer of besciamella across the bottom, about 1/2 cup (120 ml). That slick keeps the first pasta layer from gluing itself to the dish."
+          "text": "Heat the oven to 375°F (190°C) with a rack in the middle and grease a 9x13 in (23x33 cm) baking dish with the 1 tbsp softened butter, working it up the sides as well as across the base. Spread a thin layer of besciamella over that, about 1/2 cup (120 ml), just enough to film the bottom. That slick of fat and sauce keeps the first pasta layer from gluing itself to the dish, which is what tears the bottom sheet when you try to serve. Do this before you start layering, because once your hands are covered in ragu you will not want to stop."
         },
         {
           "title": "Layer it properly",
@@ -708,6 +712,7 @@
           "items": [
             "1 lb (450 g) large shrimp (21/25 count), peeled and deveined, tails off",
             "12 oz (340 g) linguine",
+            "5 qt (4.7 L) water, for the pasta",
             "2 tbsp (30 g) kosher salt, for the pasta water",
             "1 tsp kosher salt and 1/2 tsp black pepper, for the shrimp",
             "3 tbsp (45 ml) olive oil",
@@ -715,7 +720,7 @@
             "6 garlic cloves, thinly sliced",
             "1/2 tsp red pepper flakes",
             "3/4 cup (180 ml) dry white wine such as Pinot Grigio",
-            "3 tbsp (45 ml) fresh lemon juice, plus 1 tsp finely grated zest",
+            "3 tbsp (45 ml) fresh lemon juice plus 1 tsp finely grated zest (about 2 lemons), plus 1 more lemon cut into wedges for serving",
             "1/3 cup (13 g) chopped fresh flat-leaf parsley"
           ]
         }
@@ -751,7 +756,7 @@
         },
         {
           "title": "Reserve the pasta water",
-          "text": "Scoop out 1 cup (240 ml) of the starchy pasta water before draining. This is what will bind the butter into the wine so the sauce clings to the linguine instead of pooling. Keep it hot right beside the pan."
+          "text": "Scoop out 1 cup (240 ml) of the starchy pasta water before draining, dipping a heatproof mug straight into the pot. This is what will bind the butter into the wine so the sauce clings to the linguine instead of pooling at the bottom of the bowl. Starch molecules coat the fat droplets and hold them suspended in the liquid, which is the same trick behind every pan sauce in this chapter. Keep the mug hot right beside the pan, because cold water dropped into a butter sauce will break it."
         },
         {
           "title": "Mount the butter",
@@ -763,7 +768,7 @@
         },
         {
           "title": "Return the shrimp and serve",
-          "text": "Fold the shrimp and any collected juices back into the pan and toss for 30-45 seconds, just until they are heated through and opaque all the way to the center, 145°F (63°C). Kill the heat, add the parsley, and toss once more. Serve immediately in warm bowls with an extra squeeze of lemon."
+          "text": "Fold the shrimp and any collected juices back into the pan and toss for 30-45 seconds, just until they are heated through and opaque all the way to the center, 145°F (63°C). Kill the heat, add the parsley, and toss once more. Serve immediately in warm bowls with the lemon wedges alongside."
         }
       ],
       "tips": [
@@ -815,6 +820,7 @@
           "group": "Pasta and finish",
           "items": [
             "1 lb (450 g) penne rigate or rigatoni",
+            "5 qt (4.7 L) water, for the pasta",
             "2 tbsp (30 g) kosher salt, for the pasta water",
             "2 oz (55 g) Parmigiano-Reggiano, finely grated, plus more for serving",
             "1/4 cup (10 g) fresh basil leaves, torn"
@@ -828,7 +834,7 @@
         },
         {
           "title": "Add garlic and chili",
-          "text": "Stir in the minced garlic and 1/2 tsp red pepper flakes and cook 45-60 seconds until fragrant. Keep it moving because minced garlic burns much faster than sliced. The pan should smell sweet and sharp, not toasted."
+          "text": "Stir in the minced garlic and 1/2 tsp red pepper flakes and cook 45-60 seconds until fragrant. Keep it moving with a wooden spoon, because minced garlic has far more surface area than sliced and can go from raw to scorched in under a minute at this heat. The flakes need those few seconds in hot fat to release their color and warmth into the oil rather than sitting as dry specks in the finished sauce. The pan should smell sweet and sharp, not toasted — if you see any brown edges on the garlic, pull the pan off the burner and move straight to the tomato paste."
         },
         {
           "title": "Cook the tomato paste properly",
@@ -856,7 +862,7 @@
         },
         {
           "title": "Reserve water and drain",
-          "text": "Scoop out 1 1/2 cups (360 ml) of pasta water, then drain the penne. Do not rinse it; the starch on the surface is what will help the sauce cling to every tube. Move fast so the pasta does not sit and clump."
+          "text": "Scoop out 1 1/2 cups (360 ml) of pasta water, then drain the penne in a colander. Do not rinse it under the tap, however tempting — the starch on the surface is exactly what helps the sauce grip the ridges instead of sliding off into a puddle. Move fast and give the colander a shake, because penne left standing in a heap fuses together within a couple of minutes. Keep the reserved water hot next to the stove so you are always adding warm liquid to a warm pan."
         },
         {
           "title": "Finish the pasta in the sauce",
@@ -900,7 +906,7 @@
             "2 garlic cloves, peeled and halved with the green germ removed",
             "1/2 tsp coarse sea salt",
             "2/3 cup (160 ml) mild extra-virgin olive oil (Ligurian if you can find it)",
-            "2 oz (55 g) Parmigiano-Reggiano, finely grated",
+            "2 oz (55 g) Parmigiano-Reggiano, finely grated, plus more for serving",
             "1 oz (30 g) Pecorino Sardo or Pecorino Romano, finely grated"
           ]
         },
@@ -990,8 +996,9 @@
           "group": "Ingredients",
           "items": [
             "2 lb (900 g) littleneck or Manila clams, in the shell",
-            "1/4 cup (72 g) kosher salt, for purging the clams",
+            "1/3 cup (80 g) kosher salt dissolved in 4 qt (3.8 L) cold water, for purging the clams",
             "1 lb (450 g) linguine",
+            "5 qt (4.7 L) water, for the pasta",
             "2 tbsp (30 g) kosher salt, for the pasta water",
             "1/3 cup (80 ml) extra-virgin olive oil, plus more for finishing",
             "6 garlic cloves, thinly sliced",
@@ -1006,7 +1013,7 @@
       "instructions": [
         {
           "title": "Purge the clams",
-          "text": "Dissolve the 1/4 cup (72 g) kosher salt in 4 qt (3.8 L) of cold water and submerge the clams for 1 hour in the refrigerator. Salt water tricks them into breathing normally and spitting out the sand trapped inside, and you will see grit on the bottom of the bowl afterward. Lift the clams out with your hands rather than pouring, so the sand stays behind."
+          "text": "Dissolve the 1/3 cup (80 g) kosher salt in 4 qt (3.8 L) of cold water — roughly the salinity of seawater — and submerge the clams for 1 hour in the refrigerator. Water any fresher than this kills them instead of relaxing them, which is why plain tap water is the classic mistake. Salt water at the right strength tricks them into breathing normally and spitting out the sand trapped inside, and you will see grit on the bottom of the bowl afterward. Lift the clams out with your hands rather than pouring, so the sand stays behind."
         },
         {
           "title": "Sort out the dead ones",
@@ -1018,7 +1025,7 @@
         },
         {
           "title": "Boil the water",
-          "text": "Bring 5 qt (4.7 L) of water to a rolling boil with 2 tbsp (30 g) kosher salt. Salt a little lighter than usual because the clam liquor is genuinely salty and will season the sauce all on its own. Do not start the pasta yet."
+          "text": "Bring 5 qt (4.7 L) of water to a rolling boil with 2 tbsp (30 g) kosher salt. Salt a little lighter than usual because the clam liquor is genuinely salty and will season the finished sauce all on its own — over-salt here and there is no way to walk it back. Do not start the pasta yet; the clams and the linguine need to go in at the same moment so they finish together. Get the pot to a full boil and then just hold it there while you work on the clams."
         },
         {
           "title": "Infuse the oil",
@@ -1076,14 +1083,15 @@
       "servings": "8 servings",
       "prepTime": "20 min",
       "cookTime": "50 min",
-      "totalTime": "1 hr 10 min",
+      "totalTime": "1 hr 20 min (includes 10 min rest)",
       "ingredients": [
         {
           "group": "Pasta",
           "items": [
             "1 lb (450 g) elbow macaroni or cavatappi",
             "5 qt (4.7 L) water",
-            "2 tbsp (30 g) kosher salt, for the pasta water"
+            "2 tbsp (30 g) kosher salt, for the pasta water",
+            "1 tbsp (14 g) unsalted butter, for tossing the drained pasta"
           ]
         },
         {
@@ -1183,8 +1191,8 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "35 min",
-      "cookTime": "50 min",
-      "totalTime": "1 hr 25 min",
+      "cookTime": "55 min",
+      "totalTime": "1 hr 40 min (includes 10 min rest)",
       "ingredients": [
         {
           "group": "Shells and sauce",
@@ -1199,12 +1207,12 @@
         {
           "group": "Ricotta filling",
           "items": [
-            "2 lb (900 g) whole-milk ricotta, drained if watery",
+            "1 1/2 lb (680 g) whole-milk ricotta, drained if watery",
             "10 oz (285 g) frozen chopped spinach, thawed and squeezed very dry",
             "1 large egg, lightly beaten",
-            "4 oz (115 g) Parmigiano-Reggiano, finely grated",
+            "4 oz (115 g) Parmigiano-Reggiano, finely grated, plus more for the table",
             "8 oz (225 g) low-moisture whole-milk mozzarella, shredded, divided",
-            "1/4 cup (10 g) chopped fresh basil",
+            "1/4 cup (10 g) chopped fresh basil, plus a few whole leaves for serving",
             "2 tbsp (8 g) chopped fresh flat-leaf parsley",
             "1 1/4 tsp kosher salt",
             "1/2 tsp black pepper",
@@ -1244,7 +1252,7 @@
         },
         {
           "title": "Fill the shells",
-          "text": "Spoon the filling into a zip-top bag, snip 3/4 in (2 cm) off one corner, and pipe about 2 tbsp (30 g) into each shell. A bag is dramatically faster and neater than a spoon, and it packs the filling in without splitting the pasta. Do not overstuff or the filling pushes out as it heats and expands."
+          "text": "Spoon the filling into a zip-top bag, snip 3/4 in (2 cm) off one corner, and pipe about 3 tbsp (45 g) into each shell. That is the amount that fills a jumbo shell to the rim without bulging, and it works out so that 24 shells use the bowl of filling almost exactly — if you are running ahead or behind, adjust on the next few. A bag is dramatically faster and neater than a spoon, and it packs the filling in without splitting the pasta. Do not overstuff, or the filling pushes out and scorches on the pan as it heats and expands."
         },
         {
           "title": "Nestle them in the sauce",
@@ -1313,9 +1321,9 @@
             "3 tbsp (45 ml) olive oil",
             "4 tbsp (55 g) unsalted butter, cold, cut into 4 pieces",
             "1/3 cup (80 ml) heavy cream",
-            "3 oz (85 g) Parmigiano-Reggiano, finely grated",
+            "3 oz (85 g) Parmigiano-Reggiano, finely grated, plus more for serving",
             "1 tbsp (15 ml) fresh lemon juice plus 1 tsp finely grated zest",
-            "1/4 cup (10 g) chopped fresh basil and 2 tbsp (8 g) chopped mint",
+            "1/4 cup (10 g) chopped fresh basil, plus a few whole leaves for serving, and 2 tbsp (8 g) chopped mint",
             "1 tsp kosher salt and 1/2 tsp black pepper"
           ]
         }
@@ -1347,11 +1355,11 @@
         },
         {
           "title": "Cook the pasta al dente",
-          "text": "Add the pasta to the still-boiling salted water and cook 1 minute less than the package time, about 9 minutes for farfalle. Stir in the first 30 seconds so it does not stick. It gets a final minute in the pan with the sauce."
+          "text": "Add the pasta to the still-boiling salted water — the same water you blanched the greens in, which is now faintly vegetal and all the better for it — and cook 1 minute less than the package time, about 9 minutes for farfalle. Stir for the first 30 seconds so the pieces do not stick to each other or to the bottom. Farfalle is worth watching because the pinched center stays firm longer than the wings, so bite the middle of one to judge it. It gets a final minute in the pan with the sauce, which is where it finishes."
         },
         {
           "title": "Reserve the water",
-          "text": "Scoop out 1 1/2 cups (360 ml) of pasta water before draining. It is doing double duty here — thinning the cream and binding the butter into a sauce that clings. Keep it hot beside the pan."
+          "text": "Scoop out 1 1/2 cups (360 ml) of pasta water before draining, then drain the pasta without rinsing it. This water is doing double duty here: it thins the cream to a coating consistency and its starch binds the cold butter into a sauce that clings rather than pooling. Because you cooked vegetables in this pot too, it carries a little of their flavor as well. Keep it hot beside the pan, since cold liquid dropped into a butter emulsion will split it in seconds."
         },
         {
           "title": "Build the sauce",

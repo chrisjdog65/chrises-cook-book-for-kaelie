@@ -286,7 +286,7 @@
         },
         {
           "title": "Add garlic and jalapeno",
-          "text": "Stir in the minced garlic and jalapeno and cook for 60 to 90 seconds, just until fragrant. Garlic burns fast at this heat and turns acrid, so keep it moving and do not let it brown past pale gold. If the pot looks dry, add a tablespoon of oil."
+          "text": "Stir in the 5 minced garlic cloves and the minced jalapeno and cook for 60 to 90 seconds, just until fragrant. Garlic burns fast at this heat and turns acrid, so keep it moving and do not let it brown past pale gold. Going in now rather than with the onions matters — garlic has almost no water and would scorch long before the poblanos softened. If the pot looks dry, add a tablespoon of oil so the garlic fries rather than sticks."
         },
         {
           "title": "Bloom the spices",
@@ -339,8 +339,8 @@
       "difficulty": "Medium",
       "servings": "4 servings",
       "prepTime": "20 min",
-      "cookTime": "1 hr 25 min",
-      "totalTime": "1 hr 45 min",
+      "cookTime": "1 hr 45 min",
+      "totalTime": "2 hr 5 min",
       "ingredients": [
         {
           "group": "The onions",
@@ -393,7 +393,7 @@
         },
         {
           "title": "Deglaze with water, again and again",
-          "text": "Every 10 minutes or so, a brown glaze will build on the bottom of the pot — that is fond, caramelized onion sugar, and it is the flavor you are actually after. Splash in 2 tbsp (30 ml) of the water and scrape it up with a wooden spoon until the bottom is clean and the onions absorb the color. Repeat this three or four times over the hour, using up the 1 cup (240 ml) of water. Each round makes the onions a shade darker and the finished soup deeper."
+          "text": "Every 10 minutes or so, a brown glaze will build on the bottom of the pot — that is fond, caramelized onion sugar, and it is the flavor you are actually after. Splash in 1/4 cup (60 ml) of the water and scrape it up with a wooden spoon until the bottom is clean and the onions absorb the color. Repeat this three or four times over the hour, using up the full 1 cup (240 ml) of water. Each round makes the onions a shade darker and the finished soup deeper."
         },
         {
           "title": "Deglaze with sherry",
@@ -417,7 +417,7 @@
         },
         {
           "title": "Broil until bubbling",
-          "text": "Set an oven rack 6 in (15 cm) below the broiler element, turn the broiler to high, and broil the bowls for 3 to 5 minutes. Do not walk away — cheese goes from bubbling to burnt in under 30 seconds. You want the surface molten with dark blistered spots. Let the crocks rest 5 minutes before serving; the soup underneath is well over 200°F (93°C) and will scald a mouth."
+          "text": "Set an oven rack 6 in (15 cm) below the broiler element, turn the broiler to high — around 500°F (260°C) at the element — and broil the bowls for 3 to 5 minutes. Do not walk away — cheese goes from bubbling to burnt in under 30 seconds. You want the surface molten with dark blistered spots. Let the crocks rest 5 minutes before serving; the soup underneath is well over 200°F (93°C) and will scald a mouth."
         }
       ],
       "tips": [
@@ -438,12 +438,12 @@
       "title": "Creamy Tomato Soup",
       "emoji": "🍅",
       "art": "soup",
-      "blurb": "Velvety, deeply tomato, and ready in half an hour from a couple of cans you already have. This is the version that makes a grilled cheese feel like a real dinner.",
+      "blurb": "Velvety, deeply tomato, and on the table in about forty minutes from a couple of cans you already have. This is the version that makes a grilled cheese feel like a real dinner.",
       "difficulty": "Easy",
       "servings": "4 servings",
       "prepTime": "10 min",
-      "cookTime": "20 min",
-      "totalTime": "30 min",
+      "cookTime": "30 min",
+      "totalTime": "40 min",
       "ingredients": [
         {
           "group": "Ingredients",
@@ -513,7 +513,7 @@
       "pairing": "A sharp cheddar grilled cheese cut into dipping fingers, and a glass of Chianti or just very cold milk.",
       "videoQuery": "creamy tomato soup canned tomatoes recipe",
       "photoQuery": "creamy tomato soup bowl basil swirl",
-      "tags": ["30 Minutes", "Comfort Food", "Blender"]
+      "tags": ["Weeknight", "Comfort Food", "Blender"]
     },
     {
       "id": "chicken-noodle-soup-from-scratch",
@@ -524,8 +524,8 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "25 min",
-      "cookTime": "2 hr",
-      "totalTime": "2 hr 25 min",
+      "cookTime": "2 hr 45 min",
+      "totalTime": "3 hr 10 min",
       "ingredients": [
         {
           "group": "The stock",
@@ -538,7 +538,7 @@
             "8 parsley stems",
             "2 bay leaves",
             "1 tsp whole black peppercorns",
-            "1 tbsp (18 g) kosher salt"
+            "1 tbsp (15 g) kosher salt"
           ]
         },
         {
@@ -550,7 +550,7 @@
             "3 celery ribs (about 6 oz / 170 g), sliced 1/4 in (6 mm) thick",
             "1 1/2 tsp kosher salt, plus more to taste",
             "8 oz (225 g) wide egg noodles",
-            "3 tbsp (12 g) chopped fresh dill",
+            "3 tbsp (7 g) chopped fresh dill",
             "2 tbsp (8 g) chopped fresh parsley",
             "1 tbsp (15 ml) fresh lemon juice"
           ]
@@ -624,8 +624,8 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "30 min",
-      "cookTime": "3 hr",
-      "totalTime": "3 hr 30 min",
+      "cookTime": "3 hr 40 min",
+      "totalTime": "4 hr 25 min",
       "ingredients": [
         {
           "group": "The beef",
@@ -690,7 +690,7 @@
         },
         {
           "title": "Toast the tomato paste",
-          "text": "Stir in the 3 tbsp tomato paste and cook it for 2 minutes, spreading it against the bottom of the pot. It should darken to brick red and smell sweet and concentrated rather than raw. This adds glutamates for savoriness and gives the finished gravy its deep color."
+          "text": "Stir in the 3 tbsp tomato paste and cook it for 2 minutes, spreading it against the bottom of the pot with your spoon so as much of it as possible touches hot metal. It should darken from bright red to brick and smell sweet and concentrated rather than raw and tinny. This adds glutamates for savoriness and gives the finished gravy its deep color. Untoasted paste stays sour and sharp even after three hours in the oven, so the two minutes here are not optional."
         },
         {
           "title": "Reduce the wine",
@@ -731,12 +731,12 @@
       "title": "Chicken and Dumplings",
       "emoji": "🥣",
       "art": "stew",
-      "blurb": "A creamy chicken stew with fluffy buttermilk dumplings steamed right on top, lid on, no peeking. It is the most comforting thing in this book and it takes under 90 minutes.",
+      "blurb": "A creamy chicken stew with fluffy buttermilk dumplings steamed right on top, lid on, no peeking. It is the most comforting thing in this book and it lands on the table in under two hours.",
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "25 min",
-      "cookTime": "1 hr",
-      "totalTime": "1 hr 25 min",
+      "cookTime": "1 hr 20 min",
+      "totalTime": "1 hr 45 min",
       "ingredients": [
         {
           "group": "The stew",
@@ -749,7 +749,7 @@
             "1 large onion (about 10 oz / 280 g), diced",
             "3 carrots (about 8 oz / 225 g), sliced 1/4 in (6 mm) thick",
             "3 celery ribs, sliced 1/4 in (6 mm) thick",
-            "1/3 cup (40 g) all-purpose flour",
+            "1/2 cup (60 g) all-purpose flour",
             "6 cups (1.4 L) low-sodium chicken broth",
             "6 sprigs fresh thyme",
             "2 bay leaves",
@@ -760,7 +760,7 @@
         {
           "group": "Buttermilk dumplings",
           "items": [
-            "2 cups (250 g) all-purpose flour",
+            "2 cups (240 g) all-purpose flour",
             "1 tbsp (12 g) baking powder",
             "1 tsp kosher salt",
             "1/2 tsp baking soda",
@@ -785,7 +785,7 @@
         },
         {
           "title": "Make the roux",
-          "text": "Sprinkle the 1/3 cup flour over the vegetables and stir constantly for 2 minutes. It will look pasty and coat everything, which is correct — you are cooking out the raw flour taste so the stew does not taste like paste. Keep it moving so nothing scorches on the bottom."
+          "text": "Sprinkle the 1/2 cup (60 g) flour over the vegetables and stir constantly for 2 minutes. It will look pasty and coat everything, which is correct — you are cooking out the raw flour taste so the stew does not taste like wallpaper paste. That much flour against 6 cups of broth is what gives you a gravy thick enough to hold the dumplings up on the surface instead of letting them sink and turn gluey. Keep it moving so nothing scorches on the bottom."
         },
         {
           "title": "Add the broth gradually",
@@ -813,7 +813,7 @@
         },
         {
           "title": "Lid on, no peeking",
-          "text": "Cover tightly, lower the heat to keep a gentle simmer, and cook for 15 minutes without lifting the lid once. The dumplings cook by trapped steam, and every peek lets that steam out and gives you a dense, gummy center. Set a timer and walk away."
+          "text": "Cover tightly, lower the heat to keep a gentle simmer, and cook for 15 minutes without lifting the lid once. The dumplings cook by trapped steam, and every peek drops the temperature under the lid and gives you a dense, gummy center instead of an airy one. A heavy lid that actually seals matters more here than the burner setting. Set a timer, put your hands in your pockets, and walk away."
         },
         {
           "title": "Check and serve",
@@ -824,7 +824,7 @@
         "No buttermilk? Stir 1 tbsp (15 ml) lemon juice or white vinegar into 1 cup (240 ml) whole milk and let it sit 10 minutes. The acid is what reacts with the baking soda to make the dumplings rise.",
         "Mix the dumpling dough only when the stew is already simmering. Baking powder starts working the moment it hits liquid, and dough that sits on the counter loses its lift.",
         "Leftovers keep 3 days but the dumplings soak up liquid overnight. Store them separated from the stew if you can, and reheat gently covered with a splash of broth.",
-        "Bone-in thighs give you more flavor and gelatin than breasts and are almost impossible to overcook. If you must use breasts, pull them at exactly 160°F (71°C) and let carryover finish the job.",
+        "Bone-in thighs give you more flavor and gelatin than breasts and are almost impossible to overcook. If you must use breasts, add them 10 minutes later and take them out the moment an instant-read thermometer reads 165°F (74°C) in the thickest part — that is the safe number for poultry, and one minute past it they go chalky.",
         "For a lighter, more Southern-style pot, skip the cream and add an extra cup (240 ml) of broth — the roux alone gives plenty of body."
       ],
       "keyTemp": "Chicken must reach 165°F (74°C) at the thickest part of the thigh, though 175°F (79°C) makes dark meat more tender. Dumplings are done at about 200°F (93°C) in the center, when a toothpick comes out clean after 15 covered minutes.",
@@ -842,8 +842,8 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "25 min",
-      "cookTime": "45 min",
-      "totalTime": "1 hr 10 min",
+      "cookTime": "55 min",
+      "totalTime": "1 hr 35 min",
       "ingredients": [
         {
           "group": "The clams",
@@ -861,7 +861,7 @@
             "2 tbsp (28 g) unsalted butter",
             "1 large onion (about 10 oz / 280 g), finely diced",
             "2 celery ribs, finely diced",
-            "1/4 cup (30 g) all-purpose flour",
+            "1/3 cup (40 g) all-purpose flour",
             "1 1/2 lb (680 g) Yukon Gold potatoes, cut into 1/2 in (1 cm) cubes",
             "1 cup (240 ml) bottled clam juice, if needed to top up",
             "4 sprigs fresh thyme",
@@ -901,7 +901,7 @@
         },
         {
           "title": "Make the roux",
-          "text": "Sprinkle the 1/4 cup flour over the vegetables and stir constantly for 2 full minutes. It should smell faintly nutty like pie crust but stay pale blond. This cooks out the raw flour flavor while keeping the color light, and it is what gives chowder its spoon-coating body without turning it into wallpaper paste."
+          "text": "Sprinkle the 1/3 cup (40 g) flour over the vegetables and stir constantly for 2 full minutes. It should smell faintly nutty like pie crust but stay pale blond. This cooks out the raw flour flavor while keeping the color light, and it is what gives chowder its spoon-coating body without turning it into wallpaper paste. That much flour is roughly matched to the bacon fat and butter already in the pot, which is what keeps the finished chowder thick rather than greasy."
         },
         {
           "title": "Add the liquor and potatoes",
@@ -930,7 +930,7 @@
       "keyTemp": "Clams are cooked the instant their shells open, usually within 5-8 minutes of steaming — discard any that stay closed. Once the dairy goes in, hold the chowder at 180-190°F (82-88°C) and never let it boil.",
       "pairing": "Oyster crackers and a cold crisp lager, or a squeeze of lemon and a glass of unoaked white like Muscadet.",
       "videoQuery": "new england clam chowder fresh clams recipe",
-      "photoQuery": "new england clam chowder bowl bacon parsley",
+      "photoQuery": "new england clam chowder bowl",
       "tags": ["Seafood", "Creamy", "Classic New England"]
     },
     {
@@ -938,12 +938,12 @@
       "title": "Broccoli Cheddar Soup",
       "emoji": "🥦",
       "art": "soup",
-      "blurb": "Thick, orange, and full of tender broccoli and sharp cheddar, done in forty minutes in one pot. The trick is grating your own cheese and adding it off the heat so it never goes grainy.",
+      "blurb": "Thick, orange, and full of tender broccoli and sharp cheddar, done in under an hour in one pot. The trick is grating your own cheese and adding it off the heat so it never goes grainy.",
       "difficulty": "Easy",
       "servings": "4 servings",
       "prepTime": "15 min",
-      "cookTime": "25 min",
-      "totalTime": "40 min",
+      "cookTime": "35 min",
+      "totalTime": "50 min",
       "ingredients": [
         {
           "group": "Ingredients",
@@ -952,7 +952,7 @@
             "4 tbsp (55 g) unsalted butter",
             "1 medium yellow onion (about 8 oz / 225 g), finely diced",
             "2 garlic cloves, minced",
-            "1/4 cup (30 g) all-purpose flour",
+            "1/3 cup (40 g) all-purpose flour",
             "2 cups (480 ml) low-sodium chicken or vegetable broth",
             "2 cups (480 ml) whole milk",
             "1 cup (240 ml) half-and-half",
@@ -977,7 +977,7 @@
         },
         {
           "title": "Make a blond roux",
-          "text": "Sprinkle the 1/4 cup flour over the onions and stir constantly for 2 minutes. The mixture will clump into a paste and smell like toasting pie crust — that is the raw flour taste cooking off. Keep it moving and do not let it brown; a blond roux thickens more powerfully than a dark one and keeps the soup light in color."
+          "text": "Sprinkle the 1/3 cup (40 g) flour over the onions and stir constantly for 2 minutes, then stir in the 1/2 tsp dry mustard, 1/4 tsp nutmeg, and 1/8 tsp cayenne. The mixture will clump into a paste and smell like toasting pie crust — that is the raw flour taste cooking off, and the dry spices need this same hot-fat contact or the mustard will taste raw and dusty in the finished bowl. Keep it moving and do not let it brown; a blond roux thickens more powerfully than a dark one and keeps the soup light in color. Forty grams of flour against five cups of liquid is what makes this thick enough to stand a spoon in."
         },
         {
           "title": "Whisk in the liquids",
@@ -1001,7 +1001,7 @@
         },
         {
           "title": "Season and serve",
-          "text": "Stir in the dry mustard, nutmeg, and cayenne — none of them will read as themselves, but together they make the cheddar taste twice as cheesy. Taste and add salt 1/4 tsp at a time. Serve immediately in warm bowls, ideally in a hollowed-out sourdough round or with crusty bread for dipping."
+          "text": "Taste and add salt 1/4 tsp at a time until the cheddar snaps into focus — the mustard, nutmeg, and cayenne you bloomed into the roux will not read as themselves, but together they make the cheese taste twice as cheesy. If the soup has gone thicker than you like while the cheese melted, loosen it with a splash of warm broth rather than water. Serve immediately in warm bowls, ideally in a hollowed-out sourdough round or with crusty bread for dipping. This one does not sit well, so ladle it while everyone is already at the table."
         }
       ],
       "tips": [
@@ -1026,8 +1026,8 @@
       "difficulty": "Easy",
       "servings": "6 servings",
       "prepTime": "15 min",
-      "cookTime": "1 hr",
-      "totalTime": "1 hr 15 min",
+      "cookTime": "1 hr 10 min",
+      "totalTime": "1 hr 25 min",
       "ingredients": [
         {
           "group": "To roast",
@@ -1042,7 +1042,7 @@
         {
           "group": "The soup",
           "items": [
-            "3 tbsp (42 g) unsalted butter",
+            "4 tbsp (55 g) unsalted butter, divided (3 tbsp for the soup, 1 tbsp for frying the sage)",
             "1 large yellow onion (about 10 oz / 280 g), roughly chopped",
             "1 Honeycrisp or Gala apple (about 7 oz / 200 g), peeled and chopped",
             "8 fresh sage leaves, plus 6 more for frying",
@@ -1083,7 +1083,7 @@
         },
         {
           "title": "Simmer briefly",
-          "text": "Pour in the 4 cups (960 ml) broth, stir to break up the squash, and simmer for 10 minutes so the flavors come together. Everything is already cooked, so this is about marrying rather than softening. Scrape the bottom occasionally since thick purees scorch easily."
+          "text": "Pour in the 4 cups (960 ml) broth, stir to break up the squash, and simmer for 10 minutes so the flavors come together. Everything in the pot is already cooked, so this is about marrying rather than softening — the apple and onion give up their sweetness into the broth and the roasted squash loosens enough to blend. Scrape the bottom every couple of minutes with a flat spoon, since a thick puree like this scorches far more easily than a thin soup. Four cups of broth to roughly four cups of squash gives a soup that is thick but still pourable."
         },
         {
           "title": "Blend until silky",
@@ -1091,7 +1091,7 @@
         },
         {
           "title": "Finish and balance",
-          "text": "Stir in the 1/2 cup (120 ml) cream, 1 tbsp maple syrup, and 2 tsp cider vinegar over low heat and warm through to about 180°F (82°C) without boiling. Taste carefully: it should be sweet, savory, and just barely tangy. If it tastes flat, it almost always needs salt or a little more vinegar rather than more sugar. Meanwhile, fry the remaining 6 sage leaves in a little butter for 20 seconds until crisp and float them on top."
+          "text": "Stir in the 1/2 cup (120 ml) cream, 1 tbsp maple syrup, and 2 tsp cider vinegar over low heat and warm through to about 180°F (82°C) without boiling. Taste carefully: it should be sweet, savory, and just barely tangy. If it tastes flat, it almost always needs salt or a little more vinegar rather than more sugar. Meanwhile, fry the remaining 6 sage leaves in the reserved 1 tbsp butter in a small skillet for about 20 seconds a side, until they stop sizzling and go crisp, then drain them on a paper towel and float them on top."
         }
       ],
       "tips": [
@@ -1104,7 +1104,7 @@
       "keyTemp": "Roast at 425°F (220°C) for 45-55 minutes, until a knife meets no resistance and the cut faces are deeply browned. Finish the soup below 190°F (88°C) after the cream goes in so it never boils.",
       "pairing": "A crusty baguette with salted butter, and a glass of off-dry Riesling or hard cider.",
       "videoQuery": "roasted butternut squash soup sage recipe",
-      "photoQuery": "butternut squash soup bowl cream swirl sage",
+      "photoQuery": "butternut squash soup bowl sage",
       "tags": ["Fall Cooking", "Blender", "Make Ahead"]
     },
     {
@@ -1116,8 +1116,8 @@
       "difficulty": "Medium",
       "servings": "6 servings",
       "prepTime": "25 min",
-      "cookTime": "50 min",
-      "totalTime": "1 hr 15 min",
+      "cookTime": "1 hr 20 min",
+      "totalTime": "1 hr 45 min",
       "ingredients": [
         {
           "group": "Soffritto",
@@ -1145,7 +1145,7 @@
             "8 oz (225 g) Yukon Gold potatoes, cut in 1/2 in (1 cm) cubes",
             "1 medium zucchini (about 8 oz / 225 g), cut in 1/2 in (1 cm) half moons",
             "6 oz (170 g) green beans, cut into 1 in (2.5 cm) lengths",
-            "3/4 cup (140 g) ditalini or small shell pasta",
+            "1 cup (115 g) dried ditalini or small shell pasta",
             "4 cups (120 g) chopped lacinato kale or savoy cabbage"
           ]
         },
@@ -1174,7 +1174,7 @@
         },
         {
           "title": "Toast the tomato paste",
-          "text": "Push the vegetables aside, add the 2 tbsp tomato paste to the bare pot, and fry it for 90 seconds until it darkens to brick red. Stir it through the soffritto. This small step adds concentrated savoriness and deepens the color of the finished broth."
+          "text": "Push the vegetables aside, add the 2 tbsp tomato paste to the bare spot on the pot bottom, and fry it undisturbed for 90 seconds until it darkens from bright red to brick and smells sweet instead of tinny. Stir it through the soffritto so every piece is coated. This small step caramelizes the sugars in the paste and adds concentrated savoriness that raw paste simply cannot give you. It is also what keeps the finished broth a deep russet rather than a washed-out pink."
         },
         {
           "title": "Add and reduce the tomatoes",
@@ -1190,15 +1190,15 @@
         },
         {
           "title": "Add the quick vegetables",
-          "text": "Add the zucchini and green beans and simmer 6 to 8 minutes, just until crisp-tender and still bright. These go in late on purpose — 40 minutes of simmering turns zucchini into gray mush and green beans into string. Taste the broth now and adjust the salt."
+          "text": "Add the zucchini half moons and the cut green beans and simmer 6 to 8 minutes, just until crisp-tender and still bright green. These go in late on purpose — 40 minutes of simmering turns zucchini into gray mush and green beans into limp string, which is why so much homemade minestrone tastes tired. A knife tip should meet a little resistance when you pull them off. Taste the broth now and adjust the salt, remembering the pasta still has to go in and will soak some up."
         },
         {
           "title": "Cook the pasta",
-          "text": "Stir in the 3/4 cup (140 g) ditalini and cook for the time on the package, usually 8 to 9 minutes, until just al dente. If you plan on leftovers, boil the pasta separately in salted water instead and add it to each bowl, because pasta left in soup overnight swells into paste and drinks all the broth. Stir occasionally so it does not stick to the bottom."
+          "text": "Stir in the 1 cup (115 g) ditalini and cook for the time on the package, usually 8 to 9 minutes, until just al dente. That is deliberately a modest amount of pasta for 8 cups of broth — minestrone is a vegetable soup with pasta in it, not pasta in broth. If you plan on leftovers, boil the pasta separately in salted water instead and add it to each bowl, because pasta left in soup overnight swells into paste and drinks all the broth. Stir occasionally so it does not stick to the bottom."
         },
         {
           "title": "Wilt in the greens",
-          "text": "Add the chopped kale or cabbage in handfuls, stirring each one down before the next, and cook 4 to 5 minutes until tender but still deep green. Kale needs the full 5 minutes; spinach would need only 60 seconds. Remove the Parmesan rind and bay leaves."
+          "text": "Add the 4 cups chopped kale or cabbage in handfuls, stirring each one down into the broth before the next goes in, and cook 4 to 5 minutes until tender but still deep green. Adding it all at once just mounds it above the liquid where it steams unevenly. Lacinato kale needs the full 5 minutes to lose its rawness; savoy cabbage wants about the same, while spinach would need only 60 seconds. Fish out the Parmesan rind and the bay leaves now, before they disappear into a bowl."
         },
         {
           "title": "Finish in the bowl",
@@ -1223,12 +1223,12 @@
       "title": "Chicken Tortilla Soup",
       "emoji": "🌽",
       "art": "soup",
-      "blurb": "The real Mexican version, where you char the tomatoes and toast the chiles, blend them, and fry the puree before adding broth. It takes under an hour and tastes like nothing that comes from a jar of salsa.",
+      "blurb": "The real Mexican version, where you char the tomatoes and toast the chiles, blend them, and fry the puree before adding broth. It takes about an hour and a half and tastes like nothing that comes from a jar of salsa.",
       "difficulty": "Easy",
       "servings": "4 servings",
       "prepTime": "15 min",
-      "cookTime": "40 min",
-      "totalTime": "55 min",
+      "cookTime": "1 hr 10 min",
+      "totalTime": "1 hr 25 min",
       "ingredients": [
         {
           "group": "The base",

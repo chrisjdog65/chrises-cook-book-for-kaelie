@@ -1353,7 +1353,7 @@
       "pairing": "Fried eggs, thick bacon, and hot sauce — the classic diner plate.",
       "videoQuery": "crispy hash browns cast iron skillet",
       "photoQuery": "crispy golden hash browns skillet",
-      "tags": ["30 Minutes", "One Pan", "Vegetarian"]
+      "tags": ["Diner Classic", "One Pan", "Vegetarian"]
     },
     {
       "id": "diner-breakfast-sandwich",
@@ -1442,7 +1442,7 @@
       "servings": "2 to 3 servings",
       "prepTime": "10 min",
       "cookTime": "22 min",
-      "totalTime": "32 min",
+      "totalTime": "45 min including the 20 minute skillet preheat",
       "ingredients": [
         {
           "group": "Batter",
@@ -1519,7 +1519,7 @@
       "pairing": "Fresh berries and cream, or crisp bacon and hot coffee if you want to balance the sweetness.",
       "videoQuery": "dutch baby pancake cast iron recipe",
       "photoQuery": "dutch baby pancake skillet lemon",
-      "tags": ["30 Minutes", "Brunch", "Cast Iron"]
+      "tags": ["Showstopper", "Brunch", "Cast Iron"]
     }
   ]
 }
