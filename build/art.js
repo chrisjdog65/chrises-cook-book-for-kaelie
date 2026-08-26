@@ -20,20 +20,20 @@ const shadow = (cx = 200, cy = 205, rx = 132, ry = 18) =>
   `<ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="url(#sh)"/>`;
 
 const plate = (cx = 200, cy = 168, rx = 132, ry = 50, c = '#ffffff', inner = '#f2ede4') =>
-  `${shadow(cx, cy + 34, rx * 0.94, 16)}
+  `${shadow(cx, cy + 34, R(rx * 0.94), 16)}
    <ellipse cx="${cx}" cy="${cy + 12}" rx="${rx}" ry="${ry}" fill="#d9d2c6"/>
    <ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="${c}"/>
-   <ellipse cx="${cx}" cy="${cy + 2}" rx="${rx * 0.79}" ry="${ry * 0.76}" fill="${inner}"/>`;
+   <ellipse cx="${cx}" cy="${cy + 2}" rx="${R(rx * 0.79)}" ry="${R(ry * 0.76)}" fill="${inner}"/>`;
 
 /* bowl: returns {back, front} so food can be sandwiched between */
 function bowl(cx = 200, top = 128, rx = 122, depth = 92, outer = '#ffffff', inner = '#ece5d9') {
-  const back = `${shadow(cx, top + depth + 4, rx * 0.8, 15)}
-    <path d="M${cx - rx},${top} Q${cx},${top + depth * 1.9} ${cx + rx},${top} Z" fill="${outer}"/>
-    <path d="M${cx - rx},${top} Q${cx},${top + depth * 1.9} ${cx + rx},${top} Z" fill="url(#bowlSh)"/>
-    <ellipse cx="${cx}" cy="${top}" rx="${rx}" ry="${rx * 0.29}" fill="${inner}"/>`;
-  const front = `<ellipse cx="${cx}" cy="${top}" rx="${rx}" ry="${rx * 0.29}" fill="none" stroke="#ffffff" stroke-width="7" opacity=".95"/>
-    <path d="M${cx - rx + 8},${top + 14} Q${cx},${top + depth * 1.55} ${cx + rx - 8},${top + 14}" fill="none" stroke="#00000010" stroke-width="6"/>`;
-  return { back, front, clip: `<ellipse cx="${cx}" cy="${top}" rx="${rx - 4}" ry="${(rx - 4) * 0.29}"/>` };
+  const back = `${shadow(cx, top + depth + 4, R(rx * 0.8), 15)}
+    <path d="M${cx - rx},${top} Q${cx},${R(top + depth * 1.9)} ${cx + rx},${top} Z" fill="${outer}"/>
+    <path d="M${cx - rx},${top} Q${cx},${R(top + depth * 1.9)} ${cx + rx},${top} Z" fill="url(#bowlSh)"/>
+    <ellipse cx="${cx}" cy="${top}" rx="${rx}" ry="${R(rx * 0.29)}" fill="${inner}"/>`;
+  const front = `<ellipse cx="${cx}" cy="${top}" rx="${rx}" ry="${R(rx * 0.29)}" fill="none" stroke="#ffffff" stroke-width="7" opacity=".95"/>
+    <path d="M${cx - rx + 8},${top + 14} Q${cx},${R(top + depth * 1.55)} ${cx + rx - 8},${top + 14}" fill="none" stroke="#00000010" stroke-width="6"/>`;
+  return { back, front };
 }
 
 const skillet = () => `${shadow(196, 208, 128, 17)}
@@ -53,9 +53,9 @@ const board = () => `${shadow(200, 206, 140, 16)}
 const steam = (x, y, r) => {
   let s = '';
   for (let i = 0; i < 3; i++) {
-    const dx = x + (i - 1) * 34, o = 0.5 - i * 0.08, w = 16 + r() * 8;
-    s += `<path d="M${dx},${y} c-${w},-16 ${w},-28 0,-46 c-${w * 0.7},-14 ${w * 0.7},-22 0,-34"
-            fill="none" stroke="#ffffff" stroke-opacity="${R(o, 2)}" stroke-width="6" stroke-linecap="round"/>`;
+    const dx = x + (i - 1) * 34, o = R(0.5 - i * 0.08, 2), w = R(16 + r() * 8);
+    s += `<path d="M${dx},${y} c-${w},-16 ${w},-28 0,-46 c-${R(w * 0.7)},-14 ${R(w * 0.7)},-22 0,-34"
+            fill="none" stroke="#ffffff" stroke-opacity="${o}" stroke-width="6" stroke-linecap="round"/>`;
   }
   return s;
 };
@@ -89,7 +89,7 @@ const scatter = (r, n, x0, y0, w, h, colors, rad = 3) => {
 const grillMarks = (x, y, w, h, angle = -14, n = 4, c = '#2a1408') => {
   let s = `<g transform="rotate(${angle} ${x + w / 2} ${y + h / 2})" opacity=".55">`;
   for (let i = 0; i < n; i++) {
-    s += `<rect x="${x + 6 + i * (w - 12) / n}" y="${y}" width="7" height="${h}" rx="3.5" fill="${c}"/>`;
+    s += `<rect x="${R(x + 6 + i * (w - 12) / n)}" y="${y}" width="7" height="${h}" rx="3.5" fill="${c}"/>`;
   }
   return s + '</g>';
 };
@@ -392,8 +392,8 @@ D.pasta = (r, v) => {
 D.lasagna = r => `${plate()}
   <g transform="translate(0,-4)">
     <path d="M110,176 L128,96 L292,96 L274,176 z" fill="#e8a94b"/>
-    ${[0, 1, 2].map(i => `
-      <path d="M${112 + i * 2},${168 - i * 24} L${130 + i * 2},${88 - i * 24} L${290 - i * 2},${88 - i * 24} L${272 - i * 2},${168 - i * 24} z" fill="${i % 2 ? '#f3d78f' : '#c8442f'}" opacity="${i === 0 ? 0 : 1}"/>`).join('')}
+    ${[1, 2].map(i => `
+      <path d="M${112 + i * 2},${168 - i * 24} L${130 + i * 2},${88 - i * 24} L${290 - i * 2},${88 - i * 24} L${272 - i * 2},${168 - i * 24} z" fill="${i % 2 ? '#f3d78f' : '#c8442f'}"/>`).join('')}
     <path d="M112,150 L130,70 L290,70 L272,150 z" fill="#c8442f"/>
     <path d="M112,136 L130,56 L290,56 L272,136 z" fill="#f3d78f"/>
     <path d="M112,124 L130,44 L290,44 L272,124 z" fill="#b93b2a"/>
@@ -602,7 +602,7 @@ D.veggie = (r, variant) => {
   if (variant === 1) {                             // spears tied on a plate
     let spears = '';
     for (let i = 0; i < 9; i++) {
-      const x = 128 + i * 18, a = -9 + i * 2.2;
+      const x = 128 + i * 18, a = R(-9 + i * 2.2);
       spears += `<g transform="translate(${x},150) rotate(${a})">
         <rect x="-6" y="-52" width="12" height="104" rx="6" fill="#3f7f34"/>
         <rect x="-4" y="-50" width="8" height="100" rx="4" fill="#5aa347"/>
@@ -1140,9 +1140,7 @@ D.cheese = r => `${board()}
     ${scatter(r, 10, 240, 160, 100, 22, ['#8c1f2c', '#5fa84c'], 5)}
   </g>`;
 
-/* aliases -> nearest existing drawing */
-const ALIAS = { wings: 'wings', roast: 'roast' };
-D.default = D.plateDefault = r => `${plate()}
+D.default = r => `${plate()}
   <ellipse cx="200" cy="160" rx="74" ry="30" fill="#d99a45"/>
   <ellipse cx="200" cy="154" rx="66" ry="25" fill="#e8b264"/>
   ${scatter(r, 16, 150, 138, 100, 32, ['#c8442f', '#3f8b4a', '#f7ead0'], 5)}
@@ -1202,7 +1200,7 @@ function namespaceIds(svg, uid) {
    different are applied in the per-recipe wrapper instead of baked into the drawing. */
 
 function resolveKey(key) {
-  return D[key] ? key : (ALIAS[key] && D[ALIAS[key]] ? ALIAS[key] : 'default');
+  return D[key] ? key : 'default';
 }
 
 /* Gradients every drawing shares, plus one per background palette. Defined once
@@ -1283,5 +1281,5 @@ function art(key, seed) {
 
 module.exports = {
   art, sharedDefs, dishBody, styleFor, resolveKey,
-  ART_KEYS: Object.keys(D).filter(k => k !== 'default' && k !== 'plateDefault'),
+  ART_KEYS: Object.keys(D).filter(k => k !== 'default'),
 };
