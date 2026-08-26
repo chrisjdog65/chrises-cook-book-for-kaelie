@@ -1,0 +1,1525 @@
+{
+  "category": "Breakfast & Brunch",
+  "categoryEmoji": "🍳",
+  "categoryBlurb": "Breakfast is mostly eggs, batter, and butter — three things that reward low heat and a little patience, and punish rushing more than almost anything else you cook.",
+  "recipes": [
+    {
+      "id": "fluffy-buttermilk-pancakes",
+      "title": "Fluffy Buttermilk Pancakes",
+      "emoji": "🥞",
+      "art": "pancake",
+      "blurb": "Tall, tangy, cloud-soft pancakes from one bowl of dry and one bowl of wet. The whole trick is a lumpy batter and a griddle that is genuinely hot before the first scoop goes down.",
+      "difficulty": "Easy",
+      "servings": "Makes 12 four-inch pancakes",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Dry",
+          "items": [
+            "2 cups (240 g) all-purpose flour, spooned and leveled",
+            "2 tbsp (25 g) granulated sugar",
+            "2 tsp (8 g) baking powder",
+            "1 tsp (5 g) baking soda",
+            "1 tsp (6 g) fine sea salt or 1½ tsp kosher salt"
+          ]
+        },
+        {
+          "group": "Wet",
+          "items": [
+            "2 cups (480 ml) buttermilk, well shaken",
+            "2 large eggs, at room temperature",
+            "3 tbsp (42 g) unsalted butter, melted and slightly cooled",
+            "1 tsp (5 ml) vanilla extract"
+          ]
+        },
+        {
+          "group": "For the griddle and table",
+          "items": [
+            "1 tbsp (14 g) unsalted butter, for greasing the pan",
+            "1 cup (240 ml) pure maple syrup, warmed",
+            "2 tbsp (28 g) salted butter, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Heat the griddle first",
+          "text": "Set a large nonstick skillet, griddle, or cast-iron pan over medium heat and let it sit for a full 5 minutes before you mix anything. You are aiming for a surface around 375°F (190°C), and the test is simple: flick a few drops of water on it, and they should skitter and disappear in about 2 seconds. If they vanish instantly with a violent hiss, it is too hot; if they just sit there and slowly steam, keep waiting. A pan that is still warming up is the single most common reason first pancakes come out pale and flat."
+        },
+        {
+          "title": "Whisk the dry ingredients",
+          "text": "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt for a good 15 seconds until you see no streaks of white powder. Whisking the leaveners through the flour now means they are evenly spread, which is why every pancake rises the same amount instead of one puffing and the next staying flat. Spoon the flour into the measuring cup and level it with a knife rather than scooping — scooping packs in up to 20 percent extra flour and gives you dense, dry pancakes."
+        },
+        {
+          "title": "Mix the wet ingredients",
+          "text": "In a second bowl, whisk the buttermilk, eggs, and vanilla until the mixture is one uniform pale color with no clear ropes of egg white left. Drizzle in the melted butter while whisking so it disperses into tiny droplets instead of seizing into hard yellow flecks. Adding the vanilla to the wet bowl rather than at the end means it distributes evenly through every pancake instead of perfuming one bite. If your buttermilk came straight from the fridge, the butter will firm up a little — that is fine and it will still work, but room-temperature buttermilk gives you a smoother batter."
+        },
+        {
+          "title": "Combine, but barely",
+          "text": "Pour the wet into the dry and fold with a rubber spatula just until no dry pockets of flour remain, about 10 to 12 strokes. The batter should look lumpy and shaggy, and that is exactly right — those lumps are unmixed flour that will hydrate as it rests. Every extra stir develops gluten, and gluten is what turns a tender pancake into a rubbery one. If you can still see a few small lumps the size of peas, stop."
+        },
+        {
+          "title": "Rest the batter 10 minutes",
+          "text": "Leave the bowl alone on the counter for 10 minutes while the griddle finishes heating. During this rest the flour absorbs liquid, the lumps dissolve on their own, and the baking soda starts reacting with the acidic buttermilk to build bubbles. You will actually see the surface puff slightly and go a little foamy. Do not stir it again after the rest, or you will knock the air right back out."
+        },
+        {
+          "title": "Grease the pan lightly",
+          "text": "Drop about ½ teaspoon of butter on the hot surface, swirl it around, then wipe most of it away with a folded paper towel. You want a barely-there film, not a pool. Too much fat fries the outside of the pancake into a blotchy, uneven brown before the inside sets. Re-wipe with the same buttery towel between batches rather than adding fresh butter each time."
+        },
+        {
+          "title": "Portion the batter",
+          "text": "Scoop a scant ¼ cup (60 ml) of batter per pancake and pour it from about 2 inches (5 cm) above the pan so it spreads into a neat circle on its own. Fit only 3 pancakes in a 12-inch skillet, leaving at least 2 inches (5 cm) between them so you have room to get a spatula under each one. Resist the urge to spread the batter with the back of the spoon — a thick pancake is a tall pancake."
+        },
+        {
+          "title": "Wait for the bubble signal",
+          "text": "Cook undisturbed for 2 to 3 minutes. The pancake is ready to flip when bubbles rise and pop across the whole surface and the holes stay open instead of filling back in, and the edges look dry and matte rather than wet and shiny. Peek underneath with a thin spatula — you want an even golden brown, not dark spots. Flipping early gives you a raw seam through the middle."
+        },
+        {
+          "title": "Flip once and only once",
+          "text": "Slide a thin spatula fully under the pancake and turn it over in one confident motion, close to the pan so it does not splat. Cook the second side for 1½ to 2 minutes; it will never brown as evenly as the first side, and that is normal. Do not press down on the pancake with the spatula — you are squeezing out the exact air you spent ten minutes building. The pancake is done when the sides feel springy and the center domes slightly."
+        },
+        {
+          "title": "Hold them properly and serve",
+          "text": "Transfer finished pancakes to a wire rack set on a sheet pan in a 200°F (95°C) oven while you cook the rest, for up to 20 minutes. A rack lets steam escape from underneath so the bottoms stay dry; stacking them on a plate traps that steam and makes them soggy in about 90 seconds. Serve with softened salted butter and maple syrup you have warmed for 30 seconds in the microwave, because cold syrup instantly chills a hot pancake."
+        }
+      ],
+      "tips": [
+        "No buttermilk? Stir 2 tbsp (30 ml) lemon juice or white vinegar into 2 cups (480 ml) whole milk and let it sit 10 minutes. It will not be as thick, so the pancakes spread a little more, but the acid still activates the baking soda.",
+        "The first pancake is a test pancake in every kitchen on earth. Use it to calibrate your heat, then adjust the burner up or down half a notch before the real batch.",
+        "For blueberry pancakes, do not stir the berries into the batter — the juice turns everything gray-green. Pour the batter, then scatter 6 to 8 fresh berries on top of each pancake before it sets.",
+        "Make-ahead: whisk the dry ingredients into a jar up to a month in advance. In the morning it is a two-minute job. Fully cooked pancakes freeze flat on a sheet pan, then bag them and reheat in a toaster straight from frozen.",
+        "If your pancakes are browning before they rise, the pan is too hot. Pull it off the burner for 60 seconds, lower the heat a notch, and start again."
+      ],
+      "keyTemp": "Griddle surface about 375°F (190°C) — a water droplet should skitter and vanish in roughly 2 seconds. A finished pancake reads about 200°F (93°C) in the center and springs back when pressed.",
+      "pairing": "Crisp bacon, hot black coffee, and cold orange juice — the salt and acid keep all that sweetness from getting heavy.",
+      "videoQuery": "fluffy buttermilk pancakes from scratch",
+      "photoQuery": "stack of buttermilk pancakes",
+      "tags": ["Weekend", "30 Minutes", "Kid Friendly"]
+    },
+    {
+      "id": "belgian-waffles",
+      "title": "Crisp Belgian Waffles",
+      "emoji": "🧇",
+      "art": "pancake",
+      "blurb": "Deep-pocketed waffles with a shattering crust and a custardy middle, thanks to a little cornstarch and whipped egg whites. They stay crisp on the plate instead of wilting after two minutes.",
+      "difficulty": "Medium",
+      "servings": "Makes 6 Belgian waffles",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "Dry",
+          "items": [
+            "1¾ cups (210 g) all-purpose flour",
+            "¼ cup (32 g) cornstarch",
+            "2 tbsp (25 g) granulated sugar",
+            "2 tsp (8 g) baking powder",
+            "½ tsp (3 g) baking soda",
+            "1 tsp (6 g) fine sea salt"
+          ]
+        },
+        {
+          "group": "Wet",
+          "items": [
+            "1¾ cups (420 ml) buttermilk, well shaken",
+            "2 large eggs, separated",
+            "½ cup (113 g) unsalted butter, melted and cooled slightly",
+            "1½ tsp (7 ml) vanilla extract"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1 tbsp (14 g) melted butter or neutral oil, for the waffle iron",
+            "1 cup (240 ml) pure maple syrup, warmed",
+            "2 tbsp (16 g) powdered sugar, for dusting"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Preheat the iron completely",
+          "text": "Turn the waffle iron on to medium-high and give it a full 10 minutes before the first waffle, even if the ready light comes on sooner. Most indicator lights only track the bottom plate, and a lukewarm top plate is why waffles come out pale and floppy on one side. The iron is truly ready when a drop of water flicked on it evaporates in a couple of seconds with a sharp hiss."
+        },
+        {
+          "title": "Whisk the dry ingredients",
+          "text": "In a large bowl, whisk the flour, cornstarch, sugar, baking powder, baking soda, and salt together for 15 seconds. The cornstarch is not filler — it has no gluten, so it dilutes the flour's protein and gives you a crust that stays crisp for 10 minutes instead of going soft the moment it hits a plate. Make sure no white lumps of baking powder survive, since one concentrated pocket tastes soapy."
+        },
+        {
+          "title": "Separate the eggs carefully",
+          "text": "Crack each egg and let the white run into a clean, completely grease-free medium bowl, dropping the yolk into a second bowl. Any speck of yolk in the whites will keep them from whipping properly, so separate each egg over an empty cup first and transfer it once you know it is clean. Room-temperature whites whip taller and faster than cold ones, so pull the eggs out 15 minutes early if you can."
+        },
+        {
+          "title": "Mix the yolk base",
+          "text": "Whisk the two yolks with the buttermilk and vanilla until smooth and uniform in color. Stream in the melted butter while whisking constantly so it emulsifies into fine droplets rather than pooling on top. If the butter is too hot it will cook the yolks into little threads, so let it cool for a couple of minutes off the heat — it should feel warm, not hot, on your wrist."
+        },
+        {
+          "title": "Whip the whites to soft peaks",
+          "text": "Beat the egg whites with a hand mixer on medium-high for about 90 seconds, or by hand with a balloon whisk for 3 to 4 minutes, until they hold a peak that flops over gently when you lift the beater. Stop there — stiff, dry peaks break into clumps and will not fold in smoothly. These whites are what give a Belgian waffle its light, almost hollow interior."
+        },
+        {
+          "title": "Combine wet and dry",
+          "text": "Pour the yolk mixture into the dry ingredients and stir with a rubber spatula just until the flour disappears, roughly 12 strokes. Lumps are fine and expected. Overworking the batter now builds gluten and gives you a chewy, bready waffle instead of a crisp one, so stop while it still looks a little rough."
+        },
+        {
+          "title": "Fold in the whites",
+          "text": "Add about a third of the whipped whites and stir them in normally to loosen the thick batter. Then add the rest and fold gently: cut down through the middle with the spatula, sweep along the bottom of the bowl, and lift the batter over the top, rotating the bowl a quarter turn each time. Stop when you still see a few faint white streaks — fully erasing them means you have deflated the air you just whipped in."
+        },
+        {
+          "title": "Grease and fill the iron",
+          "text": "Brush both plates with melted butter or oil, even on a nonstick iron, because the sugar in the batter loves to stick. Ladle about ¾ cup (180 ml) of batter into the center of a standard Belgian iron and spread it toward the edges with the back of the ladle, stopping about ½ inch (1 cm) short. It will expand and fill in on its own; overfilling means batter oozing out the sides and burning onto the hinge."
+        },
+        {
+          "title": "Cook without peeking",
+          "text": "Close the lid and cook for 4 to 5 minutes without opening it. Opening the iron early tears the waffle in half, because the structure has not set yet. Your real cue is the steam: at first it will billow out the sides, and when it slows to a thin wisp the waffle is close. Open it then and look for a deep, even golden brown with dry-looking ridges."
+        },
+        {
+          "title": "Rest on a rack, never a plate",
+          "text": "Move each waffle straight to a wire rack set over a sheet pan in a 200°F (95°C) oven while the rest cook. Stacking waffles traps steam and softens the crust you just worked to build; a rack lets air circulate on all sides so they actually get crisper as they sit. They will hold beautifully for up to 30 minutes this way."
+        },
+        {
+          "title": "Serve hot with warm syrup",
+          "text": "Dust the waffles with powdered sugar through a small sieve and serve with maple syrup you have warmed for about 30 seconds. Belgian waffles are best within a minute or two of leaving the iron, so bring people to the table rather than trying to cook everything first. A pat of salted butter melting into the deep pockets is the whole point of those pockets."
+        }
+      ],
+      "tips": [
+        "For overnight yeasted waffles with a deeper flavor, swap the baking powder for 1 tsp (3 g) instant yeast, mix everything except the egg whites the night before, and refrigerate. Fold in the whipped whites in the morning.",
+        "Freeze leftovers flat on a sheet pan, then transfer to a bag. Reheat straight from frozen in a toaster on medium — they come back crisper than any microwave version.",
+        "If waffles stick to the iron, it usually means you opened it too early or under-greased it. Let them cook 30 seconds longer next time and brush both plates, not just the bottom.",
+        "Buttermilk substitute: 1¾ cups (420 ml) whole milk plus 1 tbsp plus 2 tsp (25 ml) lemon juice, rested 10 minutes. The texture is slightly less rich but the rise is the same.",
+        "Savory version: skip the sugar and vanilla, fold in ½ cup (55 g) grated sharp cheddar and 2 tbsp chopped chives, then top with a fried egg."
+      ],
+      "keyTemp": "Cook on a medium-high iron for 4 to 5 minutes, until the steam slows to a wisp and the waffle is deep golden. The interior reads about 205°F (96°C) when fully set.",
+      "pairing": "Strawberries macerated with a spoonful of sugar and a mound of lightly whipped cream, plus strong coffee.",
+      "videoQuery": "crispy belgian waffles homemade batter",
+      "photoQuery": "golden belgian waffle berries",
+      "tags": ["Weekend", "Brunch", "Make Ahead"]
+    },
+    {
+      "id": "brioche-french-toast",
+      "title": "Thick-Cut Brioche French Toast",
+      "emoji": "🍞",
+      "art": "bread",
+      "blurb": "Custardy all the way to the center with a lacy, caramelized crust — the version that tastes like a bread pudding you can eat with a fork. Thick, slightly stale brioche is the entire secret.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "For the toast",
+          "items": [
+            "8 slices day-old brioche or challah, cut 1 in (2.5 cm) thick (about 1 lb / 450 g)",
+            "3 tbsp (42 g) unsalted butter, for the pan, plus more as needed",
+            "1 tbsp (15 ml) neutral oil, such as canola"
+          ]
+        },
+        {
+          "group": "Custard",
+          "items": [
+            "6 large eggs",
+            "1½ cups (360 ml) whole milk",
+            "¼ cup (60 ml) heavy cream",
+            "3 tbsp (37 g) granulated sugar",
+            "2 tsp (10 ml) vanilla extract",
+            "¾ tsp (2 g) ground cinnamon",
+            "½ tsp (3 g) fine sea salt",
+            "1 pinch freshly grated nutmeg (about ⅛ tsp)"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "¾ cup (180 ml) pure maple syrup, warmed",
+            "2 tbsp (16 g) powdered sugar, for dusting",
+            "1 cup (145 g) fresh berries"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start with dry bread",
+          "text": "Brioche that is a day or two old soaks up custard like a sponge; fresh, soft brioche turns to mush the second it hits the bowl. If your loaf is bakery-fresh, lay the slices on a sheet pan and dry them in a 275°F (135°C) oven for 10 minutes, flipping once. They should feel dry and slightly firm to the touch but not toasted or colored. Cut the slices a full 1 inch (2.5 cm) thick so there is enough interior to stay creamy."
+        },
+        {
+          "title": "Whisk the custard properly",
+          "text": "In a wide, shallow dish, whisk the eggs alone for 30 seconds first, until they are completely uniform and no ropey strands of white remain. Then whisk in the milk, cream, sugar, vanilla, cinnamon, salt, and nutmeg until the sugar dissolves. Undissolved egg white is what causes those rubbery, omelette-like patches on the surface of finished French toast, so this first solo whisk matters more than it looks."
+        },
+        {
+          "title": "Preheat the pan and the oven",
+          "text": "Set a large nonstick or cast-iron skillet over medium-low heat and heat the oven to 200°F (95°C) with a wire rack on a sheet pan inside. French toast wants gentler heat than pancakes — the custard needs time to set through a thick slice before the exterior burns. If the pan is over medium-high, the sugar in the brioche will be black before the middle is warm."
+        },
+        {
+          "title": "Soak each slice",
+          "text": "Lay two slices in the custard and let them sit 20 to 30 seconds per side, pressing very gently with your fingertips to help the liquid move in. For very dry bread, go up to 45 seconds a side. Lift a slice and look at the edge — you want the custard to have penetrated about halfway in from each side, meeting in a thin pale line at the center. Let the excess drip off for 3 seconds before it goes in the pan."
+        },
+        {
+          "title": "Butter the pan",
+          "text": "Add 1 tablespoon of butter and 1 teaspoon of oil to the hot skillet and swirl until the butter foams and the foam just begins to subside. The oil raises the smoke point so the milk solids in the butter brown instead of burning. If the butter browns and smells nutty within 10 seconds, the pan is too hot — pull it off the heat for a minute and lower the burner."
+        },
+        {
+          "title": "Cook the first side",
+          "text": "Lay the soaked slices in the pan without crowding — two at a time in a 10-inch skillet, three in a 12-inch. Cook for 3 to 4 minutes without moving them, until the underside is a deep golden brown with darker lacy edges. If you peek at 2 minutes and it is still pale, nudge the heat up slightly; if it is already dark, drop it down."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Turn each slice with a thin spatula and cook the second side for another 3 to 4 minutes. The toast should puff slightly in the middle as the custard sets — that gentle dome is your sign the eggs have cooked through. Press the center lightly with a finger; it should feel set and springy, not squishy and wet."
+        },
+        {
+          "title": "Check the center temperature",
+          "text": "Slide an instant-read thermometer into the side of the thickest slice, aiming for the middle. You want 160°F (71°C), which is the temperature at which egg custard is both safely cooked and still creamy. If it reads low, move the slices to the 200°F (95°C) oven for 3 to 5 minutes rather than pushing them longer in the hot pan, which would just darken the crust."
+        },
+        {
+          "title": "Wipe the pan between batches",
+          "text": "Between batches, wipe the skillet clean with a folded paper towel held in tongs and add fresh butter and oil. Burnt custard and milk solids left in the pan will make the next round taste bitter and look spotty. This takes 15 seconds and is the difference between the last batch matching the first and looking like an afterthought."
+        },
+        {
+          "title": "Hold, dust, and serve",
+          "text": "Keep finished slices on the wire rack in the warm oven for up to 20 minutes — the rack keeps the bottoms from steaming soft. Just before serving, dust with powdered sugar through a fine sieve, pile on the berries, and pour over warm maple syrup. Warming the syrup for 30 seconds keeps it from chilling the toast on contact."
+        }
+      ],
+      "tips": [
+        "Make-ahead: whisk the custard the night before and refrigerate it, and cut the bread so it dries out overnight on the counter. Morning-of becomes a 20-minute job.",
+        "Any enriched bread works — challah, Texas toast, panettone, even leftover croissants split in half. Avoid thin sandwich bread, which collapses before it can absorb anything.",
+        "If the outside browns before the inside sets, your slices are thicker than the pan heat can handle. Finish them on a rack in a 350°F (175°C) oven for 5 to 7 minutes.",
+        "For a boozy grown-up version, add 1 tbsp (15 ml) dark rum or bourbon and swap the cinnamon for ½ tsp orange zest.",
+        "Leftovers reheat well: 8 minutes on a rack in a 350°F (175°C) oven brings the crust right back. The microwave turns them into steamed bread."
+      ],
+      "keyTemp": "Cook until the center of the thickest slice reads 160°F (71°C) — the point where egg custard is safely set but still creamy. Pan should be at medium-low, around 325°F (163°C).",
+      "pairing": "Crisp bacon or breakfast sausage on the side, and a mimosa or a very strong latte to cut the sweetness.",
+      "videoQuery": "brioche french toast custard recipe",
+      "photoQuery": "thick french toast powdered sugar",
+      "tags": ["30 Minutes", "Brunch", "Kid Friendly"]
+    },
+    {
+      "id": "eggs-benedict-hollandaise",
+      "title": "Eggs Benedict with Real Hollandaise",
+      "emoji": "🥚",
+      "art": "egg",
+      "blurb": "Poached eggs and warm ham on a toasted muffin under a blanket of buttery, lemony hollandaise you made yourself. It is the most impressive thing you can cook before noon, and it is mostly about timing.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "25 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "Hollandaise",
+          "items": [
+            "3 large egg yolks",
+            "1½ tbsp (22 ml) fresh lemon juice, plus more to taste",
+            "1 tbsp (15 ml) cold water",
+            "10 tbsp (140 g) unsalted butter, melted and warm",
+            "½ tsp (3 g) fine sea salt",
+            "1 pinch cayenne pepper (about ⅛ tsp)"
+          ]
+        },
+        {
+          "group": "Poached eggs",
+          "items": [
+            "8 large eggs, as fresh as you can find",
+            "2 quarts (2 L) water",
+            "1 tbsp (15 ml) distilled white vinegar",
+            "1 tsp (6 g) fine sea salt"
+          ]
+        },
+        {
+          "group": "Assembly",
+          "items": [
+            "4 English muffins, split with a fork",
+            "8 slices Canadian bacon or thick-cut ham (about 8 oz / 225 g)",
+            "2 tbsp (28 g) unsalted butter, softened, for the muffins",
+            "2 tbsp finely chopped fresh chives",
+            "½ tsp (1 g) coarsely ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Set up before you cook",
+          "text": "Benedict has four moving parts that all need to be hot at the same moment, so lay everything out first: yolks separated, lemon juiced, butter melting, muffins split, ham sliced. Fill a wide saucepan or deep skillet with the water and set it over medium heat. Once you start the hollandaise you should not be hunting for a strainer. Give yourself 10 quiet minutes of setup and the last 10 minutes will feel easy."
+        },
+        {
+          "title": "Melt the butter gently",
+          "text": "Melt the butter in a small saucepan over low heat or in the microwave in 20-second bursts until fully liquid but not sizzling — you want it around 120 to 130°F (49 to 54°C), warm enough to emulsify but not hot enough to scramble yolks. Let it stand a minute and, if you like a silkier sauce, pour off the clear golden fat and leave the milky solids behind. Keep it somewhere warm; cold butter will not emulsify."
+        },
+        {
+          "title": "Build the sabayon",
+          "text": "Bring 1 inch (2.5 cm) of water to a bare simmer in a saucepan and set a heatproof bowl on top, making sure the bowl does not touch the water. Whisk the yolks, lemon juice, and cold water in the bowl constantly and vigorously for 3 to 4 minutes, scraping the sides, until the mixture roughly triples in volume and turns pale, thick, and glossy. It is ready when the whisk leaves a trail that holds for a second and the temperature reads 145 to 150°F (63 to 66°C). Above 160°F (71°C) the yolks scramble, so lift the bowl off the heat for a few seconds any time it feels too hot on your knuckles."
+        },
+        {
+          "title": "Stream in the butter",
+          "text": "Off the heat, add the warm butter a few drops at a time while whisking hard, until you have added about 2 tablespoons and the sauce visibly thickens and looks like mayonnaise. Only then start pouring in a thin, steady stream, whisking the whole time. Rushing the first 2 tablespoons is the number-one reason hollandaise breaks — that early stage is where the emulsion actually forms."
+        },
+        {
+          "title": "Season and hold the sauce",
+          "text": "Whisk in the salt, cayenne, and an extra squeeze of lemon to taste; it should taste bright and buttery, not flat. If it is thicker than heavy cream, whisk in a teaspoon of warm water at a time to loosen it. Hold the sauce in a warm spot — near the stove, or in a thermos rinsed with hot water — for up to 1 hour. Never put it over direct heat again, and never refrigerate it and try to bring it back."
+        },
+        {
+          "title": "Rescue a broken sauce",
+          "text": "If the hollandaise goes greasy, thin, and curdled-looking, it has broken, and it is fixable in 60 seconds. Put 1 tablespoon of hot water in a clean bowl and whisk the broken sauce into it one tablespoon at a time, letting each addition come together before adding the next. If that fails, start with a fresh yolk in the clean bowl and whisk the broken sauce into it the same way."
+        },
+        {
+          "title": "Set the poaching water",
+          "text": "Bring the water to 180 to 190°F (82 to 88°C), which looks like small bubbles rising lazily from the bottom but no rolling boil, then add the vinegar and salt. A boil will beat the whites into ragged shreds. The vinegar helps the whites set faster and tighter, and the small amount used here leaves no taste on the finished egg."
+        },
+        {
+          "title": "Strain the eggs",
+          "text": "Crack each egg into a fine-mesh sieve set over a bowl and swirl gently for a few seconds. The loose, watery outer white drains away, leaving only the tight white that clings to the yolk — this one step is the difference between a neat oval egg and a wispy cloud. Tip each strained egg into its own small cup or ramekin so you can slide them into the water quickly."
+        },
+        {
+          "title": "Poach the eggs",
+          "text": "Lower each cup right to the surface of the water and let the egg slip in, adding no more than 4 eggs at a time so the temperature does not crash. Cook for 3 minutes for a fully set white with a completely liquid yolk, or 3½ to 4 minutes for a jammy one. Lift one out with a slotted spoon and press the yolk gently with a fingertip: it should feel soft and yielding, like the pad of your palm. Rest each egg on a paper towel for a few seconds to drain."
+        },
+        {
+          "title": "Toast the muffins and warm the ham",
+          "text": "Split the English muffins with a fork rather than a knife so you get those craggy nooks, then toast the halves until deep golden and butter them lightly. In a dry skillet over medium heat, warm the Canadian bacon for about 1 minute per side until the edges curl and it is heated through. Warm ham and hot muffins matter — a cold base will chill the whole plate in seconds."
+        },
+        {
+          "title": "Assemble fast",
+          "text": "Put two muffin halves on each warm plate, top each with a slice of ham, then a drained poached egg. Work quickly and do not stop to admire anything — Benedict is a dish where 90 seconds of hesitation means lukewarm eggs. Warm the plates under hot tap water and dry them if you want a little extra insurance."
+        },
+        {
+          "title": "Sauce and serve",
+          "text": "Spoon about 3 tablespoons of hollandaise over each egg, letting it flow down the sides rather than drowning the muffin. Finish with chopped chives and a good crack of black pepper. Serve immediately — this is not a dish that waits, and the runny yolk breaking into the sauce is the entire reward."
+        }
+      ],
+      "tips": [
+        "Poach the eggs up to a day ahead: cook them 2½ minutes, drop them straight into ice water, and refrigerate. Reheat for 60 seconds in 150°F (66°C) water right before serving. This is exactly what restaurants do.",
+        "Runny yolks and warm hollandaise are not pasteurized. If you are pregnant, feeding a young child, or cooking for anyone immune-compromised, use pasteurized shell eggs — they poach and whisk exactly the same.",
+        "Fresh eggs poach far better than old ones. Crack one on a plate first: if the white sits up tight around the yolk it is fresh; if it spreads out thin and watery, expect wisps.",
+        "Blender hollandaise is a legitimate shortcut. Blend the yolks, lemon, and a pinch of salt for 20 seconds, then drizzle in 10 tbsp (140 g) hot melted butter with the motor running. It is slightly less airy but nearly foolproof.",
+        "Eggs Florentine swaps the ham for a handful of wilted, well-squeezed spinach; Eggs Royale uses smoked salmon added after the egg so it does not cook."
+      ],
+      "keyTemp": "Hollandaise sabayon: 145 to 150°F (63 to 66°C), never above 160°F (71°C) or the yolks scramble. Poaching water: 180 to 190°F (82 to 88°C), never boiling. Poached eggs: 3 minutes for set whites and a liquid yolk.",
+      "pairing": "A cold mimosa or a dry sparkling wine, with roasted asparagus or simple dressed greens to cut the richness.",
+      "videoQuery": "eggs benedict hollandaise from scratch",
+      "photoQuery": "eggs benedict hollandaise plate",
+      "tags": ["Special Occasion", "Brunch", "Date Night"]
+    },
+    {
+      "id": "classic-french-omelette",
+      "title": "Classic French Omelette",
+      "emoji": "🍳",
+      "art": "egg",
+      "blurb": "Pale gold, silky, and rolled into a smooth cigar with a barely set center — no browning anywhere. It takes about two minutes to cook and a few tries to nail, and then you have it forever.",
+      "difficulty": "Advanced",
+      "servings": "1 serving",
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "totalTime": "10 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "3 large eggs, at room temperature",
+            "¼ tsp (1.5 g) fine sea salt",
+            "1½ tbsp (21 g) unsalted butter, divided",
+            "2 tbsp (15 g) finely grated Gruyère or 1 tbsp soft goat cheese (optional)",
+            "1 tbsp finely chopped fresh chives",
+            "1 pinch freshly ground white or black pepper (about ⅛ tsp)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Beat the eggs thoroughly",
+          "text": "Crack the eggs into a bowl and beat them with a fork for a full 30 to 45 seconds, until the mixture is one uniform pale yellow with no visible ropes of white and only a light foam on top. A French omelette has no browning and no visible layers, so any unmixed white will show up as a rubbery streak. Keep the fork tines against the bottom of the bowl to avoid whipping in too much air."
+        },
+        {
+          "title": "Salt the eggs now",
+          "text": "Whisk in the salt and let the eggs sit for 5 minutes if you have time. Salt begins to break down the egg proteins so they set into a more tender, less springy curd, and it dissolves fully instead of leaving salty spots. This is a small step that noticeably changes the texture. Strain the eggs through a fine sieve if you want the most refined result possible."
+        },
+        {
+          "title": "Choose the right pan",
+          "text": "Use an 8-inch (20 cm) nonstick skillet with sloped sides — this size makes exactly the right thickness for three eggs. A larger pan spreads the eggs too thin and they overcook before you can roll them; a straight-sided pan makes the roll nearly impossible. Have a flexible silicone spatula and a warm plate within reach before you turn on the heat."
+        },
+        {
+          "title": "Melt the butter over medium-low",
+          "text": "Add 1 tablespoon of butter to the pan over medium-low heat and swirl until it melts and foams. The moment the foam subsides is your window; if the butter turns tan and smells nutty, the pan is too hot for a French omelette. Pour it out, wipe the pan, and start again with fresh butter — brown butter means a browned omelette."
+        },
+        {
+          "title": "Stir constantly for 20 to 30 seconds",
+          "text": "Pour in the eggs and immediately begin stirring in small circles with the flat of the spatula while shaking the pan back and forth with your other hand. You are making thousands of tiny curds suspended in loose egg, which is what gives the finished omelette its custardy texture. Keep everything moving and scrape the bottom constantly — anything that sits still for two seconds will set and toughen."
+        },
+        {
+          "title": "Let the base set",
+          "text": "When the eggs look like very loose, glossy scrambled eggs — thickened but still wet — stop stirring. Spread the curds into an even layer with the spatula, then tilt and rotate the pan so any liquid egg runs into the gaps. Let it sit undisturbed for 10 to 20 seconds so a thin skin forms on the bottom and holds everything together. The top should still look shiny and slightly underdone."
+        },
+        {
+          "title": "Add the filling",
+          "text": "Scatter the cheese and half the chives in a line across the third of the omelette nearest the handle. Keep the filling well clear of the edges so nothing leaks out when you roll. Less is more here — a heavy filling tears the delicate egg sheet and turns the roll into a scramble."
+        },
+        {
+          "title": "Roll it up",
+          "text": "Tilt the pan away from you to about 45 degrees and use the spatula to fold the near edge of the omelette over the filling. Then tap the pan handle firmly with your fist or nudge with the spatula so the omelette rolls over on itself again, two or three turns, gathering at the far lip of the pan. Work quickly and confidently; hesitating gives the eggs time to overcook."
+        },
+        {
+          "title": "Turn it onto the plate",
+          "text": "Hold a warm plate in your free hand, bring the far lip of the pan right up to it, and roll the omelette out seam-side down. If the shape is imperfect, drape a clean paper towel over it and gently nudge it into a neat torpedo — this is a real French kitchen trick, not cheating. The whole cooking process should have taken under two minutes."
+        },
+        {
+          "title": "Butter, garnish, and eat",
+          "text": "Rub the remaining ½ tablespoon of soft butter over the top so it melts into a glossy sheen, then shower with the rest of the chives and a pinch of pepper. Serve it right now, while the center is still barely set and creamy. A French omelette waits for absolutely no one, and it will keep cooking on the plate for another 30 seconds."
+        }
+      ],
+      "tips": [
+        "The most common mistake is heat that is too high. If the pan hisses when the eggs go in, it is too hot — you want a quiet, gentle sizzle at most.",
+        "For an American-style diner omelette instead, use the same eggs but medium heat, let the base set fully without stirring, add fillings, and fold in half. Browning is welcome there.",
+        "Room-temperature eggs cook more evenly than fridge-cold ones. Sit them in warm tap water for 5 minutes if you forgot to take them out.",
+        "A dedicated nonstick pan reserved for eggs is worth the drawer space. Never use metal utensils in it and never put it in the dishwasher.",
+        "Scale it up by cooking one omelette at a time, not by making a bigger one. Three eggs is the maximum a 20 cm pan handles gracefully."
+      ],
+      "keyTemp": "Medium-low heat: butter should foam but never brown. The omelette is done when the exterior is set and pale yellow and the center is still creamy — about 160°F (71°C) at the surface and softer than that inside. That barely-set center sits below the 160°F (71°C) USDA safe temperature for eggs, so use pasteurized shell eggs, or roll it 30 seconds later so the whole thing reaches 160°F (71°C), when serving anyone pregnant, very young, elderly, or immune-compromised.",
+      "pairing": "A green salad with a sharp mustard vinaigrette and a torn baguette — the classic Parisian lunch plate.",
+      "videoQuery": "classic french omelette technique rolled",
+      "photoQuery": "french omelette chives plate",
+      "tags": ["30 Minutes", "Technique", "One Pan"]
+    },
+    {
+      "id": "soft-scrambled-eggs",
+      "title": "Low and Slow Soft Scrambled Eggs",
+      "emoji": "🥚",
+      "art": "egg",
+      "blurb": "Small, glossy curds that fall somewhere between eggs and custard. The only real ingredient is patience — eight minutes over low heat instead of two over high.",
+      "difficulty": "Easy",
+      "servings": "2 servings",
+      "prepTime": "3 min",
+      "cookTime": "9 min",
+      "totalTime": "17 min including the 5 minute salt rest",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "6 large eggs",
+            "½ tsp (3 g) fine sea salt",
+            "2 tbsp (28 g) cold unsalted butter, divided",
+            "1 tbsp (15 g) crème fraîche or sour cream, for finishing",
+            "1 tbsp finely snipped fresh chives",
+            "¼ tsp (0.5 g) freshly ground black pepper",
+            "2 thick slices sourdough, toasted and buttered"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Beat the eggs until uniform",
+          "text": "Crack all six eggs into a bowl and beat them with a fork for 45 seconds, until the color is a completely even pale yellow with no streaks of white anywhere. This is the one place where more mixing is better — any white left unincorporated will cook into a firm, rubbery ribbon in an otherwise silky pan of eggs. Do not add milk or cream at this stage; it dilutes the eggs and makes them watery."
+        },
+        {
+          "title": "Salt them early",
+          "text": "Whisk the salt into the beaten eggs and let them sit for at least 5 minutes, or up to 15 while you make coffee. Salt dissolves some of the egg proteins so they cannot bond as tightly, which produces a noticeably more tender curd and helps the eggs hold onto their moisture. Salting only at the end gives you slightly tougher eggs and salty patches."
+        },
+        {
+          "title": "Start cold with the butter",
+          "text": "Put 1½ tablespoons of the cold butter in a 10-inch nonstick skillet and set it over low heat — genuinely low, the second-lowest mark on most stoves. Let it melt slowly without foaming aggressively or browning. If you can hear anything sizzle, the pan is already too hot for this method."
+        },
+        {
+          "title": "Add the eggs to a cool pan",
+          "text": "Pour the eggs in while the butter is still melting. Starting with a cool pan means the eggs warm up gradually and set into small, soft curds instead of hitting hot metal and seizing into big rubbery sheets. Nothing should sizzle when the eggs go in. If it does, take the pan off the heat for a minute and let it cool down before continuing."
+        },
+        {
+          "title": "Stir constantly and slowly",
+          "text": "Using a silicone spatula, stir the eggs in slow, continuous figure-eights, scraping the bottom and pushing along the sides of the pan the entire time. For the first 2 to 3 minutes it will look like nothing at all is happening — that is the process working, not failing. Do not walk away and do not turn up the heat out of impatience, which is what ruins this dish nine times out of ten."
+        },
+        {
+          "title": "Watch the curds form",
+          "text": "Around the 4-minute mark the eggs will start to thicken and small soft curds will appear along the bottom of the pan. Keep stirring and keep scraping; the goal is many tiny curds suspended in a creamy sauce, not a few large ones. If it is thickening faster than you can stir, lift the pan off the burner for 20 seconds and keep stirring in the air, then return it."
+        },
+        {
+          "title": "Pull them early",
+          "text": "Somewhere between 6 and 9 minutes total the eggs will look thickened, glossy, and still slightly loose — like very soft, small-curd cottage cheese with a little cream around it. That is the moment to take the pan off the heat, and it will feel about 30 seconds too early. Carryover heat in the pan keeps cooking them, so eggs that look perfect in the pan are overcooked on the plate."
+        },
+        {
+          "title": "Finish off the heat",
+          "text": "Stir in the remaining ½ tablespoon of cold butter and the crème fraîche while the pan is off the burner. The cold fat drops the temperature immediately and stops the cooking, and the extra dairy adds a little tang and a glossy finish. Keep stirring for another 15 seconds until everything is smooth."
+        },
+        {
+          "title": "Plate and serve immediately",
+          "text": "Spoon the eggs onto warm buttered toast, top with the chives and black pepper, and eat right away. These do not hold, reheat, or wait — within two minutes on a hot plate they tighten up and weep water. If you want fully set eggs for food-safety reasons, cook 60 to 90 seconds longer until they reach 160°F (71°C), accepting a firmer texture."
+        }
+      ],
+      "tips": [
+        "The single biggest upgrade to scrambled eggs is turning the heat down and setting a timer for 8 minutes. Almost nobody cooks them slowly enough the first time.",
+        "For an even richer version, cook them in a double boiler over barely simmering water. It takes 12 to 15 minutes and it is nearly impossible to overcook them.",
+        "Add-ins go in at the very end, off the heat: smoked salmon, grated cheddar, a spoonful of boursin. Adding cheese early makes the eggs seize and go grainy.",
+        "Use a nonstick or well-seasoned pan and a silicone spatula. Stainless steel grips the eggs and you will lose half the curds to the pan bottom.",
+        "Leftover soft scrambled eggs do not reheat. Make exactly what you will eat, figuring 2 to 3 eggs per person."
+      ],
+      "keyTemp": "Cook over low heat for 6 to 9 minutes and pull while glossy and slightly loose. For fully set eggs, cook to 160°F (71°C), the USDA safe temperature for egg dishes.",
+      "pairing": "Thick buttered sourdough toast, sliced avocado, and hot black coffee.",
+      "videoQuery": "soft scrambled eggs low and slow",
+      "photoQuery": "creamy soft scrambled eggs toast",
+      "tags": ["30 Minutes", "Technique", "One Pan"]
+    },
+    {
+      "id": "shakshuka",
+      "title": "Shakshuka with Feta and Herbs",
+      "emoji": "🍅",
+      "art": "egg",
+      "blurb": "Eggs poached right in a smoky, garlicky tomato-pepper sauce, served straight from the skillet with bread for scooping. One pan, pantry ingredients, and it feeds a table.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "40 min",
+      "totalTime": "55 min",
+      "ingredients": [
+        {
+          "group": "Sauce",
+          "items": [
+            "3 tbsp (45 ml) extra-virgin olive oil",
+            "1 large yellow onion (about 10 oz / 285 g), diced",
+            "1 red bell pepper (about 7 oz / 200 g), diced",
+            "4 garlic cloves, thinly sliced",
+            "2 tsp (5 g) sweet paprika",
+            "1½ tsp (4 g) ground cumin",
+            "¼ tsp (0.5 g) cayenne pepper, or to taste",
+            "2 tbsp (32 g) tomato paste",
+            "1 can (28 oz / 800 g) whole peeled tomatoes, crushed by hand",
+            "1 tsp (6 g) fine sea salt, plus more to taste",
+            "1 tsp (4 g) granulated sugar"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "6 large eggs",
+            "3 oz (85 g) feta, crumbled",
+            "¼ cup (10 g) fresh cilantro or parsley leaves, roughly chopped",
+            "½ tsp (1 g) coarsely ground black pepper",
+            "1 loaf crusty bread or 4 pita, warmed"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Pick the right pan",
+          "text": "Use a 10- or 12-inch skillet with a lid — cast iron, carbon steel, or any heavy oven-safe pan. The sauce needs enough surface area to reduce and enough room for six eggs to sit in their own wells without touching. A pan that is too small piles the sauce deep and the eggs never set evenly."
+        },
+        {
+          "title": "Soften the onion and pepper",
+          "text": "Heat the olive oil over medium heat until it shimmers, then add the onion, bell pepper, and ½ teaspoon of the salt. Cook, stirring every minute or so, for 10 to 12 minutes until both are genuinely soft and the onion edges are turning golden. This is not a step to rush — undercooked onion stays sharp and crunchy and you will taste it in the finished dish."
+        },
+        {
+          "title": "Add the garlic and spices",
+          "text": "Stir in the sliced garlic, paprika, cumin, and cayenne and cook for 60 to 90 seconds, stirring constantly. The spices should smell warm and toasty almost immediately. Do not let them go past that point — ground spices burn in well under two minutes over medium heat, and burnt cumin tastes acrid all the way through the sauce."
+        },
+        {
+          "title": "Cook out the tomato paste",
+          "text": "Push everything to one side, add the tomato paste to the bare spot, and let it fry in the oil for about 2 minutes, stirring, until it darkens from bright red to a deep brick color. This caramelizes the sugars and cooks off the tinny raw taste, adding real depth. Then stir it through the vegetables until everything is evenly coated."
+        },
+        {
+          "title": "Add the tomatoes",
+          "text": "Pour in the canned tomatoes along with their juice, crushing each one in your fist over the pan so you get rough, rustic pieces rather than a smooth puree. Add the sugar and the remaining ½ teaspoon salt, and stir to combine. Whole peeled tomatoes crushed by hand give a far better texture than pre-crushed, which is often watery and over-processed."
+        },
+        {
+          "title": "Simmer the sauce down",
+          "text": "Bring to a lively simmer, then reduce the heat to medium-low and cook uncovered for 15 to 20 minutes, stirring occasionally. You want it thick enough that a spatula dragged across the bottom leaves a trail that fills in slowly. A watery sauce will not hold the eggs in place and will flood the plate, so keep going until it mounds slightly on the spoon."
+        },
+        {
+          "title": "Taste and adjust",
+          "text": "Taste the sauce now, before the eggs go in, because this is your last chance to fix it. It should be bold, slightly sweet, and a little smoky; add salt in ¼ teaspoon increments if it tastes flat, or another pinch of sugar if the tomatoes are aggressively acidic. Remember the feta adds salt at the end, so stop just short of perfect."
+        },
+        {
+          "title": "Make wells for the eggs",
+          "text": "Use the back of a spoon to hollow out six evenly spaced wells in the sauce, pushing down to expose the pan bottom in each one. Crack each egg into a small cup first, then slide it into its well — cracking directly over a hot pan is how you end up with shell in the sauce and a broken yolk. Space them so the whites do not run together."
+        },
+        {
+          "title": "Poach the eggs covered",
+          "text": "Season the eggs with the black pepper, cover the pan, and cook over medium-low heat for 6 to 9 minutes. Start checking at 6 minutes: you want the whites fully opaque and set and the yolks still soft and jammy. The steam trapped under the lid cooks the tops, so if the whites near the yolk are still clear, give it another minute or two with the lid back on."
+        },
+        {
+          "title": "Finish and serve from the pan",
+          "text": "Scatter the crumbled feta and the roughly chopped cilantro or parsley over the top and let the pan sit for 2 minutes off the heat so the eggs firm up slightly. Add the herbs off the heat and at the last second — cilantro wilts to a dull khaki and loses its perfume within a minute over a hot pan. Serve straight from the skillet with warm bread or pita for scooping, giving each person an egg and plenty of sauce. Set the pan on a trivet in the middle of the table — this is a communal dish, not a plated one."
+        }
+      ],
+      "tips": [
+        "Make-ahead: the sauce keeps in the fridge for 5 days and freezes for 3 months. Reheat it in the skillet until bubbling, then add the eggs — a weeknight dinner in 10 minutes.",
+        "For a green shakshuka, swap the tomatoes for 1 lb (450 g) wilted spinach and chard with 1 cup (240 ml) stock, and finish with lemon zest.",
+        "If your whites are setting too slowly, the sauce was too thick and cool. Turn the heat up slightly and make sure the lid actually fits — trapped steam does most of the cooking.",
+        "For a spicier version, add 1 seeded and minced jalapeño or 1 tsp harissa with the garlic. Shakshuka should have a gentle heat, not a burn.",
+        "Whites set at 180°F (82°C) and yolks at 158°F (70°C). If you or your guests need fully cooked yolks, cook 3 to 4 minutes longer until they reach 160°F (71°C)."
+      ],
+      "keyTemp": "Cover and poach the eggs 6 to 9 minutes over medium-low, until whites are fully opaque and yolks are jammy. For fully cooked eggs, continue to 160°F (71°C).",
+      "pairing": "Warm pita or crusty sourdough for scooping, plus a cucumber and tomato salad dressed with lemon and olive oil.",
+      "videoQuery": "shakshuka recipe skillet eggs tomato",
+      "photoQuery": "shakshuka skillet feta cilantro",
+      "tags": ["One Pan", "Vegetarian", "Brunch"]
+    },
+    {
+      "id": "breakfast-burrito",
+      "title": "Loaded Breakfast Burrito",
+      "emoji": "🌯",
+      "art": "burrito",
+      "blurb": "Crispy potatoes, sausage, soft eggs, and melted cheddar wrapped tight and seared until the tortilla is golden. Make a dozen on Sunday and eat well all week.",
+      "difficulty": "Medium",
+      "servings": "4 burritos",
+      "prepTime": "20 min",
+      "cookTime": "30 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "Potatoes",
+          "items": [
+            "1 lb (450 g) russet potatoes, cut into ½ in (1.5 cm) cubes",
+            "2 tbsp (30 ml) neutral oil, such as canola",
+            "1 tsp (6 g) kosher salt",
+            "½ tsp (1 g) smoked paprika",
+            "¼ tsp (0.5 g) freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Filling",
+          "items": [
+            "12 oz (340 g) bulk breakfast sausage or chorizo",
+            "8 large eggs",
+            "½ tsp (3 g) fine sea salt",
+            "2 tbsp (28 g) unsalted butter",
+            "6 oz (170 g) sharp cheddar, freshly grated (about 1½ cups)",
+            "½ cup (120 ml) salsa roja or pico de gallo, drained"
+          ]
+        },
+        {
+          "group": "Assembly",
+          "items": [
+            "4 burrito-size flour tortillas (12 in / 30 cm)",
+            "1 ripe avocado, sliced",
+            "¼ cup (10 g) fresh cilantro leaves",
+            "1 tbsp (15 ml) neutral oil, for searing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Roast the potatoes",
+          "text": "Heat the oven to 425°F (220°C). Toss the cubed potatoes with the 2 tablespoons of oil, kosher salt, smoked paprika, and pepper, then spread them in a single layer on a sheet pan with space between the pieces. Roast for 25 to 30 minutes, flipping once at the halfway mark, until deeply browned and crisp at the corners. Crowding the pan steams them into soft, pale cubes, so use two pans if you have to."
+        },
+        {
+          "title": "Brown the sausage",
+          "text": "While the potatoes roast, cook the sausage in a 12-inch skillet over medium-high heat, breaking it into rough ½-inch pieces with a wooden spoon. Cook for 7 to 9 minutes until deeply browned and cooked through — ground pork must reach 160°F (71°C) for safety. Do not stir it constantly; letting it sit for a minute at a time builds the brown crust that carries the whole burrito."
+        },
+        {
+          "title": "Drain but keep some fat",
+          "text": "Transfer the sausage to a paper-towel-lined plate and pour off all but about 1 tablespoon of the fat from the skillet. That remaining fat is loaded with flavor and will season the eggs. If your sausage was very lean, add a teaspoon of oil so the pan is not dry."
+        },
+        {
+          "title": "Beat and salt the eggs",
+          "text": "Whisk the eggs with the fine sea salt for 45 seconds, until completely uniform with no streaks of white. Let them sit while you wipe out the pan. Well-beaten eggs make even, tender curds; poorly beaten eggs make rubbery white ribbons that are very obvious inside a burrito."
+        },
+        {
+          "title": "Scramble the eggs softly",
+          "text": "Melt the butter in the skillet over low heat, add the eggs, and stir slowly and constantly with a silicone spatula for 4 to 6 minutes. Pull them off the heat while they are still glossy and slightly underdone — they will finish cooking from residual heat, and they get reheated again when you sear the burrito. Overcooked eggs in a burrito turn dry and squeaky."
+        },
+        {
+          "title": "Warm the tortillas",
+          "text": "Heat each tortilla directly over a low gas flame for 15 seconds per side, or in a dry skillet over medium for 30 seconds per side, until soft and pliable with a few brown spots. A cold tortilla cracks the moment you fold it. If you are using an oven, wrap the stack in foil and warm at 350°F (175°C) for 8 minutes."
+        },
+        {
+          "title": "Drain the wet ingredients",
+          "text": "Tip the salsa into a fine sieve and let it drain for a minute, pressing lightly. Excess liquid is the number-one cause of a burrito that falls apart or goes soggy in the fridge. The same goes for any watery pico de gallo or sour cream — go light, or leave them on the side for dipping."
+        },
+        {
+          "title": "Build in the right order",
+          "text": "Lay a warm tortilla flat and pile the filling in a horizontal log just below the center, leaving 2 inches (5 cm) clear on each side. Go cheese first, then hot potatoes and sausage, then eggs, then salsa and avocado — putting cheese against the tortilla lets it melt into a glue that helps everything hold together. Use about a quarter of each component and resist overfilling; a burrito you cannot close is just a bowl."
+        },
+        {
+          "title": "Roll it tight",
+          "text": "Fold the bottom edge up and over the filling, then use your fingers to tuck and pull it back toward you, compressing the filling into a tight cylinder. Fold both sides in over the ends, then roll the whole thing forward, keeping steady tension the whole way. A loose burrito unravels in the pan; a tight one holds its shape when you slice it."
+        },
+        {
+          "title": "Sear the seam",
+          "text": "Wipe out the skillet, add the remaining 1 tablespoon of oil, and set it over medium heat. Lay each burrito seam-side down and press gently with a spatula for 2 minutes until golden and sealed, then roll it to brown the other sides, about 1 minute each. This step welds the seam shut and gives you a crisp, toasted exterior that makes an enormous difference."
+        },
+        {
+          "title": "Rest, then cut and serve",
+          "text": "Let the burritos rest for 2 minutes so the cheese sets slightly and the filling stops shifting. Cut them in half on a sharp diagonal with a serrated knife, using a sawing motion instead of pressing straight down. Scatter cilantro over the top and serve with extra salsa and hot sauce."
+        }
+      ],
+      "tips": [
+        "Freezer meal: wrap each cooled burrito tightly in foil, then in a freezer bag, for up to 3 months. Unwrap the foil, microwave from frozen for 2 to 3 minutes, then crisp it in a dry skillet for 2 minutes per side.",
+        "Let every component cool to just-warm before rolling if you plan to freeze them. Steam trapped inside makes ice crystals and a soggy tortilla.",
+        "Grate your own cheese. Pre-shredded cheese is coated in starch to keep it from clumping, and it melts into a grainy, greasy texture instead of a smooth one.",
+        "Swap the sausage for 1 lb (450 g) crumbled Mexican chorizo (cook to 160°F / 71°C), sliced bacon, or a can of drained and rinsed black beans with an extra teaspoon of cumin.",
+        "If your burritos keep splitting, you overfilled them or your tortillas were cold. This recipe makes about 8 cups of filling, so figure a generous 2 cups per 12-inch tortilla, and always warm them first — a 10-inch tortilla will not close around this much."
+      ],
+      "keyTemp": "Ground pork sausage must reach 160°F (71°C). Roast potatoes at 425°F (220°C) until crisp, and pull the eggs while still glossy since they cook again during the sear.",
+      "pairing": "Hot sauce, extra salsa, and cold horchata or a strong black coffee.",
+      "videoQuery": "breakfast burrito recipe freezer meal",
+      "photoQuery": "breakfast burrito cut in half",
+      "tags": ["Make Ahead", "Meal Prep", "Freezer Friendly"]
+    },
+    {
+      "id": "biscuits-and-sausage-gravy",
+      "title": "Biscuits and Sausage Gravy",
+      "emoji": "🥐",
+      "art": "bread",
+      "blurb": "Tall, flaky buttermilk biscuits split open under a peppery, creamy sausage gravy. It is the most comforting plate in American breakfast cooking, and both halves are easier than they look.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "35 min",
+      "totalTime": "1 hr",
+      "ingredients": [
+        {
+          "group": "Buttermilk biscuits",
+          "items": [
+            "3 cups (360 g) all-purpose flour, plus more for the counter",
+            "1 tbsp plus 1 tsp (16 g) baking powder",
+            "½ tsp (3 g) baking soda",
+            "1 tbsp (12 g) granulated sugar",
+            "1½ tsp (9 g) fine sea salt",
+            "10 tbsp (140 g) unsalted butter, frozen for 15 minutes",
+            "1¼ cups (300 ml) cold buttermilk, plus 1 tbsp for brushing"
+          ]
+        },
+        {
+          "group": "Sausage gravy",
+          "items": [
+            "1 lb (450 g) bulk breakfast sausage",
+            "¼ cup (30 g) all-purpose flour",
+            "2½ cups (600 ml) whole milk, warmed",
+            "1 tsp (2 g) coarsely ground black pepper, plus more to taste",
+            "½ tsp (3 g) fine sea salt, plus more to taste",
+            "½ tsp (0.5 g) dried rubbed sage",
+            "1 pinch cayenne pepper (about ⅛ tsp)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Get everything cold",
+          "text": "Put the butter in the freezer for 15 minutes and keep the buttermilk in the fridge until the second you need it. Cold butter is the whole architecture of a flaky biscuit: solid pieces of fat melt in the oven and release steam that pushes the dough into layers. Warm butter blends into the flour and gives you a dense, scone-like puck instead."
+        },
+        {
+          "title": "Heat the oven hot",
+          "text": "Set a rack in the upper third of the oven and heat it to 450°F (230°C). Line a sheet pan with parchment. A very hot oven flashes the water in the butter into steam quickly, which is what makes biscuits shoot up rather than slump — a moderate oven melts the fat before the structure can set."
+        },
+        {
+          "title": "Whisk the dry ingredients",
+          "text": "In a large bowl, whisk the flour, baking powder, baking soda, sugar, and salt together for 20 seconds. Both leaveners are here for a reason: baking soda reacts with the acidic buttermilk for immediate lift and browning, while baking powder gives a second push in the oven. Make sure there are no visible pockets of powder left."
+        },
+        {
+          "title": "Grate in the butter",
+          "text": "Grate the frozen butter on the large holes of a box grater directly into the flour, tossing with your fingers every 20 seconds so the shreds stay separate. Alternatively, cut it in with a pastry cutter until the largest pieces are the size of peas. Work fast — if the butter starts to look shiny or feel soft, put the whole bowl in the freezer for 10 minutes."
+        },
+        {
+          "title": "Add the buttermilk",
+          "text": "Pour in the 1¼ cups cold buttermilk all at once and stir with a fork just until a shaggy, sticky dough comes together and there are no dry patches at the bottom, about 15 seconds. It will look rough and unpromising, which is correct. Overmixing at this point develops gluten and turns a tender biscuit tough."
+        },
+        {
+          "title": "Fold for layers",
+          "text": "Turn the dough onto a floured counter and pat it into a rough 1-inch-thick rectangle. Fold it in thirds like a letter, rotate 90 degrees, pat it out, and repeat three more times. Each fold laminates butter between sheets of dough, and this is what creates the pull-apart layers you can peel with your fingers. Keep a light hand and add flour only if it truly sticks."
+        },
+        {
+          "title": "Cut without twisting",
+          "text": "Pat the dough to a final 1-inch (2.5 cm) thickness and cut rounds with a floured 2½-inch (6 cm) cutter, pressing straight down and lifting straight up. Twisting the cutter pinches the edges shut and the biscuit rises lopsided or not at all. Push scraps gently together and cut again — the second round will be slightly less tender, so make them yours."
+        },
+        {
+          "title": "Bake them touching",
+          "text": "Arrange the biscuits on the parchment so their sides just touch, which forces them to climb upward instead of spreading outward. Brush the tops with the remaining tablespoon of buttermilk. Bake for 14 to 17 minutes, until the tops are deep golden and the interior reads 205 to 210°F (96 to 99°C) on an instant-read thermometer."
+        },
+        {
+          "title": "Brown the sausage",
+          "text": "While the biscuits bake, cook the sausage in a 12-inch skillet over medium heat, breaking it into bite-size crumbles. Cook for 8 to 10 minutes until well browned and cooked through to 160°F (71°C). Do not drain the fat — you need about ¼ cup (60 ml) of drippings in the pan to make the roux, so add butter if your sausage was very lean."
+        },
+        {
+          "title": "Make the roux",
+          "text": "Sprinkle the flour evenly over the sausage and stir constantly for 2 minutes, keeping the heat at medium. The mixture will look pasty and clumped around the meat, which is exactly right. This step cooks out the raw flour taste; skipping it leaves a chalky flavor that no amount of salt will hide. The ratio to remember is 4 tablespoons of fat and 4 tablespoons of flour to 2½ cups (600 ml) of milk — that lands on a gravy that coats a split biscuit instead of running off it or setting up like wallpaper paste."
+        },
+        {
+          "title": "Add the milk slowly",
+          "text": "Pour in about ½ cup (120 ml) of the warm milk and stir hard until it is completely smooth and thick, then add the rest in two more additions, stirring between each. Adding all the milk at once is how you get lumps. Warm milk incorporates far more smoothly than cold, so give it 90 seconds in the microwave first."
+        },
+        {
+          "title": "Simmer to thicken",
+          "text": "Bring the gravy to a gentle simmer and cook for 5 to 8 minutes, stirring often and scraping the bottom, until it coats the back of a spoon and a finger drawn through leaves a clean line. Stir in the pepper, salt, sage, and cayenne. It will thicken more as it cools, so pull it a touch looser than you want it."
+        },
+        {
+          "title": "Taste and serve",
+          "text": "Taste and adjust — sausage gravy should be aggressively peppery, so do not be shy about adding another ½ teaspoon of black pepper. If it has gone too thick, whisk in warm milk 2 tablespoons at a time. Split the hot biscuits with a fork, lay them cut-side up on plates, and ladle the gravy generously over the top."
+        }
+      ],
+      "tips": [
+        "Make-ahead: cut the raw biscuits, freeze them solid on a sheet pan, then bag them. Bake straight from frozen at 450°F (230°C) for 18 to 20 minutes — no thawing, and they rise even better.",
+        "No buttermilk? Use 1¼ cups (300 ml) whole milk plus 1 tbsp (15 ml) lemon juice, rested 10 minutes. Keep both leaveners in the recipe.",
+        "The gravy thickens dramatically as it sits. Reheat it over low heat with a splash of milk and it comes right back — do not try to fix a cold, gluey pan with more heat alone.",
+        "For flakier biscuits, chill the cut rounds for 10 minutes on the sheet pan before baking. Cold dough into a hot oven is always the best combination.",
+        "Sausage matters. A good pork breakfast sausage with sage and black pepper carries this dish; a bland one leaves you salting a beige sauce."
+      ],
+      "keyTemp": "Sausage must reach 160°F (71°C). Bake biscuits at 450°F (230°C) until the interior reads 205 to 210°F (96 to 99°C) and the tops are deep golden.",
+      "pairing": "Fried eggs on the side, a few dashes of hot sauce, and coffee with cream.",
+      "videoQuery": "biscuits and sausage gravy from scratch",
+      "photoQuery": "biscuits and gravy plate",
+      "tags": ["Comfort Food", "Weekend", "Southern"]
+    },
+    {
+      "id": "cinnamon-rolls",
+      "title": "Overnight Cinnamon Rolls",
+      "emoji": "🧁",
+      "art": "bread",
+      "blurb": "Soft, pull-apart enriched dough with a molten cinnamon-sugar swirl and tangy cream cheese frosting. Do the work the night before and wake up to the best smell in the house.",
+      "difficulty": "Advanced",
+      "servings": "Makes 12 rolls",
+      "prepTime": "40 min",
+      "cookTime": "28 min",
+      "totalTime": "3 hr 45 min including rising",
+      "ingredients": [
+        {
+          "group": "Dough",
+          "items": [
+            "4 cups (480 g) all-purpose or bread flour, plus more for dusting",
+            "2¼ tsp (7 g) instant yeast (one packet)",
+            "¼ cup (50 g) granulated sugar",
+            "1½ tsp (9 g) fine sea salt",
+            "1 cup (240 ml) whole milk, warmed to 110°F (43°C)",
+            "2 large eggs, at room temperature",
+            "6 tbsp (85 g) unsalted butter, softened",
+            "1 tbsp (14 g) unsalted butter, softened, for the baking pan"
+          ]
+        },
+        {
+          "group": "Cinnamon filling",
+          "items": [
+            "6 tbsp (85 g) unsalted butter, very soft",
+            "¾ cup (165 g) packed dark brown sugar",
+            "2 tbsp (16 g) ground cinnamon",
+            "¼ tsp (1.5 g) fine sea salt"
+          ]
+        },
+        {
+          "group": "Cream cheese frosting",
+          "items": [
+            "4 oz (115 g) cream cheese, at room temperature",
+            "4 tbsp (55 g) unsalted butter, softened",
+            "1½ cups (180 g) powdered sugar, sifted",
+            "1 tsp (5 ml) vanilla extract",
+            "¼ tsp (1.5 g) fine sea salt",
+            "1 tbsp (15 ml) whole milk, as needed"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Warm the milk correctly",
+          "text": "Heat the milk to 105 to 110°F (40 to 43°C) — warm on your wrist like bathwater, not hot. Above 130°F (54°C) you start killing the yeast, and cold milk simply slows everything to a crawl. Use a thermometer the first few times; guessing here is the most common reason enriched dough refuses to rise."
+        },
+        {
+          "title": "Mix the dough",
+          "text": "In a stand mixer bowl fitted with the dough hook, combine the flour, instant yeast, sugar, and salt, then add the warm milk and eggs. Mix on low for 2 minutes until a shaggy dough forms and no dry flour remains at the bottom. Instant yeast can go straight in with the flour and does not need to be proofed separately."
+        },
+        {
+          "title": "Add the butter slowly",
+          "text": "With the mixer on medium-low, add the 6 tablespoons of softened butter one tablespoon at a time, letting each piece disappear before adding the next, about 4 minutes total. The dough will look broken and greasy in the middle of this and then suddenly come back together — that is normal. Adding all the butter at once coats the flour and prevents gluten from developing at all."
+        },
+        {
+          "title": "Knead until it passes the windowpane",
+          "text": "Knead on medium for 8 to 10 minutes, until the dough is smooth, elastic, and pulls cleanly away from the sides of the bowl while still sticking slightly at the bottom. Test it by stretching a walnut-sized piece between your fingers: it should thin out enough to see light through it before tearing. If it rips immediately, knead for another 2 minutes and test again."
+        },
+        {
+          "title": "First rise",
+          "text": "Shape the dough into a ball, place it in a lightly oiled bowl, cover with plastic wrap, and let it rise in a warm spot for 60 to 90 minutes, until doubled in size. Poke it 1 inch (2.5 cm) deep with a floured finger — if the dent springs back slowly and only partway, it is ready. If it springs back immediately, give it another 15 minutes."
+        },
+        {
+          "title": "Make the filling",
+          "text": "Stir the very soft butter, brown sugar, cinnamon, and salt together until it forms a spreadable paste, like thick frosting. Softened butter is critical: melted butter runs out of the roll and pools in the bottom of the pan, while cold butter tears the dough as you spread it. If yours is melted, chill it for 10 minutes and stir again."
+        },
+        {
+          "title": "Roll out the dough",
+          "text": "Punch the dough down gently and roll it on a lightly floured counter into a rectangle about 16 by 12 inches (40 by 30 cm) and ¼ inch (6 mm) thick, with a long side facing you. Keep the corners square by pulling them out with your hands — round corners give you skinny end rolls. If the dough springs back and fights you, let it rest 5 minutes and try again."
+        },
+        {
+          "title": "Spread and roll up",
+          "text": "Spread the filling over the dough with an offset spatula, going all the way to the edges except for a bare 1-inch (2.5 cm) strip along the far long edge. Roll the dough toward that bare strip, keeping it tight and even, then pinch the seam firmly to seal. A loose roll gives you a hollow center and a spiral that unwinds in the oven."
+        },
+        {
+          "title": "Cut clean spirals",
+          "text": "Trim the ragged ends, then cut the log into 12 equal pieces about 1¼ inches (3 cm) wide, using either unflavored dental floss slid under the log and crossed over the top, or a very sharp serrated knife with a gentle sawing motion. A regular knife pressed down squashes the spiral flat. Mark the log lightly before cutting so all twelve come out the same size."
+        },
+        {
+          "title": "Second rise or overnight chill",
+          "text": "Arrange the rolls cut-side up in a buttered 9 by 13-inch (23 by 33 cm) pan, leaving a little space between them. Either cover and let them rise at room temperature for 45 to 60 minutes until puffy and touching, or cover tightly and refrigerate overnight for up to 16 hours. If they went in the fridge, pull them out and let them sit at room temperature for 45 to 60 minutes before baking."
+        },
+        {
+          "title": "Bake to temperature",
+          "text": "Heat the oven to 350°F (175°C) and bake the rolls for 22 to 28 minutes, until the tops are golden and the center of the middle roll reads 190°F (88°C) on an instant-read thermometer. Temperature is far more reliable than color here, because the outer rolls brown well before the middle is done. If the tops darken too fast, tent the pan loosely with foil."
+        },
+        {
+          "title": "Make the frosting",
+          "text": "While the rolls bake, beat the cream cheese and butter together until completely smooth with no lumps, about 2 minutes. Add the sifted powdered sugar, vanilla, and salt and beat for another minute, adding milk a teaspoon at a time until it is spreadable but not runny. Both fats must be genuinely at room temperature or the frosting will be lumpy no matter how long you beat it."
+        },
+        {
+          "title": "Frost warm, not hot",
+          "text": "Let the rolls cool in the pan for 10 minutes before frosting. Frosting them straight from the oven melts everything into a thin glaze that soaks in and disappears; waiting until they are cold means the frosting sits on top in a stiff cap. Ten minutes gives you that half-melted layer that sinks into the crevices and still coats the tops."
+        },
+        {
+          "title": "Serve and store",
+          "text": "Spread the frosting over the warm rolls and serve them straight from the pan while the centers are still soft and gooey. Leftovers keep covered at room temperature for 2 days or refrigerated for 5. Reheat individual rolls for 20 to 30 seconds in the microwave, which brings the crumb right back to soft."
+        }
+      ],
+      "tips": [
+        "Overnight is the point: assemble through the pan stage the night before, refrigerate, and pull the pan out 45 to 60 minutes before you want to bake. Cold dough rises more slowly but develops much better flavor.",
+        "Weigh the flour if you can. A cup of flour can vary by 20 percent depending on how you scoop it, and enriched dough is unforgiving about that — 480 g is 480 g.",
+        "No stand mixer? Knead by hand for 12 to 15 minutes on a lightly oiled counter using a slap-and-fold motion. It is sticky at first and comes together suddenly around minute eight.",
+        "For a gooier bottom, pour ¼ cup (60 ml) of warm heavy cream over the risen rolls right before they go in the oven. It bakes into a caramel-like layer underneath.",
+        "Unfrosted baked rolls freeze well for 2 months. Thaw at room temperature, warm at 300°F (150°C) for 10 minutes, then frost."
+      ],
+      "keyTemp": "Milk for the yeast: 105 to 110°F (40 to 43°C). Bake at 350°F (175°C) until the center roll reads 190°F (88°C), which is the doneness point for enriched dough.",
+      "pairing": "Strong black coffee or a cold glass of milk, and something salty like bacon to balance the sweetness.",
+      "videoQuery": "overnight cinnamon rolls cream cheese frosting",
+      "photoQuery": "cinnamon rolls pan frosting",
+      "tags": ["Weekend Project", "Make Ahead", "Baking"]
+    },
+    {
+      "id": "crepes",
+      "title": "Thin French Crepes",
+      "emoji": "🫓",
+      "art": "pancake",
+      "blurb": "Paper-thin, lacy, faintly sweet pancakes that go sweet or savory depending on the mood. The batter takes five minutes and one blender, and the rest is a rhythm you pick up by crepe three.",
+      "difficulty": "Medium",
+      "servings": "Makes 12 crepes",
+      "prepTime": "10 min",
+      "cookTime": "25 min",
+      "totalTime": "1 hr 5 min including resting",
+      "ingredients": [
+        {
+          "group": "Batter",
+          "items": [
+            "1 cup (120 g) all-purpose flour",
+            "1½ cups (360 ml) whole milk, at room temperature",
+            "3 large eggs, at room temperature",
+            "3 tbsp (42 g) unsalted butter, melted and cooled",
+            "1 tbsp (12 g) granulated sugar",
+            "½ tsp (3 g) fine sea salt",
+            "1 tsp (5 ml) vanilla extract, for sweet crepes"
+          ]
+        },
+        {
+          "group": "For cooking and serving",
+          "items": [
+            "2 tbsp (28 g) unsalted butter, for the pan",
+            "¼ cup (30 g) powdered sugar, for dusting",
+            "1 lemon, cut into wedges",
+            "½ cup (160 g) jam, Nutella, or 1 cup (145 g) fresh berries"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Blend the batter",
+          "text": "Put the milk, eggs, melted butter, sugar, salt, and vanilla in a blender, then add the flour on top and blend on high for 20 to 30 seconds until completely smooth. Adding the liquids first keeps the flour from packing against the blades and forming a paste. If you are working by hand, whisk the flour and sugar together, make a well, and gradually whisk in the liquids to avoid lumps."
+        },
+        {
+          "title": "Rest the batter",
+          "text": "Cover and refrigerate the batter for at least 30 minutes, or up to 48 hours. This rest lets the flour fully hydrate and lets the gluten you just developed in the blender relax, which is what makes crepes tender and stretchy instead of rubbery. It also lets the bubbles settle out so you get smooth crepes rather than pockmarked ones. This step is not optional if you want the good texture."
+        },
+        {
+          "title": "Check the consistency",
+          "text": "After resting, the batter should be the thickness of heavy cream and coat a spoon in a thin, translucent film. If it has thickened in the fridge, whisk in milk 1 tablespoon at a time until it flows freely off the whisk. Too-thick batter makes heavy, pancake-like crepes that will not swirl to the edges of the pan."
+        },
+        {
+          "title": "Heat the pan properly",
+          "text": "Set an 8- or 10-inch nonstick skillet or crepe pan over medium heat for 3 to 4 minutes. It is hot enough when a drop of water dances and evaporates in about 2 seconds. Too cool and the crepe goes pale and soggy; too hot and it sets before you can spread it. Getting the heat right takes a couple of test crepes, and everyone sacrifices the first one."
+        },
+        {
+          "title": "Grease very lightly",
+          "text": "Melt a small knob of butter in the pan, swirl to coat, then wipe out almost all of it with a folded paper towel. You want the barest film. A puddle of butter fries the underside into a blotchy, spotted crepe instead of an even golden one, and it makes the batter slide around instead of grabbing."
+        },
+        {
+          "title": "Pour and swirl fast",
+          "text": "Lift the pan off the heat, pour in a scant ¼ cup (about 50 ml) of batter at the center, and immediately tilt and rotate your wrist so the batter runs out to the edges in a thin, even circle. That is the amount that just covers an 8-inch pan; this batch makes roughly 600 ml of batter, which is where the twelve crepes come from. You have roughly three seconds before it sets, so commit. If there is a hole, dribble a few drops of batter into it right away and swirl again."
+        },
+        {
+          "title": "Cook the first side",
+          "text": "Return the pan to the heat and cook for 60 to 90 seconds, until the surface looks dry and matte, the edges lift and turn faintly golden, and the whole crepe slides freely when you shake the pan. Peek underneath: you want a lacy, mottled brown map, not a uniform tan. If it is still sticking anywhere, give it another 15 seconds."
+        },
+        {
+          "title": "Flip with confidence",
+          "text": "Loosen the edge with a thin silicone spatula or your fingertips, lift the crepe, and flip it over in one motion. Cook the second side for just 20 to 30 seconds — it never browns as evenly and does not need to, since this side ends up on the inside. Overcooking the second side is what makes crepes stiff and brittle."
+        },
+        {
+          "title": "Stack them as you go",
+          "text": "Slide each finished crepe onto a plate and stack them directly on top of each other, no parchment needed. They will not stick, and the trapped steam actually keeps them soft and pliable. Cover the stack loosely with a clean kitchen towel to keep them warm while you finish the batch."
+        },
+        {
+          "title": "Adjust as you cook",
+          "text": "Watch the color of each crepe and adjust the burner in small steps. If crepes are browning in under a minute, drop the heat a notch; if they are still pale at 2 minutes, nudge it up. Re-wipe the pan with the buttery paper towel every second or third crepe, not every time."
+        },
+        {
+          "title": "Fill and serve",
+          "text": "Spread about 2 teaspoons of the jam or Nutella, or a scatter of berries, over one quarter of each crepe, then fold in half and in half again to make a triangle, or roll it into a cigar. Go light — a crepe is meant to be a thin wrapper around a little filling, and overloading one is what makes it tear as you fold. Dust with powdered sugar and serve with a lemon wedge for squeezing — sugar and lemon on a plain crepe is the classic Breton street version and still the best one. Serve warm, two per person."
+        }
+      ],
+      "tips": [
+        "Make-ahead: the batter is better on day two, and cooked crepes keep stacked and wrapped in the fridge for 3 days or frozen for 2 months with parchment between every four.",
+        "For savory galettes, drop the sugar and vanilla and replace ½ cup (65 g) of the flour with buckwheat flour. Fill with ham, Gruyère, and an egg cracked into the center.",
+        "The first crepe always fails. That is not a mistake, it is how you learn whether the pan is at the right temperature.",
+        "A ¼ cup measure or a small ladle gives consistent crepes. Eyeballing the pour is why one crepe is thick and the next has holes.",
+        "If the crepes tear when you flip them, the batter is too thin or the first side is undercooked. Wait for the edges to lift and go golden before you commit."
+      ],
+      "keyTemp": "Medium heat, around 350°F (175°C) — a water droplet should dance and evaporate in about 2 seconds. Cook the first side 60 to 90 seconds and the second only 20 to 30.",
+      "pairing": "Sugar and lemon, or Nutella and sliced banana, with a bowl of café au lait.",
+      "videoQuery": "how to make french crepes thin",
+      "photoQuery": "french crepes lemon powdered sugar",
+      "tags": ["Make Ahead", "Brunch", "French"]
+    },
+    {
+      "id": "huevos-rancheros",
+      "title": "Huevos Rancheros",
+      "emoji": "🌶️",
+      "art": "egg",
+      "blurb": "Fried eggs over crisped corn tortillas and refried beans, flooded with a smoky ranchero salsa. Rustic, filling, and built almost entirely from cans and eggs.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "Ranchero salsa",
+          "items": [
+            "2 tbsp (30 ml) neutral oil",
+            "½ medium white onion (about 4 oz / 115 g), finely diced",
+            "1 to 2 jalapeños, seeded and minced (about 2 tbsp)",
+            "3 garlic cloves, minced",
+            "1 can (14.5 oz / 411 g) fire-roasted diced tomatoes with their juice",
+            "1 tsp (2.5 g) ground cumin",
+            "½ tsp (0.5 g) dried Mexican oregano",
+            "¾ tsp (4 g) fine sea salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Beans and tortillas",
+          "items": [
+            "1 can (15 oz / 425 g) refried pinto beans, or 1½ cups homemade",
+            "2 tbsp (30 ml) water or bean liquid",
+            "8 corn tortillas (6 in / 15 cm)",
+            "¼ cup (60 ml) neutral oil, for frying the tortillas"
+          ]
+        },
+        {
+          "group": "Eggs and garnish",
+          "items": [
+            "8 large eggs",
+            "2 tbsp (28 g) unsalted butter or 2 tbsp (30 ml) oil",
+            "¾ tsp (4.5 g) fine sea salt, divided between the eggs and the fried tortillas",
+            "2 oz (55 g) cotija or queso fresco, crumbled",
+            "1 ripe avocado, sliced",
+            "¼ cup (10 g) fresh cilantro leaves",
+            "1 lime, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start the salsa",
+          "text": "Heat the 2 tablespoons of oil in a medium saucepan over medium heat until it shimmers, then add the onion and jalapeño with a pinch of the salt. Cook for 5 to 6 minutes, stirring occasionally, until the onion is soft and translucent and just starting to turn golden at the edges. Softening the aromatics properly is what separates a real ranchero sauce from warmed-up salsa from a jar."
+        },
+        {
+          "title": "Bloom the spices",
+          "text": "Add the minced garlic, cumin, and oregano and stir constantly for 45 to 60 seconds until the kitchen smells strongly of toasted cumin. Crush the dried oregano between your palms as you add it to release its oils. Watch closely, because garlic goes from fragrant to bitter in well under a minute at this heat."
+        },
+        {
+          "title": "Simmer the salsa down",
+          "text": "Pour in the tomatoes with all their juice and the remaining salt, and bring to a simmer. Cook uncovered for 12 to 15 minutes, stirring now and then and mashing the tomato pieces against the side of the pan with a spoon. You want it thick enough to sit on a tortilla without running off the plate. Taste and add salt in small increments until the flavor snaps into focus."
+        },
+        {
+          "title": "Warm the beans",
+          "text": "In a small saucepan over low heat, warm the refried beans with the 2 tablespoons of water, stirring until they are smooth, hot, and spreadable, about 5 minutes. Canned refried beans are stiff straight from the tin and will tear the tortillas if you try to spread them cold. Keep them covered over the lowest heat so they do not dry out and crust over."
+        },
+        {
+          "title": "Crisp the tortillas",
+          "text": "Heat the ¼ cup of oil in a small skillet over medium-high until it shimmers, around 350°F (175°C). Fry each tortilla for 20 to 30 seconds per side until it is lightly golden and just starting to firm up but still flexible enough to fold. This is the traditional step people skip, and it is what keeps the tortilla from turning into wet paper under the salsa. Drain them on paper towels and sprinkle them with about ¼ teaspoon of the salt while they are still glistening, since salt only sticks to a hot, oily surface."
+        },
+        {
+          "title": "Set up the plates",
+          "text": "Warm four plates in a 200°F (95°C) oven for a few minutes while you fry the eggs. Lay two crisped tortillas slightly overlapping on each plate and spread each one with a few tablespoons of the warm beans. Building the base before the eggs are cooked means you can plate everything the moment they come out of the pan."
+        },
+        {
+          "title": "Fry the eggs",
+          "text": "Melt the butter in a large nonstick skillet over medium heat until foaming, then crack in four eggs, spacing them apart. Season with about ¼ teaspoon of the remaining salt and cook for 2½ to 3 minutes, until the whites are fully set and opaque and the yolks are still liquid. For sunny-side up, cover the pan for the last 30 seconds so the steam sets the film over the yolk without flipping."
+        },
+        {
+          "title": "Cook the second batch",
+          "text": "Slide the first four eggs onto the waiting tortillas, then repeat with the remaining butter and eggs. Wipe the pan if any browned bits are left behind, since they will stick to the next batch and taste burnt. Keep the finished plates in the warm oven for the two minutes this takes."
+        },
+        {
+          "title": "Sauce the plates",
+          "text": "Spoon the hot ranchero salsa generously over and around the eggs, deliberately leaving the yolks exposed so they stay visible and do not get cooked further by the hot sauce. About ⅓ cup (80 ml) per plate is right. The salsa should be hot enough to steam when it hits the plate."
+        },
+        {
+          "title": "Garnish and serve immediately",
+          "text": "Scatter the crumbled cotija, avocado slices, and cilantro over the top and tuck a lime wedge onto each plate. Serve right away with a knife and fork, and tell everyone to break the yolks into the salsa and beans — that is the whole idea. A squeeze of lime at the table brightens the entire plate."
+        }
+      ],
+      "tips": [
+        "Make-ahead: the ranchero salsa keeps for 5 days in the fridge and freezes for 3 months. With salsa in the freezer this becomes a 15-minute breakfast.",
+        "If you would rather not shallow-fry, brush the tortillas with oil and bake them at 400°F (200°C) for 6 to 8 minutes, flipping once. They will be crisper and less pliable but they hold up fine.",
+        "Runny yolks are not pasteurized. Cook the eggs to 160°F (71°C) with a fully firm yolk if you are serving anyone pregnant, very young, or immune-compromised.",
+        "Add chorizo for a heartier plate: brown 8 oz (225 g) of Mexican chorizo to 160°F (71°C) and scatter it over the beans before the eggs go on.",
+        "Homemade refried beans are a real upgrade: fry a can of drained pinto beans in 2 tbsp lard or oil with half a diced onion, mash, and loosen with water."
+      ],
+      "keyTemp": "Fry eggs 2½ to 3 minutes for set whites and runny yolks; cook to 160°F (71°C) for fully set yolks. Tortilla frying oil should be about 350°F (175°C).",
+      "pairing": "Cold Mexican lager or hibiscus agua fresca, with extra lime and a hot sauce you like.",
+      "videoQuery": "huevos rancheros authentic recipe salsa",
+      "photoQuery": "huevos rancheros plate eggs salsa",
+      "tags": ["One Pan", "Spicy", "Brunch"]
+    },
+    {
+      "id": "quiche-lorraine",
+      "title": "Quiche Lorraine",
+      "emoji": "🥧",
+      "art": "pie",
+      "blurb": "A crisp butter crust holding a barely set, silky custard shot through with bacon and Gruyère. Serve it warm or at room temperature and it works for breakfast, lunch, or a light dinner.",
+      "difficulty": "Medium",
+      "servings": "8 servings",
+      "prepTime": "30 min",
+      "cookTime": "1 hr 15 min",
+      "totalTime": "3 hr 15 min including chilling and cooling",
+      "ingredients": [
+        {
+          "group": "Crust",
+          "items": [
+            "1¼ cups (150 g) all-purpose flour",
+            "½ tsp (3 g) fine sea salt",
+            "8 tbsp (113 g, 1 stick) cold unsalted butter, cut into ½ in (1.5 cm) cubes",
+            "3 to 4 tbsp (45 to 60 ml) ice water"
+          ]
+        },
+        {
+          "group": "Filling",
+          "items": [
+            "6 oz (170 g) thick-cut bacon or lardons, cut into ½ in (1.5 cm) pieces",
+            "1 small shallot (about 1 oz / 30 g), finely minced",
+            "4 oz (115 g) Gruyère, freshly grated (about 1 cup)"
+          ]
+        },
+        {
+          "group": "Custard",
+          "items": [
+            "4 large eggs",
+            "1 cup (240 ml) heavy cream",
+            "1 cup (240 ml) whole milk",
+            "¾ tsp (4.5 g) fine sea salt",
+            "¼ tsp (0.5 g) freshly ground white or black pepper",
+            "1 pinch freshly grated nutmeg (about ⅛ tsp)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the pastry",
+          "text": "Pulse the flour and salt in a food processor to combine, add the cold butter cubes, and pulse 10 to 12 times until the largest pieces are the size of small peas. Those visible butter pieces are what make the crust flaky — if you process it to fine sand, you get a crumbly cookie crust instead. Working by hand with a pastry cutter or your fingertips works equally well if you move quickly."
+        },
+        {
+          "title": "Add water sparingly",
+          "text": "Drizzle in 3 tablespoons of ice water and pulse just 5 or 6 times. Squeeze a handful of the mixture: if it holds together when pressed, it is done; if it crumbles apart, add the last tablespoon. Too much water makes the dough easy to roll now and tough and shrunken later, so err on the dry side."
+        },
+        {
+          "title": "Chill the disk",
+          "text": "Tip the dough onto a sheet of plastic wrap, gather it into a disk about 5 inches (13 cm) across without kneading it, wrap tightly, and refrigerate for at least 1 hour or up to 2 days. Chilling hydrates the flour evenly and lets the gluten relax so the crust does not shrink down the sides of the pan in the oven. Cold dough also rolls out without the butter smearing."
+        },
+        {
+          "title": "Roll and line the pan",
+          "text": "On a lightly floured counter, roll the dough into a 13-inch (33 cm) circle about ⅛ inch (3 mm) thick, rotating a quarter turn after every few passes so it does not stick. Drape it into a 9-inch (23 cm) pie plate or tart pan and ease it into the corners without stretching — stretched dough always shrinks back. Trim the overhang to ½ inch (1.5 cm), fold it under, and crimp. Freeze the lined shell for 20 minutes."
+        },
+        {
+          "title": "Blind bake the shell",
+          "text": "Heat the oven to 400°F (200°C). Line the frozen shell with parchment or foil, fill it to the very top with pie weights or dried beans, and bake for 20 minutes. Then lift out the weights and parchment and bake another 8 to 10 minutes, until the bottom looks dry and pale gold. Skipping this step is exactly how you get the dreaded soggy bottom under a wet custard."
+        },
+        {
+          "title": "Seal the crust",
+          "text": "As soon as the shell comes out, brush the inside all over with a little beaten egg from your four eggs and return it to the oven for 2 minutes. The egg cooks into a thin waterproof film that keeps the custard from soaking into the pastry. Then lower the oven to 325°F (165°C) and let it come down while you make the filling."
+        },
+        {
+          "title": "Cook the bacon",
+          "text": "In a skillet over medium heat, cook the bacon for 8 to 10 minutes, stirring occasionally, until the fat has rendered and the pieces are browned but still slightly chewy rather than shatteringly crisp. They will firm up further in the oven. Pour off all but 1 tablespoon of the fat."
+        },
+        {
+          "title": "Soften the shallot",
+          "text": "Add the minced shallot to the reserved bacon fat and cook over medium-low for 2 to 3 minutes until soft and translucent but not browned. This is a small addition that rounds out the smoky bacon with a little sweetness. Transfer the bacon and shallot to a paper-towel-lined plate to drain, since extra grease will float to the top of the custard and pool."
+        },
+        {
+          "title": "Whisk the custard",
+          "text": "Whisk the remaining eggs with the cream, milk, salt, pepper, and nutmeg for about 30 seconds, until smooth and uniform but not foamy. Whisking hard enough to make bubbles gives you a puffed, spongy quiche instead of a dense, silky one. For the most refined texture, pour the custard through a fine sieve to catch the chalazae — those white cords attached to the yolks."
+        },
+        {
+          "title": "Layer the filling",
+          "text": "Scatter the drained bacon and shallot evenly over the bottom of the warm crust, then the grated Gruyère on top. Putting the solids in first means they stay distributed instead of floating up and forming a raft on the surface. Set the pie plate on a sheet pan on the oven rack before you pour, so you never have to carry a full quiche across the kitchen."
+        },
+        {
+          "title": "Fill and bake",
+          "text": "Pour the custard over the filling, stopping about ¼ inch (6 mm) below the rim — you may have a little left over, and that is better than an overflow. Bake at 325°F (165°C) for 35 to 45 minutes. The low oven is what keeps the custard silky; a hot oven curdles the eggs and makes it weep water."
+        },
+        {
+          "title": "Judge doneness carefully",
+          "text": "The quiche is done when the edges are set and puffed slightly, the center 2 inches (5 cm) still wobble like loose gelatin when you nudge the pan, and an instant-read thermometer inserted 1 inch (2.5 cm) from the center reads 170°F (77°C). That is comfortably above the 160°F (71°C) USDA safe temperature for egg dishes while still being creamy. A quiche baked until the middle is firm is a quiche that will be grainy when it cools."
+        },
+        {
+          "title": "Cool before slicing",
+          "text": "Let the quiche rest on a wire rack for at least 30 minutes before cutting. The custard continues to set as it cools, and slicing it hot gives you a soupy wedge that collapses on the plate. It is genuinely best warm or at room temperature rather than piping hot, which is why it makes such a good make-ahead dish."
+        }
+      ],
+      "tips": [
+        "Make-ahead: bake the whole quiche a day early, refrigerate, and reheat at 325°F (165°C) for 20 minutes. The blind-baked shell can also be frozen for a month.",
+        "Store-bought pie dough works perfectly well here — just blind bake and egg-wash it exactly the same way. The custard is where the quiche is won or lost.",
+        "The classic ratio to remember is 1 large egg per ½ cup (120 ml) of dairy. Stray from it and you get either scrambled eggs in a crust or a filling that never sets.",
+        "Gruyère is traditional, but Comté, Emmental, or a sharp white cheddar all work. Keep it to 4 oz (115 g) or the fat separates and the custard gets greasy.",
+        "If your crust slumps down the sides during blind baking, the dough was not cold enough or the weights did not reach the top rim. Freeze the shell hard and fill the weights all the way up."
+      ],
+      "keyTemp": "Blind bake at 400°F (200°C), then bake the custard at 325°F (165°C) until the center reads 170°F (77°C) — safely above the 160°F (71°C) minimum for egg dishes but still creamy, with a slight wobble in the middle.",
+      "pairing": "A sharply dressed green salad and a glass of dry white wine, or coffee if it is still morning.",
+      "videoQuery": "quiche lorraine recipe classic custard",
+      "photoQuery": "quiche lorraine slice bacon gruyere",
+      "tags": ["Make Ahead", "Brunch", "French"]
+    },
+    {
+      "id": "crispy-hash-browns",
+      "title": "Hash Browns That Actually Crisp",
+      "emoji": "🥔",
+      "art": "potato",
+      "blurb": "A single golden, lacy potato cake with a shatter-crisp crust and a tender middle. Two rules do all the work: rinse the starch away, then squeeze the potatoes truly bone dry.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "18 min",
+      "totalTime": "33 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "1½ lb (680 g) russet potatoes (about 2 large), peeled",
+            "1 tsp (6 g) kosher salt, plus more to taste",
+            "½ tsp (1 g) freshly ground black pepper",
+            "3 tbsp (42 g) unsalted butter",
+            "2 tbsp (30 ml) neutral oil, such as canola or grapeseed, plus 1 tsp (5 ml) more for the flip",
+            "2 tbsp finely snipped fresh chives, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Use russets, not waxy potatoes",
+          "text": "Russets are high in starch and low in moisture, which is exactly what fries into a crisp shell. Yukon Golds and red potatoes hold too much water and turn gummy and pale no matter how hot the pan is. Peel about 1½ lb (680 g), which shreds down to roughly 4 packed cups."
+        },
+        {
+          "title": "Shred them coarsely",
+          "text": "Grate the potatoes on the large holes of a box grater or with the shredding disk of a food processor, aiming for long strands rather than short stubs. Longer shreds tangle together and hold the cake in one piece when you flip it. Work quickly, because raw grated potato starts oxidizing and turning pink-gray within a couple of minutes."
+        },
+        {
+          "title": "Rinse away the starch",
+          "text": "Dump the shreds into a bowl of cold water and swish them hard with your hand for 30 seconds — the water will go cloudy white almost instantly. Drain and repeat until the water runs nearly clear, usually two or three changes. Surface starch is glue: leave it on and the shreds cement together into a dense, gummy pancake instead of separate crisp strands."
+        },
+        {
+          "title": "Squeeze them bone dry",
+          "text": "Pile the drained potatoes into the center of a clean kitchen towel, gather the corners, and twist hard over the sink. You should get a genuinely surprising amount of water out — keep twisting until nothing more drips, then squeeze again. Water in the pan turns to steam, and steam boils potatoes instead of frying them. This one step is the difference between a hash brown and a sad potato patty."
+        },
+        {
+          "title": "Season right before cooking",
+          "text": "Tip the dried shreds into a dry bowl and toss with the kosher salt and pepper using your fingers, separating any clumps. Do this at the last moment: salt pulls moisture straight back out of the potatoes, undoing all your squeezing if it sits for even ten minutes. The shreds should feel dry and fluffy in your hand."
+        },
+        {
+          "title": "Heat the fat properly",
+          "text": "Add the butter and oil to a 10-inch cast-iron or nonstick skillet over medium heat and let it get fully hot, about 2 minutes, until the butter foam subsides and a shred dropped in sizzles steadily right away. The oil raises the smoke point so the butter can brown without burning. It should sizzle steadily, not smoke."
+        },
+        {
+          "title": "Press into an even layer",
+          "text": "Add all the potatoes and spread them into an even layer about ½ inch (1.5 cm) thick, pressing down firmly with a spatula to compact the cake and force contact with the pan. Even thickness means even browning; a mound in the middle stays raw while the thin edges burn. Make sure the fat bubbles up around the edges."
+        },
+        {
+          "title": "Do not touch it",
+          "text": "Cook undisturbed for 6 to 8 minutes. Every time you stir or lift the potatoes you break the crust that is forming and release steam back into the cake. Peek at the edge with a spatula only after 6 minutes — you are looking for a deep, even golden brown across the whole underside and edges that have pulled slightly away from the pan."
+        },
+        {
+          "title": "Flip in one move",
+          "text": "Slide the cake onto a plate, invert the skillet over it, and flip the whole thing back into the pan — or if you are confident, use two spatulas and turn it in one go. Add another teaspoon of oil around the edge if the pan looks dry, letting it run underneath. Press the cake down again and cook the second side for 5 to 7 minutes."
+        },
+        {
+          "title": "Drain, salt, and serve",
+          "text": "Slide the hash browns onto a wire rack or a paper towel for 30 seconds to shed any surface grease, then salt the top lightly while it is still hot, since salt clings best to a hot, slightly oily surface. Cut into wedges, scatter with chives, and serve immediately — hash browns start softening within about five minutes. If you must hold them, use a rack in a 200°F (95°C) oven, never a covered plate."
+        }
+      ],
+      "tips": [
+        "Make-ahead trick: parboil whole peeled potatoes for 8 minutes, cool them completely in the fridge overnight, then grate. Partly cooked starch crisps even harder and the shreds will not oxidize.",
+        "For individual hash brown patties, portion the shreds into 4 mounds in the pan and press each to ½ inch (1.5 cm). More edges means more crunch, and they are far easier to flip.",
+        "If the potatoes turn pink or gray after grating, that is harmless oxidation. Cooking hides it entirely, and rinsing slows it down.",
+        "Clarified butter or ghee is the ideal fat here — all the butter flavor with no milk solids to burn at high heat.",
+        "Never crowd the pan or cook more than 1½ lb (680 g) at a time in a 10-inch skillet. Two batches beat one steamed, soggy mass every single time."
+      ],
+      "keyTemp": "Medium heat with fat around 350°F (175°C) — a shred should sizzle steadily on contact without smoking. Potatoes are cooked through at about 205°F (96°C), by which point the crust is deep golden.",
+      "pairing": "Fried eggs, thick bacon, and hot sauce — the classic diner plate.",
+      "videoQuery": "crispy hash browns cast iron skillet",
+      "photoQuery": "crispy golden hash browns skillet",
+      "tags": ["30 Minutes", "One Pan", "Vegetarian"]
+    },
+    {
+      "id": "diner-breakfast-sandwich",
+      "title": "Diner Bacon Egg and Cheese",
+      "emoji": "🥪",
+      "art": "sandwich",
+      "blurb": "A toasted English muffin, crisp bacon, a folded egg, and cheese melted into every crevice. Fifteen minutes, one pan, and better than anything you can buy at a counter.",
+      "difficulty": "Easy",
+      "servings": "2 sandwiches",
+      "prepTime": "5 min",
+      "cookTime": "15 min",
+      "totalTime": "20 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "4 slices thick-cut bacon (about 4 oz / 115 g)",
+            "2 English muffins, split with a fork",
+            "2 tbsp (28 g) salted butter, softened",
+            "4 large eggs",
+            "¼ tsp (1.5 g) fine sea salt",
+            "¼ tsp (0.5 g) freshly ground black pepper",
+            "4 slices American cheese or sharp cheddar (about 3 oz / 85 g)",
+            "1 tbsp (15 ml) hot sauce or 2 tsp mayonnaise, optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start the bacon in a cold pan",
+          "text": "Lay the bacon in a cold 10-inch skillet and then turn the heat to medium. Starting cold lets the fat render out slowly and evenly, so the strips end up flat and uniformly crisp instead of curled and burnt at the edges. Cook for 8 to 10 minutes total, flipping every 2 minutes, until deep golden and as crisp as you like it."
+        },
+        {
+          "title": "Drain and reserve the fat",
+          "text": "Transfer the bacon to a paper-towel-lined plate and pour off all but about 1 tablespoon of the fat, saving the rest in a jar for potatoes another day. That tablespoon left in the pan is what you will cook the eggs in, and it makes an enormous difference. Wipe out any burnt bits with a paper towel held in tongs."
+        },
+        {
+          "title": "Toast the muffins",
+          "text": "Split the English muffins with a fork rather than a knife so you keep the craggy nooks that catch butter, then toast the halves until deep golden and crisp at the edges. Do this in a toaster or face-down in the bacon pan for about 90 seconds. A properly toasted muffin is structural — an untoasted one goes soggy under a hot egg in under a minute."
+        },
+        {
+          "title": "Butter them immediately",
+          "text": "Spread the softened butter over the hot cut sides right away so it melts and soaks in. This also creates a light fat barrier that helps keep the bread from absorbing egg and grease. If you want a sauce, spread mayonnaise on the top half and add hot sauce at the very end."
+        },
+        {
+          "title": "Beat and season the eggs",
+          "text": "Crack the eggs into a bowl and beat them with a fork for a full 30 seconds with the salt and pepper, until the mixture is completely uniform in color with no ropes of white left. Any unbeaten white cooks into a rubbery translucent ribbon that you will absolutely notice inside a sandwich. Beaten eggs cooked in a thin sheet fold neatly into a square that fits the muffin, which is the classic diner move — much easier to eat than a fried egg that slides out the side. Salting now rather than at the table also gives the salt a couple of minutes to dissolve, so you get even seasoning instead of sharp grains."
+        },
+        {
+          "title": "Cook the eggs as a sheet",
+          "text": "Set the skillet with its tablespoon of bacon fat over medium-low heat and pour in the eggs. Let them sit undisturbed for 60 to 90 seconds, then use a spatula to pull the set edges toward the center, tilting the pan so the raw egg fills the gaps. Cook for another 60 seconds until the top is just barely set and no longer runny."
+        },
+        {
+          "title": "Fold and melt the cheese",
+          "text": "Lay the cheese slices over half the egg sheet, then fold the bare half over the top and cut the folded egg into two squares roughly the size of your muffins. Turn off the heat and let the residual warmth melt the cheese for about 60 seconds. American cheese melts smoothest, but a sharp cheddar gives you far more flavor if you accept a slightly greasier melt."
+        },
+        {
+          "title": "Check that the eggs are cooked through",
+          "text": "The folded egg should be fully set with no glossy liquid anywhere, which corresponds to 160°F (71°C) — the USDA safe temperature for beaten egg dishes. If any part still looks wet, cover the pan for 30 seconds off the heat rather than turning the burner back on. Overcooked eggs on a sandwich turn dry and squeaky."
+        },
+        {
+          "title": "Build and press",
+          "text": "Put a cheese-wrapped egg square on each bottom muffin half, break the bacon strips in half and stack two pieces on top so they lie flat, add hot sauce if using, then crown it with the top half. Press the sandwich firmly with your palm for 5 seconds — that compression melds the layers so it eats like one thing instead of sliding apart. Wrap it in parchment or foil for 60 seconds if you want the full deli effect, then eat it hot."
+        }
+      ],
+      "tips": [
+        "Cook bacon for the week ahead: bake a whole pound on a rack at 400°F (200°C) for 18 to 20 minutes, then refrigerate. Two strips reheat in 20 seconds and this sandwich becomes a five-minute job.",
+        "Sausage patty version: form 3 oz (85 g) of breakfast sausage into a thin patty wider than the muffin, since it shrinks, and cook to 160°F (71°C).",
+        "For a round fried egg instead, cook it in a greased metal ring or a clean tuna can with both ends removed, covered, for about 3 minutes.",
+        "Bagels and croissants both work, but English muffins are best because their flat, sturdy structure holds up without squeezing the filling out.",
+        "Wrapping the finished sandwich in foil for a minute is not just for looks — the trapped steam softens the muffin's interior slightly and finishes melting the cheese."
+      ],
+      "keyTemp": "Cook the beaten egg until fully set with no liquid, which is 160°F (71°C), the USDA safe temperature for egg dishes. Bacon is done when deep golden and rendered, about 8 to 10 minutes over medium.",
+      "pairing": "A big cup of black coffee and a handful of crispy hash browns.",
+      "videoQuery": "bacon egg and cheese english muffin",
+      "photoQuery": "bacon egg cheese breakfast sandwich",
+      "tags": ["30 Minutes", "One Pan", "Weeknight"]
+    },
+    {
+      "id": "dutch-baby",
+      "title": "Lemon Dutch Baby Pancake",
+      "emoji": "🍋",
+      "art": "pancake",
+      "blurb": "One blended batter poured into a screaming-hot skillet puffs into a dramatic, custardy pancake with crisp climbing walls. It looks like a project and takes ten minutes of actual work.",
+      "difficulty": "Easy",
+      "servings": "2 to 3 servings",
+      "prepTime": "10 min",
+      "cookTime": "22 min",
+      "totalTime": "32 min",
+      "ingredients": [
+        {
+          "group": "Batter",
+          "items": [
+            "3 large eggs, at room temperature",
+            "½ cup (60 g) all-purpose flour",
+            "½ cup (120 ml) whole milk, warmed to about 100°F (38°C)",
+            "1 tbsp (12 g) granulated sugar",
+            "½ tsp (5 ml) vanilla extract",
+            "¼ tsp (1.5 g) fine sea salt",
+            "1 pinch freshly grated nutmeg (about ⅛ tsp)"
+          ]
+        },
+        {
+          "group": "For the pan and top",
+          "items": [
+            "3 tbsp (42 g) unsalted butter",
+            "2 tbsp (16 g) powdered sugar, for dusting",
+            "1 lemon, cut into wedges",
+            "1 cup (145 g) fresh berries, optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Preheat the skillet in the oven",
+          "text": "Put a 10-inch cast-iron skillet on the middle rack and heat the oven to 425°F (220°C), leaving the pan inside for at least 20 minutes after it reaches temperature. A genuinely ripping-hot pan is the entire mechanism here: the batter hits it, the water in it flashes to steam, and the pancake climbs the walls. A merely warm pan gives you a flat, eggy disk."
+        },
+        {
+          "title": "Bring everything to room temperature",
+          "text": "Take the eggs out ahead of time, or sit them in warm tap water for 5 minutes, and warm the milk to about 100°F (38°C) in the microwave. Cold batter hitting a hot pan cools it down and blunts the puff dramatically. This is the second-most-common reason a Dutch baby comes out disappointing, right after an underheated skillet."
+        },
+        {
+          "title": "Blend the batter smooth",
+          "text": "Put the eggs, milk, sugar, vanilla, salt, and nutmeg in a blender and blend on high for 20 seconds, then add the flour and blend another 30 seconds until completely smooth and slightly foamy. All that whipping incorporates air, and air plus steam is what creates the rise. If you are whisking by hand, beat the eggs alone for a full minute first, then whisk in the liquids and finally the flour."
+        },
+        {
+          "title": "Rest the batter briefly",
+          "text": "Let the batter sit at room temperature for 10 minutes while the oven finishes heating. This lets the flour hydrate so the pancake is tender rather than tough, and lets any large bubbles settle. Do not rest it in the fridge — the goal is a batter that is close to room temperature when it hits the pan."
+        },
+        {
+          "title": "Melt the butter in the hot pan",
+          "text": "Pull the hot skillet out with a dry oven mitt, set it on the stovetop, and drop in the butter. Swirl it as it melts and foams, coating the bottom and swiping it up the sides with a brush or a folded paper towel held in tongs. Greasing the walls is what lets the batter climb; bare cast iron grips it and holds it down. Work fast so the pan does not lose heat."
+        },
+        {
+          "title": "Pour and go straight back in",
+          "text": "Pour the batter into the center of the pan all at once — it should sizzle audibly as it hits — and immediately slide the skillet back into the oven. Every second the oven door is open costs you height. Do not stir or spread the batter in the pan; it will level itself."
+        },
+        {
+          "title": "Do not open the oven",
+          "text": "Bake for 18 to 22 minutes without opening the door once. The pancake will billow up the sides in wild, uneven ridges and the center will stay comparatively flat, which is exactly right. Opening the door drops the oven temperature by 50°F (28°C) or more and the whole thing can collapse before the structure sets."
+        },
+        {
+          "title": "Judge doneness by color",
+          "text": "It is done when the walls are tall, deeply golden brown, and dry-looking, and the pale center is set with no wet shine. The edges should feel crisp when tapped with a fingertip. If the middle still looks glossy and liquid at 18 minutes, give it another 3 to 4 minutes rather than pulling it early."
+        },
+        {
+          "title": "Expect it to deflate",
+          "text": "The Dutch baby will start sinking within 30 seconds of leaving the oven, and that is not a failure — it is physics, and every Dutch baby does it. Carry it to the table immediately if you want anyone to see it at full height. What is left is a crisp-rimmed bowl with a custardy center, which is the actual good part."
+        },
+        {
+          "title": "Dress and serve",
+          "text": "Dust generously with powdered sugar through a fine sieve, squeeze a whole lemon wedge over the top, and scatter with berries if you have them. The acid is essential, cutting through what is a genuinely rich, eggy pancake. Cut it into wedges and serve straight from the skillet — remember the handle stays dangerously hot for a long time, so drape a towel over it."
+        }
+      ],
+      "tips": [
+        "The ratio is easy to remember and easy to scale: equal volumes of eggs, milk, and flour. Three eggs is about ½ cup, so ½ cup milk and ½ cup flour.",
+        "No cast iron? Use any oven-safe heavy skillet, a metal cake pan, or a glass pie dish. Avoid nonstick above 400°F (200°C) since most coatings degrade at that heat.",
+        "Savory version: skip the sugar and vanilla, add ¼ tsp black pepper and 2 tbsp grated Parmesan to the batter, and top the baked pancake with prosciutto and arugula.",
+        "If it barely rose, the culprit is almost always an underheated pan or cold ingredients. Give the skillet a full 20 minutes at 425°F (220°C) and warm the milk.",
+        "It does not keep. Dutch babies are a make-it-and-eat-it dish, so time it for when people are already at the table."
+      ],
+      "keyTemp": "Bake at 425°F (220°C) for 18 to 22 minutes, until the walls are deep golden and the center is set with no wet shine — about 200°F (93°C) in the custardy middle.",
+      "pairing": "Fresh berries and cream, or crisp bacon and hot coffee if you want to balance the sweetness.",
+      "videoQuery": "dutch baby pancake cast iron recipe",
+      "photoQuery": "dutch baby pancake skillet lemon",
+      "tags": ["30 Minutes", "Brunch", "Cast Iron"]
+    }
+  ]
+}

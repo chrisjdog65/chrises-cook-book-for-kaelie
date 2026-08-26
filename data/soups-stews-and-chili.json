@@ -1,0 +1,1642 @@
+{
+  "category": "Soups, Stews & Chili",
+  "categoryEmoji": "🍲",
+  "categoryBlurb": "This is the chapter for cold nights and slow Sundays — the pots that fill the apartment with smell for three hours and then feed you twice, because almost every one of these tastes better the next day.",
+  "recipes": [
+    {
+      "id": "texas-red-chili-con-carne",
+      "title": "Texas Red Chili con Carne",
+      "emoji": "🌶️",
+      "art": "chili",
+      "blurb": "No beans, no tomatoes, no filler — just cubes of beef chuck simmered until they collapse in a sauce built from whole dried chiles you toast and blend yourself. It tastes like nothing that comes out of a spice packet.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "3 hr 15 min",
+      "totalTime": "4 hr",
+      "ingredients": [
+        {
+          "group": "Chile paste",
+          "items": [
+            "6 dried ancho chiles (about 2 oz / 55 g), stems and seeds removed",
+            "4 dried guajillo chiles (about 1 oz / 30 g), stems and seeds removed",
+            "2 dried chiles de arbol (optional, for real heat)",
+            "3 cups (720 ml) boiling water or hot beef broth",
+            "4 garlic cloves, peeled",
+            "1 tbsp (15 ml) apple cider vinegar"
+          ]
+        },
+        {
+          "group": "The chili",
+          "items": [
+            "3 lb (1.4 kg) beef chuck roast, trimmed and cut into 3/4 in (2 cm) cubes",
+            "2 1/2 tsp kosher salt, divided, plus more to taste",
+            "2 tbsp (30 ml) beef tallow or neutral oil",
+            "1 large yellow onion (about 10 oz / 280 g), finely diced",
+            "1 tbsp (7 g) ground cumin",
+            "2 tsp dried Mexican oregano, crumbled",
+            "2 cups (480 ml) low-sodium beef broth, plus more as needed",
+            "1 tbsp (12 g) dark brown sugar",
+            "2 tbsp (16 g) masa harina"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "1/2 cup (70 g) finely diced white onion",
+            "1/4 cup (10 g) chopped cilantro",
+            "2 limes, cut into 6 wedges total",
+            "4 oz (115 g) sharp cheddar or cotija, grated"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Open and clean the chiles",
+          "text": "Tear the stem end off each of the 6 anchos, 4 guajillos, and the 2 chiles de arbol if you want real heat, split each one open along one side, and shake out the seeds and any pale veins. The seeds carry bitterness rather than useful flavor, and the veins are where most of the raw burn hides, so removing them lets you control the heat with the arbols instead. Work over a plate or a sheet pan because dried chiles shed like autumn leaves. Wash your hands afterward and keep them away from your eyes for the next hour."
+        },
+        {
+          "title": "Toast the chiles",
+          "text": "Set a dry 12 in (30 cm) skillet over medium heat and press the chiles flat against it, 20 to 30 seconds per side. They should puff slightly, turn a shade lighter, and smell like raisins and cocoa. The instant you smell anything sharp or acrid, they have gone too far — burnt chile makes the entire pot bitter and there is no fixing it, so pull them early rather than late."
+        },
+        {
+          "title": "Steep and blend the paste",
+          "text": "Put the toasted chiles and the 4 garlic cloves in a bowl, pour over the 3 cups (720 ml) boiling water, and press a small plate on top to keep them submerged for 20 minutes until fully soft and floppy. Transfer everything, soaking liquid included, to a blender with the 1 tbsp vinegar and blend on high for a full 2 minutes. You want it as smooth as tomato sauce; if your blender leaves flecks, push it through a fine mesh sieve with a ladle. This deep red puree is the entire backbone of the dish."
+        },
+        {
+          "title": "Cut and salt the beef",
+          "text": "Trim the big knobs of hard fat off the chuck but leave the thin marbling and connective tissue — that collagen melts into gelatin and gives the chili its body. Cut the meat into 3/4 in (2 cm) cubes, which stay distinct after three hours instead of shredding into mush. Toss with 2 tsp of the kosher salt and let it sit for 15 minutes while you heat the pot. Then pat the surface dry with paper towels, because wet meat steams and never browns."
+        },
+        {
+          "title": "Brown the beef in batches",
+          "text": "Heat the 2 tbsp tallow in a 6 qt (5.7 L) Dutch oven over medium-high until it shimmers and a test cube sizzles hard on contact. Add about a third of the beef in a single layer with space between the cubes and do not touch it for 3 minutes. Crowding the pan drops the temperature and traps steam, which is the single most common reason chili tastes flat. Brown each batch on two sides only, 5 to 6 minutes total, and move it to a bowl."
+        },
+        {
+          "title": "Read the fond",
+          "text": "Look at the bottom of the pot: those dark brown stuck-on patches are fond, the browned proteins and sugars that carry most of the meaty flavor in this recipe. It should be the color of strong coffee, not black. If any spot looks genuinely burnt, lower the heat and add a splash of broth right now to lift it before it scorches further. Everything from here on is about dissolving that fond into the sauce."
+        },
+        {
+          "title": "Cook the onion",
+          "text": "Drop the heat to medium, add the diced onion and the remaining 1/2 tsp salt, and cook for 6 to 8 minutes, stirring and scraping constantly. The water the onions release does the work for you — it loosens the fond and turns the whole pot mahogany. Cook until the onions are soft and translucent with browned edges, not raw and crunchy."
+        },
+        {
+          "title": "Bloom the spices",
+          "text": "Add the 1 tbsp cumin and 2 tsp Mexican oregano and stir for 45 to 60 seconds, until they smell warm and toasty. Ground spices are fat soluble, so this brief fry in the hot beef fat pulls out flavor that would stay locked up if you just dumped them into liquid. Do not walk away — ground cumin scorches in under two minutes."
+        },
+        {
+          "title": "Build the pot",
+          "text": "Pour in the chile puree and the 2 cups (480 ml) beef broth, add the brown sugar, and return the beef with every drop of juice from the bowl. Scrape the bottom of the pot hard with a wooden spoon until it is completely clean and the liquid is uniformly dark red. The liquid should just barely cover the meat; add a splash more broth if it does not. Bring it to a simmer, then immediately turn it down."
+        },
+        {
+          "title": "Simmer low and slow",
+          "text": "Adjust the heat until you see a lazy bubble breaking the surface every second or two — around 200°F (93°C), never a rolling boil. Cover with the lid slightly ajar and cook for 2 1/2 to 3 hours, stirring every 30 minutes and scraping the bottom so nothing catches. A hard boil squeezes the muscle fibers tight and makes the beef stringy; a bare simmer melts the collagen and leaves the cubes silky. Add broth 1/2 cup (120 ml) at a time if it ever looks dry."
+        },
+        {
+          "title": "Test the beef",
+          "text": "Fish out a cube and press it against the side of the pot with the back of a spoon. It should crush with light pressure and feel tender all the way through, which usually happens between 2 1/2 and 3 hours. If it still springs back or feels tight, it is not done — undercooked chuck is tough, and the only cure is more time. Keep simmering and check again in 20 minutes."
+        },
+        {
+          "title": "Thicken with masa harina",
+          "text": "Whisk the 2 tbsp masa harina with 1/4 cup (60 ml) water in a small bowl until smooth with no lumps, then stir it into the pot. Simmer uncovered for 10 more minutes so the corn cooks out and stops tasting raw. Masa is the traditional Texas thickener and it adds a faint toasted tortilla flavor that cornstarch cannot. The chili should coat a spoon and hold a line when you drag your finger through it."
+        },
+        {
+          "title": "Balance and rest",
+          "text": "Taste and adjust: add salt in 1/4 tsp increments if it tastes muted, or a teaspoon of vinegar if it tastes heavy and flat. Let the pot sit off the heat for 15 minutes before serving so the fat rises and can be skimmed with a spoon. Serve in warm bowls with diced white onion, cilantro, a lime wedge, and cheese on top. It is genuinely better on day two, so make extra."
+        }
+      ],
+      "tips": [
+        "Anchos bring raisiny sweetness and guajillos bring bright tang — that combination is why the sauce tastes layered. If you can only find one, use 8 anchos and add an extra teaspoon of vinegar at the end.",
+        "Make it two days ahead. Cool it uncovered for 30 minutes, refrigerate, then lift the solid fat cap off the top before reheating gently over medium-low.",
+        "Real Texas red never sees beans or tomatoes, but if you want to stretch it, serve it over pinto beans or rice instead of stirring them in.",
+        "If the finished chili tastes bitter, one of the chiles scorched during toasting. A tablespoon of brown sugar and a splash of vinegar will mask a little of it, but the real fix is toasting more gently next time.",
+        "Freeze in 2 cup (480 ml) portions for up to 3 months. Thaw overnight in the fridge and reheat with a splash of broth to loosen it."
+      ],
+      "keyTemp": "Beef chuck is safe at 145°F (63°C), but it only becomes tender around 200-205°F (93-96°C) internal, when the collagen has melted. Hold the pot at a bare simmer near 200°F (93°C) and judge by feel: a cube should crush against the side of the pot with light pressure.",
+      "pairing": "Cold Mexican lager with lime, or an unoaked red like Zinfandel, plus a stack of warm corn tortillas or a wedge of skillet cornbread.",
+      "videoQuery": "texas chili con carne dried chiles no beans",
+      "photoQuery": "texas red chili bowl toppings",
+      "tags": ["Weekend Project", "Dutch Oven", "Make Ahead"]
+    },
+    {
+      "id": "classic-beef-chili-with-beans",
+      "title": "Classic Beef Chili with Beans",
+      "emoji": "🍲",
+      "art": "chili",
+      "blurb": "The chili everyone actually wants at a football game — thick, deeply savory, loaded with beans, and built on browned beef and toasted spices instead of a seasoning packet. One pot, two hours, feeds a crowd.",
+      "difficulty": "Medium",
+      "servings": "8 servings",
+      "prepTime": "20 min",
+      "cookTime": "1 hr 55 min",
+      "totalTime": "2 hr 30 min",
+      "ingredients": [
+        {
+          "group": "For the chili",
+          "items": [
+            "2 lb (900 g) ground beef, 80/20",
+            "2 tsp kosher salt, divided, plus more to taste",
+            "1 tbsp (15 ml) neutral oil",
+            "1 large yellow onion (about 10 oz / 280 g), diced",
+            "1 red bell pepper (about 7 oz / 200 g), diced",
+            "4 garlic cloves, minced",
+            "1 jalapeno, seeded and minced",
+            "3 tbsp (24 g) chili powder",
+            "1 tbsp (7 g) ground cumin",
+            "2 tsp smoked paprika",
+            "1 tsp dried oregano",
+            "1/2 tsp ground cinnamon",
+            "3 tbsp (48 g) tomato paste"
+          ]
+        },
+        {
+          "group": "Liquid and beans",
+          "items": [
+            "1 can (28 oz / 794 g) crushed tomatoes",
+            "2 cups (480 ml) low-sodium beef broth",
+            "1 tbsp (15 ml) Worcestershire sauce",
+            "1 tsp unsweetened cocoa powder",
+            "1 can (15 oz / 425 g) dark red kidney beans, drained and rinsed",
+            "1 can (15 oz / 425 g) pinto beans, drained and rinsed",
+            "2 tsp (10 ml) apple cider vinegar",
+            "1 tbsp (12 g) dark brown sugar, if needed"
+          ]
+        },
+        {
+          "group": "Toppings",
+          "items": [
+            "6 oz (170 g) sharp cheddar, grated from a block",
+            "1/2 cup (120 g) sour cream",
+            "4 scallions, thinly sliced",
+            "1 lime, cut into 8 wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Brown the beef in two batches",
+          "text": "Heat the 1 tbsp oil in a 6 qt (5.7 L) Dutch oven over medium-high until it shimmers. Add half the ground beef, press it into a flat layer, sprinkle with 1/2 tsp of the salt, and leave it completely alone for 4 minutes. You are looking for a genuine brown crust on one side before you break it up, which is where most of the flavor in this pot comes from. Break it into chunks, cook 2 minutes more, and move it to a bowl. Repeat with the second half of the beef and another 1/2 tsp of the salt, which leaves you 1 tsp of the 2 tsp for the vegetables."
+        },
+        {
+          "title": "Drain but keep the fat",
+          "text": "Tip the pot and spoon out all but about 2 tbsp (30 ml) of the rendered fat. That remaining fat carries fat-soluble flavor from the spices you are about to add, so do not drain it bone dry. Look at the bottom of the pot — the sticky brown patches are fond, and they are pure concentrated beef flavor waiting to be dissolved."
+        },
+        {
+          "title": "Build fond with the vegetables",
+          "text": "Lower the heat to medium and add the onion, bell pepper, and remaining 1 tsp salt. Cook 7 to 9 minutes, stirring and scraping the bottom, until the onions are translucent and the pot bottom has gone from crusty to clean. The moisture from the vegetables is doing the deglazing for you; every brown streak you scrape up is flavor moving from the pan into the chili. Add the garlic and jalapeno and cook 1 minute more."
+        },
+        {
+          "title": "Toast the tomato paste",
+          "text": "Push the vegetables to the side, add the 3 tbsp tomato paste to the bare spot, and let it fry undisturbed for 90 seconds. It will darken from bright red to brick and smell sweeter and less tinny. This step cooks off the raw canned edge and builds the savory depth that separates good chili from watery chili. Stir it into the vegetables once it darkens."
+        },
+        {
+          "title": "Bloom the spices",
+          "text": "Add the chili powder, cumin, smoked paprika, oregano, and cinnamon and stir constantly for 45 to 60 seconds. The pot will look almost dry and the kitchen will smell dramatically stronger — that is the fat pulling flavor compounds out of the ground spices. Do not let it go past a minute or the chili powder will turn bitter."
+        },
+        {
+          "title": "Deglaze and combine",
+          "text": "Pour in the 2 cups (480 ml) beef broth and scrape the bottom of the pot hard with a wooden spoon until nothing is stuck. Add the crushed tomatoes, Worcestershire, cocoa powder, and the browned beef with all its juices. The cocoa will not make it taste like chocolate; it adds a bitter-dark backbone the way it does in mole. Stir everything together and bring it up to a simmer."
+        },
+        {
+          "title": "Simmer partly covered",
+          "text": "Set the lid slightly ajar and adjust the heat until the surface bubbles lazily every second or so, around 200°F (93°C). Cook for 1 hour, stirring every 20 minutes and scraping the bottom so the tomato does not scorch. A hard boil will make the beef grainy and the chili will taste harsh, so keep it gentle. The color should deepen from bright red to brick brown."
+        },
+        {
+          "title": "Add the beans",
+          "text": "Stir in the drained kidney and pinto beans and simmer uncovered for 25 to 30 more minutes. Adding them late keeps them intact instead of blowing apart into paste, and the uncovered simmer lets the chili reduce and thicken. It is ready when a spoon dragged across the bottom leaves a trail that fills in slowly."
+        },
+        {
+          "title": "Balance the seasoning",
+          "text": "Turn off the heat and stir in the 2 tsp cider vinegar, then taste. Acid is what makes a long-simmered pot taste bright instead of muddy, so do not skip it. If it tastes sharp or too acidic, add the 1 tbsp brown sugar; if it tastes flat, add salt 1/4 tsp at a time until the flavors snap into focus."
+        },
+        {
+          "title": "Rest and serve",
+          "text": "Let the pot sit off the heat for 15 minutes so it thickens and the flavors settle, then skim any orange fat pooled on top. Ladle into warm bowls and top with grated cheddar, sour cream, scallions, and a squeeze of lime. Put the toppings on the table so everyone can build their own."
+        }
+      ],
+      "tips": [
+        "Grate the cheddar off a block yourself. Pre-shredded cheese is coated in cellulose and starch, so it sits in clumps on the chili instead of melting into it.",
+        "Chili is better on day two, full stop. Cool it, refrigerate overnight, and reheat over medium-low with a splash of broth — the spices soften and marry.",
+        "For a thicker pot without more simmering, mash about 1/2 cup (90 g) of the beans against the side with a fork before stirring them in.",
+        "Swap the ground beef for 2 lb (900 g) of ground turkey if you want it leaner, but add 2 tbsp (30 ml) oil since there is no rendered fat to carry the spices.",
+        "Freezes beautifully for 3 months. Freeze it flat in a zip bag so it thaws in 20 minutes in a bowl of cold water."
+      ],
+      "keyTemp": "Ground beef must reach 160°F (71°C) to be safe, which it passes easily during browning and the long simmer. Keep the pot at a bare simmer around 200°F (93°C) — hotter than that and the meat turns grainy.",
+      "pairing": "Cold amber ale or a big Zinfandel, with buttered cornbread or a bag of Fritos for scooping.",
+      "videoQuery": "classic beef chili with beans stovetop recipe",
+      "photoQuery": "beef chili bowl cheddar sour cream",
+      "tags": ["Crowd Pleaser", "One Pot", "Make Ahead"]
+    },
+    {
+      "id": "white-chicken-chili",
+      "title": "White Chicken Chili",
+      "emoji": "🍗",
+      "art": "chili",
+      "blurb": "Creamy without being heavy, green and bright from poblanos and lime, thickened by mashed white beans instead of flour. It comes together in about an hour and it is the one people always ask for the recipe to.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "20 min",
+      "cookTime": "1 hr",
+      "totalTime": "1 hr 20 min",
+      "ingredients": [
+        {
+          "group": "For the chili",
+          "items": [
+            "2 lb (900 g) boneless skinless chicken thighs",
+            "2 tsp kosher salt, divided, plus more to taste",
+            "1 tbsp (15 ml) neutral oil",
+            "2 poblano peppers (about 10 oz / 280 g), seeded and diced",
+            "1 large yellow onion (about 10 oz / 280 g), diced",
+            "1 jalapeno, seeded and minced",
+            "5 garlic cloves, minced",
+            "1 tbsp (7 g) ground cumin",
+            "2 tsp ground coriander",
+            "1 tsp dried Mexican oregano",
+            "1/4 tsp ground cloves"
+          ]
+        },
+        {
+          "group": "Liquid and finish",
+          "items": [
+            "3 cans (15 oz / 425 g each) cannellini or great northern beans, drained and rinsed",
+            "4 cups (960 ml) low-sodium chicken broth",
+            "1 can (4 oz / 113 g) diced green chiles",
+            "4 oz (115 g) cream cheese, cut into cubes and softened",
+            "1/2 cup (120 ml) sour cream, at room temperature",
+            "1/4 cup (10 g) chopped cilantro",
+            "2 tbsp (30 ml) fresh lime juice, from about 1 lime"
+          ]
+        },
+        {
+          "group": "Toppings",
+          "items": [
+            "4 oz (115 g) Monterey Jack, grated",
+            "1 avocado, sliced",
+            "2 cups (60 g) tortilla chips, lightly crushed",
+            "1 lime, cut into 6 wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Season and sear the chicken",
+          "text": "Pat the thighs dry and season all over with 1 1/2 tsp of the kosher salt. Heat the 1 tbsp oil in a 5 to 6 qt (4.7 to 5.7 L) Dutch oven over medium-high until it shimmers, then lay in the thighs without crowding, working in two batches if needed. Sear 4 minutes per side until golden — you are not cooking them through, just building browned flavor and fond in the pot. Move them to a plate; they will finish in the broth."
+        },
+        {
+          "title": "Soften the poblanos",
+          "text": "Lower the heat to medium and add the diced poblanos and onion with the remaining 1/2 tsp salt. Cook 8 to 10 minutes, stirring often, until the peppers have lost their raw grassy edge and the onions are translucent with golden edges. Scrape the browned chicken bits off the bottom as the vegetables release moisture. Poblanos are mild and smoky rather than hot, and they are what makes this taste like chili instead of chicken soup."
+        },
+        {
+          "title": "Add garlic and jalapeno",
+          "text": "Stir in the minced garlic and jalapeno and cook for 60 to 90 seconds, just until fragrant. Garlic burns fast at this heat and turns acrid, so keep it moving and do not let it brown past pale gold. If the pot looks dry, add a tablespoon of oil."
+        },
+        {
+          "title": "Bloom the spices",
+          "text": "Add the cumin, coriander, oregano, and cloves and stir constantly for 45 seconds. The residual fat in the pot pulls the flavor out of the ground spices, which is why this smells five times stronger than it did straight from the jar. The clove sounds odd but it gives white chili the warm background note that makes it taste finished."
+        },
+        {
+          "title": "Mash some of the beans",
+          "text": "Put 1 can worth of the drained beans in a bowl with 1 cup (240 ml) of the chicken broth and mash them to a rough paste with a fork or potato masher. This is your thickener — bean starch gives a creamy body without any flour or cornstarch, and it will not break when reheated. Leave the other two cans whole for texture."
+        },
+        {
+          "title": "Build the pot",
+          "text": "Pour the remaining 3 cups (720 ml) broth into the pot and scrape the bottom completely clean. Add the mashed bean mixture, the whole beans, and the can of green chiles, then return the seared chicken with any juices from the plate. Bring it to a gentle simmer, lower the heat, and cover partially."
+        },
+        {
+          "title": "Simmer until the chicken is done",
+          "text": "Simmer for 20 to 25 minutes at a lazy bubble, stirring occasionally so the beans do not catch on the bottom. Check the thickest thigh with an instant-read thermometer — chicken is safe and, more importantly, shreddable at 165°F (74°C), and thighs stay juicy even up to 185°F (85°C). Do not let it boil hard or the beans will break down into mush."
+        },
+        {
+          "title": "Shred the chicken",
+          "text": "Lift the thighs onto a cutting board and shred them with two forks into bite-sized pieces, discarding any large lumps of fat. Return the meat and any collected juices to the pot. Shredding rather than cubing gives every spoonful chicken instead of leaving it hiding in chunks."
+        },
+        {
+          "title": "Temper in the dairy",
+          "text": "Turn the heat to low. Ladle about 1 cup (240 ml) of the hot broth into a bowl with the cubed cream cheese and sour cream and whisk until smooth, then stir that mixture back into the pot. Adding cold dairy straight into a hot pot makes it curdle into grainy specks; warming it first with a little broth prevents that. Never let the pot boil again after this point."
+        },
+        {
+          "title": "Finish and serve",
+          "text": "Stir in the cilantro and the 2 tbsp lime juice off the heat, then taste and add salt 1/4 tsp at a time until it tastes bright rather than dull. Let it sit 5 minutes to thicken. Serve in warm bowls topped with Monterey Jack, avocado, crushed tortilla chips, and an extra lime wedge on the side."
+        }
+      ],
+      "tips": [
+        "Chicken thighs are the right call here — breasts go dry and stringy over a 25 minute simmer, while thighs stay tender well past 165°F (74°C).",
+        "No poblanos at the store? Use 2 diced green bell peppers plus an extra can of green chiles for that mild roasted flavor.",
+        "This is the one chili that does not love the freezer, because the dairy can separate. Make the base through the shredding step and freeze that, then add the cream cheese and sour cream fresh when you reheat.",
+        "If it ends up thinner than you want, mash more beans against the side of the pot with a spoon rather than adding cornstarch.",
+        "Leftovers thicken hard in the fridge overnight. Loosen with 1/4 cup (60 ml) broth per bowl and reheat over medium-low, never boiling."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) in the thickest part of the thigh, checked with an instant-read thermometer. Once the dairy goes in, hold the pot below 190°F (88°C) so it never boils and separates.",
+      "pairing": "A crisp Sauvignon Blanc or a Mexican lager with lime, and warm flour tortillas for wiping the bowl.",
+      "videoQuery": "white chicken chili poblano cream cheese recipe",
+      "photoQuery": "white chicken chili bowl avocado lime",
+      "tags": ["Weeknight", "One Pot", "Creamy"]
+    },
+    {
+      "id": "french-onion-soup",
+      "title": "French Onion Soup",
+      "emoji": "🧅",
+      "art": "soup",
+      "blurb": "Three pounds of onions cooked down for a full hour into something jammy and sweet, floated with a toasted baguette raft and broiled under a blanket of Gruyere. There is no shortcut, and it is worth every minute.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "1 hr 25 min",
+      "totalTime": "1 hr 45 min",
+      "ingredients": [
+        {
+          "group": "The onions",
+          "items": [
+            "3 lb (1.4 kg) yellow onions, about 5 large",
+            "4 tbsp (55 g) unsalted butter",
+            "1 tbsp (15 ml) olive oil",
+            "1 1/2 tsp kosher salt, plus more to taste",
+            "1/2 tsp granulated sugar",
+            "1 cup (240 ml) water, for deglazing, divided"
+          ]
+        },
+        {
+          "group": "The soup",
+          "items": [
+            "1/2 cup (120 ml) dry sherry or dry white wine",
+            "8 cups (1.9 L) good beef stock",
+            "6 sprigs fresh thyme, tied with kitchen twine",
+            "2 bay leaves",
+            "1 tsp (5 ml) sherry vinegar",
+            "1/2 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "The cheese toast",
+          "items": [
+            "8 slices day-old baguette, cut 3/4 in (2 cm) thick",
+            "1 tbsp (15 ml) olive oil, for brushing",
+            "8 oz (225 g) Gruyere, grated from a block",
+            "1 oz (30 g) Parmigiano-Reggiano, finely grated"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Slice the onions correctly",
+          "text": "Trim the root and top, halve each onion through the root, peel, then lay it flat and slice pole to pole into 1/8 in (3 mm) strips, following the natural lines. Slicing with the grain this way keeps the strands intact through an hour of cooking instead of dissolving into fluff. You will have a mountain of onions — about 12 cups — and it will look like far too much. It cooks down to roughly 2 cups, so trust it."
+        },
+        {
+          "title": "Start them hot and covered",
+          "text": "Melt the 4 tbsp butter with the 1 tbsp olive oil in a wide 6 qt (5.7 L) Dutch oven over medium-high heat, add all the onions and the 1 1/2 tsp salt, and stir to coat. Cover and cook for 15 minutes, stirring twice. The salt pulls water out and the lid traps steam, which collapses the pile down to a manageable level and softens every strand before browning starts."
+        },
+        {
+          "title": "Uncover and settle in",
+          "text": "Take the lid off, stir in the 1/2 tsp sugar, and drop the heat to medium-low. From here you need 45 to 60 minutes of actual caramelization, stirring every 5 minutes. Anyone who tells you onions caramelize in 10 minutes is describing onions that are merely soft and a little brown — real caramelization takes an hour, and there is no way around it."
+        },
+        {
+          "title": "Watch the color stages",
+          "text": "The onions will move through clear stages: pale and wet at 20 minutes, golden and shrinking at 35 minutes, honey-colored and jammy at 45 minutes, and finally deep russet brown at 55 to 60 minutes. Listen as much as you look — a steady quiet sizzle is right, while sharp crackling or any wisp of smoke means the heat is too high. If they are browning unevenly, your burner has hot spots; stir more often and rotate the pot."
+        },
+        {
+          "title": "Deglaze with water, again and again",
+          "text": "Every 10 minutes or so, a brown glaze will build on the bottom of the pot — that is fond, caramelized onion sugar, and it is the flavor you are actually after. Splash in 2 tbsp (30 ml) of the water and scrape it up with a wooden spoon until the bottom is clean and the onions absorb the color. Repeat this three or four times over the hour, using up the 1 cup (240 ml) of water. Each round makes the onions a shade darker and the finished soup deeper."
+        },
+        {
+          "title": "Deglaze with sherry",
+          "text": "When the onions are uniformly deep brown and jammy, pour in the 1/2 cup (120 ml) sherry and scrape one final time. Let it bubble hard for 2 to 3 minutes until the raw alcohol smell burns off and the liquid has mostly reduced. Sherry is traditional and its nuttiness suits caramelized onions better than wine, but a dry white works if that is what you have."
+        },
+        {
+          "title": "Add stock and simmer",
+          "text": "Pour in the 8 cups (1.9 L) beef stock, add the thyme bundle and 2 bay leaves, and bring to a simmer. Cook uncovered at a gentle bubble for 30 minutes so the broth reduces slightly and picks up the onion sweetness. Skim any foam that gathers at the edges. This is also when a weak store-bought stock reveals itself, so taste and simmer 10 minutes longer if it seems thin."
+        },
+        {
+          "title": "Season the finished soup",
+          "text": "Fish out the thyme bundle and bay leaves. Stir in the 1 tsp sherry vinegar and 1/2 tsp black pepper, then taste and add salt 1/4 tsp at a time. The vinegar is small but crucial — it cuts the heavy sweetness and makes the soup taste like broth rather than syrup. It should taste rich, savory, and just barely sweet."
+        },
+        {
+          "title": "Toast the bread",
+          "text": "Heat the oven to 400°F (205°C), brush both sides of the baguette slices with the 1 tbsp olive oil, and bake on a sheet pan for 8 to 10 minutes, flipping once, until dry and crisp all the way through. Soft bread turns to sludge the second it hits the soup, so it needs to be crouton-dry, not just warm. Day-old bread works better than fresh for exactly this reason."
+        },
+        {
+          "title": "Fill and top the bowls",
+          "text": "Set four broiler-safe crocks or oven-safe bowls on a sheet pan and ladle the hot soup in, leaving 1 in (2.5 cm) of headroom. Float two toasts on each, edges touching so they form a raft, then pile the grated Gruyere and Parmigiano over the top and out to the rim of the bowl. Cheese that touches the rim melts onto the edge and gives you that crown of browned cheese to pull at."
+        },
+        {
+          "title": "Broil until bubbling",
+          "text": "Set an oven rack 6 in (15 cm) below the broiler element, turn the broiler to high, and broil the bowls for 3 to 5 minutes. Do not walk away — cheese goes from bubbling to burnt in under 30 seconds. You want the surface molten with dark blistered spots. Let the crocks rest 5 minutes before serving; the soup underneath is well over 200°F (93°C) and will scald a mouth."
+        }
+      ],
+      "tips": [
+        "Use a wide pot, not a tall narrow one. More surface area means faster evaporation and better browning, which can cut 15 minutes off the caramelizing.",
+        "The onions can be caramelized up to 5 days ahead and refrigerated, or frozen for 3 months. That turns this into a 40 minute weeknight soup.",
+        "Beef stock quality decides this soup. If yours is thin, simmer it with 1 lb (450 g) of roasted beef bones for an hour first, or use a good demi-glace concentrate.",
+        "No broiler-safe bowls? Broil the cheese-topped toasts on a sheet pan until molten, then slide one onto each filled bowl at the table.",
+        "Gruyere is the classic for its nutty melt, but a mix of Comte and a little Emmental is excellent. Avoid pre-shredded blends — the anti-caking starch makes the top grainy."
+      ],
+      "keyTemp": "The onions are done when they are uniformly deep russet brown and jammy after 45-60 minutes, not merely golden. Broil at 500°F (260°C) for 3-5 minutes and serve the soup hot at 190-200°F (88-93°C), resting 5 minutes so no one burns their mouth.",
+      "pairing": "A glass of dry sherry or a light Beaujolais, with a simple green salad in mustard vinaigrette to cut the richness.",
+      "videoQuery": "french onion soup caramelized onions gruyere",
+      "photoQuery": "french onion soup crock melted cheese",
+      "tags": ["Date Night", "Classic French", "Cheesy"]
+    },
+    {
+      "id": "creamy-tomato-soup",
+      "title": "Creamy Tomato Soup",
+      "emoji": "🍅",
+      "art": "soup",
+      "blurb": "Velvety, deeply tomato, and ready in half an hour from a couple of cans you already have. This is the version that makes a grilled cheese feel like a real dinner.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "2 cans (28 oz / 794 g each) whole peeled tomatoes, preferably San Marzano",
+            "3 tbsp (42 g) unsalted butter",
+            "1 tbsp (15 ml) olive oil",
+            "1 medium yellow onion (about 8 oz / 225 g), thinly sliced",
+            "4 garlic cloves, thinly sliced",
+            "2 tbsp (32 g) tomato paste",
+            "1/4 tsp red pepper flakes",
+            "2 cups (480 ml) low-sodium chicken or vegetable broth",
+            "1 1/2 tsp kosher salt, plus more to taste",
+            "1 tsp granulated sugar, if needed",
+            "1/2 cup (120 ml) heavy cream",
+            "1/2 cup (12 g) fresh basil leaves, plus a few for serving",
+            "1/2 tsp freshly ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Choose canned over fresh",
+          "text": "Unless it is peak August, canned whole peeled tomatoes will beat fresh ones every time because they are picked ripe and packed immediately. Buy whole peeled rather than pre-crushed — crushed tomatoes often include puree and citric acid that taste tinny. Open both cans and have them ready by the stove."
+        },
+        {
+          "title": "Sweat the onion",
+          "text": "Melt the 3 tbsp butter with the 1 tbsp olive oil in a 4 qt (3.8 L) saucepan over medium heat, then add the sliced onion and 1/2 tsp of the salt. Cook 6 to 7 minutes, stirring often, until soft and translucent with just a hint of gold at the edges. You do not want deep browning here; this soup should taste clean and tomato-forward, not caramelized."
+        },
+        {
+          "title": "Add garlic and pepper flakes",
+          "text": "Stir in the sliced garlic and 1/4 tsp red pepper flakes and cook for 60 seconds, until the garlic smells sweet and looks barely blond. Sliced garlic in butter is fragile, so keep the spoon moving. Burnt garlic will haunt the entire pot with a bitter edge you cannot blend out."
+        },
+        {
+          "title": "Toast the tomato paste",
+          "text": "Add the 2 tbsp tomato paste and stir it around the bottom of the pan for 90 seconds until it darkens from bright red to brick and starts sticking. This concentrates the glutamates and gives the soup a savory backbone that canned tomatoes alone cannot deliver. If it sticks hard, that fond is exactly what you want — the tomatoes will lift it in a moment."
+        },
+        {
+          "title": "Crush and add the tomatoes",
+          "text": "Pour in both cans with their juice, then crush the tomatoes against the side of the pot with a wooden spoon or squeeze them through your fingers as they go in. Add the 2 cups (480 ml) broth and the remaining 1 tsp salt, and scrape the bottom clean. Breaking them up now gives the blender less work and means a smoother finish."
+        },
+        {
+          "title": "Simmer to concentrate",
+          "text": "Bring to a boil, then reduce to a steady simmer and cook uncovered for 15 minutes, stirring occasionally. The soup will reduce slightly, darken, and lose its raw canned smell. Do not skip this window — a 5 minute simmer tastes like warm tomato sauce, while 15 minutes tastes like soup."
+        },
+        {
+          "title": "Blend safely",
+          "text": "Turn off the heat and add the basil leaves. Blend with an immersion blender right in the pot for 1 to 2 minutes until completely smooth. If using a countertop blender, fill it no more than halfway, remove the center cap, and cover the hole with a folded towel — hot liquid expands violently and will blow the lid off an overfilled blender. Blend in batches and return everything to the pot."
+        },
+        {
+          "title": "Finish with cream",
+          "text": "Set the pot over low heat and stir in the 1/2 cup (120 ml) heavy cream and 1/2 tsp black pepper. Warm it through to about 180°F (82°C) but do not let it boil, since boiling dairy in an acidic soup can make it look curdled. The color should shift from deep red to a soft brick orange."
+        },
+        {
+          "title": "Taste and balance",
+          "text": "Taste it. If it is sharp or metallic, stir in the 1 tsp sugar to balance the acidity, and add salt 1/4 tsp at a time until the tomato flavor jumps forward. Serve in warm bowls with torn basil on top and a thread of olive oil. A grilled cheese cut into fingers for dipping is not optional in this house."
+        }
+      ],
+      "tips": [
+        "For a silkier restaurant texture, pass the blended soup through a fine mesh sieve before adding the cream. It takes 3 minutes and removes every last bit of skin and seed.",
+        "Out of heavy cream? Swap in 1/2 cup (120 ml) full-fat coconut milk or 3 tbsp (42 g) more butter whisked in off the heat.",
+        "A pinch of baking soda, about 1/8 tsp, neutralizes acidity if the tomatoes are especially sharp. Add it before the cream and expect it to foam for a few seconds.",
+        "Freeze the soup before the cream goes in, up to 3 months. Cream can separate on thawing, so stir it in fresh when you reheat.",
+        "Roasting the drained tomatoes on a sheet pan at 425°F (220°C) for 25 minutes first adds a smoky depth worth the extra time on a lazy Sunday."
+      ],
+      "keyTemp": "Simmer the tomato base at a steady bubble around 205°F (96°C) for the full 15 minutes, then hold it below 190°F (88°C) after the cream goes in so the dairy never boils and breaks.",
+      "pairing": "A sharp cheddar grilled cheese cut into dipping fingers, and a glass of Chianti or just very cold milk.",
+      "videoQuery": "creamy tomato soup canned tomatoes recipe",
+      "photoQuery": "creamy tomato soup bowl basil swirl",
+      "tags": ["30 Minutes", "Comfort Food", "Blender"]
+    },
+    {
+      "id": "chicken-noodle-soup-from-scratch",
+      "title": "Chicken Noodle Soup from Scratch",
+      "emoji": "🍜",
+      "art": "soup",
+      "blurb": "You poach a whole chicken to build the stock, then use that same golden broth for the soup — it is a completely different animal from anything out of a carton. This is the pot you make for someone who feels lousy.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "2 hr",
+      "totalTime": "2 hr 25 min",
+      "ingredients": [
+        {
+          "group": "The stock",
+          "items": [
+            "1 whole chicken (4 lb / 1.8 kg), giblets removed",
+            "14 cups (3.3 L) cold water, or enough to cover by 1 in (2.5 cm)",
+            "1 large yellow onion (about 10 oz / 280 g), halved skin-on",
+            "2 carrots, cut into 3 in (8 cm) chunks",
+            "2 celery ribs, cut into 3 in (8 cm) chunks",
+            "8 parsley stems",
+            "2 bay leaves",
+            "1 tsp whole black peppercorns",
+            "1 tbsp (18 g) kosher salt"
+          ]
+        },
+        {
+          "group": "The soup",
+          "items": [
+            "2 tbsp (28 g) unsalted butter or reserved chicken fat",
+            "1 large onion (about 10 oz / 280 g), finely diced",
+            "3 carrots (about 8 oz / 225 g), sliced 1/4 in (6 mm) thick",
+            "3 celery ribs (about 6 oz / 170 g), sliced 1/4 in (6 mm) thick",
+            "1 1/2 tsp kosher salt, plus more to taste",
+            "8 oz (225 g) wide egg noodles",
+            "3 tbsp (12 g) chopped fresh dill",
+            "2 tbsp (8 g) chopped fresh parsley",
+            "1 tbsp (15 ml) fresh lemon juice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start the chicken in cold water",
+          "text": "Put the whole chicken breast-side up in a tall 10 to 12 qt (9.5 to 11 L) stockpot and add enough cold water to cover it by 1 in (2.5 cm), about 14 cups (3.3 L). Starting cold matters: as the water heats slowly, proteins leach out and coagulate into foam you can skim, which is how you get a clear broth instead of a cloudy one. Set it over medium heat and let it come up gradually, about 20 minutes."
+        },
+        {
+          "title": "Skim the foam",
+          "text": "As the water approaches a simmer, gray-brown foam will rise and gather at the surface. Skim it off with a shallow spoon or small strainer every few minutes for the first 10 minutes until only clear liquid and a little fat remain. That foam is coagulated protein and it tastes dull and muddies the broth if you stir it back in. This is the single step that separates homemade stock from tasting like dishwater."
+        },
+        {
+          "title": "Add aromatics and hold a bare simmer",
+          "text": "Add the halved onion, carrot and celery chunks, parsley stems, 2 bay leaves, 1 tsp peppercorns, and 1 tbsp kosher salt. Adjust the heat so you see a bubble break the surface only every second or two — about 185°F (85°C). A rolling boil emulsifies the fat into the water and turns the stock cloudy and greasy, so keep it lazy. Cook uncovered for 1 hour."
+        },
+        {
+          "title": "Pull the chicken",
+          "text": "After an hour, check the thickest part of the thigh with an instant-read thermometer; it must read at least 165°F (74°C), and 175°F (79°C) is even better for dark meat. Lift the whole bird out with tongs and a big spoon into a bowl and let it cool for 20 minutes until you can handle it. Leaving it in longer only dries the meat out — the bones will keep giving to the stock without it."
+        },
+        {
+          "title": "Keep the bones simmering",
+          "text": "Return the carcass, wing tips, and any skin to the pot after you strip the meat and simmer for another 45 minutes. This is where the collagen becomes gelatin, which is what gives good chicken soup that faintly sticky, lip-coating body. Top up with hot water if the level drops below the bones."
+        },
+        {
+          "title": "Strip and shred the meat",
+          "text": "Pull all the meat off the bird and shred it into bite-sized pieces with your fingers, discarding skin, cartilage, and bones. You should end up with roughly 4 cups (about 1 1/2 lb / 680 g) of meat. Cover it and set it aside at room temperature if you are finishing within the hour, or refrigerate it."
+        },
+        {
+          "title": "Strain and defat the stock",
+          "text": "Pour the finished stock through a fine mesh strainer set over a large bowl and discard the solids — the spent vegetables have given everything they have. Let it settle 10 minutes, then skim the golden fat off the top with a ladle, reserving 2 tbsp (30 ml) if you want to cook the vegetables in it. You should have about 10 cups (2.4 L) of clear amber stock."
+        },
+        {
+          "title": "Cook the fresh vegetables",
+          "text": "Wipe out the pot, melt the 2 tbsp butter or reserved chicken fat over medium heat, and add the diced onion, sliced carrots, celery, and 1 1/2 tsp salt. Cook 8 to 10 minutes, stirring, until the onion is translucent and the carrots have started to soften at the edges. Using a second round of fresh vegetables is the trick — the ones from the stock are exhausted and mushy, while these stay sweet and have bite."
+        },
+        {
+          "title": "Bring the soup together",
+          "text": "Pour the strained stock back into the pot and bring it to a gentle simmer. Cook 12 to 15 minutes, until the carrots are tender when pierced with a knife but not falling apart. Taste the broth now and salt it properly — it should taste seasoned on its own, because the noodles will dilute it."
+        },
+        {
+          "title": "Cook the noodles separately",
+          "text": "Boil the 8 oz (225 g) egg noodles in a separate pot of salted water for 1 minute less than the package says, then drain. Cooking them in the soup releases starch that clouds the broth, and any leftovers turn into a pot of bloated noodle paste overnight. Divide the noodles among the bowls instead of dumping them in the pot."
+        },
+        {
+          "title": "Finish and serve",
+          "text": "Return the shredded chicken to the simmering broth just to heat through, about 3 minutes, then turn off the heat and stir in the dill, parsley, and 1 tbsp lemon juice. The lemon is what makes the broth taste alive rather than heavy. Ladle the hot soup over the noodles in each bowl and serve immediately with extra black pepper."
+        }
+      ],
+      "tips": [
+        "Make the stock a day ahead. Chilled overnight, the fat solidifies into a cap you can lift off in one piece, and good stock will set to a soft jelly — that wobble means gelatin and it is exactly what you want.",
+        "Never boil stock hard. A rolling boil breaks fat into tiny droplets suspended in the liquid, and no amount of skimming will make it clear again.",
+        "Store noodles and broth separately in the fridge for up to 4 days, or freeze the finished chicken-and-broth base for 3 months and cook fresh noodles at serving.",
+        "Add a Parmesan rind to the stock pot for extra savory depth, or a 2 in (5 cm) piece of ginger and a few smashed garlic cloves if you are making it for someone with a cold.",
+        "Substitute 3 lb (1.4 kg) of bone-in chicken thighs for the whole bird if that is what you have — the stock will be even richer, just pull them at 40 minutes."
+      ],
+      "keyTemp": "The chicken is safe at 165°F (74°C) in the thickest part of the thigh, though dark meat is more tender pulled at 175°F (79°C). Hold the stock at a bare simmer of 180-190°F (82-88°C) the entire time — a rolling boil makes it cloudy.",
+      "pairing": "Buttered saltines or thick sourdough toast, with a squeeze of extra lemon and hot tea alongside.",
+      "videoQuery": "homemade chicken noodle soup whole chicken stock",
+      "photoQuery": "chicken noodle soup bowl dill carrots",
+      "tags": ["From Scratch", "Comfort Food", "Sunday Cooking"]
+    },
+    {
+      "id": "sunday-beef-stew",
+      "title": "Sunday Beef Stew with Red Wine",
+      "emoji": "🥩",
+      "art": "stew",
+      "blurb": "Chuck browned hard, red wine reduced down over the fond, and three hours in a low oven until the beef gives way to a spoon. The gravy is glossy and dark and tastes like it took all weekend, which it sort of did.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "3 hr",
+      "totalTime": "3 hr 30 min",
+      "ingredients": [
+        {
+          "group": "The beef",
+          "items": [
+            "3 1/2 lb (1.6 kg) beef chuck roast, cut into 2 in (5 cm) cubes",
+            "2 1/2 tsp kosher salt, plus more to taste",
+            "1 tsp freshly ground black pepper",
+            "1/3 cup (40 g) all-purpose flour",
+            "3 tbsp (45 ml) neutral oil, divided"
+          ]
+        },
+        {
+          "group": "The braise",
+          "items": [
+            "6 oz (170 g) thick-cut bacon or pancetta, cut into 1/2 in (1 cm) pieces",
+            "2 large yellow onions (about 20 oz / 570 g), roughly chopped",
+            "4 garlic cloves, minced",
+            "3 tbsp (48 g) tomato paste",
+            "1 1/2 cups (360 ml) dry red wine such as Cabernet or Cotes du Rhone",
+            "4 cups (960 ml) low-sodium beef broth",
+            "2 tbsp (30 ml) Worcestershire sauce",
+            "6 sprigs fresh thyme",
+            "2 bay leaves"
+          ]
+        },
+        {
+          "group": "The vegetables and finish",
+          "items": [
+            "1 1/2 lb (680 g) Yukon Gold potatoes, cut into 1 1/2 in (4 cm) chunks",
+            "4 carrots (about 12 oz / 340 g), cut into 1 1/2 in (4 cm) pieces",
+            "8 oz (225 g) frozen pearl onions, thawed",
+            "1 cup (140 g) frozen peas",
+            "2 tsp (10 ml) red wine vinegar",
+            "1/4 cup (15 g) chopped fresh parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut and dry the beef",
+          "text": "Buy a whole chuck roast rather than pre-cut stew meat, which is usually trim from random muscles that cook at different rates. Cut it into generous 2 in (5 cm) cubes, leaving the interior fat and silvery connective tissue in place since that melts into gelatin over three hours. Pat every surface bone dry with paper towels — a wet cube will steam instead of brown, and browning is where the color and depth come from."
+        },
+        {
+          "title": "Season and flour",
+          "text": "Toss the cubes with the 2 1/2 tsp salt and 1 tsp pepper, let them sit 15 minutes, then dust with the 1/3 cup flour and toss until every piece wears a thin coat. Shake off the excess in a colander; clumps of raw flour turn gluey. The flour browns alongside the meat and thickens the gravy later so you never need a slurry at the end."
+        },
+        {
+          "title": "Render the bacon",
+          "text": "Heat 1 tbsp (15 ml) of the oil in a 7 qt (6.6 L) Dutch oven over medium heat and cook the bacon for 7 to 9 minutes until crisp and the fat has rendered. Scoop the bacon out with a slotted spoon and set it aside, leaving the fat behind. That smoky fat is the browning medium for the beef and the first layer of flavor in the pot."
+        },
+        {
+          "title": "Brown the beef in three batches",
+          "text": "Raise the heat to medium-high, add another 1 tbsp (15 ml) oil, and lay in a third of the beef with at least an inch between cubes. Do not move them for 3 minutes, then turn and brown a second side, 6 to 7 minutes per batch. The pan should sizzle steadily and aggressively but never smoke heavily; if it smokes, pull it off the heat for 30 seconds. Crowding the pot is the number one stew mistake — the meat gives up water, the temperature crashes, and you end up with gray boiled cubes."
+        },
+        {
+          "title": "Look at the fond",
+          "text": "After the last batch, the bottom of the pot should be covered in dark brown stuck-on glaze. That is fond: browned proteins and caramelized sugars, and it holds most of the flavor you just created. It should be deep coffee brown, not black — if any patch has turned black and smells acrid, splash in 1/4 cup (60 ml) broth immediately and scrape it loose before it burns further."
+        },
+        {
+          "title": "Cook the onions into the fond",
+          "text": "Lower the heat to medium, add the remaining 1 tbsp (15 ml) oil and the chopped onions with a pinch of salt, and cook 8 to 10 minutes. As the onions release water, use a wooden spoon to scrape the fond off the bottom — it will dissolve into the onions and turn them deep brown. Add the garlic and cook 1 minute more until fragrant."
+        },
+        {
+          "title": "Toast the tomato paste",
+          "text": "Stir in the 3 tbsp tomato paste and cook it for 2 minutes, spreading it against the bottom of the pot. It should darken to brick red and smell sweet and concentrated rather than raw. This adds glutamates for savoriness and gives the finished gravy its deep color."
+        },
+        {
+          "title": "Reduce the wine",
+          "text": "Pour in the 1 1/2 cups (360 ml) red wine, raise the heat, and scrape the pot bottom completely clean. Boil for 5 to 7 minutes until the liquid has reduced by about half and no longer smells sharply of alcohol. Skipping this reduction leaves a raw boozy edge that three hours in the oven will not fully cook out. Use a wine you would actually drink; cooking wine is salted and harsh."
+        },
+        {
+          "title": "Assemble and get it into the oven",
+          "text": "Heat the oven to 325°F (165°C). Return the beef and bacon with any juices, then add the 4 cups (960 ml) broth, 2 tbsp Worcestershire, thyme sprigs, and bay leaves. The liquid should come about three-quarters of the way up the meat, not drown it. Bring to a simmer on the stove, cover, and slide it onto the middle rack."
+        },
+        {
+          "title": "Braise for two hours",
+          "text": "Cook covered for 2 hours, checking once at the hour mark to confirm the liquid is barely trembling rather than boiling. Oven heat surrounds the pot evenly, which is why braises come out more tender in the oven than on a burner that scorches the bottom. If it is bubbling hard, drop the oven to 300°F (150°C)."
+        },
+        {
+          "title": "Add the root vegetables",
+          "text": "Stir in the potatoes, carrots, and pearl onions, pushing them under the liquid. Cover and return to the oven for 45 to 55 minutes more, until the vegetables are tender to a knife tip and the beef crushes easily against the side of the pot. Adding them at the start would turn them to mush over three hours, which is why the vegetables in most stews taste like nothing."
+        },
+        {
+          "title": "Finish and rest",
+          "text": "Pull the pot out, remove the thyme stems and bay leaves, and skim the fat pooled on the surface with a wide spoon. Stir in the peas and let them warm through for 3 minutes off the heat, then add the 2 tsp red wine vinegar and the parsley. The vinegar wakes everything up after three hours of long cooking. Let the stew rest 15 minutes before serving so it thickens and stops scalding."
+        }
+      ],
+      "tips": [
+        "Chuck is the only cut for this. Round and sirloin are too lean and go dry and chalky no matter how long you braise them.",
+        "Made a day ahead, this is measurably better. Cool, refrigerate overnight, lift off the fat cap, and reheat covered at 325°F (165°C) for 40 minutes.",
+        "If the gravy is thinner than you like at the end, ladle out 1 cup (240 ml), whisk in 1 tbsp (8 g) cornstarch until smooth, and stir it back in over a simmer for 3 minutes.",
+        "No wine? Replace it with an extra 1 1/2 cups (360 ml) beef broth plus 1 tbsp (15 ml) balsamic vinegar so you keep the acidity that balances the richness.",
+        "Brown mushrooms are a great addition — sear 8 oz (225 g) of quartered cremini separately in butter and stir them in with the peas so they keep their texture."
+      ],
+      "keyTemp": "Braise at an oven temperature of 325°F (165°C) so the pot stays at a bare simmer. Beef chuck is safe at 145°F (63°C) but only becomes fork-tender near 200-205°F (93-96°C) internal, when the collagen has fully melted.",
+      "pairing": "The rest of the bottle of red, with crusty bread or buttered egg noodles to catch the gravy.",
+      "videoQuery": "beef stew red wine dutch oven braise",
+      "photoQuery": "beef stew bowl carrots potatoes gravy",
+      "tags": ["Weekend Project", "Dutch Oven", "Make Ahead"]
+    },
+    {
+      "id": "chicken-and-dumplings",
+      "title": "Chicken and Dumplings",
+      "emoji": "🥣",
+      "art": "stew",
+      "blurb": "A creamy chicken stew with fluffy buttermilk dumplings steamed right on top, lid on, no peeking. It is the most comforting thing in this book and it takes under 90 minutes.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "1 hr",
+      "totalTime": "1 hr 25 min",
+      "ingredients": [
+        {
+          "group": "The stew",
+          "items": [
+            "2 1/2 lb (1.1 kg) bone-in skin-on chicken thighs, about 6",
+            "2 tsp kosher salt, divided, plus more to taste",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil",
+            "4 tbsp (55 g) unsalted butter",
+            "1 large onion (about 10 oz / 280 g), diced",
+            "3 carrots (about 8 oz / 225 g), sliced 1/4 in (6 mm) thick",
+            "3 celery ribs, sliced 1/4 in (6 mm) thick",
+            "1/3 cup (40 g) all-purpose flour",
+            "6 cups (1.4 L) low-sodium chicken broth",
+            "6 sprigs fresh thyme",
+            "2 bay leaves",
+            "1/2 cup (120 ml) heavy cream",
+            "1 cup (140 g) frozen peas"
+          ]
+        },
+        {
+          "group": "Buttermilk dumplings",
+          "items": [
+            "2 cups (250 g) all-purpose flour",
+            "1 tbsp (12 g) baking powder",
+            "1 tsp kosher salt",
+            "1/2 tsp baking soda",
+            "1 tbsp (3 g) chopped fresh parsley, plus more for serving",
+            "4 tbsp (55 g) unsalted butter, melted and slightly cooled",
+            "1 cup (240 ml) cold buttermilk"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Brown the chicken skin",
+          "text": "Pat the thighs dry and season with 1 1/2 tsp of the salt and the 1 tsp pepper. Heat the 1 tbsp oil in a 6 qt (5.7 L) Dutch oven over medium-high and lay the thighs in skin-side down, working in two batches so they never touch. Cook 6 to 7 minutes without moving them until the skin is deep golden and releases on its own. You are rendering fat and building fond, not cooking them through; flip for 2 minutes and move them to a plate."
+        },
+        {
+          "title": "Pour off most of the fat",
+          "text": "Tip the pot and spoon out all but about 2 tbsp (30 ml) of the rendered chicken fat, saving it in case you need it later. Too much fat here will make the finished stew greasy and it will pool orange on the surface. The brown crust stuck to the bottom stays — that is your fond."
+        },
+        {
+          "title": "Cook the vegetables and lift the fond",
+          "text": "Add the 4 tbsp butter, then the onion, carrots, celery, and remaining 1/2 tsp salt. Cook over medium for 8 to 10 minutes, scraping the bottom regularly as the vegetables release water. The pot bottom should go from crusted brown to clean, with all that color now in the vegetables. They should be soft and fragrant but not browned."
+        },
+        {
+          "title": "Make the roux",
+          "text": "Sprinkle the 1/3 cup flour over the vegetables and stir constantly for 2 minutes. It will look pasty and coat everything, which is correct — you are cooking out the raw flour taste so the stew does not taste like paste. Keep it moving so nothing scorches on the bottom."
+        },
+        {
+          "title": "Add the broth gradually",
+          "text": "Pour in the 6 cups (1.4 L) chicken broth about a cup at a time, whisking smooth after each addition before adding more. Adding it all at once is how you get lumps that never dissolve. Once it is all in, add the thyme sprigs and bay leaves and bring it to a gentle simmer, whisking as it thickens."
+        },
+        {
+          "title": "Simmer the chicken through",
+          "text": "Nestle the thighs back in skin-side up along with any juices on the plate, lower the heat, and simmer partially covered for 25 minutes. Check the thickest thigh with an instant-read thermometer — it needs at least 165°F (74°C), and dark meat is even more tender at 175°F (79°C). The stew should barely bubble; a hard boil will toughen the meat."
+        },
+        {
+          "title": "Shred the chicken",
+          "text": "Move the thighs to a board and let them cool 5 minutes. Pull off and discard the skin and bones, then shred the meat into bite-sized pieces and return it to the pot. You should have roughly 3 cups (about 1 lb / 450 g) of meat. Fish out the thyme stems and bay leaves now while you can still find them."
+        },
+        {
+          "title": "Mix the dumpling dough",
+          "text": "Whisk the 2 cups flour, 1 tbsp baking powder, 1 tsp salt, 1/2 tsp baking soda, and parsley in a bowl. Pour the melted butter into the cold buttermilk — it will seize into little clumps, which is exactly what you want — then pour that over the dry ingredients and stir with a fork just until no dry flour remains, about 12 strokes. The dough should look shaggy and lumpy. Overmixing develops gluten and gives you rubber pucks instead of fluffy dumplings."
+        },
+        {
+          "title": "Enrich the stew before dropping",
+          "text": "Stir the 1/2 cup (120 ml) heavy cream and the frozen peas into the pot and bring it back to a steady simmer over medium heat. The liquid needs to be actively bubbling so the dumplings start steaming the instant they land. Taste and salt now — you cannot season it once the dumplings are on."
+        },
+        {
+          "title": "Drop the dumplings",
+          "text": "Scoop heaping tablespoons of dough, about 12 total, and drop them onto the surface of the simmering stew, leaving a little space between each. They should sit on top rather than sink; if they sink, your stew is too thin and you should let it reduce for 5 minutes first. Do not press them down."
+        },
+        {
+          "title": "Lid on, no peeking",
+          "text": "Cover tightly, lower the heat to keep a gentle simmer, and cook for 15 minutes without lifting the lid once. The dumplings cook by trapped steam, and every peek lets that steam out and gives you a dense, gummy center. Set a timer and walk away."
+        },
+        {
+          "title": "Check and serve",
+          "text": "Lift the lid — the dumplings should have nearly doubled, look dry and matte on top, and a toothpick pushed into the center should come out clean, around 200°F (93°C) inside. If the centers are still wet, cover and give them 3 more minutes. Scatter with parsley and serve immediately in wide bowls, spooning stew over each dumpling."
+        }
+      ],
+      "tips": [
+        "No buttermilk? Stir 1 tbsp (15 ml) lemon juice or white vinegar into 1 cup (240 ml) whole milk and let it sit 10 minutes. The acid is what reacts with the baking soda to make the dumplings rise.",
+        "Mix the dumpling dough only when the stew is already simmering. Baking powder starts working the moment it hits liquid, and dough that sits on the counter loses its lift.",
+        "Leftovers keep 3 days but the dumplings soak up liquid overnight. Store them separated from the stew if you can, and reheat gently covered with a splash of broth.",
+        "Bone-in thighs give you more flavor and gelatin than breasts and are almost impossible to overcook. If you must use breasts, pull them at exactly 160°F (71°C) and let carryover finish the job.",
+        "For a lighter, more Southern-style pot, skip the cream and add an extra cup (240 ml) of broth — the roux alone gives plenty of body."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the thickest part of the thigh, though 175°F (79°C) makes dark meat more tender. Dumplings are done at about 200°F (93°C) in the center, when a toothpick comes out clean after 15 covered minutes.",
+      "pairing": "A simple green salad with sharp vinaigrette to cut the richness, and a cold glass of unoaked Chardonnay or sweet tea.",
+      "videoQuery": "chicken and dumplings buttermilk drop dumplings",
+      "photoQuery": "chicken and dumplings pot fluffy dumplings",
+      "tags": ["Comfort Food", "One Pot", "Southern"]
+    },
+    {
+      "id": "new-england-clam-chowder",
+      "title": "New England Clam Chowder",
+      "emoji": "🦪",
+      "art": "soup",
+      "blurb": "Thick with potatoes and smoky bacon, built on the briny liquor from clams you steam open yourself. It tastes like a dock in Maine, and it is easier than it looks.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "45 min",
+      "totalTime": "1 hr 10 min",
+      "ingredients": [
+        {
+          "group": "The clams",
+          "items": [
+            "4 lb (1.8 kg) littleneck or cherrystone clams, scrubbed",
+            "1 cup (240 ml) water",
+            "1/2 cup (120 ml) dry white wine",
+            "2 garlic cloves, smashed"
+          ]
+        },
+        {
+          "group": "The chowder",
+          "items": [
+            "6 oz (170 g) thick-cut bacon, cut into 1/2 in (1 cm) pieces",
+            "2 tbsp (28 g) unsalted butter",
+            "1 large onion (about 10 oz / 280 g), finely diced",
+            "2 celery ribs, finely diced",
+            "1/4 cup (30 g) all-purpose flour",
+            "1 1/2 lb (680 g) Yukon Gold potatoes, cut into 1/2 in (1 cm) cubes",
+            "1 cup (240 ml) bottled clam juice, if needed to top up",
+            "4 sprigs fresh thyme",
+            "2 bay leaves",
+            "2 cups (480 ml) whole milk",
+            "1 cup (240 ml) heavy cream",
+            "1 tsp kosher salt, plus more to taste",
+            "1/2 tsp freshly ground white or black pepper",
+            "2 tbsp (8 g) chopped fresh parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Check and scrub the clams",
+          "text": "Scrub each clam under cold running water with a stiff brush to remove sand from the shell. Discard any clam that is cracked, or any open one that does not close when you tap it firmly on the counter — that clam is dead and unsafe. Live clams feel heavy and shut tight. Keep them in a bowl in the fridge, covered with a damp towel, never sealed in a plastic bag."
+        },
+        {
+          "title": "Steam them open",
+          "text": "Bring the 1 cup (240 ml) water, 1/2 cup (120 ml) wine, and smashed garlic to a boil in a large pot, add the clams, cover, and steam over high heat for 5 to 8 minutes. Shake the pot once halfway. Pull each clam out with tongs the moment it gapes open — leaving them in longer turns them into rubber. Throw away any that stay shut after 10 minutes."
+        },
+        {
+          "title": "Save the clam liquor carefully",
+          "text": "Let the steaming liquid settle for 5 minutes so grit sinks to the bottom, then pour it slowly through a fine mesh strainer lined with a paper towel or coffee filter, stopping before the last murky half inch. This liquor is the soul of the chowder and also the most likely source of sand in your teeth. You should have about 2 cups (480 ml); top up with bottled clam juice if you have less."
+        },
+        {
+          "title": "Chop the clam meat",
+          "text": "Pull the meat from the shells and coarsely chop it into pieces about the size of a nickel, saving any juice that runs out and adding it to the strained liquor. You should end up with roughly 1 1/2 cups (about 8 oz / 225 g) of meat. Refrigerate it — it goes in at the very end, off the heat."
+        },
+        {
+          "title": "Render the bacon",
+          "text": "Cook the bacon in a 6 qt (5.7 L) Dutch oven over medium heat for 8 to 10 minutes, stirring, until crisp and the fat has fully rendered. Scoop the bacon onto a paper towel with a slotted spoon and leave about 3 tbsp (45 ml) of fat in the pot. Pour off any excess or the chowder will taste greasy."
+        },
+        {
+          "title": "Sweat the aromatics",
+          "text": "Add the 2 tbsp butter, then the diced onion and celery, and cook over medium for 7 to 8 minutes until soft and translucent with no browning at all. Chowder should be ivory white, so you want the vegetables sweet and soft rather than caramelized. Scrape up any bacon fond as they release moisture."
+        },
+        {
+          "title": "Make the roux",
+          "text": "Sprinkle the 1/4 cup flour over the vegetables and stir constantly for 2 full minutes. It should smell faintly nutty like pie crust but stay pale blond. This cooks out the raw flour flavor while keeping the color light, and it is what gives chowder its spoon-coating body without turning it into wallpaper paste."
+        },
+        {
+          "title": "Add the liquor and potatoes",
+          "text": "Whisk in the strained clam liquor a splash at a time until smooth, then add the cubed potatoes, thyme sprigs, and bay leaves. Bring to a simmer and cook 12 to 15 minutes, until a knife slides into a potato cube with no resistance. Yukon Golds hold their shape while releasing enough starch to thicken; russets fall apart and turn the pot grainy."
+        },
+        {
+          "title": "Add the dairy gently",
+          "text": "Lower the heat and stir in the 2 cups (480 ml) milk and 1 cup (240 ml) cream. Bring it up to 180 to 190°F (82 to 88°C) — steaming with the occasional small bubble at the edge, never a real boil. Boiling dairy in a salty acidic pot can curdle it into grains, and once it breaks there is no fixing it. Simmer gently for 5 minutes to marry."
+        },
+        {
+          "title": "Add the clams last",
+          "text": "Turn off the heat, fish out the thyme stems and bay leaves, and stir in the chopped clams. They are already cooked, and the residual heat of the pot is more than enough to warm them in 2 minutes. Any longer over direct heat and they turn to erasers, which is the classic chowder mistake."
+        },
+        {
+          "title": "Season and rest",
+          "text": "Add the 1/2 tsp pepper, then taste before adding any salt — clam liquor and bacon are both salty, so you may need only 1/2 tsp or none at all. Let the chowder sit off the heat for 10 to 15 minutes; it thickens noticeably and the flavors settle. Serve topped with the crisp bacon and chopped parsley, with oyster crackers on the side."
+        }
+      ],
+      "tips": [
+        "Short on time or landlocked? Use 3 cans (6.5 oz / 184 g each) of chopped clams plus 2 cups (480 ml) bottled clam juice. Drain the clams, use the juice as your liquor, and add the meat off the heat exactly as written.",
+        "Chowder is better the next day, but reheat it over low heat, stirring, and never let it boil. Add a splash of milk to loosen it.",
+        "For an even thicker old-school chowder, mash about a quarter of the cooked potatoes against the side of the pot before adding the dairy.",
+        "Do not store live clams in water or a sealed bag — they suffocate. A bowl in the fridge under a damp towel keeps them alive for a day or two.",
+        "The paper-towel-lined strainer for the clam liquor is not optional. One gritty spoonful will ruin an otherwise perfect pot."
+      ],
+      "keyTemp": "Clams are cooked the instant their shells open, usually within 5-8 minutes of steaming — discard any that stay closed. Once the dairy goes in, hold the chowder at 180-190°F (82-88°C) and never let it boil.",
+      "pairing": "Oyster crackers and a cold crisp lager, or a squeeze of lemon and a glass of unoaked white like Muscadet.",
+      "videoQuery": "new england clam chowder fresh clams recipe",
+      "photoQuery": "new england clam chowder bowl bacon parsley",
+      "tags": ["Seafood", "Creamy", "Classic New England"]
+    },
+    {
+      "id": "broccoli-cheddar-soup",
+      "title": "Broccoli Cheddar Soup",
+      "emoji": "🥦",
+      "art": "soup",
+      "blurb": "Thick, orange, and full of tender broccoli and sharp cheddar, done in forty minutes in one pot. The trick is grating your own cheese and adding it off the heat so it never goes grainy.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "25 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "1 1/4 lb (570 g) broccoli, about 2 large heads",
+            "4 tbsp (55 g) unsalted butter",
+            "1 medium yellow onion (about 8 oz / 225 g), finely diced",
+            "2 garlic cloves, minced",
+            "1/4 cup (30 g) all-purpose flour",
+            "2 cups (480 ml) low-sodium chicken or vegetable broth",
+            "2 cups (480 ml) whole milk",
+            "1 cup (240 ml) half-and-half",
+            "1 cup (110 g) coarsely grated carrot, about 2 carrots",
+            "1 tsp kosher salt, plus more to taste",
+            "1/2 tsp dry mustard powder",
+            "1/4 tsp freshly grated nutmeg",
+            "1/8 tsp cayenne pepper",
+            "8 oz (225 g) sharp yellow cheddar, grated from a block",
+            "2 oz (55 g) Gruyere or Monterey Jack, grated"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Break down the broccoli",
+          "text": "Cut the florets into small bite-sized pieces, no larger than 1/2 in (1 cm), so they cook evenly and fit on a spoon. Do not throw away the stalks — peel the tough outer layer off with a vegetable peeler and dice the sweet pale core, which tastes better than the florets. You should have about 6 cups of florets and 1 cup of diced stem."
+        },
+        {
+          "title": "Sweat the onion",
+          "text": "Melt the 4 tbsp butter in a 4 to 5 qt (3.8 to 4.7 L) pot over medium heat and add the diced onion with a pinch of the salt. Cook 5 to 6 minutes until soft and translucent, stirring often, with no color at all. Browning here would muddy the pale gold color this soup is supposed to have. Add the garlic and cook 45 seconds more."
+        },
+        {
+          "title": "Make a blond roux",
+          "text": "Sprinkle the 1/4 cup flour over the onions and stir constantly for 2 minutes. The mixture will clump into a paste and smell like toasting pie crust — that is the raw flour taste cooking off. Keep it moving and do not let it brown; a blond roux thickens more powerfully than a dark one and keeps the soup light in color."
+        },
+        {
+          "title": "Whisk in the liquids",
+          "text": "Pour in the 2 cups (480 ml) broth in three additions, whisking each one completely smooth before adding the next. Then whisk in the 2 cups (480 ml) milk and 1 cup (240 ml) half-and-half. Adding all the liquid at once traps dry flour in lumps that never dissolve, so go slowly at the start when the paste is thickest."
+        },
+        {
+          "title": "Simmer the base",
+          "text": "Bring the pot up to a gentle simmer over medium heat, stirring often and scraping the bottom so the milk does not scorch. It will thicken noticeably in 4 to 5 minutes and coat the back of a spoon. Watch it closely — dairy catches and burns on the bottom of a pot faster than water-based soups do."
+        },
+        {
+          "title": "Cook the vegetables",
+          "text": "Add the broccoli florets, diced stems, grated carrot, and remaining salt. Simmer for 10 to 12 minutes, uncovered, until the broccoli is fully tender and a piece crushes easily against the side of the pot. The color will shift from bright to olive green, which is normal and means it is actually cooked. Keep the heat at a bare simmer, around 190°F (88°C)."
+        },
+        {
+          "title": "Blend part of it",
+          "text": "Use an immersion blender to pulse the soup 5 or 6 times right in the pot, or transfer 2 cups (480 ml) to a countertop blender, blend smooth, and stir it back. You want a thick base with plenty of recognizable broccoli pieces left, not a smooth green puree. If using a countertop blender, never fill it more than halfway with hot liquid and vent the lid with a folded towel."
+        },
+        {
+          "title": "Add the cheese off the heat",
+          "text": "Turn the burner completely off and let the pot stop bubbling, about a minute. Add the grated cheddar and Gruyere in three handfuls, stirring until each is fully melted before the next goes in. Cheese proteins tighten and squeeze out fat above about 165°F (74°C), which is exactly how soup turns grainy and greasy. Patience here is the whole recipe."
+        },
+        {
+          "title": "Season and serve",
+          "text": "Stir in the dry mustard, nutmeg, and cayenne — none of them will read as themselves, but together they make the cheddar taste twice as cheesy. Taste and add salt 1/4 tsp at a time. Serve immediately in warm bowls, ideally in a hollowed-out sourdough round or with crusty bread for dipping."
+        }
+      ],
+      "tips": [
+        "Grate cheese from a block. Bagged shredded cheddar is dusted with cellulose and potato starch to stop it clumping, and that coating makes soup gritty instead of silky.",
+        "If your soup breaks and looks oily, pull it off the heat and whisk in 2 tbsp (30 ml) cold cream or a splash of cold milk. It often pulls back together.",
+        "This does not freeze well — dairy and cheese separate on thawing. It keeps 3 days in the fridge and reheats fine over low heat with a splash of milk, stirred constantly.",
+        "For a lighter version, use 3 cups (720 ml) broth and 2 cups (480 ml) whole milk with no half-and-half, and lean on the roux for body.",
+        "A splash of the pasta-water trick works here too: if it gets too thick after sitting, thin with warm broth rather than water so you do not dilute the flavor."
+      ],
+      "keyTemp": "Simmer the vegetables at about 190°F (88°C) until tender, then take the pot fully off the heat before adding cheese — above 165°F (74°C) the cheese proteins tighten and the soup turns grainy.",
+      "pairing": "A crusty sourdough bread bowl or a soft pretzel, with a cold pale ale or a crisp Riesling.",
+      "videoQuery": "broccoli cheddar soup panera copycat homemade",
+      "photoQuery": "broccoli cheddar soup bread bowl",
+      "tags": ["Weeknight", "Cheesy", "One Pot"]
+    },
+    {
+      "id": "roasted-butternut-squash-soup",
+      "title": "Roasted Butternut Squash Soup",
+      "emoji": "🎃",
+      "art": "soup",
+      "blurb": "Roasting the squash instead of boiling it concentrates the sugars and gives the soup a caramel depth you cannot fake. Silky, faintly sweet, and finished with sage and a spoonful of cream.",
+      "difficulty": "Easy",
+      "servings": "6 servings",
+      "prepTime": "15 min",
+      "cookTime": "1 hr",
+      "totalTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "group": "To roast",
+          "items": [
+            "1 large butternut squash (about 3 lb / 1.4 kg)",
+            "2 tbsp (30 ml) olive oil",
+            "1 tsp kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "1 head garlic, top sliced off"
+          ]
+        },
+        {
+          "group": "The soup",
+          "items": [
+            "3 tbsp (42 g) unsalted butter",
+            "1 large yellow onion (about 10 oz / 280 g), roughly chopped",
+            "1 Honeycrisp or Gala apple (about 7 oz / 200 g), peeled and chopped",
+            "8 fresh sage leaves, plus 6 more for frying",
+            "1/4 tsp freshly grated nutmeg",
+            "1/8 tsp ground cayenne",
+            "4 cups (960 ml) low-sodium chicken or vegetable broth",
+            "1/2 cup (120 ml) heavy cream or full-fat coconut milk",
+            "1 tbsp (15 ml) pure maple syrup",
+            "2 tsp (10 ml) apple cider vinegar",
+            "1 1/2 tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Halve the squash safely",
+          "text": "Heat the oven to 425°F (220°C). Trim a thin slice off the stem end so the squash sits flat, then stand it upright and cut down through it with a heavy chef knife, rocking the blade rather than forcing it. If it feels dangerous, microwave the whole squash for 3 minutes first to soften the skin. Scoop out the seeds and strings with a spoon."
+        },
+        {
+          "title": "Season and roast cut-side down",
+          "text": "Rub the cut faces with the 2 tbsp olive oil and sprinkle with the 1 tsp salt and 1/2 tsp pepper, then set them cut-side down on a parchment-lined sheet pan. Wrap the garlic head in a small foil packet with a drizzle of oil and put it on the pan too. Cut-side down traps steam against the pan and gives you a deeply browned caramelized face rather than a dry surface."
+        },
+        {
+          "title": "Roast until collapsing",
+          "text": "Roast for 45 to 55 minutes, until a knife slides through the thickest part with zero resistance and the cut edges are dark brown and syrupy. Do not pull it early — a squash that is merely soft tastes flat, while one that is truly caramelized tastes sweet and nutty. The garlic should be soft enough to squeeze out like paste."
+        },
+        {
+          "title": "Start the aromatics",
+          "text": "About 15 minutes before the squash is done, melt the 3 tbsp butter in a 5 qt (4.7 L) pot over medium heat. Add the chopped onion, apple, and 1 1/2 tsp salt and cook 8 to 10 minutes, stirring, until the onion is soft and golden at the edges. The apple adds a gentle tartness that keeps the soup from tasting like baby food."
+        },
+        {
+          "title": "Bloom the sage and spices",
+          "text": "Add the 8 sage leaves, the nutmeg, and the cayenne and cook for 60 to 90 seconds until the sage smells woodsy and the kitchen shifts. Fat-soluble aromatics need this brief contact with hot butter to release fully. The cayenne will not make the soup spicy; it just keeps the sweetness in check."
+        },
+        {
+          "title": "Add the squash",
+          "text": "Scoop the roasted squash flesh out of the skins with a large spoon straight into the pot, scraping up the browned caramelized bits from the cut face too. Squeeze in the roasted garlic cloves from their papery skins. Discard the skins. You should have about 4 cups (roughly 2 lb / 900 g) of soft flesh."
+        },
+        {
+          "title": "Simmer briefly",
+          "text": "Pour in the 4 cups (960 ml) broth, stir to break up the squash, and simmer for 10 minutes so the flavors come together. Everything is already cooked, so this is about marrying rather than softening. Scrape the bottom occasionally since thick purees scorch easily."
+        },
+        {
+          "title": "Blend until silky",
+          "text": "Blend with an immersion blender for a full 2 minutes, or in a countertop blender filled no more than halfway with the center cap removed and covered by a folded towel. Hot liquid expands violently in a sealed blender and can burn you badly. Blend longer than you think you need to; the difference between good and silky is about 90 extra seconds."
+        },
+        {
+          "title": "Finish and balance",
+          "text": "Stir in the 1/2 cup (120 ml) cream, 1 tbsp maple syrup, and 2 tsp cider vinegar over low heat and warm through to about 180°F (82°C) without boiling. Taste carefully: it should be sweet, savory, and just barely tangy. If it tastes flat, it almost always needs salt or a little more vinegar rather than more sugar. Meanwhile, fry the remaining 6 sage leaves in a little butter for 20 seconds until crisp and float them on top."
+        }
+      ],
+      "tips": [
+        "Buying pre-cubed squash saves 10 minutes but costs you flavor, since cubes dry out instead of caramelizing. If you use them, roast at 425°F (220°C) for 30 minutes and expect a lighter soup.",
+        "This freezes better than almost any soup in the chapter. Freeze the blended base without the cream for 3 months, then thaw and stir in cream when reheating.",
+        "Save the seeds. Rinse, dry, toss with oil and salt, and roast at 350°F (175°C) for 12 minutes for a crunchy garnish.",
+        "For a vegan version, swap the butter for olive oil and the cream for full-fat coconut milk — the coconut and squash are a natural pair.",
+        "If the soup is thicker than you want after blending, thin it with warm broth a 1/4 cup (60 ml) at a time. Water will dilute the flavor you spent an hour building."
+      ],
+      "keyTemp": "Roast at 425°F (220°C) for 45-55 minutes, until a knife meets no resistance and the cut faces are deeply browned. Finish the soup below 190°F (88°C) after the cream goes in so it never boils.",
+      "pairing": "A crusty baguette with salted butter, and a glass of off-dry Riesling or hard cider.",
+      "videoQuery": "roasted butternut squash soup sage recipe",
+      "photoQuery": "butternut squash soup bowl cream swirl sage",
+      "tags": ["Fall Cooking", "Blender", "Make Ahead"]
+    },
+    {
+      "id": "minestrone",
+      "title": "Minestrone with Beans and Greens",
+      "emoji": "🥬",
+      "art": "soup",
+      "blurb": "A proper Italian vegetable soup built on a slow soffritto and a Parmesan rind, so it tastes savory and deep instead of like boiled vegetables. It uses whatever is in the crisper and still tastes intentional.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "50 min",
+      "totalTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "group": "Soffritto",
+          "items": [
+            "1/4 cup (60 ml) extra-virgin olive oil",
+            "4 oz (115 g) pancetta, finely diced (optional)",
+            "1 large yellow onion (about 10 oz / 280 g), cut in 1/4 in (6 mm) dice",
+            "2 carrots (about 6 oz / 170 g), cut in 1/4 in (6 mm) dice",
+            "2 celery ribs, cut in 1/4 in (6 mm) dice",
+            "4 garlic cloves, minced",
+            "2 tsp kosher salt, divided, plus more to taste",
+            "1/2 tsp red pepper flakes"
+          ]
+        },
+        {
+          "group": "The soup",
+          "items": [
+            "2 tbsp (32 g) tomato paste",
+            "1 can (28 oz / 794 g) whole peeled tomatoes, crushed by hand",
+            "8 cups (1.9 L) low-sodium chicken or vegetable broth",
+            "1 Parmesan rind, about 3 in (8 cm)",
+            "2 bay leaves",
+            "2 sprigs fresh rosemary",
+            "1 can (15 oz / 425 g) cannellini beans, drained and rinsed",
+            "8 oz (225 g) Yukon Gold potatoes, cut in 1/2 in (1 cm) cubes",
+            "1 medium zucchini (about 8 oz / 225 g), cut in 1/2 in (1 cm) half moons",
+            "6 oz (170 g) green beans, cut into 1 in (2.5 cm) lengths",
+            "3/4 cup (140 g) ditalini or small shell pasta",
+            "4 cups (120 g) chopped lacinato kale or savoy cabbage"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1/3 cup (30 g) finely grated Parmigiano-Reggiano",
+            "3 tbsp (45 ml) good olive oil, for drizzling",
+            "1/4 cup (10 g) chopped fresh basil",
+            "2 tsp (10 ml) red wine vinegar"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut the soffritto small and even",
+          "text": "Dice the onion, carrot, and celery to a uniform 1/4 in (6 mm) so they cook at the same rate and dissolve into the background of the soup. This takes ten minutes of knife work and it is the difference between minestrone and vegetable water. Keep the zucchini and green beans separate; they go in much later."
+        },
+        {
+          "title": "Render the pancetta",
+          "text": "Heat the 1/4 cup (60 ml) olive oil in an 8 qt (7.6 L) pot over medium heat and cook the pancetta for 5 to 6 minutes until the fat renders and the edges crisp. If you are skipping the pancetta, just warm the oil. That rendered pork fat is one of two savory backbones in this pot, and the Parmesan rind is the other."
+        },
+        {
+          "title": "Cook the soffritto slowly",
+          "text": "Add the onion, carrot, celery, and 1 tsp of the salt and cook over medium-low for 12 to 15 minutes, stirring every couple of minutes. They should turn soft, sweet, and pale gold — never browned or crunchy. Italians call this stage the base of everything, and rushing it in 5 minutes is why so much homemade minestrone tastes thin. Add the garlic and red pepper flakes for the last minute."
+        },
+        {
+          "title": "Toast the tomato paste",
+          "text": "Push the vegetables aside, add the 2 tbsp tomato paste to the bare pot, and fry it for 90 seconds until it darkens to brick red. Stir it through the soffritto. This small step adds concentrated savoriness and deepens the color of the finished broth."
+        },
+        {
+          "title": "Add and reduce the tomatoes",
+          "text": "Crush the canned tomatoes with your hands as they go into the pot, juice and all, and cook for 8 to 10 minutes until the liquid has thickened and the raw tin smell is gone. Hand-crushing gives you irregular pieces that hold their shape better than machine-crushed pulp. The mixture should look jammy before you add broth."
+        },
+        {
+          "title": "Build the broth",
+          "text": "Pour in the 8 cups (1.9 L) broth and add the Parmesan rind, bay leaves, rosemary sprigs, and remaining 1 tsp salt. Bring to a simmer and cook uncovered for 15 minutes. The rind slowly softens and releases glutamates that give the broth a savory weight no amount of salt can replicate."
+        },
+        {
+          "title": "Add the potatoes and beans",
+          "text": "Stir in the cubed potatoes and drained cannellini beans and simmer 12 minutes, until the potatoes are just tender at the center when pierced. Mash a few beans against the side of the pot with your spoon to release starch and lightly thicken the broth. Fish out the rosemary stems once the needles start to loosen."
+        },
+        {
+          "title": "Add the quick vegetables",
+          "text": "Add the zucchini and green beans and simmer 6 to 8 minutes, just until crisp-tender and still bright. These go in late on purpose — 40 minutes of simmering turns zucchini into gray mush and green beans into string. Taste the broth now and adjust the salt."
+        },
+        {
+          "title": "Cook the pasta",
+          "text": "Stir in the 3/4 cup (140 g) ditalini and cook for the time on the package, usually 8 to 9 minutes, until just al dente. If you plan on leftovers, boil the pasta separately in salted water instead and add it to each bowl, because pasta left in soup overnight swells into paste and drinks all the broth. Stir occasionally so it does not stick to the bottom."
+        },
+        {
+          "title": "Wilt in the greens",
+          "text": "Add the chopped kale or cabbage in handfuls, stirring each one down before the next, and cook 4 to 5 minutes until tender but still deep green. Kale needs the full 5 minutes; spinach would need only 60 seconds. Remove the Parmesan rind and bay leaves."
+        },
+        {
+          "title": "Finish in the bowl",
+          "text": "Turn off the heat and stir in the 2 tsp red wine vinegar and the basil, then taste one final time for salt. Ladle into wide bowls, then finish each with grated Parmigiano and a real drizzle of good olive oil — that raw oil on top is traditional and it makes the whole bowl smell better. Serve with crusty bread."
+        }
+      ],
+      "tips": [
+        "Save Parmesan rinds in a bag in the freezer. They cost nothing and they are the single easiest way to make a vegetable soup taste like it simmered all day.",
+        "Minestrone is a use-it-up soup. Swap in any firm vegetable you have — fennel, celery root, butternut, peas — just add hard ones early and soft ones in the last 8 minutes.",
+        "For a vegetarian pot, skip the pancetta, use vegetable broth, and add 1 tbsp (15 ml) soy sauce or a spoonful of miso for savory depth.",
+        "It keeps 4 days in the fridge and gets better on day two, but only if the pasta was cooked separately. Otherwise it turns into a casserole.",
+        "A spoonful of basil pesto stirred into each bowl at the table turns this into minestrone al pesto and is worth doing at least once."
+      ],
+      "keyTemp": "There is no internal temperature here — go by texture. The soffritto is ready when soft and translucent after 12-15 minutes, the potatoes when a knife meets no resistance, and the pasta at al dente. Keep the pot at a gentle simmer around 200°F (93°C).",
+      "pairing": "A rustic Chianti or Sangiovese, with grilled bread rubbed with garlic and olive oil.",
+      "videoQuery": "authentic italian minestrone soup soffritto recipe",
+      "photoQuery": "minestrone soup bowl parmesan basil",
+      "tags": ["Vegetable Forward", "One Pot", "Italian"]
+    },
+    {
+      "id": "chicken-tortilla-soup",
+      "title": "Chicken Tortilla Soup",
+      "emoji": "🌽",
+      "art": "soup",
+      "blurb": "The real Mexican version, where you char the tomatoes and toast the chiles, blend them, and fry the puree before adding broth. It takes under an hour and tastes like nothing that comes from a jar of salsa.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "40 min",
+      "totalTime": "55 min",
+      "ingredients": [
+        {
+          "group": "The base",
+          "items": [
+            "1 1/2 lb (680 g) ripe roma tomatoes, about 6",
+            "1/2 large white onion (about 5 oz / 140 g), peeled and left in one piece",
+            "4 garlic cloves, unpeeled",
+            "3 dried guajillo chiles, stemmed and seeded",
+            "1 dried chipotle or 1 canned chipotle in adobo",
+            "3 tbsp (45 ml) neutral oil",
+            "1 1/2 tsp kosher salt, plus more to taste",
+            "1 tsp dried Mexican oregano"
+          ]
+        },
+        {
+          "group": "The soup",
+          "items": [
+            "6 cups (1.4 L) low-sodium chicken broth",
+            "1 1/4 lb (570 g) boneless skinless chicken thighs",
+            "1 sprig fresh epazote, or 4 sprigs cilantro with stems",
+            "2 tbsp (30 ml) fresh lime juice"
+          ]
+        },
+        {
+          "group": "Tortilla strips and toppings",
+          "items": [
+            "6 corn tortillas (6 in / 15 cm), cut into 1/4 in (6 mm) strips",
+            "1/2 cup (120 ml) neutral oil, for frying",
+            "1 avocado, diced",
+            "3 oz (85 g) queso fresco or cotija, crumbled",
+            "1/2 cup (120 ml) Mexican crema or sour cream",
+            "2 limes, cut into 8 wedges total"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Char the vegetables",
+          "text": "Set a dry cast iron skillet or comal over medium-high heat and lay in the whole tomatoes, the onion half, and the unpeeled garlic cloves. Turn them every few minutes for 10 to 12 minutes, until the tomatoes are blistered and blackened in patches and slumping, the onion is charred on both cut faces, and the garlic skins are browned. Those black spots are flavor, not mistakes — this dry charring is what gives the soup its smoky depth. Pull the garlic early at about 6 minutes so it does not turn bitter."
+        },
+        {
+          "title": "Toast the chiles",
+          "text": "In the same dry skillet over medium heat, press the guajillos flat for 20 to 30 seconds per side until they puff and smell like dried fruit. Move them straight into a bowl of hot water to soak for 15 minutes. Watch them closely; scorched chile turns the whole pot acrid and there is no rescuing it."
+        },
+        {
+          "title": "Blend the base",
+          "text": "Peel the garlic and put it in a blender with the charred tomatoes and onion, the drained soaked guajillos, the chipotle, the 1 tsp oregano, and 1 tsp of the salt. Blend on high for 90 seconds until completely smooth. Add 1/2 cup (120 ml) of the broth if the blender struggles to catch. The puree should be brick red and thick like a loose sauce."
+        },
+        {
+          "title": "Fry the puree",
+          "text": "Heat the 3 tbsp oil in a 5 qt (4.7 L) pot over medium-high until it shimmers, then pour in the blended puree — it will spit, so stand back and use a splatter screen. Cook for 8 to 10 minutes, stirring often, until it darkens several shades, thickens to the consistency of tomato paste, and a spoon dragged across the bottom leaves a trail. This frying step is the heart of the recipe: it cooks off raw blender flavor and concentrates everything into a real sauce base."
+        },
+        {
+          "title": "Add the broth",
+          "text": "Pour in the 6 cups (1.4 L) chicken broth, stirring to dissolve the fried base completely, and add the epazote or cilantro sprigs. Bring to a gentle simmer and cook for 10 minutes so the flavors join up. The broth should be a rich rusty red with a slick of chile oil on the surface."
+        },
+        {
+          "title": "Poach the chicken",
+          "text": "Slide in the chicken thighs, lower the heat so the surface barely trembles, and poach for 15 to 18 minutes. Check the thickest piece with an instant-read thermometer — it must reach 165°F (74°C), and thighs stay tender even a bit beyond that. A hard boil would seize the meat and cloud your broth, so keep it gentle."
+        },
+        {
+          "title": "Shred and return",
+          "text": "Lift the chicken onto a board, let it rest 5 minutes, then shred it into bite-sized pieces with two forks. Return the meat to the pot along with any juices. Resting first keeps the juices in the meat instead of on the cutting board."
+        },
+        {
+          "title": "Fry the tortilla strips",
+          "text": "Heat the 1/2 cup (120 ml) oil in a small skillet to 350°F (175°C) — a strip dropped in should bubble immediately and vigorously. Fry the tortilla strips in three batches for 60 to 90 seconds each, until stiff and just barely golden, then drain on paper towels and salt them right away while the oil is still wet. Crowding the pan drops the oil temperature and gives you greasy limp strips instead of crisp ones."
+        },
+        {
+          "title": "Season the soup",
+          "text": "Remove the epazote sprig, stir in the 2 tbsp lime juice, and taste. Add salt 1/4 tsp at a time until the chile flavor comes forward — this soup takes more salt than people expect because the chiles and tomatoes are both mild. It should taste smoky, tangy, and just a little spicy."
+        },
+        {
+          "title": "Build the bowls",
+          "text": "Put a generous handful of tortilla strips in the bottom of each warm bowl, then ladle the hot soup over them so they soften slightly but keep some crunch. Top with diced avocado, crumbled queso fresco, a drizzle of crema, and more strips. Serve with lime wedges and eat it right away, before the strips give up entirely."
+        }
+      ],
+      "tips": [
+        "Do not skip frying the blended puree. Pouring raw blended tomato straight into broth gives you thin, sour soup — the 8 minute fry is what makes it taste restaurant-made.",
+        "Short on time, bake the tortilla strips instead: toss with 1 tbsp (15 ml) oil and bake at 400°F (205°C) for 10 to 12 minutes, tossing once.",
+        "Make the fried base up to 5 days ahead and refrigerate it, or freeze it for 3 months. Then dinner is just broth, chicken, and toppings.",
+        "Guajillos are mild and fruity, chipotle brings the smoke and heat. Add a second chipotle if you like it hot, or leave it out entirely and the soup still works.",
+        "Leftovers keep 4 days, but store the tortilla strips and toppings separately at room temperature or they turn to mush."
+      ],
+      "keyTemp": "Chicken thighs must reach 165°F (74°C) in the thickest part, poached at a bare simmer around 190°F (88°C). Fry the tortilla strips in oil held at 350°F (175°C) so they crisp rather than absorb grease.",
+      "pairing": "A cold Mexican lager with lime, or a tamarind agua fresca, and warm corn tortillas on the side.",
+      "videoQuery": "authentic chicken tortilla soup mexican recipe",
+      "photoQuery": "chicken tortilla soup avocado tortilla strips",
+      "tags": ["Weeknight", "Mexican", "One Pot"]
+    },
+    {
+      "id": "split-pea-soup-with-ham",
+      "title": "Split Pea Soup with Ham Hock",
+      "emoji": "🫛",
+      "art": "soup",
+      "blurb": "Cheap, humble, and quietly one of the best things you can make from a bag of dried peas and a smoked ham hock. It thickens itself, needs almost no attention, and feeds you for days.",
+      "difficulty": "Easy",
+      "servings": "6 servings",
+      "prepTime": "15 min",
+      "cookTime": "1 hr 45 min",
+      "totalTime": "2 hr",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "1 lb (450 g) dried green split peas",
+            "2 tbsp (28 g) unsalted butter",
+            "1 tbsp (15 ml) olive oil",
+            "1 large yellow onion (about 10 oz / 280 g), diced",
+            "2 carrots (about 6 oz / 170 g), diced",
+            "2 celery ribs, diced",
+            "4 garlic cloves, minced",
+            "1 1/2 lb (680 g) smoked ham hock, or 1 leftover ham bone",
+            "8 cups (1.9 L) water or low-sodium chicken broth",
+            "2 bay leaves",
+            "4 sprigs fresh thyme",
+            "1 tsp kosher salt, plus more to taste",
+            "1 tsp freshly ground black pepper",
+            "2 tsp (10 ml) apple cider vinegar",
+            "2 cups (60 g) crusty bread cubes, for croutons"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Sort and rinse the peas",
+          "text": "Spread the split peas on a sheet pan and pick out any small stones, shriveled peas, or bits of debris — bagged legumes genuinely do contain the occasional pebble and it will crack a tooth. Rinse them in a colander under cold water until the water runs clear. Unlike beans, split peas do not need soaking; they break down on their own in about 90 minutes."
+        },
+        {
+          "title": "Build the aromatic base",
+          "text": "Melt the 2 tbsp butter with the 1 tbsp olive oil in a 6 qt (5.7 L) pot over medium heat, then add the onion, carrots, celery, and 1 tsp salt. Cook 8 to 10 minutes, stirring, until the onion is translucent and the vegetables are soft with a little gold at the edges. This is the flavor floor of the soup, and 5 minutes is not enough. Add the garlic and cook 1 minute more."
+        },
+        {
+          "title": "Add the peas and hock",
+          "text": "Stir in the rinsed split peas and coat them in the fat for a minute, then add the ham hock, the 8 cups (1.9 L) water or broth, the bay leaves, and the thyme sprigs. Use water rather than broth if your hock is a good smoky one; it gives you plenty of flavor and lets the peas taste like themselves. Bring it up to a boil."
+        },
+        {
+          "title": "Skim and settle into a simmer",
+          "text": "Once it boils, skim off the gray foam that rises with a shallow spoon and discard it. Lower the heat until the surface bubbles lazily, around 200°F (93°C), and set the lid slightly ajar. A hard boil scorches the peas on the bottom and makes the whole pot taste burnt, which is the classic split pea failure."
+        },
+        {
+          "title": "Simmer and stir the bottom",
+          "text": "Cook for 75 to 90 minutes, stirring every 15 to 20 minutes and dragging your spoon flat across the bottom of the pot. Split peas sink and stick as they break down, so that scrape is not optional. Add hot water 1/2 cup (120 ml) at a time if the soup gets thicker than you want before the peas are done."
+        },
+        {
+          "title": "Check the peas",
+          "text": "The soup is ready when the peas have completely lost their shape and dissolved into a thick, pale green puree with no gritty texture on your tongue. If they still feel firm at 90 minutes, your peas were old — keep simmering and check every 15 minutes, since stale legumes can take twice as long. Old peas are the only real risk in this recipe."
+        },
+        {
+          "title": "Pull and shred the hock",
+          "text": "Lift the ham hock out with tongs onto a board and let it cool 10 minutes. Pull the meat off the bone, discard the skin, fat, and gristle, and chop the meat into bite-sized pieces — expect about 1 1/2 cups (8 oz / 225 g). The meat is fully cooked and pulls away easily once the collagen has broken down, which happens well past 195°F (91°C)."
+        },
+        {
+          "title": "Decide on the texture",
+          "text": "Remove the bay leaves and thyme stems. For a rustic soup, leave it as is; for a smoother one, blend about half with an immersion blender or pulse it a few times. If you use a countertop blender, fill it no more than halfway and vent the lid with a towel, because hot puree will blow the lid off a sealed jar."
+        },
+        {
+          "title": "Return the meat and adjust",
+          "text": "Stir the chopped ham back in and warm it through for 5 minutes. Split pea soup thickens dramatically as it sits, so thin it with hot water or broth until it flows off a spoon in a thick ribbon. Remember it will be noticeably thicker again by tomorrow."
+        },
+        {
+          "title": "Season and serve",
+          "text": "Add the 1 tsp black pepper and the 2 tsp cider vinegar, then taste before salting — smoked hocks vary wildly and some are salty enough that you need none at all. The vinegar cuts the starchy heaviness and makes the smoke taste sharper. Serve with croutons toasted in butter and a grind of extra pepper."
+        }
+      ],
+      "tips": [
+        "The bone from a holiday ham is even better than a store-bought hock, and it is free. Freeze it after Easter or Christmas specifically for this pot.",
+        "For a vegetarian version, skip the hock, use vegetable broth, and add 1 1/2 tsp smoked paprika plus 1 tbsp (15 ml) soy sauce to replace the smoke and savoriness.",
+        "It thickens into something closer to spackle in the fridge. That is normal — reheat with 1/2 cup (120 ml) of water or broth per two servings, stirring over medium-low.",
+        "Freezes for 3 months. Freeze in flat zip bags and thaw in a bowl of cold water in about 30 minutes.",
+        "Never salt heavily at the start. The hock releases salt over 90 minutes, and a pot seasoned early can end up inedible by the time it is done."
+      ],
+      "keyTemp": "There is no doneness temperature for the peas — they are ready when they have dissolved completely and feel smooth, not gritty, after 75-90 minutes at a bare simmer near 200°F (93°C). The smoked hock is already cooked and shreds easily once its collagen breaks down above 195°F (91°C).",
+      "pairing": "Buttered rye toast or garlic croutons, with a cold pilsner or a cup of strong tea.",
+      "videoQuery": "split pea soup ham hock stovetop recipe",
+      "photoQuery": "split pea soup bowl ham croutons",
+      "tags": ["Budget", "Make Ahead", "One Pot"]
+    },
+    {
+      "id": "chicken-andouille-gumbo",
+      "title": "Chicken and Andouille Gumbo",
+      "emoji": "🍚",
+      "art": "stew",
+      "blurb": "It starts with forty-five minutes of stirring flour and oil until it turns the color of dark chocolate, and everything good about this dish comes from that. Serve it over rice and it will ruin every other gumbo for you.",
+      "difficulty": "Advanced",
+      "servings": "8 servings",
+      "prepTime": "30 min",
+      "cookTime": "2 hr 30 min",
+      "totalTime": "3 hr",
+      "ingredients": [
+        {
+          "group": "Meat",
+          "items": [
+            "2 1/2 lb (1.1 kg) bone-in skin-on chicken thighs, about 6",
+            "2 tsp kosher salt, plus more to taste",
+            "1 tsp freshly ground black pepper",
+            "1 lb (450 g) andouille sausage, sliced 1/4 in (6 mm) thick",
+            "2 tbsp (30 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "The roux and trinity",
+          "items": [
+            "1 cup (240 ml) neutral oil such as canola or peanut",
+            "1 cup (125 g) all-purpose flour",
+            "2 large onions (about 20 oz / 570 g), finely diced",
+            "2 green bell peppers (about 14 oz / 400 g), finely diced",
+            "4 celery ribs, finely diced",
+            "6 garlic cloves, minced"
+          ]
+        },
+        {
+          "group": "The pot",
+          "items": [
+            "10 cups (2.4 L) chicken stock, warmed",
+            "2 bay leaves",
+            "2 tsp dried thyme",
+            "1 1/2 tsp smoked paprika",
+            "1 tsp cayenne pepper, or to taste",
+            "2 tsp (10 ml) Worcestershire sauce",
+            "1 tsp hot sauce such as Crystal or Tabasco, plus more for the table",
+            "6 scallions, thinly sliced",
+            "1/3 cup (15 g) chopped fresh parsley",
+            "1 tsp file powder, for the table (optional)",
+            "6 cups (1 kg) cooked long-grain white rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Prep absolutely everything first",
+          "text": "Dice all the vegetables, measure the flour and oil, warm the stock, and set every bowl within arm's reach of the stove before you turn on a burner. Once the roux starts you cannot leave it for even 60 seconds, and a roux that burns has to be thrown out and started over. This is the one recipe in the book where mise en place is genuinely non-negotiable."
+        },
+        {
+          "title": "Season and brown the chicken",
+          "text": "Pat the thighs dry and season with the 2 tsp salt and 1 tsp pepper. Heat the 2 tbsp oil in a heavy 8 qt (7.6 L) Dutch oven over medium-high and brown the thighs skin-side down for 6 to 7 minutes without moving them, then 3 minutes on the second side. They will not be cooked through and that is fine. Move them to a plate."
+        },
+        {
+          "title": "Brown the andouille",
+          "text": "Add the sliced andouille to the same pot and cook 4 to 5 minutes, stirring, until the edges are browned and the pot has picked up more fond. Scoop the sausage out with a slotted spoon and set it with the chicken. Pour off all the accumulated fat and wipe the pot with a paper towel — the roux needs clean oil and an even, unmarked surface so you can read its color."
+        },
+        {
+          "title": "Start the roux",
+          "text": "Add the 1 cup (240 ml) oil to the pot over medium heat until it shimmers, then whisk in the 1 cup (125 g) flour all at once until completely smooth with no dry pockets. Switch to a flat wooden spoon or heatproof spatula so you can scrape the corners. From this moment forward, stir constantly and never stop. Hot roux is called Cajun napalm for a reason; keep children and pets out of the kitchen and wear long sleeves."
+        },
+        {
+          "title": "Work through the color stages",
+          "text": "Over 35 to 45 minutes at medium to medium-low heat, the roux moves through recognizable stages: blond and smelling like pancakes at 10 minutes, peanut butter at 20, copper penny at 30, and finally dark chocolate at 40. Keep the spoon moving across the entire bottom in a figure eight, never letting it rest. If you see black flecks or smell anything acrid and burnt, stop and start over — burnt roux poisons the entire pot and cannot be salvaged."
+        },
+        {
+          "title": "Judge the finish",
+          "text": "You are aiming for the color of melted dark chocolate or an old copper penny, smelling deeply toasted and nutty. The darker it goes the more flavor it gives and the less it thickens, which is why classic gumbo is soupy rather than gravy-thick. If your kitchen is nerve-wracking, stop at copper — a slightly lighter roux still makes very good gumbo, and burnt is unfixable."
+        },
+        {
+          "title": "Stop the roux with the trinity",
+          "text": "The instant the roux hits the color you want, dump in all the onion, bell pepper, and celery at once and stir hard. The cold vegetables drop the temperature immediately and halt the browning, which is the only reliable way to stop a roux from carrying past done. It will hiss and steam dramatically. Cook 8 to 10 minutes until the vegetables are soft and the mixture looks like dark, glossy paste."
+        },
+        {
+          "title": "Add garlic and seasonings",
+          "text": "Stir in the minced garlic, 2 tsp thyme, 1 1/2 tsp smoked paprika, and 1 tsp cayenne and cook for 60 to 90 seconds until fragrant. Ground spices need this brief hot fat contact to open up. Cayenne is where the heat lives, so start with a teaspoon and add more at the end if you want it hotter."
+        },
+        {
+          "title": "Whisk in the stock gradually",
+          "text": "Add the warm stock 1 cup (240 ml) at a time, whisking each addition fully smooth before the next goes in. Adding cold stock all at once seizes the roux into stubborn lumps that never dissolve. Once all 10 cups (2.4 L) are in, the pot should look like thin dark gravy. Add the bay leaves, Worcestershire, and hot sauce."
+        },
+        {
+          "title": "Simmer and skim",
+          "text": "Return the browned sausage to the pot, bring to a simmer, then lower the heat so it barely bubbles and cook uncovered for 1 hour. Orange oil will rise to the surface — skim most of it off with a wide shallow spoon every 20 minutes. Some old-school cooks leave it, but skimming gives a cleaner, more balanced gumbo. Stir the bottom occasionally."
+        },
+        {
+          "title": "Cook the chicken through",
+          "text": "Nestle the chicken thighs back in with their juices and simmer 30 minutes more, until an instant-read thermometer in the thickest thigh reads at least 165°F (74°C); dark meat is even better around 175°F (79°C). Lift them out, discard the skin and bones, shred the meat, and return it to the pot. The gumbo should now be the color of strong coffee with cream."
+        },
+        {
+          "title": "Finish and serve over rice",
+          "text": "Taste and adjust with salt, more cayenne, or another dash of hot sauce — gumbo needs assertive seasoning to stand up to plain rice. Stir in most of the scallions and parsley and let it sit off the heat for 15 minutes. Serve by mounding a scoop of hot rice in the center of each bowl and ladling the gumbo around it, topped with the remaining scallions. Pass file powder and hot sauce at the table, but never boil the gumbo after file goes in or it turns stringy."
+        }
+      ],
+      "tips": [
+        "Use a flat-edged wooden spoon or spatula, not a whisk, once the roux gets dark. A flat edge scrapes the pot bottom where scorching starts, and that is exactly where a whisk cannot reach.",
+        "If you are nervous about stirring for 45 minutes, make an oven roux: whisk the oil and flour in a cast iron pot and bake at 350°F (175°C) for 1 1/2 to 2 hours, stirring every 25 minutes. It is nearly foolproof and frees your hands.",
+        "Gumbo is definitively better on day two. Cool it, refrigerate overnight, lift off the fat cap, and reheat gently — the roux flavor rounds out and stops tasting sharp.",
+        "Never add file powder to the pot while it is on the heat. Sprinkle it over individual bowls at the table, where it thickens and adds an earthy root beer note without going ropey.",
+        "No andouille? Use kielbasa plus an extra 1/2 tsp smoked paprika and 1/4 tsp cayenne. It is not the same, but it is good."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) in the thickest part of the thigh, with 175°F (79°C) giving more tender dark meat. The roux itself runs above 350°F (175°C) and will cause severe burns — treat it with real caution and never leave it unattended.",
+      "pairing": "Cold Abita Amber or any crisp lager, with potato salad on the side the way they do it in south Louisiana.",
+      "videoQuery": "chicken andouille gumbo dark roux louisiana recipe",
+      "photoQuery": "chicken andouille gumbo bowl rice scallions",
+      "tags": ["Weekend Project", "Cajun", "Make Ahead"]
+    },
+    {
+      "id": "shoyu-ramen-broth",
+      "title": "Shoyu Ramen with Chicken Broth",
+      "emoji": "🍜",
+      "art": "noodles",
+      "blurb": "A clear, golden chicken and pork broth built over four hours, seasoned bowl by bowl with a soy tare you make yourself. It is a real project, and the first sip explains exactly why people bother.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "45 min",
+      "cookTime": "4 hr 30 min",
+      "totalTime": "5 hr 15 min",
+      "ingredients": [
+        {
+          "group": "The broth",
+          "items": [
+            "3 lb (1.4 kg) chicken backs, wings, and feet if you can get them",
+            "1 lb (450 g) pork neck bones or trotter, split",
+            "16 cups (3.8 L) cold water, plus more for parboiling",
+            "1 piece kombu (about 0.35 oz / 10 g)",
+            "6 dried shiitake mushrooms (about 0.5 oz / 15 g)",
+            "1 large onion (about 10 oz / 280 g), halved",
+            "1 piece fresh ginger (2 in / 5 cm), sliced",
+            "6 garlic cloves, smashed",
+            "4 scallions, white parts only"
+          ]
+        },
+        {
+          "group": "Shoyu tare and aroma oil",
+          "items": [
+            "3/4 cup (180 ml) Japanese soy sauce",
+            "1/4 cup (60 ml) mirin",
+            "2 tbsp (30 ml) sake",
+            "1 tbsp (12 g) granulated sugar",
+            "1/4 cup (5 g) katsuobushi (bonito flakes)",
+            "1 piece kombu (about 0.2 oz / 5 g)",
+            "1/3 cup (80 ml) chicken fat or neutral oil",
+            "4 scallions, green parts only, sliced"
+          ]
+        },
+        {
+          "group": "Eggs and bowls",
+          "items": [
+            "4 large eggs, at room temperature",
+            "4 portions fresh ramen noodles (about 4 oz / 115 g each)",
+            "8 oz (225 g) sliced chashu pork or roast pork belly (optional)",
+            "1 sheet nori, cut into 4 pieces",
+            "1/2 cup (50 g) thinly sliced scallion greens, for topping",
+            "2 tbsp (30 ml) chili oil, for the table"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cold-soak the kombu and shiitake",
+          "text": "Put the 10 g kombu and the dried shiitake in a bowl with 3 cups (720 ml) of cold water and leave them in the fridge for at least 30 minutes, or overnight if you plan ahead. Cold extraction pulls glutamates out of kombu without the slimy, faintly fishy edge that boiling it produces. This dashi becomes part of your broth later, so save every drop."
+        },
+        {
+          "title": "Parboil the bones",
+          "text": "Put all the chicken and pork bones in your largest stockpot, cover with cold water, and bring to a rolling boil over high heat. Boil hard for 10 minutes — a thick gray scum will foam up and look genuinely alarming. Drain everything into the sink and rinse each bone under cold running water, scrubbing off any clinging coagulated blood. Skipping this step is why homemade ramen broth often looks muddy and tastes like a barnyard."
+        },
+        {
+          "title": "Scrub the pot too",
+          "text": "Wash the pot itself before the bones go back in, since scum sticks to the sides in a gray ring. Return the clean bones and add the 16 cups (3.8 L) fresh cold water. Everything should be covered by about 2 in (5 cm); add water if it is not."
+        },
+        {
+          "title": "Bring it up slowly",
+          "text": "Set the pot over medium heat and let it come to a bare simmer over 30 minutes rather than blasting it. As it heats, skim any remaining foam from the surface with a fine mesh skimmer. For this clear chintan style broth you want a lazy bubble breaking every second or two, around 190°F (88°C) — a hard boil emulsifies the fat and turns the broth cloudy and greasy."
+        },
+        {
+          "title": "Simmer for three hours",
+          "text": "Hold that bare simmer, uncovered or with the lid cracked, for 3 hours. Check every 30 minutes and top up with hot water if the bones become exposed. The broth will slowly turn pale gold and start to smell rich and clean, and it should feel slightly sticky between your fingertips from the gelatin."
+        },
+        {
+          "title": "Add the aromatics late",
+          "text": "In the final 45 minutes, add the halved onion, sliced ginger, smashed garlic, and scallion whites, plus the soaked shiitake and their soaking liquid. Add the kombu only for the last 20 minutes and pull it before it goes slippery. Aromatics added at the start would simmer into bitterness over three hours, so they always go in late."
+        },
+        {
+          "title": "Make the shoyu tare",
+          "text": "While the broth finishes, combine the 3/4 cup (180 ml) soy sauce, 1/4 cup (60 ml) mirin, 2 tbsp sake, 1 tbsp sugar, and the 5 g kombu in a small saucepan and warm it to just below a simmer, about 180°F (82°C), for 10 minutes. Turn off the heat, add the katsuobushi, and let it steep 15 minutes before straining. The tare is the seasoning of the entire bowl — the broth itself stays unsalted so you can dial each bowl exactly."
+        },
+        {
+          "title": "Make the aroma oil",
+          "text": "Warm the 1/3 cup (80 ml) chicken fat or oil in a small pan over medium-low with the sliced scallion greens for 6 to 8 minutes, until the scallions are frizzled and the oil smells sweet and oniony. Strain out the solids. That layer of flavored fat floating on the finished bowl is what traps the aroma and keeps the soup blazing hot to the last spoonful."
+        },
+        {
+          "title": "Cook the marinated eggs",
+          "text": "Lower room-temperature eggs into boiling water with a spoon and boil for exactly 6 minutes and 30 seconds for a jammy, barely-set yolk. Move them straight into ice water for 5 minutes, peel carefully, then submerge them in 1/2 cup (120 ml) of the tare thinned with 1/2 cup (120 ml) water for at least 2 hours or overnight. The ice bath stops the cooking cold; even 30 extra seconds gives you a chalky yolk."
+        },
+        {
+          "title": "Strain and finish the broth",
+          "text": "Strain the broth through a fine mesh sieve into a clean pot, pressing gently on the solids, then strain again through a sieve lined with a paper towel if you want it crystal clear. You should have 8 to 10 cups (1.9 to 2.4 L). Skim the fat from the top and save it for aroma oil. Keep the broth hot, right around 195°F (91°C) — ramen must be served scaldingly hot or it dies in the bowl."
+        },
+        {
+          "title": "Taste and set the salinity",
+          "text": "Test one bowl before committing: start with 2 to 3 tbsp (30 to 45 ml) of tare and 1 1/2 cups (360 ml) of hot broth, then taste. It should be assertively savory, just this side of too salty, because the noodles are unsalted and will dilute it. Adjust up or down by the tablespoon and use that ratio for every bowl."
+        },
+        {
+          "title": "Set up before the noodles",
+          "text": "Heat your serving bowls with hot tap water and dry them, then line up all the toppings — halved eggs, chashu, nori, sliced scallions. Ramen assembly takes 90 seconds and there is no time to hunt for anything. Bring a large pot of unsalted water to a rolling boil for the noodles."
+        },
+        {
+          "title": "Boil the noodles and build",
+          "text": "Cook the fresh ramen noodles for 60 to 90 seconds, or exactly as the package says, then lift them out and shake them completely dry in the strainer. Put the tare and 1 tbsp (15 ml) aroma oil in the bottom of each hot bowl, pour in the hot broth, then lower in the drained noodles and lift them with chopsticks into a neat fold. Any water clinging to the noodles waters down the broth you spent four hours on. Top with the egg, chashu, nori tucked against the rim, and scallions, and eat immediately."
+        }
+      ],
+      "tips": [
+        "Make the broth, tare, and aroma oil up to 4 days ahead, or freeze the broth for 3 months. Then a bowl of ramen is a 10 minute weeknight dinner.",
+        "Chicken feet look strange but they are the single best source of gelatin, and they are what gives ramen broth its body. Ask the butcher counter — they are usually cheap.",
+        "Never salt the broth itself. Every element of a ramen bowl is seasoned by the tare, which is how shops adjust each bowl and how you avoid an oversalted pot you cannot undo.",
+        "Fresh ramen noodles from an Asian market are worth the trip. If you can only find dried, cook them a minute shy of the package time so they finish in the hot broth.",
+        "If your broth comes out cloudy, the heat was too high. It will still taste good, but next time watch for the bubble that breaks only every second or two."
+      ],
+      "keyTemp": "Hold the broth at a bare simmer of 185-195°F (85-91°C) for the full 3 hours — boiling makes it cloudy. Marinated eggs need exactly 6 1/2 minutes in boiling water then an ice bath, and any chicken meat used as topping must reach 165°F (74°C).",
+      "pairing": "Cold Japanese lager or barley tea, with gyoza on the side and chili oil at the table.",
+      "videoQuery": "shoyu ramen broth tare from scratch",
+      "photoQuery": "shoyu ramen bowl egg nori chashu",
+      "tags": ["Weekend Project", "Japanese", "From Scratch"]
+    }
+  ]
+}

@@ -1,0 +1,1783 @@
+{
+  "category": "Mexican & Tex-Mex",
+  "categoryEmoji": "🌮",
+  "categoryBlurb": "Real chiles toasted on a dry pan, tortillas warmed one at a time, and pots that fill the whole apartment with the smell of orange peel and cumin — this is the chapter that turns a weeknight into a taco night and a free Saturday into something worth remembering.",
+  "recipes": [
+    {
+      "id": "carne-asada-tacos-salsa-verde",
+      "title": "Carne Asada Tacos with Salsa Verde",
+      "emoji": "🌮",
+      "art": "taco",
+      "blurb": "Thin skirt steak marinated in citrus and garlic, charred hard and fast, then chopped small and piled into warm corn tortillas with a bright tomatillo salsa. This is the taco that makes people ask what you did differently.",
+      "difficulty": "Medium",
+      "servings": "4 servings (about 12 tacos)",
+      "prepTime": "25 min",
+      "cookTime": "20 min",
+      "totalTime": "2 hr 45 min (includes 2 hr marinade)",
+      "ingredients": [
+        {
+          "group": "For the carne asada",
+          "items": [
+            "2 lb (900 g) skirt steak or flank steak, trimmed",
+            "1/3 cup (80 ml) fresh orange juice (about 1 large orange)",
+            "1/4 cup (60 ml) fresh lime juice (about 3 limes)",
+            "1/4 cup (60 ml) neutral oil, such as avocado or canola",
+            "4 garlic cloves, finely minced",
+            "1 jalapeno, seeded and minced (about 2 tbsp / 15 g)",
+            "1/2 cup (20 g) chopped cilantro, leaves and stems",
+            "1 tbsp (7 g) ground cumin",
+            "2 tsp (5 g) chili powder",
+            "1 tsp (1 g) dried Mexican oregano",
+            "1 tbsp (14 g) kosher salt",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Salsa verde",
+          "items": [
+            "1 lb (450 g) tomatillos (about 8 medium), husked and rinsed",
+            "2 serrano chiles, stemmed (or 1 jalapeno for less heat)",
+            "1/2 white onion, cut into 2 thick wedges (about 4 oz / 115 g)",
+            "3 garlic cloves, left unpeeled",
+            "1/2 cup (20 g) cilantro leaves and tender stems",
+            "1 tbsp (15 ml) fresh lime juice",
+            "1 tsp (6 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 corn tortillas, 6 in (15 cm)",
+            "1/2 white onion, finely diced (about 3/4 cup / 110 g)",
+            "1/2 cup (20 g) finely chopped cilantro",
+            "2 limes, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Trim and portion the steak",
+          "text": "Skirt steak arrives as a long rope with a thin silvery membrane and pockets of hard fat, so shave those away with a paring knife — they never render and they turn chewy. Cut the 2 lb (900 g) piece crosswise into 3 or 4 lengths of about 8 in (20 cm) so each piece fits flat in your pan or on the grill. Short pieces are much easier to flip and, more importantly, easier to slice against the grain later. Pat everything dry with paper towels so the marinade clings instead of sliding off."
+        },
+        {
+          "title": "Mix the marinade",
+          "text": "Whisk together the orange juice, lime juice, oil, garlic, jalapeno, cilantro, cumin, chili powder, oregano, 1 tbsp kosher salt and the black pepper in a bowl. Orange juice is not there for sweetness — its gentler acid tenderizes the meat without turning the surface chalky and mushy the way straight lime does over hours. Taste it: it should be aggressively salty and sour, because only a thin film of it ends up on the steak."
+        },
+        {
+          "title": "Marinate 2 to 8 hours",
+          "text": "Put the steak in a zip-top bag or a shallow dish, pour the marinade over, and press out the air so the liquid touches every surface. Refrigerate for at least 2 hours and no more than 8 — past that window the citrus starts breaking the muscle fibers down into something soft and pasty. Turn the bag once halfway through if you think of it. This is the one step you cannot rush, so start it in the morning if dinner is at seven."
+        },
+        {
+          "title": "Char the salsa vegetables",
+          "text": "Arrange the tomatillos, serranos, onion wedges and unpeeled garlic on a foil-lined sheet pan and slide it 4 in (10 cm) under a preheated broiler. Broil for 8 to 10 minutes, turning everything once, until the tomatillos slump and blister and go from bright green to a dull olive with blackened patches. That char is where the smoky depth comes from, so let them get genuinely spotted black, not just soft. Pull the garlic early if the skins are burning and squeeze the cloves out of their papers."
+        },
+        {
+          "title": "Blend the salsa verde",
+          "text": "Scrape the vegetables and every drop of juice from the pan into a blender, add the cilantro, lime juice and 1 tsp salt, and pulse 8 to 10 times. You want a loose, slightly chunky salsa, not a smooth green milkshake — over-blending whips in air and turns it pale and foamy. Taste and add salt a pinch at a time until the flavor snaps into focus. It will taste sharper hot than cold, so let it cool for 10 minutes before you judge it."
+        },
+        {
+          "title": "Take the steak out early",
+          "text": "Pull the steak from the fridge 30 minutes before cooking and let it sit on the counter. Lift each piece out of the marinade and scrape off the garlic and cilantro bits with the back of a knife — solids like these burn black and bitter over high heat. Then pat both sides thoroughly dry with paper towels. A wet steak steams and stays gray; a dry one browns in seconds."
+        },
+        {
+          "title": "Get the fire screaming hot",
+          "text": "Build a hot charcoal fire or set a gas grill to high, or heat a 12 in (30 cm) cast iron skillet over high heat for 4 to 5 minutes indoors. You want it hot enough that a drop of water vanishes instantly with a hiss. Skirt steak is only about 1/2 in (1.3 cm) thick, so it needs a ferocious surface temperature to build a crust before the inside overcooks. If you are indoors, turn the vent on high and open a window now, not later."
+        },
+        {
+          "title": "Sear hard and fast",
+          "text": "Lay the steak down and leave it completely alone for 3 to 4 minutes — it should sizzle loudly and steadily, not smoke black. Flip once and give it 2 to 3 minutes on the second side, until an instant-read thermometer in the thickest part reads 130°F (54°C) for medium-rare. Work in batches if the pieces are crowding each other, because crowding drops the pan temperature and you get gray meat. Skirt steak goes from perfect to leathery in about 90 seconds, so keep the thermometer in your hand."
+        },
+        {
+          "title": "Rest the steak",
+          "text": "Move the steak to a cutting board and let it rest for 8 to 10 minutes, loosely tented with foil. During the rest the internal temperature coasts up to about 135°F (57°C) and the juices that were driven to the center redistribute through the meat. Cut into it too early and half of that liquid runs onto the board instead of staying in the taco. Use this time to warm the tortillas."
+        },
+        {
+          "title": "Warm the tortillas",
+          "text": "Heat a dry comal or skillet over medium-high and toast each corn tortilla for 20 to 30 seconds per side, until it is pliable, smells toasty, and puffs slightly in spots. Stack the warm ones inside a clean kitchen towel so they steam each other soft. Cold tortillas crack and taste like cardboard, and this step takes four minutes. For street-style tacos, double up two tortillas per taco so nothing falls through."
+        },
+        {
+          "title": "Chop against the grain",
+          "text": "Look for the long parallel muscle fibers running across each piece of skirt steak — they are easy to see on this cut. Slice across them into thin strips, then turn the strips and chop them into rough 1/2 in (1.3 cm) pieces. Cutting with the grain instead of across it is the single most common reason carne asada comes out tough. Pour any juices from the board back over the chopped meat."
+        },
+        {
+          "title": "Build and eat immediately",
+          "text": "Pile a generous 1/4 cup of chopped steak into each warm tortilla, then top with diced white onion, chopped cilantro, and a big spoonful of salsa verde. Finish with a hard squeeze of lime right before it goes in your mouth — the acid wakes the whole thing up. Tacos wait for no one, so serve them straight off the board with the salsa bowl in the middle of the table."
+        }
+      ],
+      "tips": [
+        "Skirt steak beats flank here because its loose grain grabs marinade and it cooks in half the time. If you can only find flank, slice it thinner and expect an extra minute per side.",
+        "The salsa verde keeps in the fridge for 5 days and only gets better on day two. Make a double batch and put it on eggs.",
+        "No broiler? Char the tomatillos and chiles in a dry cast iron skillet over medium-high heat for 10 to 12 minutes, turning until blackened in patches. The result is slightly more toasty and less juicy, which is not a bad thing.",
+        "If the salsa tastes harsh or metallic, it needs salt, not more lime. Tomatillos are acidic enough on their own.",
+        "Corn tortillas from a Mexican market are worth the detour. Warm them on the comal the moment before serving, not ten minutes ahead."
+      ],
+      "keyTemp": "Pull skirt or flank steak at 130°F (54°C) for medium-rare; it coasts to about 135°F (57°C) as it rests. Past 145°F (63°C) these thin cuts turn tough and dry.",
+      "pairing": "A cold Mexican lager with lime, or a salty Tommy's margarita, with charro beans and Mexican rice alongside.",
+      "videoQuery": "carne asada street tacos salsa verde",
+      "photoQuery": "carne asada street tacos",
+      "tags": [
+        "Grill",
+        "Taco Night",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "chicken-tinga-tostadas",
+      "title": "Chicken Tinga Tostadas",
+      "emoji": "🍗",
+      "art": "chicken",
+      "blurb": "Shredded chicken simmered in a smoky chipotle and tomato sauce until it soaks up every bit of it, spooned onto crisp tostadas with beans and crema. It is a weeknight dinner that tastes like it took all afternoon.",
+      "difficulty": "Easy",
+      "servings": "4 servings (12 tostadas)",
+      "prepTime": "15 min",
+      "cookTime": "35 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "For the chicken",
+          "items": [
+            "2 lb (900 g) boneless skinless chicken thighs",
+            "1/2 white onion, left in one piece (about 4 oz / 115 g)",
+            "3 garlic cloves, peeled",
+            "1 bay leaf",
+            "1 tbsp (14 g) kosher salt",
+            "6 cups (1.4 L) water"
+          ]
+        },
+        {
+          "group": "Tinga sauce",
+          "items": [
+            "1 1/2 lb (680 g) Roma tomatoes (about 6)",
+            "2 tbsp (30 ml) neutral oil",
+            "1 white onion, thinly sliced (about 1 1/2 cups / 200 g)",
+            "3 garlic cloves, thinly sliced",
+            "3 chipotle chiles in adobo, plus 2 tbsp (30 ml) of the adobo sauce",
+            "1 tsp (1 g) dried Mexican oregano",
+            "1/2 tsp ground cumin",
+            "1 cup (240 ml) reserved chicken poaching broth",
+            "1 tsp (6 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 corn tostada shells",
+            "1 1/2 cups (350 g) refried beans, warmed",
+            "1 cup (110 g) crumbled queso fresco",
+            "1 large avocado, sliced",
+            "1/2 cup (120 ml) Mexican crema or thinned sour cream",
+            "2 limes, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Poach the chicken",
+          "text": "Put the thighs, onion half, garlic cloves, bay leaf and 1 tbsp salt in a saucepan and add the 6 cups (1.4 L) water, which should cover everything by an inch. Bring it to a bare simmer over medium-high heat, then immediately drop it to low so the surface only shivers with a bubble every second or two. A hard boil squeezes the thighs tight and dry, while a gentle poach leaves them silky. Cook for 18 to 20 minutes, until an instant-read thermometer in the thickest thigh reads 165°F (74°C)."
+        },
+        {
+          "title": "Cool and shred",
+          "text": "Lift the chicken out with tongs onto a plate and let it sit for 10 minutes so it is cool enough to handle and the fibers relax. Save 1 cup (240 ml) of the poaching broth and strain the rest into a jar for another day — it is far better than anything from a box. Pull the meat apart with two forks or your fingers into rough shreds about the width of a pencil. Leave them a little chunky; wispy shreds disappear into the sauce instead of holding onto it."
+        },
+        {
+          "title": "Blanch and peel the tomatoes",
+          "text": "Bring a small pot of water to a boil, cut a shallow X in the bottom of each Roma tomato, and drop them in for 45 to 60 seconds. Move them to a bowl of cold water and the skins will slip off with your thumb. Peeling matters here because tomato skins roll up into little leathery curls in a simmered sauce. If you would rather skip it, use one 14.5 oz (411 g) can of whole peeled tomatoes instead."
+        },
+        {
+          "title": "Blend the tomato base",
+          "text": "Put the peeled tomatoes, chipotles, adobo sauce, oregano and cumin in a blender and run it for 30 seconds until completely smooth. Start with 2 chipotles if you are heat-shy — you can always stir a third in later, but you cannot take it out. The blended sauce should be the color of brick and smell distinctly smoky, not just tomatoey. Set it right next to the stove."
+        },
+        {
+          "title": "Sweat the onions properly",
+          "text": "Heat the 2 tbsp oil in a 12 in (30 cm) skillet over medium heat, add the sliced onion, and cook for 8 to 10 minutes, stirring every couple of minutes. You are after soft, sweet, translucent onions with just a few golden edges, not crunchy ones — this is where the sauce gets its backbone. Add the sliced garlic in the last minute so it perfumes the oil without burning. Burnt garlic turns the whole pan bitter and there is no fixing it."
+        },
+        {
+          "title": "Fry the sauce",
+          "text": "Pour the blended tomato mixture into the hot skillet all at once — it should hiss and spit, so stand back. Cook it hard for 6 to 8 minutes, stirring often, until it darkens a shade, thickens noticeably, and a spoon dragged through the pan leaves a trail that holds for a second. Frying the puree cooks off the raw tomato edge and concentrates everything. Skipping this step is why homemade tinga sometimes tastes thin and sour."
+        },
+        {
+          "title": "Simmer the chicken in the sauce",
+          "text": "Stir in the shredded chicken and the reserved 1 cup (240 ml) broth, then bring it back to a gentle simmer. Cook uncovered for 10 to 12 minutes, stirring now and then, until the liquid reduces and clings to the meat instead of pooling in the pan. The chicken should look glossy and coated, not soupy. Add the 1 tsp salt, taste, and adjust — poached chicken drinks up more salt than you expect."
+        },
+        {
+          "title": "Warm the beans and tostadas",
+          "text": "Heat the refried beans in a small pan over low with a splash of water until they are spreadable and loose, about 5 minutes. Crisp the tostada shells in a 350°F (175°C) oven for 3 to 4 minutes if they came from a bag and taste stale. Warm shells and warm beans hold up much better under a wet topping. Have everything ready before you assemble, because tostadas soften fast."
+        },
+        {
+          "title": "Build the tostadas",
+          "text": "Spread about 2 tbsp of refried beans on each tostada all the way to the edge — the beans are the glue that keeps the topping from sliding off. Pile on a generous 1/3 cup of the hot tinga, then add sliced avocado, a shower of queso fresco, and a drizzle of crema. Finish with a squeeze of lime. Assemble them one at a time as people eat, not in a big batch on a tray."
+        },
+        {
+          "title": "Serve with the pot on the table",
+          "text": "Bring the skillet of tinga right to the table with a spoon in it and let everyone build their own. Leftover tinga is even better the next day once the smoke settles into the meat. It reheats in a covered pan over low with a splash of water, about 5 minutes. Anything left after that goes into quesadillas or over rice."
+        }
+      ],
+      "tips": [
+        "Chicken thighs are the right call here — breasts turn stringy after ten minutes of simmering in sauce. If you only have breasts, poach them to 165°F (74°C) and stir them in during the last 4 minutes.",
+        "Freeze leftover chipotles in adobo in a small container in single-chile portions; a can goes bad long before you use it up.",
+        "Tinga freezes beautifully for up to 3 months. Cool it completely, then freeze flat in a zip-top bag and thaw overnight in the fridge.",
+        "If it comes out too spicy, stir in 2 tbsp of crema or a spoonful of the refried beans directly into the pan — the fat blunts the capsaicin.",
+        "The same tinga makes excellent tacos, quesadillas or a topping for baked potatoes. Make a double batch on Sunday."
+      ],
+      "keyTemp": "Chicken is safely cooked at 165°F (74°C) checked in the thickest part of a thigh. It then simmers in the sauce, which will not dry it out because thighs hold moisture well.",
+      "pairing": "Mexican rice and a cold agua fresca de jamaica, or a light lager if you want something with bubbles.",
+      "videoQuery": "chicken tinga tostadas authentic recipe",
+      "photoQuery": "chicken tinga tostadas",
+      "tags": [
+        "Weeknight",
+        "Make Ahead",
+        "Smoky"
+      ]
+    },
+    {
+      "id": "pork-carnitas",
+      "title": "Michoacan-Style Pork Carnitas",
+      "emoji": "🐖",
+      "art": "pork",
+      "blurb": "Pork shoulder simmered slow in its own fat with orange and cinnamon, then crisped under high heat until the edges shatter and the middle stays juicy. This is the one worth clearing an afternoon for.",
+      "difficulty": "Medium",
+      "servings": "6 to 8 servings",
+      "prepTime": "20 min",
+      "cookTime": "3 hr 15 min",
+      "totalTime": "3 hr 45 min (includes 10 min rest)",
+      "ingredients": [
+        {
+          "group": "For the pork",
+          "items": [
+            "4 lb (1.8 kg) boneless pork shoulder (Boston butt), cut into 2 in (5 cm) chunks",
+            "1 tbsp (14 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tsp (2 g) ground cumin",
+            "1 tsp (1 g) dried Mexican oregano"
+          ]
+        },
+        {
+          "group": "The braise",
+          "items": [
+            "1/2 cup (110 g) lard, or 1/2 cup (120 ml) neutral oil",
+            "1 orange, halved (juice squeezed in, spent halves added too)",
+            "1 white onion, quartered (about 8 oz / 225 g)",
+            "6 garlic cloves, smashed",
+            "2 bay leaves",
+            "1 cinnamon stick, 3 in (8 cm)",
+            "1/2 cup (120 ml) whole milk",
+            "1 cup (240 ml) water"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "18 corn tortillas, 6 in (15 cm)",
+            "1 white onion, finely diced (about 1 1/2 cups / 220 g)",
+            "1 cup (40 g) chopped cilantro",
+            "3 limes, cut into wedges",
+            "1 cup (240 ml) salsa verde or salsa roja"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut the pork the right size",
+          "text": "Cut the shoulder into 2 in (5 cm) chunks and leave the fat cap on — do not trim it, because that fat is the entire point of carnitas. Pieces this size hold their shape through a long braise and still develop plenty of surface area for crisping later. Anything smaller falls into threads before the connective tissue melts. Pat the chunks dry so the seasoning sticks."
+        },
+        {
+          "title": "Season and let it sit",
+          "text": "Toss the pork with the 1 tbsp kosher salt, black pepper, cumin and Mexican oregano until every piece is coated. Let it stand at room temperature for 15 minutes while you get everything else ready, which gives the salt time to start working into the surface. Mexican oregano is more citrusy and less minty than Mediterranean oregano and is worth seeking out. If you only have the Italian kind, use half as much."
+        },
+        {
+          "title": "Melt the lard and start the braise",
+          "text": "Melt the 1/2 cup (110 g) lard in a large heavy Dutch oven over medium heat, then add the pork in a single layer or as close as you can get. Squeeze the orange halves over the pot and drop the spent shells in, then add the onion, garlic, bay leaves, cinnamon stick, milk and water. The liquid should come about halfway up the pork, not cover it. This is a confit, not a stew — the pork mostly cooks in fat with just enough liquid to keep the bottom from scorching."
+        },
+        {
+          "title": "Simmer low and slow",
+          "text": "Bring the pot to a simmer, then turn the heat to low so you see a lazy bubble breaking the surface every second or so. Cover partially with the lid set askew and cook for 2 hours to 2 hours 30 minutes, stirring gently every 30 minutes. Resist the urge to crank the heat: a hard boil tightens the muscle fibers and gives you dry, stringy pork instead of meltingly soft chunks. The kitchen will smell like orange peel and pork fat, which is exactly right."
+        },
+        {
+          "title": "Check for doneness by feel",
+          "text": "The pork is ready when a piece offers no resistance to a fork and pulls apart into large shreds under gentle pressure, at an internal temperature of about 200°F (93°C). Do not rely on the clock alone, because a well-marbled shoulder can take 30 minutes longer than a lean one. If it still feels springy or tight, give it another 20 minutes and check again. Undercooked carnitas is the most common failure and it cannot be fixed at the crisping stage."
+        },
+        {
+          "title": "Boil off the liquid",
+          "text": "Fish out and discard the onion, garlic, bay leaves, cinnamon stick and orange shells with tongs. Raise the heat to medium and let the remaining liquid bubble away for 10 to 15 minutes until only clear fat and a little browned sediment are left in the pot. You will hear the sound shift from a wet gurgle to a sharp sizzle — that is the water gone and the frying starting. From here on, the pork is essentially deep-frying in its own rendered fat."
+        },
+        {
+          "title": "Rest before crisping",
+          "text": "Lift the chunks onto a rimmed sheet pan with a slotted spoon and let them rest for 10 minutes, which firms them up enough to handle. Pour 3 to 4 tbsp of the rendered fat from the pot over the pork and save the rest in a jar for beans or eggs. Gently press each chunk with the back of a spoon to flatten it slightly, exposing more surface. More surface means more crispy edges, which is the whole reason anyone loves carnitas."
+        },
+        {
+          "title": "Crisp under the broiler",
+          "text": "Set an oven rack 6 in (15 cm) below the broiler element and turn the broiler to high. Broil the pork for 4 to 6 minutes, until the tops are deep brown and crackling at the edges. Watch it constantly — the line between crisp and burnt is about 45 seconds under a broiler. Alternatively, crisp the pork in batches in a hot cast iron skillet over medium-high heat for 3 to 4 minutes per side."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Pull the pan out, turn the pieces with tongs, and broil for another 3 to 4 minutes so the second side browns too. You are aiming for roughly half crisp, golden-brown exterior and half soft, juicy interior, not uniformly crunchy pork. If some pieces are done before others, move them to the edges of the pan where the heat is less direct. Give it all a squeeze of lime while it is still on the hot pan."
+        },
+        {
+          "title": "Chop and dress",
+          "text": "Roughly chop or pull the crisped pork on a board, keeping some big shaggy pieces for texture. Drizzle a few tablespoons of the hot rendered fat and pan juices back over the top and toss once — that is the seasoning. Taste and add a pinch of salt if it needs it. Serve straight from the board while everything is still crackling."
+        },
+        {
+          "title": "Warm the tortillas and build",
+          "text": "Toast the corn tortillas on a dry comal or skillet over medium-high heat for 20 to 30 seconds per side, then stack them in a towel to stay soft. Fill each with about 1/3 cup of carnitas, then top with diced white onion, cilantro, salsa and a hard squeeze of lime. Two tortillas per taco is standard for anything this juicy. Put the bowls in the middle of the table and let everyone go."
+        }
+      ],
+      "tips": [
+        "Lard makes noticeably better carnitas than oil and is sold cheaply at any Mexican grocery. Strain and refrigerate what is left over — it keeps for months and makes the best refried beans you will ever eat.",
+        "The milk is not optional folklore; its sugars and proteins help the pork brown and add a subtle richness. It will look curdled during the braise, which is normal and disappears when you boil the liquid off.",
+        "You can braise the pork up to 3 days ahead and refrigerate it in its fat. Crisp it under the broiler straight from the fridge, adding 2 extra minutes.",
+        "If your pork tastes flat after crisping, it needs salt and acid, in that order. A pinch of salt and a squeeze of lime fixes almost every batch.",
+        "Leftovers make outstanding breakfast: crisp them again in a skillet and top with two fried eggs and salsa verde."
+      ],
+      "keyTemp": "Braise the pork to about 200°F (93°C), well past the 145°F (63°C) safety minimum, because that is where the collagen turns to gelatin and the meat shreds. Judge it by fork tenderness, not the clock.",
+      "pairing": "A Mexican lager or a michelada, with refried beans and pickled red onions on the side.",
+      "videoQuery": "authentic pork carnitas michoacan style",
+      "photoQuery": "crispy pork carnitas tacos",
+      "tags": [
+        "Weekend Project",
+        "Crowd Pleaser",
+        "Taco Night"
+      ]
+    },
+    {
+      "id": "baja-fish-tacos",
+      "title": "Baja Fish Tacos with Cabbage Slaw",
+      "emoji": "🐟",
+      "art": "fish",
+      "blurb": "Beer-battered white fish that stays shatteringly crisp under a pile of lime-cut cabbage and chipotle crema. It is the taco stand in Ensenada, made in your kitchen in under an hour.",
+      "difficulty": "Medium",
+      "servings": "4 servings (12 tacos)",
+      "prepTime": "25 min",
+      "cookTime": "20 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "Fish and beer batter",
+          "items": [
+            "1 1/2 lb (680 g) cod, halibut or mahi mahi, cut into strips 1 in x 4 in (2.5 cm x 10 cm)",
+            "1 cup (125 g) all-purpose flour, plus 1/2 cup (65 g) for dredging",
+            "1/4 cup (30 g) cornstarch",
+            "1 tsp (4 g) baking powder",
+            "1 tsp (6 g) kosher salt",
+            "1/2 tsp garlic powder",
+            "1/2 tsp chili powder",
+            "1 cup (240 ml) cold Mexican lager",
+            "6 cups (1.4 L) neutral oil, for frying"
+          ]
+        },
+        {
+          "group": "Cabbage slaw",
+          "items": [
+            "4 cups (280 g) green cabbage, shredded very thin",
+            "1/4 red onion, sliced paper thin (about 1/2 cup / 60 g)",
+            "2 tbsp (30 ml) fresh lime juice",
+            "1 tsp (6 g) kosher salt",
+            "1/4 cup (10 g) chopped cilantro"
+          ]
+        },
+        {
+          "group": "Chipotle crema",
+          "items": [
+            "1/2 cup (120 g) Mexican crema or sour cream",
+            "1/4 cup (55 g) mayonnaise",
+            "2 tbsp (30 ml) fresh lime juice",
+            "1 chipotle in adobo, minced, plus 1 tsp adobo sauce",
+            "1/2 tsp (3 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 corn tortillas, 6 in (15 cm)",
+            "2 limes, cut into wedges",
+            "1/2 cup (60 g) crumbled cotija cheese"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Salt the cabbage first",
+          "text": "Toss the shredded cabbage and red onion with the 1 tsp salt and 2 tbsp lime juice in a bowl and let it sit for at least 20 minutes while you do everything else. The salt pulls water out of the cabbage so it stays crunchy instead of going limp on the taco, and the lime softens the raw bite of the onion. Squeeze the slaw gently with your hands before serving and pour off the liquid that collects. Stir in the cilantro at the last minute so it stays green."
+        },
+        {
+          "title": "Make the chipotle crema",
+          "text": "Whisk the crema, mayonnaise, 2 tbsp lime juice, minced chipotle, adobo sauce and 1/2 tsp salt in a small bowl until smooth. It should be thin enough to drizzle from a spoon in a steady ribbon; add water 1 tsp at a time if it is too thick. Taste it and remember it will be competing with fried fish, so it needs to be assertively tangy and a little spicy. Refrigerate until serving."
+        },
+        {
+          "title": "Cut and dry the fish",
+          "text": "Cut the fillets into strips about 1 in (2.5 cm) wide and 4 in (10 cm) long, roughly the width of two fingers, so they cook through in the same time it takes the batter to brown. Blot every piece dry on paper towels and season lightly with a pinch of salt. Wet fish makes the batter slide right off in the oil. Keep the fish in the fridge until the oil is at temperature."
+        },
+        {
+          "title": "Heat the oil to 375°F",
+          "text": "Pour the oil into a heavy Dutch oven to a depth of about 2 in (5 cm) and clip a thermometer to the side. Heat over medium-high to 375°F (190°C), which usually takes 8 to 10 minutes. Starting high matters because adding cold fish drops the oil by 25 to 50 degrees, and you want to land near 350°F (175°C) while frying. Oil below 325°F (163°C) gives you greasy, pale batter every time."
+        },
+        {
+          "title": "Mix the batter at the last second",
+          "text": "Whisk the 1 cup flour, cornstarch, baking powder, 1 tsp salt, garlic powder and chili powder in a bowl, then pour in the cold beer and stir just until it comes together with a few small lumps left. Overmixing develops gluten and gives you a bready, tough coating instead of a crisp shell. The batter should be about the thickness of heavy cream and drip off a spoon in a slow ribbon. Mix it right before frying so the bubbles are still lively."
+        },
+        {
+          "title": "Dredge, then batter",
+          "text": "Put the extra 1/2 cup (65 g) flour in a shallow dish and toss each fish strip in it, shaking off the excess. That dry layer gives the wet batter something to grip so it does not slip off in the fryer. Dip a floured strip into the batter, let the excess run off for a count of two, then lower it into the oil away from you. Do not batter the fish ahead of time; do it one piece at a time as you fry."
+        },
+        {
+          "title": "Fry in small batches",
+          "text": "Fry 3 or 4 strips at a time for 3 to 4 minutes total, turning once, until the coating is deep golden and audibly crisp when tapped with tongs. Crowding the pot drops the oil temperature and the batter absorbs oil instead of crisping. Let the oil come back up to 375°F (190°C) between batches, which takes about a minute. The fish is done at an internal temperature of 145°F (63°C) and will flake easily."
+        },
+        {
+          "title": "Drain on a rack, not paper",
+          "text": "Lift each piece onto a wire rack set over a sheet pan and sprinkle immediately with a pinch of salt while the surface is still glistening. A rack lets air circulate underneath so the bottom stays crisp; paper towels trap steam and the coating goes soft in two minutes. If you are frying several batches, keep the finished fish in a 200°F (95°C) oven. Never stack fried fish on top of itself."
+        },
+        {
+          "title": "Warm the tortillas",
+          "text": "Toast the corn tortillas on a dry skillet or comal over medium-high heat for 20 to 30 seconds a side, until they are soft, flexible and smell like toasted corn. Wrap them in a clean towel to hold the steam and keep them warm. Warm tortillas fold without cracking and taste dramatically better than microwaved ones. Get these ready while the last batch of fish fries."
+        },
+        {
+          "title": "Build the tacos",
+          "text": "Lay one or two pieces of fish in each warm tortilla, then top with a small handful of drained slaw, a heavy drizzle of chipotle crema, and a sprinkle of cotija. Squeeze a lime wedge over the top just before eating. Build them one at a time and eat them standing at the counter if necessary — the batter is at its best for about 90 seconds. Put the extra crema on the table for dipping."
+        }
+      ],
+      "tips": [
+        "Cod is the classic choice and the most forgiving, but any firm white fish works. Avoid thin, delicate fillets like sole, which fall apart in the batter.",
+        "The beer must be cold and carbonated. The bubbles are what make the coating light, so open it right before you mix.",
+        "For a lighter version, skip the batter entirely: season the fish with chili powder and cumin and sear it in a hot skillet for 2 to 3 minutes per side to 145°F (63°C).",
+        "Slaw and crema both hold in the fridge for 2 days, so you can prep them in the morning and only fry at dinner.",
+        "Save the frying oil: cool it completely, strain it through a coffee filter, and it is good for two more fish fries."
+      ],
+      "keyTemp": "Fish is cooked through at 145°F (63°C) and will flake with gentle pressure. Keep the frying oil between 350°F (175°C) and 375°F (190°C) throughout.",
+      "pairing": "A cold Pacifico with lime, or a grapefruit paloma, with a pile of tortilla chips and salsa to start.",
+      "videoQuery": "baja fish tacos beer battered recipe",
+      "photoQuery": "baja fish tacos cabbage slaw",
+      "tags": [
+        "Fried",
+        "Weeknight",
+        "Taco Night"
+      ]
+    },
+    {
+      "id": "chiles-rellenos",
+      "title": "Chiles Rellenos in Tomato Caldillo",
+      "emoji": "🫑",
+      "art": "veggie",
+      "blurb": "Charred poblanos stuffed with melting cheese, wrapped in a cloud-light egg batter, fried golden and set in a simple tomato broth. It takes patience and it is absolutely worth it.",
+      "difficulty": "Advanced",
+      "servings": "3 to 4 servings (6 chiles)",
+      "prepTime": "40 min",
+      "cookTime": "35 min",
+      "totalTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "group": "Chiles and filling",
+          "items": [
+            "6 large poblano chiles (about 1 1/2 lb / 680 g total)",
+            "12 oz (340 g) Oaxaca cheese or Monterey Jack, cut into batons 3 in (8 cm) long",
+            "1/2 tsp (3 g) kosher salt",
+            "6 wooden toothpicks"
+          ]
+        },
+        {
+          "group": "Tomato caldillo",
+          "items": [
+            "1 1/2 lb (680 g) Roma tomatoes (about 6), quartered",
+            "1/4 white onion (about 2 oz / 55 g)",
+            "2 garlic cloves, peeled",
+            "1 tbsp (15 ml) neutral oil",
+            "1 cup (240 ml) chicken or vegetable broth",
+            "1 tsp (1 g) dried Mexican oregano",
+            "3/4 tsp (5 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Egg batter and frying",
+          "items": [
+            "4 large eggs, separated, at room temperature",
+            "2 tbsp (16 g) all-purpose flour, for the batter",
+            "1/2 cup (65 g) all-purpose flour, for dusting",
+            "1/2 tsp (3 g) kosher salt",
+            "3 cups (700 ml) neutral oil, for frying"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Char the poblanos",
+          "text": "Set the poblanos directly over a high gas flame, or on a sheet pan 4 in (10 cm) under a hot broiler, and turn them every 2 to 3 minutes with tongs. You want the skin blistered and blackened over roughly 80 percent of each chile, which takes 8 to 12 minutes total. Do not rush this by cranking the heat higher — you are trying to blister the skin without cooking the flesh to mush. The chiles should still feel firm when you pick them up."
+        },
+        {
+          "title": "Steam and peel",
+          "text": "Pile the hot chiles into a bowl and cover it tightly with plastic wrap or a plate for 10 to 15 minutes so they steam in their own heat. The trapped moisture separates the skin from the flesh and it will slip off under your thumb. Peel them with your fingers, not under running water, which washes away the smoky flavor you just spent ten minutes building. A few stubborn black flecks left behind are fine and traditional."
+        },
+        {
+          "title": "Open and seed carefully",
+          "text": "Lay each chile flat and cut a single 3 in (8 cm) slit down one side, stopping about 1/2 in (1.3 cm) from the stem and the tip. Reach in with a small spoon or your fingers and pull out the seed pod and any loose seeds, keeping the chile otherwise intact. This is the delicate part: a tear means cheese leaking into the oil later. Sprinkle the inside of each with a pinch of the 1/2 tsp salt."
+        },
+        {
+          "title": "Stuff and secure",
+          "text": "Slide 2 oz (55 g) of cheese batons into each chile, filling it generously but not so full that the slit gapes open. Press the edges of the slit together and pin them closed with a toothpick woven through like a stitch. Set the stuffed chiles on a plate and refrigerate for 15 minutes so the cheese firms up. Cold cheese takes longer to melt and run, which buys you time in the fryer."
+        },
+        {
+          "title": "Make the caldillo",
+          "text": "Blend the tomatoes, onion and garlic until smooth, about 30 seconds. Heat the 1 tbsp oil in a saucepan over medium-high, pour in the puree — it will hiss — and cook for 5 minutes, stirring, until it darkens slightly. Add the broth, oregano and 3/4 tsp salt and simmer for 10 minutes until it is the consistency of a thin soup that lightly coats a spoon. Taste and adjust the salt; keep it warm over low heat."
+        },
+        {
+          "title": "Heat the frying oil",
+          "text": "Pour the 3 cups (700 ml) oil into a 10 in (25 cm) skillet or wide saucepan to a depth of about 1 in (2.5 cm) and heat over medium to 350°F (175°C). Use a thermometer — this batter is unforgiving. Too cool and it soaks up oil and slides off; too hot and the outside browns before the cheese melts. While it heats, set a wire rack over a sheet pan next to the stove."
+        },
+        {
+          "title": "Beat the whites to stiff peaks",
+          "text": "Beat the 4 egg whites in a clean, completely dry bowl with a mixer on medium-high for 3 to 4 minutes, until they hold a stiff peak that stands straight up when you lift the beater. Any speck of yolk or drop of water will keep them from whipping, so wipe the bowl with a little vinegar first if you are unsure. Stiff peaks are what make the coating puff into a golden cloud. Underwhipped whites give you a flat, eggy pancake."
+        },
+        {
+          "title": "Fold in the yolks",
+          "text": "Add the 2 tbsp flour and 1/2 tsp salt to the whites and fold twice, then add the yolks and fold gently with a spatula just until no streaks of yellow remain, about 10 strokes. Cut down through the middle, sweep along the bottom, and turn the mixture over rather than stirring in circles. Every extra stroke deflates the air you just whipped in. Use the batter within 5 minutes; it will not wait."
+        },
+        {
+          "title": "Dust the chiles with flour",
+          "text": "Spread the 1/2 cup (65 g) flour on a plate and roll each stuffed chile in it, patting off all but a thin film. Dry flour is the bridge between the wet chile skin and the egg batter, and skipping it is the number one reason the coating slides off in the oil. Hold each chile by the stem when you dust it. Have them all floured and lined up before you start frying."
+        },
+        {
+          "title": "Batter and fry",
+          "text": "Holding a chile by the stem, lower it into the egg batter and spoon batter over it until it is completely coated, then lay it gently into the 350°F (175°C) oil away from you. Fry 2 at a time for 2 to 3 minutes, spooning hot oil over the top with a spoon so the exposed side sets. Flip carefully with two spoons and fry another 2 minutes until deep golden all over. Crowding the pan makes them stick together and tear."
+        },
+        {
+          "title": "Drain and rest",
+          "text": "Lift each chile onto the wire rack with a slotted spoon and let it drain for 2 minutes while you fry the rest. A rack keeps the bottom crisp; a paper towel steams it soft. Pull the toothpicks out now while you can still see them. Sprinkle with a small pinch of salt while they are hot."
+        },
+        {
+          "title": "Serve in the caldillo",
+          "text": "Ladle about 1/2 cup of the warm tomato caldillo into each shallow bowl and set one or two chiles on top so the batter stays crisp above the sauce rather than drowning in it. Serve immediately — chiles rellenos are a dish you eat the minute they are done, not one you hold. Pass extra caldillo and warm tortillas at the table. Warn everyone that the cheese inside is molten hot."
+        }
+      ],
+      "tips": [
+        "Oaxaca cheese is the right one: it melts into stretchy strands rather than breaking into grease the way cheddar does. Low-moisture mozzarella is a decent substitute.",
+        "You can char, peel and stuff the chiles up to a day ahead and keep them covered in the fridge. Only the batter and the frying have to happen at the last minute.",
+        "If the batter slides off during frying, the chiles were wet or under-floured. Pat them dry before dusting and use a light but complete coat of flour.",
+        "Poblanos vary in heat from mild to genuinely spicy and there is no way to tell from the outside. Taste a fleck of one after peeling so you know what you are serving.",
+        "Traditional versions add shredded picadillo instead of cheese. If you have leftover carnitas or tinga, mix 1 cup of it with the cheese for a heartier chile."
+      ],
+      "keyTemp": "Keep the frying oil at 350°F (175°C) — the batter needs that exact window to puff and set. The chiles are ready when the cheese inside is fully molten, around 160°F (71°C) in the center.",
+      "pairing": "Mexican rice and black beans, with a crisp lager or a glass of dry Mexican rosé.",
+      "videoQuery": "chiles rellenos poblano egg batter recipe",
+      "photoQuery": "chiles rellenos tomato sauce",
+      "tags": [
+        "Vegetarian",
+        "Weekend Project",
+        "Fried"
+      ]
+    },
+    {
+      "id": "enchiladas-verdes",
+      "title": "Chicken Enchiladas Verdes",
+      "emoji": "🥬",
+      "art": "wrap",
+      "blurb": "Tomatillo salsa with real heat and real acid, poured over chicken-filled corn tortillas and baked until the cheese blisters. Tangy, green and much brighter than any red enchilada.",
+      "difficulty": "Medium",
+      "servings": "4 servings (12 enchiladas)",
+      "prepTime": "30 min",
+      "cookTime": "35 min",
+      "totalTime": "1 hr 5 min",
+      "ingredients": [
+        {
+          "group": "Salsa verde",
+          "items": [
+            "2 lb (900 g) tomatillos (about 16 medium), husked and rinsed",
+            "3 serrano chiles, stemmed (or 2 jalapenos)",
+            "1 white onion, halved (about 8 oz / 225 g)",
+            "4 garlic cloves, unpeeled",
+            "1 cup (40 g) cilantro leaves and tender stems",
+            "1 tbsp (15 ml) neutral oil",
+            "1 cup (240 ml) chicken broth",
+            "1 1/2 tsp (9 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Filling and assembly",
+          "items": [
+            "3 cups (450 g) cooked shredded chicken, from a rotisserie bird or 2 poached breasts",
+            "12 corn tortillas, 6 in (15 cm)",
+            "1/4 cup (60 ml) neutral oil, for softening the tortillas",
+            "8 oz (225 g) Monterey Jack or Oaxaca cheese, shredded (about 2 cups)",
+            "1/2 tsp (3 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1/2 cup (120 ml) Mexican crema or thinned sour cream",
+            "1/2 cup (55 g) crumbled queso fresco",
+            "1/2 small white onion, sliced paper thin (about 1/2 cup / 70 g)",
+            "1/4 cup (10 g) chopped cilantro",
+            "1 avocado, sliced"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Char the tomatillos and chiles",
+          "text": "Spread the tomatillos, serranos, onion halves and unpeeled garlic on a foil-lined sheet pan and broil 4 in (10 cm) from the element for 8 to 10 minutes, turning once. The tomatillos should slump, blister and turn from bright green to olive with blackened patches. That char is the difference between a salsa that tastes flat and one that tastes like a taqueria. Pull the garlic as soon as its skin is browned and squeeze the soft cloves free."
+        },
+        {
+          "title": "Blend the salsa",
+          "text": "Scrape everything, including all the juices on the pan, into a blender with the cilantro and blend until smooth, about 45 seconds. It will look pale and foamy right out of the blender, which is normal and disappears once it is cooked. Start with 2 serranos if you are cautious; tomatillo salsa hides its heat until the third bite. Do not add salt yet."
+        },
+        {
+          "title": "Fry the salsa",
+          "text": "Heat the 1 tbsp oil in a large saucepan over medium-high until it shimmers, then pour in the blended salsa all at once and stand back from the spitting. Cook for 6 to 8 minutes, stirring often, until it darkens to a deeper green and thickens enough to coat a spoon. Frying the salsa is what turns a raw, sharp puree into a rounded sauce. Add the chicken broth and 1 1/2 tsp salt and simmer 5 more minutes."
+        },
+        {
+          "title": "Season the chicken",
+          "text": "Toss the 3 cups shredded chicken with 1/2 cup of the warm salsa verde and the 1/2 tsp salt in a bowl. Moistening the filling now keeps it from drying out in the oven and means every bite has sauce in it, not just on it. Use thigh meat if you can — it stays juicy through baking where breast meat can go chalky. Taste it; the filling should be seasoned enough to eat on its own."
+        },
+        {
+          "title": "Heat the oven",
+          "text": "Preheat the oven to 400°F (205°C) and set a rack in the middle. Spread 3/4 cup of the salsa verde across the bottom of a 9 x 13 in (23 x 33 cm) baking dish in a thin, even layer. That base layer keeps the tortillas from sticking and gluing themselves to the dish. Have the dish, the filling, the cheese and the salsa all lined up before you start rolling."
+        },
+        {
+          "title": "Soften the tortillas in oil",
+          "text": "Heat the 1/4 cup (60 ml) oil in a small skillet over medium until it shimmers, then slip in one tortilla at a time for about 10 seconds per side. It should turn pliable and slightly puffy but never crisp. This quick fry is the traditional step everyone skips, and it is why restaurant enchiladas hold together while home versions dissolve into mush. Drain each tortilla on paper towels and stack them as you go."
+        },
+        {
+          "title": "Dip and roll",
+          "text": "Dip a softened tortilla into the pot of warm salsa verde so both sides are lightly coated, then lay it on a plate. Spoon about 1/4 cup of chicken down the center, add a small pinch of cheese, and roll it up snugly. Place it seam side down in the baking dish and repeat, nestling each one against the last. Working assembly-line style keeps your hands from getting hopelessly sticky."
+        },
+        {
+          "title": "Sauce and cheese",
+          "text": "Pour the remaining salsa verde evenly over the rolled enchiladas, making sure the ends are covered because exposed tortilla edges turn to leather in the oven. Scatter the shredded cheese over the top in an even layer. Do not drown them — you want the tops sitting just at the surface of the sauce, not submerged. A little sauce should pool at the sides."
+        },
+        {
+          "title": "Bake until bubbling",
+          "text": "Bake uncovered for 18 to 22 minutes, until the sauce bubbles vigorously around the edges and the cheese is fully melted with a few golden-brown blisters. If the cheese has melted but not browned, run the dish under the broiler for 60 to 90 seconds, watching it constantly. The center of the dish should register 165°F (74°C) on a thermometer. The bubbling is your real cue, not the clock."
+        },
+        {
+          "title": "Rest before serving",
+          "text": "Let the dish sit on the counter for 5 to 10 minutes before serving. Straight out of the oven the sauce is thin and the enchiladas will slide apart when you lift them; a short rest lets everything set enough to plate cleanly. It is also the difference between tasting your dinner and burning the roof of your mouth. Loosen the edges with a spatula while it rests."
+        },
+        {
+          "title": "Finish with cold toppings",
+          "text": "Drizzle the crema over the hot enchiladas in thin lines, then scatter the queso fresco, thin-sliced white onion and cilantro across the top. Fan the avocado slices along one side. The cold, sharp toppings against the hot, tangy sauce are the whole point, so do not skip them. Serve with a lime wedge and plenty of napkins."
+        }
+      ],
+      "tips": [
+        "Make the salsa verde up to 4 days ahead; it improves overnight. It also freezes for 3 months in a zip-top bag laid flat.",
+        "Assemble the whole dish, cover, and refrigerate up to 24 hours before baking. Add 8 to 10 minutes to the bake time if it goes in cold.",
+        "If your tomatillos are very tart, blend in 1/4 of a peeled avocado or 2 tbsp of crema to round the sauce out without dulling the flavor.",
+        "Never use flour tortillas here. They turn gummy and pasty under sauce, and corn is what makes these taste right.",
+        "A rotisserie chicken makes this a 45-minute weeknight dinner. One bird gives you almost exactly the 3 cups of meat you need."
+      ],
+      "keyTemp": "Bake until the center of the dish reaches 165°F (74°C) and the sauce bubbles at the edges. Any pre-cooked chicken filling must be reheated to that same 165°F (74°C).",
+      "pairing": "Black beans, Mexican rice and a cold michelada, or a bright Sauvignon Blanc if you want wine.",
+      "videoQuery": "enchiladas verdes tomatillo salsa recipe",
+      "photoQuery": "green chicken enchiladas verdes",
+      "tags": [
+        "Casserole",
+        "Make Ahead",
+        "Weeknight"
+      ]
+    },
+    {
+      "id": "enchiladas-rojas",
+      "title": "Enchiladas Rojas with Guajillo Sauce",
+      "emoji": "🌶️",
+      "art": "wrap",
+      "blurb": "A real red chile sauce built from toasted guajillos and anchos, not chili powder from a jar. Learn this sauce and you have unlocked half of Mexican cooking.",
+      "difficulty": "Medium",
+      "servings": "4 servings (12 enchiladas)",
+      "prepTime": "30 min",
+      "cookTime": "35 min",
+      "totalTime": "1 hr 5 min",
+      "ingredients": [
+        {
+          "group": "Red chile sauce",
+          "items": [
+            "6 dried guajillo chiles (about 1 1/2 oz / 40 g)",
+            "3 dried ancho chiles (about 1 1/2 oz / 40 g)",
+            "2 dried chiles de arbol, optional, for heat",
+            "3 cups (700 ml) hot water, for soaking",
+            "1/2 white onion, quartered (about 4 oz / 115 g)",
+            "4 garlic cloves, peeled",
+            "1 tsp (1 g) dried Mexican oregano",
+            "1/2 tsp ground cumin",
+            "1/4 tsp ground cinnamon",
+            "1 tbsp (15 ml) apple cider vinegar",
+            "2 tbsp (30 ml) neutral oil",
+            "1 1/2 cups (350 ml) chicken broth",
+            "1 1/2 tsp (9 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Filling and assembly",
+          "items": [
+            "3 cups (450 g) cooked shredded chicken",
+            "12 corn tortillas, 6 in (15 cm)",
+            "1/4 cup (60 ml) neutral oil, for softening the tortillas",
+            "8 oz (225 g) Monterey Jack or Chihuahua cheese, shredded (about 2 cups)"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1/2 cup (55 g) crumbled queso fresco",
+            "1/2 cup (120 ml) Mexican crema",
+            "1/2 white onion, sliced paper thin (about 1/2 cup / 70 g)",
+            "1/4 cup (10 g) chopped cilantro"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Clean the dried chiles",
+          "text": "Wipe each guajillo and ancho with a damp paper towel to remove dust, then snap off the stems and tear the chiles open along one side. Shake out and discard the seeds and pull away the pale veins inside, which carry bitterness more than heat. Guajillos are the tannic, bright, slightly fruity backbone; anchos are the sweet, raisiny, dark ones. Together they give you a sauce with both brightness and depth."
+        },
+        {
+          "title": "Toast the chiles",
+          "text": "Heat a dry comal or heavy skillet over medium heat and press the opened chiles flat against the surface for 15 to 20 seconds per side. They should soften slightly, turn a shade lighter, and release a smell like sweet tobacco and dried fruit. Do not let them darken or smoke — a scorched chile turns the entire sauce acrid and bitter, and there is no way to rescue it. Work in batches so you can watch every piece."
+        },
+        {
+          "title": "Rehydrate in hot water",
+          "text": "Put the toasted chiles in a bowl, pour the 3 cups (700 ml) of very hot water over them, and set a small plate on top to keep them submerged. Soak for 20 to 25 minutes until they are completely soft and floppy like wet leather. Taste the soaking water: if it is pleasantly fruity, save 1 cup for blending, and if it is bitter, dump it and use plain water instead. Old chiles that have gone brittle and gray will taste bitter no matter what you do."
+        },
+        {
+          "title": "Blend the sauce smooth",
+          "text": "Put the drained chiles, onion, garlic, oregano, cumin, cinnamon, vinegar and 1 cup of the soaking liquid in a blender and run it on high for a full 90 seconds. It needs longer than you think — the skins are tough and a short blend leaves gritty flecks. The sauce should be the color of dark brick and completely smooth. Add up to 1/4 cup more liquid if the blender is struggling."
+        },
+        {
+          "title": "Strain the sauce",
+          "text": "Pour the blended sauce through a fine-mesh sieve set over a bowl, pressing hard with a rubber spatula and scraping the underside of the sieve. You will leave behind a few tablespoons of tough skin, and what passes through will be silky. This one extra minute is the difference between a professional-tasting sauce and a slightly gritty one. Do not skip it, even with a high-powered blender."
+        },
+        {
+          "title": "Fry the sauce",
+          "text": "Heat the 2 tbsp oil in a saucepan over medium-high until it shimmers, then pour in the strained sauce — it will hiss and spatter hard, so use a splatter screen. Cook for 6 to 8 minutes, stirring constantly, until it darkens, thickens, and smells toasted rather than raw. Frying the chile puree in fat blooms the fat-soluble flavors and is the single most important step in the recipe. Add the chicken broth and 1 1/2 tsp salt and simmer 8 minutes more."
+        },
+        {
+          "title": "Taste and balance",
+          "text": "Taste the finished sauce and adjust: if it is flat, add salt; if it is harsh, add another 1/2 tsp vinegar; if it is bitter, a pinch of sugar or 1 tsp of honey will pull it back. It should coat a spoon like heavy cream and taste deep, faintly sweet and gently earthy. Season the shredded chicken with 1/2 cup of it and toss to coat. Keep the rest warm over low heat."
+        },
+        {
+          "title": "Preheat and prep the dish",
+          "text": "Heat the oven to 400°F (205°C) with a rack in the middle position. Ladle 3/4 cup of the red sauce over the bottom of a 9 x 13 in (23 x 33 cm) baking dish and spread it into an even film. That layer keeps the tortillas from cementing themselves to the dish. Line up the sauce, filling, cheese and dish so assembly goes quickly."
+        },
+        {
+          "title": "Soften the tortillas",
+          "text": "Heat the 1/4 cup (60 ml) oil in a small skillet over medium and pass each tortilla through for about 10 seconds per side, until floppy and just barely puffed. This seals the tortilla so it absorbs sauce without disintegrating. Drain them on paper towels in a stack. If you skip this, you will be serving red chile soup with corn mush in it."
+        },
+        {
+          "title": "Dip, fill and roll",
+          "text": "Dip each softened tortilla into the warm red sauce to coat both sides, then lay it flat and spoon about 1/4 cup of the seasoned chicken down the middle with a small pinch of cheese. Roll it up snugly and set it seam side down in the dish. Pack them side by side so they support each other and stay rolled. Twelve should fit in a single tight row."
+        },
+        {
+          "title": "Top and bake",
+          "text": "Pour the remaining sauce evenly over the top, covering all the exposed tortilla ends, then scatter the shredded cheese across. Bake uncovered for 18 to 20 minutes, until the sauce bubbles at the edges and the cheese has melted with browned spots. The center should read 165°F (74°C). If you want more color, broil for 60 seconds at the end."
+        },
+        {
+          "title": "Rest and garnish",
+          "text": "Let the dish rest for 8 minutes so the sauce thickens enough to hold the enchiladas together when you serve them. Drizzle with crema, then top with queso fresco, thin-sliced onion and cilantro. The cool creamy garnishes cut the deep, slightly bitter chile flavor and are not decoration. Serve with a wedge of lime and rice on the side."
+        }
+      ],
+      "tips": [
+        "Buy dried chiles that are still flexible and smell fragrant when you bend them. Brittle chiles that crack like a potato chip are old and will taste dusty and bitter.",
+        "The red chile sauce is the workhorse of this chapter. Make a double batch and freeze half — it becomes the base for tamales, pozole and birria.",
+        "If you toast a chile too far and it smells sharp and burnt, throw it out. One scorched chile will ruin an entire pot of sauce.",
+        "Guajillo is mild, ancho is mild and sweet, and chiles de arbol are genuinely hot. Adjust heat with the arbols only, and start with one.",
+        "Wear gloves or wash your hands thoroughly with soap after handling the soaked chiles, and keep your fingers away from your eyes for a while."
+      ],
+      "keyTemp": "Bake until the center of the dish hits 165°F (74°C) and the sauce is bubbling. Toast the dried chiles only until fragrant, about 15 to 20 seconds per side — any smoke means bitterness.",
+      "pairing": "Refried beans, Mexican rice, and a dark Negra Modelo or a glass of Garnacha.",
+      "videoQuery": "enchiladas rojas guajillo ancho chile sauce",
+      "photoQuery": "red enchiladas rojas cheese",
+      "tags": [
+        "Casserole",
+        "Chile Sauce",
+        "Make Ahead"
+      ]
+    },
+    {
+      "id": "elote-mexican-street-corn",
+      "title": "Elote, Mexican Street Corn",
+      "emoji": "🌽",
+      "art": "veggie",
+      "blurb": "Charred corn slathered in a lime and crema dressing, rolled in salty cotija and dusted with chile. Fifteen minutes of work for the best thing on the grill.",
+      "difficulty": "Easy",
+      "servings": "4 servings (4 ears)",
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "totalTime": "25 min",
+      "ingredients": [
+        {
+          "group": "For the corn",
+          "items": [
+            "4 ears fresh corn, husked and silk removed",
+            "1 tbsp (15 ml) neutral oil",
+            "1/2 tsp (3 g) kosher salt"
+          ]
+        },
+        {
+          "group": "Crema dressing",
+          "items": [
+            "1/4 cup (60 g) Mexican crema or sour cream",
+            "1/4 cup (55 g) mayonnaise",
+            "1 garlic clove, finely grated",
+            "1 tbsp (15 ml) fresh lime juice, plus 1 tsp finely grated zest",
+            "1/4 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "3/4 cup (85 g) cotija cheese, finely crumbled",
+            "1 tsp (2 g) chili powder or Tajin, plus more for dusting",
+            "1/4 tsp cayenne pepper, optional",
+            "2 tbsp (5 g) finely chopped cilantro",
+            "2 limes, cut into wedges",
+            "4 wooden skewers or corn holders"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Pick and prep the corn",
+          "text": "Look for ears with tight green husks and moist, pale silk at the tip, which means they were picked recently. Pull the husks off and rub the remaining silk away with a dry paper towel, which grabs it better than your fingers do. Trim the stem end flat so the ear sits still on the grill. Pat each ear completely dry, because wet corn steams instead of charring."
+        },
+        {
+          "title": "Mix the dressing",
+          "text": "Whisk the crema, mayonnaise, grated garlic, lime juice, lime zest and 1/4 tsp salt in a wide shallow bowl big enough to roll an ear of corn in. The mayonnaise is not a shortcut — its emulsified fat is what makes the coating cling to hot corn instead of sliding off. Taste it and add more lime if it feels heavy. Set it next to the grill along with the cotija on a second plate."
+        },
+        {
+          "title": "Heat the grill hot",
+          "text": "Get a charcoal or gas grill to medium-high, around 450°F (230°C), with the grates scraped clean and lightly oiled. If you are indoors, heat a cast iron grill pan or a heavy skillet over medium-high for 4 minutes until a drop of water dances and vanishes. You need real heat to blister the kernels before the corn overcooks and goes chewy. Rub the ears with the 1 tbsp oil and the 1/2 tsp salt."
+        },
+        {
+          "title": "Char the corn",
+          "text": "Lay the ears on the grill and cook for 10 to 12 minutes total, turning every 2 to 3 minutes with tongs. You are after individual kernels blackened in spots across roughly a quarter of the surface, with the rest deep yellow and glossy. Uniformly black corn is burnt and tastes like ash; uniformly yellow corn is boiled and boring. Listen for the occasional pop, which means the kernels are heating through."
+        },
+        {
+          "title": "Check for doneness",
+          "text": "Press a kernel with your thumbnail — it should give slightly and release a little milky juice rather than squirting water. The corn is heated through when the surface reaches about 165°F (74°C), which is really just a proxy for hot all the way in. Fresh summer corn only needs to be warmed and charred; it is perfectly edible raw. Older corn from the supermarket wants the full 12 minutes."
+        },
+        {
+          "title": "Skewer them while hot",
+          "text": "Move the ears to a board and push a wooden skewer or a corn holder into the stem end of each one, using a folded towel to protect your hand. A handle is what makes elote street food rather than fork-and-knife food. Work fast, because the dressing clings best to corn that is still steaming. Do not let the corn sit and cool while you look for the cotija."
+        },
+        {
+          "title": "Roll in the dressing",
+          "text": "Roll each hot ear through the crema mixture, using the back of a spoon to push the dressing into every gap between the kernel rows. You want a thin, even white coat over the whole ear, not thick globs on one side. The heat will loosen the dressing slightly, which is what helps it spread. Let the excess drip back into the bowl."
+        },
+        {
+          "title": "Coat in cotija",
+          "text": "Immediately roll the dressed ear in the crumbled cotija spread on a plate, pressing gently so the cheese sticks in a heavy layer. Crumble the cotija finely first — big chunks fall off on the first bite and end up on the floor. Cotija is salty and dry, closer to a young Parmesan than to feta. If you cannot find it, Pecorino Romano grated fine is the best substitute."
+        },
+        {
+          "title": "Dust and serve",
+          "text": "Dust each ear generously with chili powder or Tajin and the optional cayenne, then scatter the chopped cilantro over the top. Serve right away with lime wedges to squeeze over at the table, which brightens all that fat and salt. Elote is best within five minutes of coming off the grill. Put a stack of napkins out and warn people it is messy."
+        }
+      ],
+      "tips": [
+        "No grill? Char the corn under a broiler 4 in (10 cm) from the element for 10 to 12 minutes, turning every 3 minutes, and you will get almost the same result.",
+        "To turn this into esquites, cut the charred kernels off the cob and toss them with the dressing, cotija and chile in a bowl. Serve it warm with a spoon and it travels far better to a party.",
+        "The dressing keeps for 5 days in the fridge and is excellent on grilled zucchini, sweet potatoes or a wedge of iceberg.",
+        "Tajin brings lime and salt along with the chile, so if you use it, cut the added salt in the dressing to a pinch.",
+        "Buy corn the same day you cook it. Sugars turn to starch fast, and day-old supermarket corn is noticeably less sweet."
+      ],
+      "keyTemp": "Grill the corn to about 165°F (74°C) internally, which simply means hot through with kernels that pop and give under a thumbnail. Aim for a grill surface around 450°F (230°C).",
+      "pairing": "Anything off the grill, especially carne asada, plus a cold Mexican lager or a watermelon agua fresca.",
+      "videoQuery": "mexican street corn elote grill recipe",
+      "photoQuery": "mexican street corn elote cotija",
+      "tags": [
+        "Grill",
+        "Side Dish",
+        "30 Minutes"
+      ]
+    },
+    {
+      "id": "pozole-rojo",
+      "title": "Pozole Rojo with Pork and Hominy",
+      "emoji": "🍲",
+      "art": "soup",
+      "blurb": "A deep red chile broth with tender pork and chewy hominy, finished at the table with cabbage, radish and lime. It is Mexico's great celebration soup and it feeds a crowd.",
+      "difficulty": "Medium",
+      "servings": "6 to 8 servings",
+      "prepTime": "30 min",
+      "cookTime": "2 hr 45 min",
+      "totalTime": "3 hr 15 min",
+      "ingredients": [
+        {
+          "group": "Pork and broth",
+          "items": [
+            "3 lb (1.35 kg) boneless pork shoulder, cut into 2 in (5 cm) chunks",
+            "1 lb (450 g) pork neck bones or country-style ribs, for body",
+            "1 white onion, halved (about 8 oz / 225 g)",
+            "8 garlic cloves, peeled",
+            "2 bay leaves",
+            "1 tbsp (1 g) dried Mexican oregano",
+            "1 tbsp (14 g) kosher salt, plus more to taste",
+            "14 cups (3.3 L) water"
+          ]
+        },
+        {
+          "group": "Red chile paste",
+          "items": [
+            "8 dried guajillo chiles (about 2 oz / 55 g)",
+            "4 dried ancho chiles (about 2 oz / 55 g)",
+            "2 dried chiles de arbol, optional, for heat",
+            "3 cups (700 ml) hot water, for soaking",
+            "4 garlic cloves, peeled",
+            "1/2 white onion, quartered (about 4 oz / 115 g)",
+            "1 tsp (2 g) ground cumin",
+            "1 tsp (1 g) dried Mexican oregano",
+            "2 tbsp (30 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Hominy and finishing",
+          "items": [
+            "2 cans (25 oz / 700 g each) white hominy, drained and rinsed",
+            "1 tsp (6 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Garnishes for the table",
+          "items": [
+            "3 cups (210 g) green cabbage, shredded thin",
+            "8 radishes, sliced paper thin (about 1 cup / 115 g)",
+            "1/2 white onion, finely diced (about 3/4 cup / 110 g)",
+            "1/2 cup (20 g) chopped cilantro",
+            "3 limes, cut into wedges",
+            "2 tsp (4 g) dried Mexican oregano, for sprinkling",
+            "1 tsp (2 g) chile piquin or chili powder",
+            "12 tostada shells"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start the pork simmering",
+          "text": "Put the pork shoulder chunks, neck bones, onion halves, 8 garlic cloves, bay leaves, 1 tbsp oregano and 1 tbsp salt in a large stockpot and cover with the 14 cups (3.3 L) water. Bring it to a boil over high heat, then immediately drop the heat to low so it barely simmers. A rolling boil emulsifies the fat and turns the broth cloudy and greasy instead of clear and clean. You want a bubble breaking the surface every second or two, no more."
+        },
+        {
+          "title": "Skim the foam",
+          "text": "For the first 15 minutes, gray foam will rise to the surface — skim it off with a wide spoon or a small ladle and discard it. That foam is coagulated protein and it makes the finished broth murky and slightly bitter if you stir it back in. Once the foam stops forming and the surface is clear, partially cover the pot. Let it simmer for 2 hours while you make the chile paste."
+        },
+        {
+          "title": "Clean and toast the chiles",
+          "text": "Wipe the guajillos and anchos with a damp towel, snap off the stems, tear them open and shake out the seeds and pale veins. Press them flat on a dry comal or skillet over medium heat for 15 to 20 seconds per side, until they smell like sweet dried fruit and tobacco. The instant you see wisps of smoke or the color going dark, they are burnt and the whole pot will taste bitter. Toast the arbols for only 10 seconds; they scorch fast."
+        },
+        {
+          "title": "Rehydrate the chiles",
+          "text": "Cover the toasted chiles with the 3 cups (700 ml) hot water in a bowl and weigh them down with a plate so they stay under. Soak for 20 to 25 minutes until they are completely limp and soft, like wet leather. Taste the soaking liquid — if it is fruity and pleasant, reserve 1 1/2 cups of it for blending; if it is bitter, discard it and use fresh water. The chiles should tear easily between your fingers when they are ready."
+        },
+        {
+          "title": "Blend and strain the paste",
+          "text": "Blend the drained chiles with the 4 garlic cloves, quartered onion, cumin, 1 tsp oregano and 1 1/2 cups of soaking liquid on high for a full 90 seconds until absolutely smooth. Pour it through a fine-mesh sieve into a bowl, pressing hard with a spatula to force everything but the tough skins through. Straining is what separates a silky red broth from a gritty one. You should have about 2 1/2 cups of smooth red paste."
+        },
+        {
+          "title": "Fry the chile paste",
+          "text": "Heat the 2 tbsp oil in a skillet over medium-high until it shimmers, then add the strained paste all at once — it will spit, so use a splatter guard. Fry for 6 to 8 minutes, stirring constantly, until the paste darkens noticeably and thickens to the texture of tomato paste. This step blooms the chiles' fat-soluble flavors and removes the raw, dusty taste. It should smell rich and toasted, never sharp."
+        },
+        {
+          "title": "Check the pork",
+          "text": "After 2 hours, test a chunk of pork shoulder with a fork — it should yield with almost no pressure and shred at the edges, at an internal temperature around 195°F (91°C). If it is still firm, give it another 20 to 30 minutes and check again. Lift out the neck bones and discard them along with the onion halves and bay leaves. Skim the fat off the top of the broth with a ladle, saving 2 tbsp of it if you want extra richness."
+        },
+        {
+          "title": "Marry the chile and the broth",
+          "text": "Stir the fried chile paste into the pot and watch the broth turn a deep, glowing brick red. Simmer uncovered for 20 minutes so the flavors knit together and the broth reduces slightly. Taste it now and start seasoning — this is a big pot and it will take more salt than you expect, probably another 1 to 2 tsp. It should taste rounded and savory with a slow chile warmth, not sharp."
+        },
+        {
+          "title": "Add the hominy",
+          "text": "Drain and rinse the canned hominy well under cold water to wash off the tinny canning liquid, then stir it into the pot. Simmer for another 20 to 25 minutes so the kernels soften slightly and drink up the red broth. Properly cooked hominy is chewy and springy with a faint sweet corn flavor, never mushy. If the broth has reduced too far, add 1 cup of hot water."
+        },
+        {
+          "title": "Shred the pork",
+          "text": "Lift the pork chunks out with a slotted spoon onto a board and pull them into large, rough shreds with two forks, discarding any hard lumps of fat. Return the shredded meat to the pot and let it warm through for 5 minutes. Shredding after cooking, rather than before, keeps the pieces juicy instead of letting them dry out in the broth. Taste one last time for salt."
+        },
+        {
+          "title": "Set up the garnish table",
+          "text": "Put the shredded cabbage, sliced radishes, diced onion, cilantro, lime wedges, oregano and chile piquin in separate small bowls and set them all in the middle of the table. Pozole is only half made in the pot; the cold crunchy garnishes are what make it come alive. Everyone builds their own bowl, and there is no wrong combination. Warm the tostadas in a 350°F (175°C) oven for 3 minutes."
+        },
+        {
+          "title": "Serve it very hot",
+          "text": "Ladle the pozole into wide bowls, making sure each one gets plenty of pork, hominy and broth. Encourage everyone to crush oregano between their palms over the bowl and squeeze in lime before the first bite. The soup should be steaming hot, because it cools fast once the cold cabbage goes in. Serve tostadas on the side for dipping and crumbling."
+        }
+      ],
+      "tips": [
+        "Pozole is famously better on day two. Make it a day ahead, chill it overnight, lift off the solid fat cap, and reheat gently — the chile flavor deepens noticeably.",
+        "Dried hominy is traditional and better, but it needs an overnight soak and 2 to 3 hours of its own cooking. Canned hominy is a perfectly respectable shortcut and what most home cooks in Mexico use now.",
+        "For pozole de pollo, swap in 3 lb (1.35 kg) of bone-in chicken thighs and cut the simmer to 45 minutes, pulling them at 175°F (79°C) for shreddable dark meat.",
+        "If the broth tastes bitter, one of your chiles scorched during toasting. A teaspoon of honey and an extra pinch of salt will mask it, but next time pull the chiles the second they smell fragrant.",
+        "Freeze leftovers without the garnishes in quart containers for up to 3 months. Add fresh cabbage and radish when you reheat."
+      ],
+      "keyTemp": "Simmer the pork to about 195°F (91°C), well past the 145°F (63°C) safety minimum, so the collagen melts and the meat shreds. Serve the soup steaming at 165°F (74°C) or above.",
+      "pairing": "Warm tostadas or a bolillo on the side, with a cold Mexican lager or a bright hibiscus agua fresca.",
+      "videoQuery": "pozole rojo pork hominy authentic recipe",
+      "photoQuery": "pozole rojo bowl garnishes",
+      "tags": [
+        "Soup",
+        "Weekend Project",
+        "Make Ahead"
+      ]
+    },
+    {
+      "id": "chicken-quesadillas",
+      "title": "Skillet Chicken Quesadillas",
+      "emoji": "🧀",
+      "art": "cheese",
+      "blurb": "A crackling, blistered tortilla with a molten cheese seal and just enough seasoned chicken inside. Done right, a quesadilla is not lazy food at all.",
+      "difficulty": "Easy",
+      "servings": "4 servings (4 quesadillas)",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Chicken filling",
+          "items": [
+            "1 lb (450 g) boneless skinless chicken thighs, cut into 1/2 in (1.3 cm) pieces",
+            "1 tbsp (15 ml) neutral oil",
+            "1/2 white onion, thinly sliced (about 1 cup / 150 g)",
+            "1 poblano chile, seeded and sliced into thin strips",
+            "1 tsp (2 g) ground cumin",
+            "1 tsp (2 g) chili powder",
+            "1/2 tsp (1 g) dried Mexican oregano",
+            "1 tsp (6 g) kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) fresh lime juice"
+          ]
+        },
+        {
+          "group": "Assembly",
+          "items": [
+            "4 flour tortillas, 10 in (25 cm)",
+            "12 oz (340 g) Oaxaca or Monterey Jack cheese, shredded (about 3 cups)",
+            "2 tbsp (28 g) unsalted butter, softened",
+            "1/4 cup (10 g) chopped cilantro"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "1/2 cup (120 ml) Mexican crema or sour cream",
+            "1 cup (240 ml) salsa or pico de gallo",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Shred your own cheese",
+          "text": "Buy Oaxaca or Monterey Jack in a block and shred it yourself on the large holes of a box grater. Pre-shredded cheese is dusted with potato starch and cellulose to keep it from clumping, and that coating makes it melt into a grainy, oily mess. Freshly shredded cheese melts into a smooth, stretchy sheet that glues the quesadilla shut. Keep it cold until the moment you build."
+        },
+        {
+          "title": "Season the chicken",
+          "text": "Toss the diced chicken thighs with the cumin, chili powder, oregano, 1 tsp salt and pepper in a bowl until every piece is coated. Let it sit for 10 minutes while you slice the vegetables so the salt starts penetrating. Thighs are worth using over breast here because they stay juicy even after they go back into a hot skillet inside the quesadilla. Cut the pieces small so they lie flat and do not tear the tortilla."
+        },
+        {
+          "title": "Cook the chicken hot",
+          "text": "Heat the 1 tbsp oil in a 12 in (30 cm) skillet over medium-high until it shimmers, then add the chicken in a single layer and leave it undisturbed for 3 minutes. It should sizzle steadily and hard, not gently — that first contact is where the browning happens. Stir and cook 3 to 4 minutes more until the pieces are golden and register 165°F (74°C) on a thermometer. Scrape it all onto a plate."
+        },
+        {
+          "title": "Soften the onion and poblano",
+          "text": "Add the sliced onion and poblano strips to the same pan with a pinch of salt and cook over medium-high for 5 to 6 minutes, stirring occasionally. You want them softened and streaked with brown at the edges, with the poblano just losing its raw grassiness. The browned bits left from the chicken will lift off the pan and season the vegetables. Return the chicken to the pan, add the lime juice, toss and turn off the heat."
+        },
+        {
+          "title": "Drain the filling",
+          "text": "Tip the filling into a bowl and let it sit for a minute, then pour off any liquid that collects at the bottom. Wet filling is the number one cause of soggy quesadillas — the steam has nowhere to go and turns the tortilla limp. The filling should look glossy but not swimming. Stir the cilantro through it now."
+        },
+        {
+          "title": "Build with cheese on both sides",
+          "text": "Lay a tortilla flat and scatter about 1/3 cup of shredded cheese over the entire surface, then spread a quarter of the chicken filling over one half only. Top the filling with another 1/3 cup of cheese and fold the bare half over. Cheese on both the bottom and the top of the filling is what welds the quesadilla into one piece instead of letting it fall open. Press the half-moon gently flat with your palm."
+        },
+        {
+          "title": "Butter the outside",
+          "text": "Spread a thin film of the softened butter over the top surface of the folded quesadilla, using about 1/2 tbsp per quesadilla. Butter browns more evenly than oil and gives you that blistered, freckled crust with a nutty flavor. Do not use so much that it pools in the pan and fries the tortilla greasy. A thin swipe is all it takes."
+        },
+        {
+          "title": "Griddle low and slow",
+          "text": "Wipe the skillet clean and set it over medium-low heat, then lay the quesadilla in butter side down and cook for 3 to 4 minutes. Medium-low is the key: the tortilla needs time for the cheese in the center to melt completely before the outside burns. It should hiss quietly, not crackle aggressively. Butter the exposed top side while the first side cooks."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Slide a wide spatula fully under the quesadilla and flip it in one confident motion, supporting the folded edge with your other hand. Cook the second side for 3 minutes until it is deep golden with dark blistered spots and the cheese is visibly molten at the seam. Press down gently with the spatula once to seal it. Cook the remaining quesadillas the same way."
+        },
+        {
+          "title": "Rest, then cut",
+          "text": "Move each finished quesadilla to a cutting board and let it sit for 2 minutes before cutting. Molten cheese needs that moment to set up just slightly, or it all runs out the second the knife goes through. Cut each into 3 wedges with a large sharp knife or a pizza wheel, pressing straight down rather than sawing. Serve immediately with crema, salsa, avocado and lime."
+        }
+      ],
+      "tips": [
+        "The Mexican street version uses corn tortillas folded around Oaxaca cheese and griddled dry. Try it once — it is a completely different and arguably better thing.",
+        "Any leftover braise from this chapter turns this into a great quesadilla: carnitas, tinga or birria all work. Drain them well first.",
+        "Keep finished quesadillas crisp in a 200°F (95°C) oven on a wire rack while you cook the rest. Never stack them, or the steam softens the crust.",
+        "If cheese leaks and burns in the pan, wipe the skillet clean between quesadillas. Burnt cheese turns bitter and blackens the next one.",
+        "For a make-ahead lunch, cook the filling up to 3 days in advance and refrigerate it. Assembly and griddling take under 10 minutes."
+      ],
+      "keyTemp": "Cook the chicken to 165°F (74°C) before it goes into the quesadilla. Griddle over medium-low so the cheese fully melts, which takes 3 to 4 minutes per side.",
+      "pairing": "Guacamole and chips, plus a lime agua fresca or an ice-cold Mexican lager.",
+      "videoQuery": "chicken quesadilla crispy skillet recipe",
+      "photoQuery": "chicken quesadilla cheese pull",
+      "tags": [
+        "Weeknight",
+        "30 Minutes",
+        "Kid Friendly"
+      ]
+    },
+    {
+      "id": "loaded-nachos",
+      "title": "Loaded Sheet Pan Nachos",
+      "emoji": "🫘",
+      "art": "nachos",
+      "blurb": "Layered so every single chip gets cheese, beef and beans, then baked until it all fuses together. The trick is building it in two layers instead of one big pile.",
+      "difficulty": "Easy",
+      "servings": "6 servings",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Seasoned beef",
+          "items": [
+            "1 lb (450 g) ground beef, 80/20",
+            "1/2 white onion, finely diced (about 3/4 cup / 110 g)",
+            "2 garlic cloves, minced",
+            "1 tbsp (7 g) chili powder",
+            "1 1/2 tsp (3 g) ground cumin",
+            "1 tsp (1 g) dried Mexican oregano",
+            "1/2 tsp smoked paprika",
+            "1 tsp (6 g) kosher salt",
+            "1/3 cup (80 ml) water"
+          ]
+        },
+        {
+          "group": "For the pan",
+          "items": [
+            "12 oz (340 g) sturdy tortilla chips, restaurant style",
+            "12 oz (340 g) sharp cheddar, shredded (about 3 cups)",
+            "8 oz (225 g) Monterey Jack, shredded (about 2 cups)",
+            "1 can (15 oz / 425 g) black beans, drained and rinsed",
+            "1/2 cup (75 g) pickled jalapeno slices, drained"
+          ]
+        },
+        {
+          "group": "Cold toppings",
+          "items": [
+            "1 1/2 cups (250 g) pico de gallo, drained",
+            "1 large avocado, diced",
+            "1/2 cup (120 ml) Mexican crema or sour cream",
+            "1/4 cup (10 g) chopped cilantro",
+            "2 scallions, thinly sliced",
+            "1 lime, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Heat the oven and pan",
+          "text": "Set the oven to 400°F (205°C) with a rack in the upper third and line a rimmed sheet pan, about 13 x 18 in (33 x 46 cm), with parchment or foil. The upper rack gets the cheese browning without overcooking the chips underneath. Have every topping prepped and within arm's reach before anything goes in the oven, because nachos go from perfect to sad in about four minutes. Shred your own cheese from a block for a smoother melt."
+        },
+        {
+          "title": "Brown the beef properly",
+          "text": "Heat a 12 in (30 cm) skillet over medium-high and add the ground beef, breaking it into large chunks with a wooden spoon and then leaving it alone for 3 minutes. Letting it sit undisturbed builds a browned crust, which is where the flavor lives — constant stirring just steams gray meat. Add the onion and cook 4 minutes more, breaking the beef into smaller pieces. Stir in the garlic in the last 30 seconds."
+        },
+        {
+          "title": "Season and reduce",
+          "text": "Sprinkle in the chili powder, cumin, oregano, smoked paprika and 1 tsp salt and stir for 30 seconds until fragrant, which toasts the spices in the hot fat. Add the 1/3 cup (80 ml) water and simmer for 2 to 3 minutes until the liquid has reduced to a glaze that clings to the meat. Ground beef must reach 160°F (71°C) to be safe, and this simmer takes it comfortably past that. The pan should look glossy, not soupy."
+        },
+        {
+          "title": "Drain the fat",
+          "text": "Tilt the pan and spoon off all but about 1 tbsp of the rendered fat, or drain the meat in a sieve set over a bowl. Excess grease pools at the bottom of the sheet pan and turns the lower chips into a soggy raft. This is the step that separates good nachos from greasy ones. Taste the beef and adjust the salt now, while you still can."
+        },
+        {
+          "title": "Drain the wet toppings too",
+          "text": "Tip the pico de gallo into a fine-mesh sieve and let it drain for 5 minutes, and shake the black beans and jalapenos dry. Water is the enemy of a crisp chip, and tomatoes hold a surprising amount of it. Set the drained toppings aside; the pico goes on cold at the end, never into the oven. Pat the beans dry with a paper towel if they still look wet."
+        },
+        {
+          "title": "Lay the first layer",
+          "text": "Spread half the tortilla chips over the sheet pan in a single overlapping layer, edge to edge. Do not pile them into a mound — the whole point of a sheet pan is that every chip touches the heat. Choose thick, sturdy restaurant-style chips, since thin ones snap under a single spoonful of beef. A single flat layer is the foundation of the whole build."
+        },
+        {
+          "title": "Build layer one",
+          "text": "Scatter half the beef, half the black beans and half of both cheeses over that first layer of chips, distributing them so no chip is left bare and none is buried. Layering matters more than quantity: two thin layers beat one thick pile every time. Cover the corners as generously as the middle, since those are the chips people fight over. Add half the pickled jalapenos."
+        },
+        {
+          "title": "Build layer two",
+          "text": "Spread the remaining chips over the top, then repeat with the rest of the beef, beans, both cheeses and jalapenos. The second layer of cheese should be a little heavier than the first, because that top layer is what browns and blisters. Press the whole thing down gently with your palms so it holds together. Do not add anything fresh yet."
+        },
+        {
+          "title": "Bake until it fuses",
+          "text": "Bake for 8 to 10 minutes, until the cheese is completely melted, bubbling at the edges, and just starting to brown in spots. Check at 8 minutes and pull it the moment the cheese stops looking wet and starts looking glossy. Overbaking dries the chips out and makes the cheese oily and separated. If you want more color, broil for exactly 60 seconds while watching it."
+        },
+        {
+          "title": "Top cold and serve on the pan",
+          "text": "Pull the pan out and immediately scatter the drained pico de gallo, diced avocado, cilantro and scallions over the top, then drizzle the crema in thin zigzags from a spoon or a squeeze bottle. The contrast between the hot melted layer and the cold fresh toppings is what makes nachos good. Serve directly from the sheet pan with lime wedges. Eat within ten minutes, standing up, with your hands."
+        }
+      ],
+      "tips": [
+        "Two thin layers instead of one deep pile is the entire secret. Every chip gets a topping and nothing steams into mush at the bottom.",
+        "Swap the ground beef for 2 cups of leftover carnitas, tinga or birria and these become genuinely special.",
+        "Never bake the tomatoes, avocado or crema. Anything fresh goes on after the pan leaves the oven, or it turns hot and slimy.",
+        "Cook the beef up to 3 days ahead and refrigerate it. Reheat it in a skillet before layering so it does not cool the cheese down.",
+        "For vegetarian nachos, double the black beans and add 1 cup of roasted sweet potato cubes or sauteed poblano strips in place of the beef."
+      ],
+      "keyTemp": "Ground beef must reach 160°F (71°C) to be safe — check it in the pan before layering. Bake at 400°F (205°C) just until the cheese bubbles, 8 to 10 minutes.",
+      "pairing": "A pitcher of margaritas or a cold lager, with extra guacamole and salsa on the side.",
+      "videoQuery": "loaded sheet pan nachos recipe",
+      "photoQuery": "loaded sheet pan nachos",
+      "tags": [
+        "Game Day",
+        "30 Minutes",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "red-chile-pork-tamales",
+      "title": "Red Chile Pork Tamales",
+      "emoji": "🫔",
+      "art": "wrap",
+      "blurb": "Fluffy masa wrapped in corn husks around slow-braised pork in guajillo sauce, steamed until they slide clean out of the wrapper. Make them with someone you like, because it goes faster with two.",
+      "difficulty": "Advanced",
+      "servings": "Makes 24 tamales",
+      "prepTime": "45 min",
+      "cookTime": "3 hr 30 min",
+      "totalTime": "4 hr 30 min (includes 15 min rest)",
+      "ingredients": [
+        {
+          "group": "Red chile pork filling",
+          "items": [
+            "3 lb (1.35 kg) boneless pork shoulder, cut into 3 in (8 cm) chunks",
+            "1 white onion, quartered (about 8 oz / 225 g)",
+            "6 garlic cloves, peeled",
+            "2 bay leaves",
+            "1 tbsp (14 g) kosher salt",
+            "8 cups (1.9 L) water",
+            "8 dried guajillo chiles (about 2 oz / 55 g), stemmed and seeded",
+            "4 dried ancho chiles (about 2 oz / 55 g), stemmed and seeded",
+            "1 tsp (2 g) ground cumin",
+            "1 tsp (1 g) dried Mexican oregano",
+            "1 tbsp (15 ml) apple cider vinegar",
+            "2 tbsp (30 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Masa",
+          "items": [
+            "4 cups (500 g) masa harina for tamales, such as Maseca",
+            "1 1/3 cups (280 g) lard, at room temperature",
+            "1 tbsp (12 g) baking powder",
+            "2 tsp (12 g) kosher salt",
+            "4 1/2 cups (1.05 L) warm pork broth, from the braise"
+          ]
+        },
+        {
+          "group": "Wrapping and steaming",
+          "items": [
+            "36 dried corn husks (about 8 oz / 225 g), for 24 tamales plus tears",
+            "12 cups (2.8 L) hot water, for soaking husks",
+            "4 cups (950 ml) water, for the steamer"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Braise the pork",
+          "text": "Put the pork chunks, onion, garlic, bay leaves and 1 tbsp salt in a large pot with the 8 cups (1.9 L) water, bring to a boil, then lower to a bare simmer. Skim the gray foam off during the first 15 minutes so the broth stays clean. Simmer partially covered for 2 hours, until the pork shreds under fork pressure at about 195°F (91°C). Reserve every drop of the broth — you need 4 1/2 cups of it for the masa, and it is what makes homemade tamales taste like tamales."
+        },
+        {
+          "title": "Soak the corn husks",
+          "text": "While the pork cooks, submerge the corn husks in the 12 cups (2.8 L) of hot water in a large bowl or clean sink, weighing them down with a plate. Soak for at least 30 minutes, until they are completely pliable and unfold without cracking. Rinse each one and rub off any grit or corn silk, then shake off the excess water. Tear 6 or 8 of the smaller husks lengthwise into thin strips to use as ties."
+        },
+        {
+          "title": "Toast and rehydrate the chiles",
+          "text": "Press the stemmed, seeded guajillos and anchos flat on a dry comal over medium heat for 15 to 20 seconds per side, until they smell sweet and toasty. Pull them the instant they release their aroma; a chile that smokes has burned and will make the whole batch bitter. Cover them with 3 cups (700 ml) of hot water and soak 20 minutes until fully soft. Weigh them down with a plate so they stay submerged."
+        },
+        {
+          "title": "Make the red chile sauce",
+          "text": "Blend the drained chiles with 1 1/2 cups of the pork broth, the cumin, oregano and vinegar for a full 90 seconds until perfectly smooth, then push it through a fine-mesh sieve to remove the skins. Heat the 2 tbsp oil in a skillet over medium-high and fry the strained sauce for 6 to 8 minutes, stirring, until it darkens and thickens. Frying is not optional — it turns raw chile puree into a deep, rounded sauce. Season with salt to taste."
+        },
+        {
+          "title": "Shred and sauce the pork",
+          "text": "Pull the cooled pork into rough shreds with two forks, discarding hard fat, and stir it into the red chile sauce in a bowl. You want the pork glossy and well coated but not swimming, so add sauce a ladle at a time until it looks right. Taste and season aggressively — the masa around it is mild, so the filling has to carry the flavor for both. Let it cool completely before assembling, or it will melt the masa."
+        },
+        {
+          "title": "Whip the lard",
+          "text": "Beat the 1 1/3 cups (280 g) of room-temperature lard in a stand mixer with the paddle on medium-high for 4 to 5 minutes, until it is white, fluffy and roughly doubled in volume, like frosting. This is the step that decides whether your tamales are light or dense, so do not shorten it. Cold lard will not whip; leave it out for an hour first. Scrape the bowl down twice as you go."
+        },
+        {
+          "title": "Build the masa",
+          "text": "In a separate bowl, whisk the masa harina, baking powder and 2 tsp salt together. Add this to the whipped lard in three additions, alternating with the 4 1/2 cups of warm pork broth, and beat on medium for 5 minutes after the last addition. The finished masa should look like thick, spreadable hummus and hold a soft peak on a spoon. If it is stiff, beat in more warm broth 2 tbsp at a time."
+        },
+        {
+          "title": "Test the masa float",
+          "text": "Drop a 1/2 tsp ball of masa into a cup of cold water. If it floats within a few seconds, enough air has been beaten in and your tamales will be fluffy. If it sinks, keep beating for another 2 to 3 minutes and test again. This old kitchen test is the only reliable way to know before you have wrapped two dozen tamales."
+        },
+        {
+          "title": "Spread the masa",
+          "text": "Lay a soaked husk flat with the wide end toward you and the smooth side up. Spread about 3 tbsp (50 g) of masa into a rectangle roughly 4 x 3 in (10 x 8 cm), leaving a 2 in (5 cm) border at the narrow end and about 1/2 in (1.3 cm) at the sides. Use the back of a spoon or an offset spatula and keep the layer about 1/4 in (6 mm) thick. Too thick and the tamale is stodgy; too thin and it tears."
+        },
+        {
+          "title": "Fill and fold",
+          "text": "Spoon about 2 tbsp of the red chile pork down the center of the masa in a line. Fold one long side of the husk over so the masa wraps around the filling, then fold the other side over it like closing a book. Fold the narrow empty end up against the seam and tie it loosely with a strip of husk if you like. Loose is important — the masa expands as it steams and a tight tamale bursts."
+        },
+        {
+          "title": "Load the steamer",
+          "text": "Set a steamer rack in a tall stockpot and add the 4 cups (950 ml) water, keeping the level below the rack. Stand the tamales upright with the folded end down and the open end up, packed snugly enough to support each other but not crushed. Tuck a few extra husks around and over the top, cover with the lid, and bring the water to a boil. If they will not stand, lay them flat with the seam side down in layers."
+        },
+        {
+          "title": "Steam 75 to 90 minutes",
+          "text": "Steam over medium heat for 75 to 90 minutes, checking the water level every 30 minutes and adding boiling water down the side as needed. If the pot ever runs dry the tamales scorch and the whole batch is lost, so set a timer. The tamales are done when the masa pulls cleanly away from the husk and holds its shape rather than smearing. Test one at 75 minutes; if it sticks, give the batch another 15."
+        },
+        {
+          "title": "Rest before eating",
+          "text": "Turn off the heat and let the tamales sit in the covered pot for 15 minutes before unwrapping. This rest lets the masa firm up, and a tamale opened straight off the steam will be gummy even when it is perfectly cooked. Serve them in their husks and let everyone unwrap their own. Pass extra red chile sauce and crema at the table."
+        }
+      ],
+      "tips": [
+        "Tamales are a group project. Set up an assembly line with one person spreading masa, one filling and one folding, and 24 tamales take 30 minutes instead of 90.",
+        "Look for masa harina labeled for tamales, which is coarser than the kind for tortillas. Regular Maseca works, but the texture is a little finer than traditional.",
+        "The float test is the real quality control. Under-whipped masa gives you dense, heavy tamales and no amount of extra steaming will fix it.",
+        "Tamales freeze better than almost anything. Cool them completely, freeze in a bag for up to 6 months, and resteam from frozen for 20 to 25 minutes.",
+        "Vegetarian version: fill with roasted poblano strips and Oaxaca cheese, and swap the lard for vegetable shortening plus vegetable broth."
+      ],
+      "keyTemp": "Braise the pork to about 195°F (91°C) so it shreds easily, well past the 145°F (63°C) safety minimum. The tamales are done when the masa peels cleanly from the husk after 75 to 90 minutes of steaming.",
+      "pairing": "Champurrado or Mexican hot chocolate on a cold morning, or a cold lager and a bowl of pozole for a party.",
+      "videoQuery": "red chile pork tamales masa recipe",
+      "photoQuery": "pork tamales corn husk",
+      "tags": [
+        "Weekend Project",
+        "Holiday",
+        "Make Ahead"
+      ]
+    },
+    {
+      "id": "skillet-steak-fajitas",
+      "title": "Sizzling Skillet Steak Fajitas",
+      "emoji": "🫓",
+      "art": "steak",
+      "blurb": "Charred skirt steak and blistered peppers cooked in the same screaming-hot skillet, brought to the table still sizzling. The smell alone is worth the smoke alarm risk.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "20 min",
+      "totalTime": "1 hr 40 min (includes 1 hr marinade)",
+      "ingredients": [
+        {
+          "group": "Steak and marinade",
+          "items": [
+            "1 1/2 lb (680 g) skirt steak, trimmed and cut into 6 in (15 cm) lengths",
+            "1/4 cup (60 ml) fresh lime juice (about 3 limes)",
+            "3 tbsp (45 ml) neutral oil",
+            "3 garlic cloves, minced",
+            "1 tbsp (15 ml) Worcestershire sauce",
+            "2 tsp (4 g) ground cumin",
+            "1 tsp (2 g) chili powder",
+            "1 tsp (1 g) dried Mexican oregano",
+            "2 tsp (12 g) kosher salt",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Peppers and onions",
+          "items": [
+            "2 bell peppers, one red and one green, sliced into 1/2 in (1.3 cm) strips",
+            "1 poblano chile, sliced into 1/2 in (1.3 cm) strips",
+            "1 large yellow onion, sliced into 1/2 in (1.3 cm) half-moons (about 10 oz / 285 g)",
+            "2 tbsp (30 ml) neutral oil",
+            "1 tsp (6 g) kosher salt",
+            "1 tbsp (15 ml) fresh lime juice"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 flour tortillas, 6 in (15 cm)",
+            "1 cup (240 ml) guacamole",
+            "1/2 cup (120 ml) Mexican crema or sour cream",
+            "1 cup (240 ml) pico de gallo",
+            "2 limes, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Mix the marinade",
+          "text": "Whisk the 1/4 cup (60 ml) lime juice, 3 tbsp oil, garlic, Worcestershire, cumin, chili powder, oregano, 2 tsp salt and pepper in a bowl until it looks slightly creamy. The Worcestershire brings a savory, almost beefy depth that lime and spices alone cannot give you. Taste it and expect it to be sharp and salty, since only a coating stays on the meat. Reserve 2 tbsp of it in a separate cup for the vegetables later."
+        },
+        {
+          "title": "Marinate one hour, not four",
+          "text": "Put the steak in a zip-top bag with the marinade, press out the air, and refrigerate for exactly 1 hour, or up to 2 at the outside. Lime juice is aggressive, and past a couple of hours it starts cooking the surface of the meat into something chalky and mealy. One hour is enough to season the outside and start tenderizing. Take the steak out 20 minutes before cooking so it is not fridge-cold."
+        },
+        {
+          "title": "Cut the vegetables uniformly",
+          "text": "Slice the bell peppers, poblano and onion into strips about 1/2 in (1.3 cm) wide so they cook at the same rate. Thin slices go limp before they char and thick ones stay raw in the middle. Keep the onion in half-moons rather than rings so the pieces stay intact when you toss them. Have everything cut and within reach before the pan goes on, because this cooks fast."
+        },
+        {
+          "title": "Heat the skillet hard",
+          "text": "Set a 12 in (30 cm) cast iron skillet over high heat for a full 5 minutes, until a drop of water evaporates on contact with a hiss. Cast iron is the right pan because it holds enough stored heat to keep searing when cold meat hits it. Turn on the vent hood, crack a window, and put a towel over the smoke detector if you have to. This is a genuinely smoky dish."
+        },
+        {
+          "title": "Dry the steak",
+          "text": "Lift the steak out of the marinade and scrape off the garlic bits with the back of a knife, since they will scorch black in a pan this hot. Blot both sides thoroughly dry with paper towels. Any surface moisture has to boil away before browning can start, and in the 3 minutes that takes, the steak overcooks. A dry surface is the whole game with a thin cut."
+        },
+        {
+          "title": "Sear the steak",
+          "text": "Lay the steak in the dry skillet — no extra oil is needed — and sear undisturbed for 3 minutes. It should roar, not whisper. Flip once and cook 2 to 3 minutes more until an instant-read thermometer reads 130°F (54°C) for medium-rare. Work in two batches if the pieces overlap, because crowding steams the meat gray."
+        },
+        {
+          "title": "Rest the steak",
+          "text": "Move the steak to a cutting board and tent it loosely with foil for 10 minutes while you cook the vegetables. The internal temperature will drift up to about 135°F (57°C) and the juices will settle back into the fibers. Cutting into skirt steak straight off the heat costs you a puddle of juice on the board. Do not skip this, even though the pan is calling."
+        },
+        {
+          "title": "Blister the vegetables",
+          "text": "Add the 2 tbsp oil to the same skillet, still over high heat, then dump in the onions and peppers with the 1 tsp salt. Spread them into a single layer and let them sit for 2 minutes without stirring so they char, then toss and repeat for 6 to 8 minutes total. You want blistered black edges with the centers still crisp-tender, not soft, wet stewed peppers. The browned steak fond on the pan bottom will lift into them."
+        },
+        {
+          "title": "Deglaze with the reserved marinade",
+          "text": "Pour the reserved 2 tbsp of marinade and the 1 tbsp lime juice into the hot skillet and scrape the bottom hard with a wooden spoon for 30 seconds. Everything stuck to the pan will release and coat the vegetables in a glaze. Because this marinade never touched the cooked steak's resting juices, it needs those 30 seconds of boiling to be safe. Turn off the heat."
+        },
+        {
+          "title": "Warm the tortillas",
+          "text": "Toast the flour tortillas one at a time on a dry comal or in a skillet over medium-high for 20 to 30 seconds per side, until they puff slightly and show a few brown freckles. Stack them in a clean towel or a tortilla warmer so they steam soft. Warm tortillas fold without cracking and taste worlds better than cold ones. Do this while the steak rests."
+        },
+        {
+          "title": "Slice against the grain",
+          "text": "Find the direction of the long muscle fibers in the skirt steak and slice straight across them at a slight angle, into strips about 1/4 in (6 mm) thick. Slicing with the grain leaves you chewing long tough strands, and this cut is completely unforgiving about it. Pour any juices from the board back over the sliced meat. Season with a final pinch of salt."
+        },
+        {
+          "title": "Serve it sizzling",
+          "text": "Return the sliced steak to the hot skillet with the peppers and toss once, letting everything sizzle together for 30 seconds. Carry the skillet straight to the table on a trivet while it is still crackling and steaming. Serve with the warm tortillas, guacamole, crema, pico de gallo and lime wedges so everyone builds their own. The sizzle only lasts a minute, so have everyone seated."
+        }
+      ],
+      "tips": [
+        "Skirt steak is the traditional cut and the best one. Flank is a good substitute but slice it even thinner, and avoid stew meat or sirloin tips, which never get tender.",
+        "Do not marinate longer than 2 hours. Long acidic marinades turn the outside of thin steak into a mealy gray band.",
+        "For a real restaurant sizzle, preheat a second cast iron skillet or a fajita platter in a 450°F (230°C) oven and transfer everything onto it right before serving.",
+        "Chicken fajitas work with the same marinade using 1 1/2 lb (680 g) of thighs, cooked to 165°F (74°C), about 5 to 6 minutes per side.",
+        "If your kitchen cannot handle the smoke, cook this on a grill over direct high heat with a cast iron pan for the vegetables. Same times, no alarms."
+      ],
+      "keyTemp": "Pull skirt steak at 130°F (54°C) for medium-rare; it rises to about 135°F (57°C) while resting. If you swap in chicken, cook it fully to 165°F (74°C).",
+      "pairing": "A frozen lime margarita or a cold Modelo, with Mexican rice and charro beans on the side.",
+      "videoQuery": "steak fajitas cast iron skillet recipe",
+      "photoQuery": "sizzling steak fajitas skillet",
+      "tags": [
+        "Cast Iron",
+        "Date Night",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "guacamole-and-pico-de-gallo",
+      "title": "Guacamole and Pico de Gallo",
+      "emoji": "🥑",
+      "art": "salad",
+      "blurb": "Chunky guacamole made in a bowl with a fork and a pico that actually tastes of tomato, not water. Two five-ingredient recipes that everything else in this chapter leans on.",
+      "difficulty": "Easy",
+      "servings": "6 servings (about 2 cups of each)",
+      "prepTime": "20 min",
+      "cookTime": "0 min",
+      "totalTime": "30 min (includes 10 min rest)",
+      "ingredients": [
+        {
+          "group": "Pico de gallo",
+          "items": [
+            "1 lb (450 g) ripe Roma tomatoes (about 5), seeded and diced 1/4 in (6 mm)",
+            "1/2 white onion, finely diced (about 3/4 cup / 110 g)",
+            "1 serrano chile, seeded and minced (about 1 tbsp / 8 g)",
+            "1/3 cup (14 g) finely chopped cilantro",
+            "2 tbsp (30 ml) fresh lime juice",
+            "3/4 tsp (5 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Guacamole",
+          "items": [
+            "3 large ripe Hass avocados (about 1 1/2 lb / 680 g total)",
+            "1/4 white onion, very finely diced (about 1/3 cup / 50 g)",
+            "1 serrano chile, seeded and minced (about 1 tbsp / 8 g)",
+            "1/4 cup (10 g) chopped cilantro",
+            "2 tbsp (30 ml) fresh lime juice",
+            "1 tsp (6 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 oz (340 g) tortilla chips",
+            "1 lime, cut into wedges",
+            "1/4 cup (30 g) crumbled cotija cheese, optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Seed the tomatoes",
+          "text": "Cut each Roma tomato in half lengthwise and scoop out the seeds and the watery gel with your thumb or a small spoon. That jelly is almost pure water, and leaving it in is exactly why homemade pico ends up sitting in a pink puddle. Dice the firm outer flesh into neat 1/4 in (6 mm) pieces. Roma tomatoes are the right choice because they are meaty and low in moisture."
+        },
+        {
+          "title": "Tame the raw onion",
+          "text": "Dice the white onion small and even, then rinse it in a fine sieve under cold water for 20 seconds and shake it dry. Rinsing washes away the sulfur compounds that make raw onion taste harsh and linger on your breath, without touching the crunch or sweetness. This 20-second step makes a real difference in a raw salsa. Do the same for the onion going into the guacamole."
+        },
+        {
+          "title": "Mix and rest the pico",
+          "text": "Combine the tomatoes, rinsed onion, minced serrano, cilantro, 2 tbsp lime juice and 3/4 tsp salt in a bowl and stir gently. Let it sit for 10 minutes so the salt draws out just enough juice to make a light dressing and the flavors get acquainted. Taste it after resting, not before — salt and lime read completely differently once everything has mingled. Drain off excess liquid if it looks watery."
+        },
+        {
+          "title": "Judge the serrano heat",
+          "text": "Taste a tiny sliver of your serrano before adding it, because heat varies wildly from chile to chile even off the same plant. Scrape out the seeds and white veins for moderate heat, or leave some in if the chile is mild. Start with half and add the rest once you have tasted the finished bowl. It is the one thing here you cannot undo."
+        },
+        {
+          "title": "Pick and open the avocados",
+          "text": "A ripe Hass avocado yields to gentle pressure near the stem and its little stem cap flicks off to reveal green, not brown. Halve each one around the pit, twist the halves apart, and strike the pit firmly with the heel of your knife to lift it out. Score the flesh in a crosshatch right in the skin and scoop it out with a spoon. Unripe avocados will never taste good, no matter what you add."
+        },
+        {
+          "title": "Build the guacamole base",
+          "text": "Put the rinsed onion, minced serrano, cilantro and 1 tsp salt in the bowl first and mash them together with a fork or a molcajete before the avocado goes in. Grinding the aromatics with salt releases their oils and distributes them evenly instead of leaving pockets of raw onion. This is the traditional order and it makes a noticeably better guacamole. It takes 30 seconds."
+        },
+        {
+          "title": "Mash it chunky",
+          "text": "Add the avocado and the 2 tbsp lime juice and mash with a fork just 8 to 10 times, leaving plenty of half-inch chunks intact. Guacamole should have texture you can feel — a food processor turns it into pale green baby food. The lime is doing two jobs here: seasoning and slowing the browning. Fold rather than stir once it starts coming together."
+        },
+        {
+          "title": "Season at the end",
+          "text": "Taste the guacamole and adjust with salt a pinch at a time and lime a teaspoon at a time until it tastes bright rather than flat. Avocado is fatty and mild, so it swallows salt — most home cooks stop about half a teaspoon short. If it tastes dull, it needs salt; if it tastes heavy, it needs lime. Fold in 2 tbsp of the pico for extra brightness if you like."
+        },
+        {
+          "title": "Keep it green",
+          "text": "If you are not serving right away, smooth the surface flat and press plastic wrap directly onto the guacamole so no air touches it, then refrigerate for up to 4 hours. Browning is oxidation, so contact with plastic works far better than the avocado-pit myth. Alternatively, pour a thin layer of cold water over the smoothed surface and pour it off before serving. Give it a stir and re-taste before it goes out."
+        },
+        {
+          "title": "Serve both together",
+          "text": "Spoon the guacamole into a shallow bowl and the pico into another, and set them side by side with a big basket of tortilla chips. Sprinkle the guacamole with the optional cotija and set out lime wedges. Both should be made the day you serve them, and both are better at cool room temperature than straight from the fridge. Pull them out 15 minutes before eating."
+        }
+      ],
+      "tips": [
+        "Ripen hard avocados in a paper bag with a banana for 1 to 2 days. Once ripe, refrigerating them buys you about 3 more days.",
+        "Pico de gallo is best within 4 hours. After that the tomatoes weep and the cilantro darkens, so make it the same day.",
+        "For a smokier guacamole, char the serrano and a couple of scallions over a flame until blistered before mincing them in.",
+        "White onion is the right onion for both of these. Yellow is too sweet and red bleeds pink into the guacamole.",
+        "Leftover pico is excellent stirred into scrambled eggs, spooned over grilled fish, or drained and used on the nachos in this chapter."
+      ],
+      "keyTemp": "No cooking involved. The cue is texture: guacamole should stay chunky with visible half-inch pieces of avocado, and pico should be crisp and barely wet, never sitting in a pool of liquid.",
+      "pairing": "Salty thick-cut tortilla chips and a cold beer, or as the cooling side to anything spicy in this chapter.",
+      "videoQuery": "authentic guacamole and pico de gallo",
+      "photoQuery": "guacamole pico de gallo bowls",
+      "tags": [
+        "No Cook",
+        "30 Minutes",
+        "Party Food"
+      ]
+    },
+    {
+      "id": "queso-fundido-with-chorizo",
+      "title": "Queso Fundido with Chorizo",
+      "emoji": "🧀",
+      "art": "cheese",
+      "blurb": "A skillet of melted Oaxaca cheese with spicy chorizo and blistered poblano, pulled apart with warm tortillas. It takes twenty-five minutes and disappears in ten.",
+      "difficulty": "Easy",
+      "servings": "4 to 6 servings",
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "totalTime": "25 min",
+      "ingredients": [
+        {
+          "group": "For the skillet",
+          "items": [
+            "8 oz (225 g) fresh Mexican pork chorizo, casings removed",
+            "1 poblano chile, seeded and cut into thin strips",
+            "1/2 white onion, thinly sliced (about 1 cup / 150 g)",
+            "2 garlic cloves, thinly sliced",
+            "1/2 tsp (3 g) kosher salt",
+            "12 oz (340 g) Oaxaca cheese, shredded or pulled into strands (about 3 cups)",
+            "4 oz (115 g) Monterey Jack, shredded (about 1 cup)",
+            "2 tbsp (30 ml) Mexican lager or whole milk"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "16 corn or flour tortillas, 6 in (15 cm)",
+            "1/4 cup (10 g) chopped cilantro",
+            "1/2 cup (120 ml) salsa verde",
+            "1 lime, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Heat the oven",
+          "text": "Set the oven to 425°F (220°C) with a rack in the upper third, and if you have a broiler you will want it ready too. A hot oven melts the cheese fast, which matters because slow melting gives the fat time to separate and pool. Have your tortillas, cilantro and salsa ready before the skillet goes in. Queso fundido waits for absolutely no one."
+        },
+        {
+          "title": "Pull the cheese into strands",
+          "text": "Oaxaca cheese comes wound into a ball like a skein of yarn — unwind it and pull it into thin strands with your fingers rather than grating it. Pulled strands melt more evenly and give you the long stretchy pull this dish is famous for. Mix it with the shredded Monterey Jack, which is milder and helps keep the melt smooth. Never use pre-shredded bagged cheese here; the anti-caking starch turns the melt grainy."
+        },
+        {
+          "title": "Brown the chorizo",
+          "text": "Squeeze the chorizo out of its casing into a cold 10 in (25 cm) cast iron skillet, set it over medium heat, and break it up with a wooden spoon. Cook for 6 to 8 minutes, stirring, until it is deeply browned in crumbles and the fat has run bright orange-red. Fresh Mexican chorizo is raw pork sausage and must reach 160°F (71°C), unlike cured Spanish chorizo. It should sizzle steadily, not scorch."
+        },
+        {
+          "title": "Drain most of the fat",
+          "text": "Tip the skillet and spoon off all but about 1 tbsp of the rendered chorizo fat, or the finished queso will be a greasy orange slick. That single tablespoon is enough to cook the vegetables and season everything. Save the drained fat in a jar for frying eggs or potatoes, because it is delicious. Leave the browned crumbles in the pan."
+        },
+        {
+          "title": "Cook the poblano and onion",
+          "text": "Add the poblano strips, sliced onion and 1/2 tsp salt to the skillet and cook over medium-high for 5 to 6 minutes, stirring occasionally, until the vegetables are softened with charred edges. The poblano should lose its raw grassy taste and turn silky. Add the sliced garlic for the final 30 seconds only, since it burns fast in a hot pan. Scrape any brown bits off the bottom as you stir."
+        },
+        {
+          "title": "Set aside the topping",
+          "text": "Scoop about two-thirds of the chorizo and vegetable mixture out of the skillet onto a plate, leaving the rest spread across the bottom. You will scatter the reserved portion over the melted cheese at the end so it does not sink and disappear. Layering it this way means every scoop gets both cheese and chorizo. Wipe the skillet rim clean so nothing burns in the oven."
+        },
+        {
+          "title": "Add the cheese and liquid",
+          "text": "Pile the mixed cheeses over the chorizo in the skillet in an even mound and drizzle the 2 tbsp of lager or milk over the top. That small amount of liquid helps the cheese melt into a cohesive, saucy mass rather than breaking into strings and oil. Do not add more than 2 tbsp or the queso will be soupy. Press the cheese down gently so it sits level."
+        },
+        {
+          "title": "Bake until molten",
+          "text": "Slide the skillet into the 425°F (220°C) oven and bake for 6 to 8 minutes, until the cheese is completely melted and bubbling at the edges. Start checking at 6 minutes: the moment it goes from a solid mound to a shimmering molten pool, it is done. Overbaking is the classic mistake here — the proteins tighten, the fat separates, and you get a rubbery raft floating in grease. If you want brown spots, broil for 45 to 60 seconds only."
+        },
+        {
+          "title": "Warm the tortillas",
+          "text": "While the cheese bakes, toast the tortillas on a dry comal or skillet over medium-high heat for 20 to 30 seconds per side until soft and lightly freckled. Stack them inside a clean kitchen towel or a tortilla warmer to keep the steam in. You need them ready the second the skillet comes out. Cold tortillas will chill the queso on contact."
+        },
+        {
+          "title": "Top and serve immediately",
+          "text": "Scatter the reserved chorizo and vegetables over the molten cheese, sprinkle the cilantro on top, and carry the skillet straight to the table on a trivet. Serve with the warm tortillas, salsa verde and lime wedges, and have everyone scoop and roll their own. Queso fundido stays perfect for about eight minutes and then begins to set, so this is not a dish to plate up quietly in the kitchen. Warn everyone that the handle is blistering hot."
+        }
+      ],
+      "tips": [
+        "Oaxaca cheese is the correct cheese and it is worth a trip. Low-moisture whole-milk mozzarella is the closest substitute; avoid cheddar, which breaks and goes oily.",
+        "If the queso sets before everyone is finished, put the skillet back in the oven for 2 to 3 minutes. It will re-melt once, though not twice.",
+        "For a vegetarian version, skip the chorizo and use 8 oz (225 g) of sliced mushrooms browned hard in 2 tbsp of oil, plus an extra poblano.",
+        "Fresh Mexican chorizo is raw and soft; Spanish chorizo is cured and firm. They are not interchangeable, and using the cured kind here leaves you with dry chips of sausage.",
+        "Prep the chorizo and vegetables up to 2 days ahead. Reheat them in the skillet, add the cheese, and bake when your guests arrive."
+      ],
+      "keyTemp": "Fresh pork chorizo must reach 160°F (71°C) before the cheese goes in. Bake at 425°F (220°C) only until the cheese is molten and bubbling, 6 to 8 minutes, or it will break and turn greasy.",
+      "pairing": "Cold Mexican lager or a michelada, served as the opener before carne asada or fajitas.",
+      "videoQuery": "queso fundido chorizo skillet recipe",
+      "photoQuery": "queso fundido chorizo skillet",
+      "tags": [
+        "Appetizer",
+        "30 Minutes",
+        "Cast Iron"
+      ]
+    },
+    {
+      "id": "birria-tacos-with-consome",
+      "title": "Beef Birria Tacos with Consomé",
+      "emoji": "🥩",
+      "art": "taco",
+      "blurb": "Chile-braised beef shredded into cheese-crisped tortillas, dipped in the ruby red consomé it cooked in. It is a long afternoon and the best taco you will ever make at home.",
+      "difficulty": "Advanced",
+      "servings": "6 servings (18 tacos)",
+      "prepTime": "30 min",
+      "cookTime": "3 hr 45 min",
+      "totalTime": "4 hr 30 min (includes 15 min rest)",
+      "ingredients": [
+        {
+          "group": "The beef",
+          "items": [
+            "3 lb (1.35 kg) boneless beef chuck roast, cut into 3 in (8 cm) chunks",
+            "2 lb (900 g) bone-in beef short ribs",
+            "1 tbsp (14 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "2 tbsp (30 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Chile adobo",
+          "items": [
+            "8 dried guajillo chiles (about 2 oz / 55 g), stemmed and seeded",
+            "4 dried ancho chiles (about 2 oz / 55 g), stemmed and seeded",
+            "2 dried chiles de arbol, stemmed",
+            "3 cups (700 ml) hot water, for soaking",
+            "3 Roma tomatoes, halved (about 12 oz / 340 g)",
+            "1 white onion, halved (about 8 oz / 225 g)",
+            "8 garlic cloves, peeled",
+            "1 cinnamon stick, 2 in (5 cm)",
+            "4 whole cloves",
+            "1 tsp (2 g) ground cumin",
+            "1 tbsp (2 g) dried Mexican oregano",
+            "3 tbsp (45 ml) apple cider vinegar",
+            "2 bay leaves",
+            "6 cups (1.4 L) beef broth",
+            "2 tsp (12 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "For the tacos",
+          "items": [
+            "18 corn tortillas, 6 in (15 cm)",
+            "12 oz (340 g) Oaxaca or Monterey Jack cheese, shredded (about 3 cups)",
+            "1 white onion, finely diced (about 1 1/2 cups / 220 g)",
+            "1 cup (40 g) chopped cilantro",
+            "3 limes, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Season the beef",
+          "text": "Pat the chuck chunks and short ribs completely dry and season them all over with the 1 tbsp salt and 1 tsp pepper. Let them sit at room temperature for 20 minutes so the salt begins to penetrate and the surface dries further. The short ribs are not optional filler — their bones and connective tissue are what give the consomé its body and glossy lip-sticking texture. Chuck alone makes a thinner broth."
+        },
+        {
+          "title": "Sear in batches",
+          "text": "Heat the 2 tbsp oil in a large Dutch oven over medium-high until it just begins to shimmer, then sear the beef in two or three batches, 3 to 4 minutes per side. Each piece should be deeply browned and release from the pot on its own before you move it. Crowding drops the temperature and the meat steams gray, costing you the browned flavor that carries the whole braise. Set the seared beef aside on a plate."
+        },
+        {
+          "title": "Toast the dried chiles",
+          "text": "Wipe out most of the fat, lower the heat to medium, and press the stemmed and seeded guajillos, anchos and arbols flat against the hot pot for 15 to 20 seconds per side. They should puff slightly, lighten in color, and smell like sweet dried fruit and tobacco. The second you see smoke or smell anything sharp, they have burned and the whole batch will taste bitter. Toast in batches so you can watch every chile."
+        },
+        {
+          "title": "Rehydrate the chiles",
+          "text": "Move the toasted chiles to a bowl, pour the 3 cups (700 ml) of hot water over them, and hold them under with a small plate. Soak 20 to 25 minutes until they are completely soft and floppy. Taste the soaking liquid and reserve 1 1/2 cups if it is fruity, or discard it and use fresh water if it tastes bitter. Softened chiles blend smooth; stiff ones leave grit."
+        },
+        {
+          "title": "Char the tomatoes and aromatics",
+          "text": "While the chiles soak, char the tomato halves, onion halves and garlic cloves in the same pot or a dry skillet over medium-high for 6 to 8 minutes, turning until blackened in spots. This char adds a smoky sweetness that raw vegetables cannot give you. The garlic will color fastest, so pull it after about 3 minutes. Let everything cool slightly before it goes into the blender."
+        },
+        {
+          "title": "Blend the adobo",
+          "text": "Blend the drained chiles, charred tomatoes, onion, garlic, cinnamon stick, cloves, cumin, oregano, vinegar and 1 1/2 cups of soaking liquid on high for a full 2 minutes. Cinnamon and cloves are the signature of birria and they should be present but subtle, more warm than sweet. The adobo should be completely smooth and the color of dark garnet. Add a splash more liquid if the blender is laboring."
+        },
+        {
+          "title": "Strain the adobo",
+          "text": "Push the blended adobo through a fine-mesh sieve into a bowl, pressing hard with a spatula and scraping the underside to get everything through. You will be left with a few tablespoons of tough chile skin and spice fragments to discard. A whole cinnamon stick will not fully break down, so this strain is what keeps the consomé silky rather than gritty. It takes two minutes and it matters."
+        },
+        {
+          "title": "Fry the adobo, then braise",
+          "text": "Return the pot to medium-high, pour in the strained adobo, and fry it for 6 to 8 minutes, stirring, until it darkens and thickens like tomato paste. Add the beef broth, bay leaves and 2 tsp salt, then return the beef and any juices from the plate. Bring it to a simmer, cover, and either keep it at a bare simmer on the stove or slide it into a 325°F (163°C) oven. The liquid should just about cover the meat."
+        },
+        {
+          "title": "Braise until it shreds",
+          "text": "Cook for 3 to 3 1/2 hours, checking at 3 hours, until the beef falls apart at the nudge of a fork and reads about 203°F (95°C) on a thermometer. Do not judge it by the clock alone — collagen breaks down on its own schedule, and a piece that is still tight needs another 30 minutes. The braise should bubble lazily, never boil. Underdone birria is stringy and tough, and the only cure is more time."
+        },
+        {
+          "title": "Rest and skim the fat",
+          "text": "Turn off the heat and let the pot rest, uncovered, for 15 minutes so the fat rises and the meat relaxes. Skim the bright orange-red fat off the surface with a ladle and reserve every bit of it in a bowl — this is the birria fat you will dip the tortillas in, and it is the entire point of a quesabirria. You should end up with 1/2 to 3/4 cup. Do not throw it out."
+        },
+        {
+          "title": "Shred the beef and finish the consomé",
+          "text": "Lift the beef out with a slotted spoon, pull the short rib meat off the bones, and shred everything into rough strands with two forks, discarding bones and hard fat. Taste the remaining broth — this is your consomé — and season it with salt until it is bright and savory, probably another 1 to 2 tsp. Moisten the shredded meat with about 1 cup of the consomé so it does not dry out. Ladle the rest into small bowls for dipping."
+        },
+        {
+          "title": "Griddle the quesabirria tacos",
+          "text": "Heat a comal or large skillet over medium heat. Dip a tortilla into the reserved red fat so one side is coated, lay it fat side down on the griddle, and scatter about 3 tbsp of cheese over half of it. When the cheese melts, about 1 minute, add 1/4 cup of shredded beef, fold it over, and press gently with a spatula. Cook 1 to 2 minutes per side until the tortilla is crisp and lacquered deep red."
+        },
+        {
+          "title": "Serve with consomé for dipping",
+          "text": "Stack three tacos per plate and top them with diced white onion and cilantro. Give each person a small bowl of hot consomé with a squeeze of lime and a pinch of onion and cilantro stirred in. The dipping is not a garnish, it is how the dish is eaten, so make sure everyone has enough. Serve immediately while the tortillas are still crackling."
+        }
+      ],
+      "tips": [
+        "Birria is dramatically better the next day. Braise it a day ahead, refrigerate overnight, lift off the solid fat cap to use for griddling, and reheat the meat gently in its consomé.",
+        "Goat is the original meat for birria and lamb shoulder is a superb substitute. Both use the same adobo and the same timing.",
+        "The reserved red fat is what makes a quesabirria taco. If you skim it away or throw it out, you get a regular taco and miss the point entirely.",
+        "If your consomé tastes bitter, a chile scorched during toasting. Stir in 1 tsp of honey and a splash of vinegar to rebalance it, and be gentler with the comal next time.",
+        "Freeze the shredded meat and consomé together in quart containers for up to 3 months. It reheats perfectly and turns a Tuesday into an event."
+      ],
+      "keyTemp": "Braise the beef to about 203°F (95°C), far past the 145°F (63°C) safety minimum, so the collagen melts into gelatin and the meat shreds with a fork. Judge by fork tenderness first, temperature second.",
+      "pairing": "A michelada or a cold Victoria, with the consomé itself as the first course.",
+      "videoQuery": "birria tacos consome quesabirria recipe",
+      "photoQuery": "birria tacos consome dipping",
+      "tags": [
+        "Weekend Project",
+        "Taco Night",
+        "Make Ahead"
+      ]
+    }
+  ]
+}

@@ -576,116 +576,121 @@
       "tags": ["Grilling", "Showstopper", "Weekend"]
     },
     {
-      "id": "beef-wellington",
-      "title": "Classic Beef Wellington",
-      "emoji": "🥧",
-      "art": "roast",
-      "blurb": "Tenderloin wrapped in mushroom duxelles, prosciutto, and golden puff pastry. It is the most impressive thing in this book, and the trick is simply chilling it hard at every stage.",
-      "difficulty": "Advanced",
-      "servings": "6 servings",
-      "prepTime": "1 hr",
-      "cookTime": "1 hr 15 min",
-      "totalTime": "3 hr 50 min",
+      "id": "chicken-fried-steak-cream-gravy",
+      "title": "Chicken Fried Steak with Cream Gravy",
+      "emoji": "🍳",
+      "art": "steak",
+      "blurb": "Cube steak pounded thin, double-dredged in buttermilk and seasoned flour, and shallow-fried until the crust shatters. The black-pepper cream gravy is built right in the pan from the browned bits, so nothing good gets thrown away.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "25 min",
+      "totalTime": "55 min",
       "ingredients": [
         {
-          "group": "For the beef",
+          "group": "For the steaks",
           "items": [
-            "2 lb (900 g) center-cut beef tenderloin, trimmed, in one even log",
-            "1½ tsp (7 g) kosher salt",
-            "1 tsp freshly ground black pepper",
-            "1 tbsp (15 ml) neutral oil",
-            "2 tbsp (30 g) Dijon mustard"
+            "4 beef cube steaks (about 5 oz / 140 g each, ⅜ in / 1 cm thick)",
+            "1 tsp (6 g) kosher salt, for seasoning the meat directly",
+            "1 tsp freshly ground black pepper, for seasoning the meat directly",
+            "3 cups (720 ml) peanut, canola, or vegetable oil, for shallow frying"
           ]
         },
         {
-          "group": "Mushroom duxelles",
+          "group": "Seasoned flour dredge",
           "items": [
-            "1½ lb (680 g) cremini mushrooms, quartered",
-            "2 shallots, roughly chopped (about ½ cup / 80 g)",
-            "3 tbsp (42 g) unsalted butter",
-            "3 sprigs fresh thyme, leaves picked",
-            "¼ cup (60 ml) dry sherry or dry white wine",
-            "1 tsp (5 g) kosher salt",
-            "½ tsp (1 g) black pepper"
+            "2 cups (250 g) all-purpose flour",
+            "2 tsp (5 g) sweet paprika",
+            "2 tsp (6 g) garlic powder",
+            "1 tsp (3 g) onion powder",
+            "1½ tsp (9 g) kosher salt",
+            "1½ tsp coarsely ground black pepper",
+            "½ tsp (1 g) cayenne pepper, optional, for a low background heat",
+            "1 tsp (4 g) baking powder"
           ]
         },
         {
-          "group": "Wrapping and finishing",
+          "group": "Buttermilk wash",
           "items": [
-            "10 to 12 thin slices prosciutto (about 6 oz / 170 g)",
-            "1 lb (450 g) all-butter puff pastry, thawed but cold",
-            "2 tbsp (16 g) all-purpose flour, for dusting the counter",
-            "2 large egg yolks beaten with 1 tbsp (15 ml) heavy cream",
-            "1 tsp flaky sea salt, for the crust"
+            "1½ cups (360 ml) whole buttermilk, cold",
+            "2 large eggs",
+            "1 tbsp (15 ml) hot sauce, such as Frank's or Crystal"
+          ]
+        },
+        {
+          "group": "Black pepper cream gravy",
+          "items": [
+            "¼ cup (60 ml) of the frying oil, poured back in with the browned bits",
+            "¼ cup (32 g) all-purpose flour",
+            "3 cups (720 ml) whole milk, warmed",
+            "1½ tsp coarsely ground black pepper, plus more to taste",
+            "¾ tsp (5 g) kosher salt, plus more to taste",
+            "2 tbsp (30 ml) heavy cream, optional, for extra richness"
           ]
         }
       ],
       "instructions": [
         {
-          "title": "Shape and tie the tenderloin",
-          "text": "Trim any silverskin off the tenderloin with a thin knife and tie it with kitchen twine at 1½-inch (4 cm) intervals so it forms an even cylinder. An even log cooks evenly and wraps neatly; a tapered one will be overcooked at the thin end. Season all over with the 1½ tsp salt and 1 tsp pepper and let it sit 20 minutes."
+          "title": "Pound and season the steaks",
+          "text": "Lay the 4 cube steaks between two sheets of plastic wrap and pound them with the flat side of a mallet to an even ⅜ in (1 cm) — the butcher's tenderizer already did most of the work, so this is about evening out the thickness, not flattening them further. An even steak fries evenly; a lopsided one burns at the thin end while the thick end is still raw. Pat both sides completely dry with paper towels, then season directly with the 1 tsp kosher salt and 1 tsp black pepper. Seasoning the meat itself, not just the flour, is what keeps the inside from tasting bland under all that crust."
         },
         {
-          "title": "Sear hard and fast",
-          "text": "Heat the oil in a large skillet over high heat until it just smokes, then sear the tenderloin on all sides, about 90 seconds per side, 6 minutes total. You are only building color and flavor here — the inside should still be completely raw. Move it to a plate, snip off the twine, and let it cool for 10 minutes."
+          "title": "Mix the seasoned flour",
+          "text": "In a wide shallow dish, whisk together the 2 cups (250 g) flour, paprika, garlic powder, onion powder, 1½ tsp salt, 1½ tsp black pepper, cayenne if using, and the 1 tsp baking powder. Whisk for a full 20 seconds so the spices are evenly dispersed — pockets of unmixed cayenne or salt will show up as hot or salty bites later. The baking powder is not a mistake: it puffs the coating very slightly as it hits the oil, which is what gives real chicken fried steak that craggy, shattering crust instead of a flat shell."
         },
         {
-          "title": "Paint it with mustard",
-          "text": "While the beef is still warm but no longer hot, brush the entire surface with the 2 tbsp Dijon mustard in a thin, even coat. The mustard adds a sharp backbone that cuts the richness of the pastry and prosciutto. Refrigerate the beef uncovered while you make the duxelles."
+          "title": "Whisk the buttermilk wash",
+          "text": "In a second shallow dish, whisk the 1½ cups (360 ml) cold buttermilk with the 2 eggs and the 1 tbsp hot sauce until no streaks of yolk remain, about 30 seconds. Buttermilk is acidic and slightly thick, so it clings to the meat better than plain milk and its tang cuts the richness of the fried crust. The hot sauce adds almost no heat at this dilution — it is there for the vinegar, which brightens the whole plate. Set the two dishes side by side with an empty rack at the end so you have a clean assembly line."
         },
         {
-          "title": "Chop the mushrooms fine",
-          "text": "Pulse the mushrooms and shallots in a food processor in two batches, about 10 short pulses each, until they look like coarse crumbs. Do not run it continuously or you will get mushroom purée that never dries out. If you have no processor, chop by hand as finely as you have patience for — it takes about 15 minutes."
+          "title": "Double-dredge each steak",
+          "text": "Working one steak at a time, press it firmly into the flour and coat both sides, shake off the excess, then dip it fully into the buttermilk and let the drips fall off for 2 seconds. Return it to the flour and press hard this time, scooping flour over the top and packing it on with your palm. That second pass is the whole secret: flour-wet-flour builds a thick, textured layer that survives the fryer, while a single dredge slides off in the oil. Keep one hand for wet and one for dry or you will end up with breaded fingers and a lumpy dish of paste."
         },
         {
-          "title": "Cook the duxelles completely dry",
-          "text": "Melt the butter in a wide skillet over medium heat, add the mushroom mixture, thyme, 1 tsp salt, and ½ tsp pepper, and cook 20 to 25 minutes, stirring often. The mushrooms will release a shocking amount of liquid, then that liquid must fully evaporate — keep going until the pan is dry and the mixture pulls away from the sides. Any remaining moisture will turn your pastry into paste, so this is the most important step in the recipe."
+          "title": "Rest the breading 10 minutes",
+          "text": "Set the breaded steaks on a wire rack over a sheet pan and leave them at room temperature for 10 minutes before frying. During that rest the flour absorbs moisture from the buttermilk and turns from dusty powder into a glued-on coating. Skip it and a good third of your crust will float away in the oil the moment the steak goes in. Do not stack them or refrigerate them uncovered for hours — the coating turns gummy and the crust ends up dense."
         },
         {
-          "title": "Deglaze and cool the duxelles",
-          "text": "Pour in the ¼ cup sherry and cook 2 to 3 minutes more, scraping the pan, until it too has evaporated completely. Spread the duxelles on a plate or sheet pan and refrigerate until fully cold, at least 20 minutes. Warm duxelles will melt the pastry butter and soften the prosciutto, so it must be cold before it touches anything."
+          "title": "Heat the oil to 350°F",
+          "text": "Pour the 3 cups (720 ml) oil into a 12 in (30 cm) cast-iron skillet or heavy Dutch oven to a depth of about ¾ in (2 cm) and heat over medium-high until a thermometer reads 350°F (175°C), roughly 6 to 8 minutes. Test it with a pinch of the dredge flour: it should sizzle briskly and float, not sink quietly or burn black in 2 seconds. Below 325°F (163°C) the crust drinks oil and goes greasy; above 375°F (191°C) the outside browns long before the middle is safe. Keep the thermometer clipped on — this is the number you will be chasing all through the fry."
         },
         {
-          "title": "Build the prosciutto blanket",
-          "text": "Lay a large sheet of plastic wrap on the counter and arrange the prosciutto slices in two overlapping rows, forming a rectangle roughly 12 by 14 inches (30 by 36 cm) — big enough to wrap the beef with a small overlap. Spread the cold duxelles over the prosciutto in an even ¼-inch (6 mm) layer, leaving a ½-inch border on the long sides. Press it down gently so it sticks."
+          "title": "Fry two steaks at a time",
+          "text": "Lower 2 steaks into the oil away from you and do not touch them for 3 minutes; the oil will drop to about 325°F (163°C), which is exactly right, so nudge the burner up to hold it there. You are listening for a steady vigorous sizzle — if it goes quiet, the oil is too cool, and if it screams and smokes, pull the pan off the heat for 30 seconds. Flip once with tongs and fry the second side 2 to 3 minutes more until both sides are deep golden brown. Crowding all 4 steaks in at once crashes the oil temperature and is the single most common way this dish goes soggy."
         },
         {
-          "title": "Roll and chill the log",
-          "text": "Set the mustard-coated beef along one long edge and use the plastic wrap to roll it up tightly, pulling the wrap taut like you are rolling sushi. Twist the ends of the plastic in opposite directions to compact it into a tight, even cylinder. Refrigerate for at least 30 minutes — this chill sets the shape and is what keeps the finished slices round instead of collapsed."
+          "title": "Cook to 160°F in the center",
+          "text": "Before you pull a steak, slide an instant-read thermometer in from the side into the thickest part and confirm it reads 160°F (71°C). Cube steak has been run through a mechanical tenderizer, which pushes surface bacteria down into the interior, so it cannot be treated like an intact steak you sear rare. If it is browned outside but short of temperature, drop the oil to 325°F (163°C) and give it another minute or two per side. Total fry time is usually 5 to 6 minutes for a ⅜ in (1 cm) steak."
         },
         {
-          "title": "Wrap in puff pastry",
-          "text": "Dust the counter with the 2 tbsp all-purpose flour and roll the cold puff pastry into a rectangle about 14 by 16 inches (36 by 40 cm) and ⅛ inch (3 mm) thick, working quickly so it does not warm and get sticky. Unwrap the chilled log, set it on the pastry, brush the pastry borders with egg wash, and roll it up, trimming any excess so the seam overlaps by only 1 inch. Press the seam and both ends closed, tuck the ends underneath, and set it seam-side down on a parchment-lined sheet pan."
+          "title": "Drain and hold warm",
+          "text": "Move the finished steaks to a clean wire rack set over a sheet pan and slide them into a 200°F (93°C) oven while you fry the second batch. A rack lets air circulate underneath so the bottom crust stays crisp; paper towels trap steam and turn that side soft within a minute. Season the steaks with a small pinch of salt the moment they come out of the oil, when the surface is still hot enough to grab it. Let the oil come back up to 350°F (175°C) before the next two go in."
         },
         {
-          "title": "Chill again, then decorate",
-          "text": "Refrigerate the wrapped Wellington for 30 minutes, uncovered, so the pastry firms up completely. Brush the whole surface with egg wash, then score a shallow crosshatch or herringbone pattern with the back of a paring knife, cutting no more than 1 mm deep so you do not pierce through. Sprinkle with the flaky salt and put it back in the fridge until the oven is ready."
+          "title": "Build the roux from drippings",
+          "text": "Carefully pour off all but about ¼ cup (60 ml) of the oil, leaving every browned crumb stuck to the bottom of the skillet — that fond is the entire flavor of the gravy. Set the pan over medium heat, sprinkle in the ¼ cup (32 g) flour, and whisk constantly for 2 to 3 minutes until the paste smells nutty and turns the color of peanut butter. Cooking the roux this long removes the raw-flour taste that ruins so many homemade gravies. Scrape the bottom with the whisk as you go so the crumbs lift into the roux instead of scorching."
         },
         {
-          "title": "Bake hot",
-          "text": "Heat the oven to 425°F (220°C) with a rack in the lower third. Bake the Wellington for 40 to 45 minutes, rotating the pan once at the 20-minute mark, until the pastry is deep golden brown and firm. Start checking the internal temperature at 35 minutes with a thermometer pushed through the end into the center of the beef."
+          "title": "Whisk in the milk slowly",
+          "text": "Pour in the first ½ cup (120 ml) of the warmed milk and whisk hard until the roux tightens into a smooth thick paste, then add the remaining 2½ cups (600 ml) in three additions, whisking smooth after each. Adding it all at once is how you get lumps — the flour needs to hydrate gradually. Bring it to a bare simmer over medium heat and cook 4 to 6 minutes, whisking often, until it coats the back of a spoon and holds a line when you drag a finger through it. It will thicken a little more off the heat, so stop just before it looks right."
         },
         {
-          "title": "Pull at the right temperature",
-          "text": "Remove the Wellington when the beef center reads 125 to 128°F (52 to 53°C) for medium-rare, or 135°F (57°C) for medium. Carryover in a wrapped roast this insulated is significant — expect it to climb 8 to 10°F (4 to 6°C) while it rests. If the pastry is browning too fast before the beef is ready, tent it loosely with foil."
-        },
-        {
-          "title": "Rest 15 minutes, then slice",
-          "text": "Let the Wellington rest on a cutting board for a full 15 minutes; slicing early will send pink juices flooding through the pastry. Use a long serrated knife and cut with a gentle sawing motion rather than pressing down, so the crust shatters cleanly instead of crushing. Cut into 1½-inch (4 cm) slices and serve two per person."
+          "title": "Season hard and serve",
+          "text": "Kill the heat and stir in the 1½ tsp coarse black pepper, ¾ tsp salt, and the 2 tbsp heavy cream if you are using it, then taste and keep adding pepper until you can clearly see and taste it — cream gravy is supposed to be aggressively peppery. If it has gone too thick, loosen it with milk 1 tbsp at a time. Ladle it generously over the steaks right at the table rather than in the kitchen, because the crust starts softening the second the gravy lands. Serve immediately, while the edges are still audibly crisp."
         }
       ],
       "tips": [
-        "You can build the entire Wellington through the pastry wrap up to 24 hours ahead. Keep it uncovered in the fridge, egg wash and score just before baking, and add 5 minutes to the bake time.",
-        "Soggy bottom is the classic failure and it always traces back to wet duxelles. Cook them until the pan is genuinely dry — if you are unsure, cook 5 minutes more.",
-        "All-butter puff pastry is worth the extra few dollars here; shortening-based pastry bakes up pale and tastes waxy under all that beef.",
-        "A leave-in probe thermometer, inserted through the end of the log before baking, removes all the guesswork on the one dish where guessing is most expensive.",
-        "Serve with a simple red wine sauce or a spoonful of horseradish cream — the Wellington itself is rich enough that it does not need a heavy gravy."
+        "If your market does not sell cube steak, buy a 1¼ lb (570 g) piece of top round or bottom round, slice it into 4 portions, and pound each one to ⅜ in (1 cm) with the spiked side of a mallet.",
+        "Add 3 tbsp of the buttermilk wash into the seasoned flour and rub it through with your fingertips before dredging. Those shaggy clumps fry into the extra-craggy bits everyone fights over.",
+        "Keep a clip-on thermometer in the oil the whole time and adjust the burner between batches. Frying by guesswork is the difference between a crisp crust and a greasy one.",
+        "The gravy thickens as it sits and will be almost solid by the time you sit down. Keep the warm milk nearby and whisk in a splash right before serving.",
+        "Breaded steaks can be dredged, racked, and refrigerated up to 2 hours ahead. Let them sit out for 15 minutes before frying so the cold does not crash your oil temperature."
       ],
-      "keyTemp": "Pull at 125 to 128°F (52 to 53°C) for medium-rare; it rises to 133 to 138°F (56 to 59°C) during the 15-minute rest. Bake at 425°F (220°C).",
-      "pairing": "Buttered green beans and a glass of Bordeaux or a good Pinot Noir.",
-      "videoQuery": "beef wellington duxelles puff pastry technique",
-      "photoQuery": "beef wellington sliced pink center",
-      "tags": ["Showstopper", "Holiday", "Advanced"]
+      "keyTemp": "Fry in oil held at 350°F (175°C), letting it settle to about 325°F (163°C) once the steaks go in. Cube steak is whole-muscle beef that has been mechanically tenderized, which drives surface bacteria into the interior, so it must be cooked through to an internal 160°F (71°C) — it cannot be served pink like an intact steak.",
+      "pairing": "Mashed potatoes with more of the gravy, buttered green beans, and a glass of cold sweet tea or a crisp lager.",
+      "videoQuery": "chicken fried steak with cream gravy",
+      "photoQuery": "chicken fried steak cream gravy",
+      "tags": ["Comfort Food", "Cast Iron", "Southern"]
     },
     {
       "id": "classic-pot-roast",

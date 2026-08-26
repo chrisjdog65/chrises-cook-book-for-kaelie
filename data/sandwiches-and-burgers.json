@@ -1,0 +1,1636 @@
+{
+  "category": "Sandwiches & Burgers",
+  "categoryEmoji": "🍔",
+  "categoryBlurb": "A great sandwich is engineering as much as cooking: the right bread, toasted on the inside, sauce spread edge to edge, and everything stacked in an order that keeps the bottom slice dry until the last bite.",
+  "recipes": [
+    {
+      "id": "classic-smash-burgers",
+      "title": "Diner-Style Double Smash Burgers",
+      "emoji": "🍔",
+      "art": "burger",
+      "blurb": "Two paper-thin patties pressed hard onto a screaming skillet so nearly the whole surface turns to crust. It takes about ninety seconds a side and beats almost any burger you have paid for.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "For the patties",
+          "items": [
+            "1½ lb (680 g) ground beef chuck, 80/20, cold from the fridge",
+            "2 tsp (10 g) kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as canola or grapeseed, divided",
+            "8 slices American cheese (about 6 oz / 170 g total)"
+          ]
+        },
+        {
+          "group": "Buns and toppings",
+          "items": [
+            "4 potato buns (about 3½ in / 9 cm across)",
+            "2 tbsp (28 g) salted butter, softened",
+            "½ small white onion (about 2 oz / 60 g), shaved paper thin",
+            "16 dill pickle chips (about 2 oz / 60 g), blotted dry"
+          ]
+        },
+        {
+          "group": "Burger sauce",
+          "items": [
+            "⅓ cup (80 g) mayonnaise",
+            "2 tbsp (30 g) ketchup",
+            "1 tbsp (15 g) yellow mustard",
+            "2 tbsp (20 g) finely chopped dill pickle",
+            "½ tsp (1 g) sweet paprika"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Mix the burger sauce",
+          "text": "Stir the mayonnaise, ketchup, mustard, chopped pickle, and paprika together in a small bowl until the color is an even pale orange. The ratio is what matters: roughly 3 parts mayo to 1 part ketchup to half a part mustard, and any more ketchup than that turns it sweet and runny. Cover and refrigerate while you work, because twenty minutes lets the pickle brine season the whole batch."
+        },
+        {
+          "title": "Portion cold beef balls",
+          "text": "Divide the 1½ lb (680 g) of chuck into 8 loose balls of about 3 oz (85 g) each, handling the meat as little as you possibly can. Do not roll them tight like snowballs — a compacted ball resists the smash and cooks up dense and bouncy instead of tender. Set them on a plate and keep them in the fridge until the pan is fully hot, since cold beef spreads smoothly instead of tearing."
+        },
+        {
+          "title": "Shave the onion and set up",
+          "text": "Slice the half onion as thin as you can manage, ideally about 1/16 inch (2 mm), and separate the shreds so they are not clumped. Blot the pickle chips dry on a paper towel; wet pickles are the number one cause of a soggy bottom bun. Line everything up next to the stove now — once the patties hit the pan the whole cook takes three minutes and you will not have time to go hunting."
+        },
+        {
+          "title": "Toast the buns first",
+          "text": "Butter the cut faces of all 4 potato buns and toast them face down in a dry skillet over medium heat for 60 to 90 seconds, until they are deep gold with a few darker freckles. Toasting is not just for flavor — that browned, sealed layer is a moisture barrier that keeps sauce and beef juice from soaking straight through. Stack them cut side up on a plate so the crisp side stays crisp."
+        },
+        {
+          "title": "Get the pan properly hot",
+          "text": "Set a 12-inch (30 cm) cast-iron skillet or flat griddle over medium-high heat for a full 5 minutes, then film it with 2 tsp of the neutral oil, saving the last teaspoon for the second batch. You are aiming for roughly 400 to 450°F (200 to 230°C), hot enough that a flicked drop of water skitters and disappears in about a second. If the oil billows heavy smoke before the beef goes in, pull the pan off the heat for 30 seconds; scorched oil makes the crust taste acrid."
+        },
+        {
+          "title": "Smash hard and fast",
+          "text": "Lay two or three balls in the pan with a couple of inches between them and immediately flatten each one with a stiff metal spatula, leaning your full weight on it for a slow count of ten. Aim for patties about ¼ inch (6 mm) thick and 4 inches (10 cm) across, a little wider than the bun because they shrink. Slip a square of parchment between the spatula and the meat if it wants to stick. The smash has to happen within the first 30 seconds, while the beef is still soft and pliable."
+        },
+        {
+          "title": "Season and leave them alone",
+          "text": "Salt and pepper the tops as soon as they are flat, using about ¼ tsp of the kosher salt per patty. Now do not touch them for 90 seconds — the pan should sizzle loud and steady, not smoke. You are waiting until the edges go lacy and dark brown and you can see the color climbing about a third of the way up the side of the patty."
+        },
+        {
+          "title": "Scrape, never lift",
+          "text": "Slide the spatula under at a low, almost flat angle and scrape forward so the crust releases with the beef instead of staying welded to the pan. Flip once and only once. The second side needs just 30 to 45 seconds, because a patty this thin is already cooked through the moment the crust forms."
+        },
+        {
+          "title": "Cheese and stack the doubles",
+          "text": "Lay a slice of American cheese on each patty the instant it flips, then set one patty on top of another so the cheese between them melts into glue. American is not a compromise here — the emulsifying salts let it melt into a smooth sauce instead of splitting into oil and rubber the way aged cheddar does. If it needs help, add a teaspoon of water to a bare spot in the pan and cover for 15 seconds to steam."
+        },
+        {
+          "title": "Cook the second batch",
+          "text": "Move the finished stacks to the bun bottoms and wipe the pan with a wadded paper towel held in tongs before the next batch. Burnt bits left behind from the first round will taste bitter on the second. Add another teaspoon of oil, let the pan recover heat for 30 seconds, and repeat with the remaining beef balls."
+        },
+        {
+          "title": "Assemble in the right order",
+          "text": "Spread burger sauce on both cut faces, then build bottom bun, pickles, double patty stack, shaved onion, top bun. Pickles sit under the beef so their brine cannot run down into the bread, and the onion rides on top where residual heat softens it just enough to lose its bite. Serve right away — a smash burger has about a five-minute window before that crust starts to soften."
+        }
+      ],
+      "tips": [
+        "The sauce keeps 1 week in a jar in the fridge and is excellent on fries, so make a double batch while you have the ingredients out.",
+        "Use 80/20 chuck and nothing leaner. Ground sirloin or 93/7 will give you gray, dry patties because there is not enough fat to fry the crust.",
+        "No cast iron? Use the heaviest stainless skillet you own. Skip nonstick entirely — it cannot hold the heat needed to build crust, and the smash will just steam.",
+        "Never crowd more than three patties in a 12-inch pan. Every extra one drops the surface temperature and you end up steaming gray meat instead of searing it.",
+        "If you are cooking for a crowd, portion the beef balls and stack them between parchment squares in the fridge up to 24 hours ahead."
+      ],
+      "keyTemp": "Ground beef is safe at 160°F (71°C), which a ¼-inch smashed patty passes within about two minutes — at this thickness judge by the lacy brown edge rather than by thermometer.",
+      "pairing": "Crinkle-cut fries and something cold and fizzy — a lager, or a vanilla milkshake if you are going full diner.",
+      "videoQuery": "smash burger cast iron technique",
+      "photoQuery": "double smash burger potato bun",
+      "tags": [
+        "30 Minutes",
+        "Cast Iron",
+        "Weeknight"
+      ]
+    },
+    {
+      "id": "pub-cheeseburger",
+      "title": "Thick Pub Cheeseburger with Sharp Cheddar",
+      "emoji": "🍔",
+      "art": "burger",
+      "blurb": "The opposite of a smash burger: a thick, juicy patty cooked to a real temperature, blanketed in melted cheddar under a lid. This is the burger you eat with a knife in your other hand.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "25 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "For the patties",
+          "items": [
+            "2 lb (900 g) ground beef chuck, 80/20",
+            "2½ tsp (12 g) kosher salt, plus a pinch for the tomato slices",
+            "1½ tsp freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil",
+            "8 slices sharp cheddar (about 6 oz / 170 g total)"
+          ]
+        },
+        {
+          "group": "Buns and toppings",
+          "items": [
+            "4 brioche or sesame seed buns (about 4 in / 10 cm across)",
+            "2 tbsp (28 g) unsalted butter, softened",
+            "8 slices thick-cut bacon (about 8 oz / 225 g)",
+            "1 large ripe tomato (about 8 oz / 225 g), cut into 8 slices ¼ in (6 mm) thick",
+            "4 large leaves butter or bibb lettuce",
+            "½ red onion (about 3 oz / 85 g), sliced ⅛ in (3 mm) thick"
+          ]
+        },
+        {
+          "group": "Pub sauce",
+          "items": [
+            "¼ cup (60 g) mayonnaise",
+            "2 tbsp (30 g) ketchup",
+            "1 tbsp (15 g) Dijon mustard",
+            "1 tsp (5 ml) Worcestershire sauce",
+            "¼ tsp (1 g) garlic powder"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Whisk the pub sauce",
+          "text": "Stir the mayonnaise, ketchup, Dijon, Worcestershire, and garlic powder together until completely smooth. The Worcestershire is doing real work here, adding the savory depth that plain burger sauce lacks, so do not skip it. Refrigerate until you build the burgers; it will thicken slightly as it chills and spread more cleanly."
+        },
+        {
+          "title": "Form four thick patties",
+          "text": "Divide the beef into 4 equal portions of 8 oz (225 g) and shape each into a patty about 4½ inches (11 cm) wide and ¾ inch (2 cm) thick, working gently so the meat stays loose. Press a shallow dimple about ½ inch (1 cm) wide into the center of each with your thumb. That dimple keeps the patty from doming into a meatball as the proteins contract, which is what makes toppings slide off."
+        },
+        {
+          "title": "Chill and season",
+          "text": "Set the patties on a plate and refrigerate for at least 15 minutes while you cook the bacon and prep the toppings. Season them generously on both sides with the kosher salt and pepper only right before they hit the pan — salt applied early starts dissolving proteins and gives thick patties a bouncy, sausage-like texture. Roughly ½ tsp of salt per patty, split between the two faces, is right."
+        },
+        {
+          "title": "Render the bacon",
+          "text": "Lay the 8 bacon slices on a foil-lined sheet pan and bake at 400°F (205°C) for 15 to 18 minutes, until deep brown but still slightly bendy. Oven bacon stays flat, which matters enormously in a sandwich — curly bacon creates gaps that make the whole stack slide apart. Drain the slices on paper towels and pour the fat into a jar for another day rather than down the drain."
+        },
+        {
+          "title": "Prep the toppings properly",
+          "text": "Salt the tomato slices lightly with a pinch of salt and lay them on a paper towel for 10 minutes, then blot the tops. This pulls out the watery jelly that otherwise floods the bun and concentrates the tomato flavor at the same time. Separate the onion rings and tear the lettuce leaves to roughly bun size so nothing hangs out and drips."
+        },
+        {
+          "title": "Butter and toast the buns",
+          "text": "Spread the softened butter on all the cut faces and toast them in a dry skillet over medium heat for about 90 seconds, until evenly golden. Brioche browns fast because of its sugar and egg, so watch it closely from the one-minute mark. A properly toasted face is the only thing standing between your bun and the juice from an 8-ounce patty."
+        },
+        {
+          "title": "Heat the skillet",
+          "text": "Wipe out the skillet, set it over medium-high heat for 4 minutes, then add the 1 tbsp of neutral oil and swirl. The oil should shimmer and thin out but not smoke, roughly 375 to 400°F (190 to 205°C). A pan that is too hot will burn the outside long before a ¾-inch-thick patty reaches a safe 160°F (71°C) in the middle."
+        },
+        {
+          "title": "Sear the first side",
+          "text": "Lay the patties in the pan dimple side up, leaving at least an inch between them, and let them sit undisturbed for 4 minutes. Do not press them with the spatula, ever — every drop of juice you squeeze into the pan is juice that is not in your dinner. You want a solid dark brown crust before the flip, with the sides turning from red to gray about a third of the way up."
+        },
+        {
+          "title": "Flip, cheese, and steam",
+          "text": "Flip once and cook 2 minutes on the second side, then lay 2 slices of cheddar on each patty. Add 2 tbsp (30 ml) of water to a bare corner of the pan and immediately cover with a lid for 45 to 60 seconds — the burst of steam melts sharp cheddar without breaking it into grease. Uncover as soon as the cheese slumps over the edges."
+        },
+        {
+          "title": "Cook to 160°F and rest",
+          "text": "Check the thickest patty with an instant-read thermometer from the side, aiming for the true center: ground beef must reach 160°F (71°C) to be safe, which usually lands 7 to 9 minutes total. Move the burgers to a plate and let them rest 3 to 5 minutes. Resting lets the juices redistribute so they stay in the meat instead of sheeting out into your bun on the first bite."
+        },
+        {
+          "title": "Build from the bottom up",
+          "text": "Spread pub sauce on both toasted faces, then stack in this order: bottom bun, lettuce, tomato, patty with cheese, bacon, onion, top bun. Lettuce goes down first as a waterproof shield between the tomato and the bread, and the cheese-covered patty sits above the tomato so its heat does not wilt everything. Press the top gently to set the stack and serve immediately."
+        }
+      ],
+      "tips": [
+        "A ¾-inch patty is the sweet spot. Thicker than an inch and the outside overcooks before the center reaches a safe 160°F (71°C).",
+        "If your cheddar keeps breaking into oil, mix it half and half with American or young Gouda — the younger cheese carries the melt while the cheddar brings the flavor.",
+        "Patties can be formed, dimpled, and stacked between parchment in the fridge up to 24 hours ahead. Salt them only at the stove.",
+        "Grilling instead? Two-zone fire: sear 3 minutes a side over the coals, then finish over the cool side with the lid down until 160°F (71°C).",
+        "Toast a spare bun. If the first one tears when you spread the sauce, you want a backup rather than a soggy repair job."
+      ],
+      "keyTemp": "Ground beef must reach 160°F (71°C) in the center of the thickest patty — check from the side with an instant-read thermometer, not by cutting.",
+      "pairing": "Thick-cut steak fries and a cold amber ale or a proper malty brown beer.",
+      "videoQuery": "thick pub style cheeseburger skillet",
+      "photoQuery": "pub cheeseburger cheddar bacon brioche",
+      "tags": [
+        "Date Night",
+        "Cast Iron",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "patty-melt",
+      "title": "Patty Melt on Buttered Rye",
+      "emoji": "🥪",
+      "art": "burger",
+      "blurb": "Half burger, half grilled cheese, and better than either one. Deeply caramelized onions and Swiss pressed between two slices of griddled rye is the best forty minutes you can spend at a stove.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "50 min",
+      "totalTime": "1 hr 5 min",
+      "ingredients": [
+        {
+          "group": "Caramelized onions",
+          "items": [
+            "2 large yellow onions (about 1½ lb / 680 g), sliced ¼ in (6 mm) thick",
+            "2 tbsp (28 g) unsalted butter",
+            "1 tbsp (15 ml) neutral oil",
+            "½ tsp (2 g) kosher salt",
+            "2 tbsp (30 ml) water, for deglazing"
+          ]
+        },
+        {
+          "group": "Patties and cheese",
+          "items": [
+            "1¼ lb (570 g) ground beef chuck, 80/20",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "8 slices Swiss cheese (about 6 oz / 170 g total)"
+          ]
+        },
+        {
+          "group": "Bread and butter",
+          "items": [
+            "8 slices seeded rye bread, about ½ in (1 cm) thick",
+            "4 tbsp (55 g) salted butter, softened",
+            "4 tbsp (60 g) Thousand Island or Russian dressing, optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start the onions low",
+          "text": "Melt the 2 tbsp butter with the 1 tbsp oil in a 12-inch (30 cm) skillet over medium heat, add the sliced onions and the ½ tsp salt, and stir to coat. They will look like far too much onion; they will cook down to about a quarter of that volume. Keep the heat at medium and stir every 3 or 4 minutes."
+        },
+        {
+          "title": "Caramelize for real",
+          "text": "Cook the onions for 30 to 35 minutes total, until they are jammy and the color of maple syrup, not just soft and blond. When brown film builds on the pan bottom, splash in a tablespoon of the water and scrape it up — that fond is pure flavor and it will burn if you leave it. Rushing this on high heat gives you scorched, bitter shreds instead of sweetness, so be patient."
+        },
+        {
+          "title": "Scrape them out and hold",
+          "text": "Transfer the finished onions to a bowl and set them aside, leaving the pan unwashed. You should have about 1 cup (240 ml) of dense, glossy onion. Do not wipe the skillet — the residue left behind will season the patties beautifully."
+        },
+        {
+          "title": "Shape thin oblong patties",
+          "text": "Divide the beef into 4 portions of 5 oz (140 g) each and press each one into a thin oval roughly the shape and size of your rye slices, about ⅜ inch (1 cm) thick. Matching the bread means every bite has meat in it, which is the whole point of a patty melt versus a burger on round bread. Season both sides with the kosher salt and pepper just before cooking."
+        },
+        {
+          "title": "Sear the patties fast",
+          "text": "Raise the heat to medium-high and cook the patties in the same skillet for 2½ to 3 minutes per side, in two batches if they do not fit without touching. They should sizzle hard and take on a dark crust. Because they will cook again inside the sandwich, pull them a shade under, around 150°F (66°C), and let the griddling finish the job."
+        },
+        {
+          "title": "Butter the bread on one side",
+          "text": "Spread the softened butter across one face of all 8 rye slices, right out to the edges and corners. Any bare spot will stay pale and taste dry while everything around it turns golden. Rye is the classic choice because its slight sourness and tight, sturdy crumb stand up to hot onions without collapsing."
+        },
+        {
+          "title": "Build the stacks",
+          "text": "Working on a cutting board, lay 4 slices butter side down. On each, layer one slice of Swiss, a quarter of the caramelized onions, the patty, 1 tbsp of dressing if using, a second slice of Swiss, and finally the last rye slice butter side up. Cheese goes on both the top and the bottom on purpose: as it melts it seals the onions in and glues the whole sandwich together."
+        },
+        {
+          "title": "Griddle low and slow",
+          "text": "Wipe the skillet clean and set it over medium-low heat. Cook the sandwiches for 4 to 5 minutes on the first side, pressing gently with a spatula every minute, until the rye is deep golden and crisp. Low heat is essential — high heat browns the bread in ninety seconds while the Swiss inside is still cold and solid."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Flip carefully with a wide spatula, supporting the top with your other hand so nothing slides out, and cook another 4 to 5 minutes. Peek at the seam: you want visible cheese oozing down the sides, which tells you the interior is fully hot. Before you pull the last one, slide an instant-read thermometer in through the edge of the sandwich and into the patty — ground beef is only safe at 160°F (71°C), and the griddling stage is what carries it there. If the bread is browning faster than the cheese is melting, drop the heat and cover the pan for 60 seconds."
+        },
+        {
+          "title": "Rest, cut, and serve",
+          "text": "Move the sandwiches to a rack for 2 minutes rather than a plate, so trapped steam escapes instead of turning the bottom crust soft. Cut each one in half on the diagonal with a serrated knife, using a sawing motion so you do not squeeze the filling out. Serve while the cheese is still stretching."
+        }
+      ],
+      "tips": [
+        "The onions are the whole sandwich and they can be made up to 5 days ahead. Double the batch and keep the rest for burgers, omelets, or French onion soup.",
+        "If your onions are stubbornly pale after 20 minutes, add a pinch of baking soda — it raises the pH and speeds browning dramatically. Use no more than ⅛ tsp or they turn mushy.",
+        "Swiss is traditional but young Gruyere is better if you have it. Avoid pre-shredded cheese; the anti-caking starch keeps it from melting smoothly.",
+        "Mayonnaise instead of butter on the outside of the bread browns more evenly and will not burn as easily, and honestly you cannot taste it.",
+        "Keep finished sandwiches warm on a rack in a 200°F (95°C) oven while you griddle the rest, so everyone eats at once."
+      ],
+      "keyTemp": "Ground beef is safe at 160°F (71°C); pull the patties near 150°F (66°C) at the sear and let the griddling stage carry them past 160°F (71°C) inside the sandwich.",
+      "pairing": "A pile of shoestring fries, dill pickle spears, and a cold pilsner or a chocolate malt.",
+      "videoQuery": "patty melt caramelized onions rye griddle",
+      "photoQuery": "patty melt rye swiss onions",
+      "tags": [
+        "Comfort Food",
+        "Cast Iron",
+        "Date Night"
+      ]
+    },
+    {
+      "id": "philly-cheesesteak",
+      "title": "Philly Cheesesteak with Onions and Provolone",
+      "emoji": "🥖",
+      "art": "sandwich",
+      "blurb": "Ribeye sliced whisper-thin, chopped on a hot griddle with sweet onions, and folded into a soft roll with melting provolone. The trick is the freezer, and it is not optional.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "20 min",
+      "totalTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "group": "For the meat",
+          "items": [
+            "1½ lb (680 g) boneless ribeye steak, trimmed of gristle",
+            "2 tbsp (30 ml) neutral oil, divided",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Onions and cheese",
+          "items": [
+            "2 medium yellow onions (about 1 lb / 450 g), sliced ⅛ in (3 mm) thick",
+            "1 tbsp (14 g) unsalted butter",
+            "½ tsp (2 g) kosher salt, for the onions",
+            "12 slices mild provolone (about 8 oz / 225 g total)"
+          ]
+        },
+        {
+          "group": "Rolls",
+          "items": [
+            "4 Amoroso-style hoagie rolls, 8 in (20 cm) long, soft with a thin crust",
+            "4 tbsp (55 g) salted butter, softened"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Freeze the ribeye firm",
+          "text": "Wrap the ribeye tightly in plastic and put it in the freezer for 30 to 45 minutes, until the outside is stiff but a knife still sinks in. This is the single step that separates a real cheesesteak from a pile of chewy beef chunks — soft, room-temperature steak simply cannot be cut thin enough by hand. Set a timer, because fully frozen meat is just as hard to slice."
+        },
+        {
+          "title": "Slice it paper thin",
+          "text": "Working against the grain with your sharpest knife, shave the chilled ribeye into slices no more than ⅛ inch (3 mm) thick — thinner if you can manage it. Stack the slices and give them a rough chop so the pieces are 2 to 3 inches (5 to 8 cm) long. Keep the meat in the fridge on a plate while you cook the onions."
+        },
+        {
+          "title": "Sweat the onions soft",
+          "text": "Heat 1 tbsp of the oil and the 1 tbsp butter in a 12-inch (30 cm) cast-iron skillet or on a flat griddle over medium heat, add the onions and their ½ tsp of salt, and cook 12 to 15 minutes. You want them fully soft, translucent, and just beginning to gild at the edges, not deeply caramelized like a French onion soup. Stir every couple of minutes and turn the heat down if they start to color too fast."
+        },
+        {
+          "title": "Push the onions aside",
+          "text": "Scrape the cooked onions to one half of the pan or slide them into a bowl to hold. You need bare, screaming-hot metal for the beef, and a pan crowded with wet onions will steam the meat gray instead of browning it. Turn the heat up to high and let the empty side recover for a full minute."
+        },
+        {
+          "title": "Split and butter the rolls",
+          "text": "Slice the hoagie rolls three-quarters of the way through so they open like a hinged book but stay connected along one side, then butter the cut faces. That hinge is structural: a fully split roll will fall apart under a pound of hot filling. Toast them cut side down on a dry pan or under the broiler for 60 to 90 seconds, just until barely golden."
+        },
+        {
+          "title": "Sear the beef hard",
+          "text": "Add the remaining 1 tbsp oil to the hot side of the pan, then spread half the beef in a single layer and leave it alone for 45 seconds. It should hiss violently. Cook in two batches; dumping all 1½ lb in at once drops the pan temperature and you will end up boiling the meat in its own juice."
+        },
+        {
+          "title": "Chop as it cooks",
+          "text": "Once the beef has some color, start chopping and turning it right in the pan with two stiff metal spatulas or a bench scraper, cutting the slices into smaller shreds as they cook. Season with the 1½ tsp salt and the pepper as you go. The whole cook takes 2 to 3 minutes per batch — thin ribeye goes from pink to overcooked in about thirty seconds, so keep it moving."
+        },
+        {
+          "title": "Fold everything together",
+          "text": "Return all the beef and the onions to the pan and toss them together over medium heat for 30 seconds until evenly mixed. Divide the mixture into 4 roughly roll-shaped piles right there on the griddle surface. Working in the pan like this is how the shops do it and it keeps everything hot through assembly."
+        },
+        {
+          "title": "Melt the provolone on top",
+          "text": "Lay 3 slices of provolone over each pile, overlapping them so they blanket the meat completely. Cover the pan with a lid or a sheet pan for 45 to 60 seconds — the trapped steam melts the cheese down into the beef rather than sitting on top like a lid. Mild provolone is the right call because sharp provolone can turn oily and overpower the ribeye."
+        },
+        {
+          "title": "Scoop and roll",
+          "text": "Slide a wide spatula under one cheese-covered pile, then invert the open roll over it and flip the whole thing so the sandwich lands filling side up inside the bread. This upside-down scoop keeps the cheese layer facing the roof of the roll, where it melts back down through everything. Press the top closed and repeat with the rest."
+        },
+        {
+          "title": "Serve immediately",
+          "text": "Cheesesteaks do not wait — the roll starts absorbing juice the moment the filling goes in, and after ten minutes the bottom is soft. Wrap each one in a half sheet of parchment or foil, twisted at the ends, both to hold it together and to keep it hot. Cut in half only if you are sharing, and cut with a serrated knife."
+        }
+      ],
+      "tips": [
+        "Ask the butcher to slice the ribeye for you on the deli slicer at the thinnest setting. Many will do it free and it saves the freezer step entirely.",
+        "Chuck eye or top sirloin work if ribeye is out of budget, but add 1 extra tbsp of oil since they carry less fat.",
+        "For the Whiz version, warm ½ cup (120 ml) of cheese sauce in a small pot and spoon it into the roll before the meat rather than melting it on the griddle.",
+        "The bread matters more than people admit: you want a soft, slightly chewy roll with a thin crust. A crusty baguette will shred the roof of your mouth and squeeze the filling out.",
+        "Slice the onions and shave the beef up to a day ahead, keeping them in separate covered containers, and the whole cook takes ten minutes."
+      ],
+      "keyTemp": "Thinly shaved beef is cooked through the moment the pink disappears, roughly 145°F (63°C); it needs no rest and turns tough if held above that.",
+      "pairing": "Salt and vinegar chips, hot cherry peppers on the side, and a cold lager.",
+      "videoQuery": "philly cheesesteak griddle ribeye provolone",
+      "photoQuery": "philly cheesesteak provolone hoagie roll",
+      "tags": [
+        "Weeknight",
+        "Cast Iron",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "italian-beef-giardiniera",
+      "title": "Chicago Italian Beef with Hot Giardiniera",
+      "emoji": "🌶️",
+      "art": "sandwich",
+      "blurb": "A slow-roasted chuck roast chilled overnight, shaved thin, and warmed in its own herbed jus, then packed into a roll with spicy giardiniera. Wet, messy, and worth every bit of the wait.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "2 hr 30 min",
+      "totalTime": "16 hr",
+      "ingredients": [
+        {
+          "group": "For the roast",
+          "items": [
+            "4 lb (1.8 kg) boneless beef chuck roast or top sirloin roast, tied",
+            "1 tbsp (15 g) kosher salt",
+            "2 tsp freshly ground black pepper",
+            "2 tbsp (30 ml) neutral oil",
+            "1 tbsp (8 g) garlic powder"
+          ]
+        },
+        {
+          "group": "For the jus",
+          "items": [
+            "6 cups (1.4 L) low-sodium beef stock",
+            "4 garlic cloves, smashed",
+            "1 tbsp (3 g) dried oregano",
+            "1 tbsp (3 g) dried basil",
+            "1 tsp crushed red pepper flakes",
+            "2 tsp (4 g) fennel seed, lightly crushed",
+            "2 bay leaves"
+          ]
+        },
+        {
+          "group": "To build",
+          "items": [
+            "6 Italian or French sub rolls, 8 in (20 cm) long",
+            "1½ cups (300 g) hot giardiniera, drained and roughly chopped",
+            "1 cup (150 g) roasted red bell peppers, sliced into strips",
+            "12 slices mild provolone (about 8 oz / 225 g total), optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Season the roast a day ahead",
+          "text": "Pat the chuck roast completely dry and rub it all over with the 1 tbsp kosher salt, the pepper, and the garlic powder. Set it on a rack over a sheet pan and refrigerate uncovered for at least 4 hours or overnight. Dry brining seasons the interior of a big roast in a way that surface salt applied at the last minute never can."
+        },
+        {
+          "title": "Sear on every side",
+          "text": "Heat the 2 tbsp oil in a large Dutch oven over medium-high until it shimmers, then brown the roast 3 to 4 minutes per side, including the ends, for about 15 minutes total. Do not rush this — the dark crust you build here is the entire flavor foundation of the jus. If the pan starts smoking hard, drop the heat slightly rather than letting the fond turn black and bitter."
+        },
+        {
+          "title": "Build the jus",
+          "text": "Lift the roast onto a plate and pour in the 6 cups of beef stock, scraping the bottom of the pot with a wooden spoon until every browned bit lifts. Add the smashed garlic, oregano, basil, red pepper flakes, crushed fennel seed, and bay leaves. Fennel and oregano are the two flavors that make this taste like Chicago rather than like pot roast, so measure them properly."
+        },
+        {
+          "title": "Roast low and covered",
+          "text": "Return the beef to the pot, cover, and roast at 300°F (150°C) until an instant-read thermometer in the center reads 150 to 155°F (65 to 68°C). For a 4 lb (1.8 kg) roast half-submerged in simmering stock that is about 2 hours, but start checking at 1 hour 30 minutes, because a covered pot moves faster than a dry oven and this cut goes from sliceable to shreddable in about twenty minutes. You are not going for fall-apart pot roast here — the meat needs to hold together well enough to shave thin. Turn the roast once halfway through so both halves spend time submerged."
+        },
+        {
+          "title": "Chill the beef in the jus",
+          "text": "Let everything cool on the counter for 1 hour, then lift out the beef, wrap it tightly, and refrigerate overnight. Strain the jus into a separate container and refrigerate that too. Cold beef is firm beef, and firm beef is the only kind you can shave into the paper-thin slices this sandwich requires."
+        },
+        {
+          "title": "Skim and taste the jus",
+          "text": "The next day, lift the solid cap of fat off the chilled jus in one sheet and discard it, or save a spoonful in a jar for roasting potatoes. Taste the jus cold, then warm a spoonful in a small pan to judge the seasoning properly, since cold liquid always tastes underseasoned. Add salt ¼ tsp at a time until it tastes like a good beefy broth on its own, because whatever the beef does not soak up is what you will be dipping in."
+        },
+        {
+          "title": "Shave the beef",
+          "text": "Cut away the butcher's twine and slice the cold roast against the grain as thin as you possibly can, aiming for under ⅛ inch (3 mm). A long, thin slicing knife or an electric knife makes this far easier than a chef's knife. Thin slices soak up jus like a sponge; thick slices just sit there and turn chewy."
+        },
+        {
+          "title": "Reheat gently in the jus",
+          "text": "Bring the strained jus to a bare simmer in a wide pot, around 180°F (82°C), then slide the sliced beef in and turn off the heat. Let it sit 3 to 5 minutes, just until heated through and floppy. Boiling the beef in the jus will squeeze it dry and tighten it into strings, so keep the liquid below a bubble."
+        },
+        {
+          "title": "Split and prep the rolls",
+          "text": "Slice each roll three-quarters of the way through, leaving a hinge along one side, and open it flat. Toast them cut side up under the broiler for 60 to 90 seconds until the surface is dry and just barely golden. A dried-out surface can absorb jus without instantly disintegrating, which is the entire structural secret of a wet sandwich."
+        },
+        {
+          "title": "Choose your dip level",
+          "text": "For a standard sandwich, use tongs to lift the beef straight from the pot letting it drip for a second or two. For dipped, ladle 2 tbsp of jus directly over the filled roll; for fully wet, dunk the whole assembled sandwich in the pot for 2 or 3 seconds and pull it right back out. Any longer and you are holding soup in a napkin."
+        },
+        {
+          "title": "Load and top",
+          "text": "Pile about 6 oz (170 g) of beef into each roll, add 2 slices of provolone if using so the residual heat softens them, then crown it with ¼ cup of chopped hot giardiniera and a few strips of roasted red pepper. Giardiniera goes on top, never underneath, because its oil and vinegar will destroy the bottom of the roll on contact. Serve immediately with plenty of napkins."
+        }
+      ],
+      "tips": [
+        "Both the sliced beef and the jus keep 4 days in the fridge and freeze beautifully for 3 months, so this is genuinely a cook-once-eat-twice project.",
+        "No time to chill overnight? Freeze the cooked roast for 45 minutes instead — it firms the exterior enough to slice, though the texture is slightly less clean.",
+        "Buy giardiniera packed in oil rather than brine if you can find it. The oil-packed style is what Chicago shops use and it clings to the beef instead of running out the back.",
+        "Save every drop of leftover jus. Reheated with a splash of stock it makes the next round of sandwiches, and it is exceptional over mashed potatoes.",
+        "Stand the finished sandwich upright and eat it leaning forward over the plate. This is the official Chicago stance and it exists for a reason."
+      ],
+      "keyTemp": "Roast to 150 to 155°F (65 to 68°C) so the beef stays sliceable, then reheat the slices in jus held at about 180°F (82°C) — never at a boil.",
+      "pairing": "A cold Old Style or a dry Italian red, with extra giardiniera and celery salt fries alongside.",
+      "videoQuery": "chicago italian beef sandwich jus recipe",
+      "photoQuery": "italian beef sandwich giardiniera dipped",
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "french-dip-au-jus",
+      "title": "French Dip with Real Au Jus",
+      "emoji": "🥖",
+      "art": "sandwich",
+      "blurb": "A rosy roast beef sliced thin, tucked into a crusty roll with melted provolone, and served with a cup of dark, glossy jus for dunking. Simple, but every part of it has to be right.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "2 hr",
+      "totalTime": "7 hr 55 min",
+      "ingredients": [
+        {
+          "group": "For the roast",
+          "items": [
+            "3½ lb (1.6 kg) beef top round or bottom round roast, tied",
+            "2½ tsp (12 g) kosher salt",
+            "1½ tsp coarsely ground black pepper",
+            "2 tbsp (30 ml) neutral oil",
+            "1 tsp (2 g) onion powder"
+          ]
+        },
+        {
+          "group": "For the au jus",
+          "items": [
+            "1 medium yellow onion (about 8 oz / 225 g), quartered",
+            "2 medium carrots (about 5 oz / 140 g), cut into 2 in (5 cm) chunks",
+            "4 garlic cloves, smashed",
+            "2 tbsp (30 g) tomato paste",
+            "½ cup (120 ml) dry red wine",
+            "5 cups (1.2 L) low-sodium beef stock",
+            "4 sprigs fresh thyme",
+            "1 tbsp (15 ml) Worcestershire sauce"
+          ]
+        },
+        {
+          "group": "To build",
+          "items": [
+            "6 crusty French sandwich rolls, 6 in (15 cm) long",
+            "3 tbsp (42 g) unsalted butter, softened",
+            "12 slices provolone (about 8 oz / 225 g total)",
+            "2 tbsp (30 g) prepared horseradish, optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry brine the roast",
+          "text": "Pat the round roast dry and rub it all over with the 2½ tsp kosher salt, the pepper, and the onion powder. Refrigerate it uncovered on a rack for at least 4 hours and ideally overnight, then pull it out 1 hour before cooking so it loses its refrigerator chill. A cold center makes the outside overcook while you wait for the middle to catch up."
+        },
+        {
+          "title": "Sear and build fond",
+          "text": "Heat the 2 tbsp oil in a Dutch oven over medium-high and brown the roast hard on all sides, 12 to 15 minutes total. Round is a lean cut with very little of its own flavor, so this crust is doing double duty for both the meat and the jus. Move it to a plate when every surface is deep mahogany."
+        },
+        {
+          "title": "Brown the vegetables",
+          "text": "Add the quartered onion, carrot chunks, and smashed garlic to the same pot and cook 5 minutes, stirring, until the cut faces take on color. Stir in the 2 tbsp tomato paste and cook another 2 minutes until it darkens from bright red to brick. Cooking the paste out this way removes its raw tinny edge and adds body to the finished jus."
+        },
+        {
+          "title": "Deglaze with wine",
+          "text": "Pour in the ½ cup of red wine and scrape the bottom of the pot hard with a wooden spoon while it bubbles. Let it reduce by about half, roughly 3 minutes, until it looks syrupy and no longer smells sharply of alcohol. Every browned speck you lift off the pot is flavor headed straight into your dipping cup."
+        },
+        {
+          "title": "Roast to 130°F",
+          "text": "Add the 5 cups of stock, the thyme sprigs, and the Worcestershire, then nestle the roast in — the liquid should come about a third of the way up, not cover it. Roast uncovered at 325°F (165°C) until the center reads 130°F (54°C) for medium-rare, about 1 hour 15 minutes to 1 hour 30 minutes. Start checking at the 1 hour mark, because lean round overshoots fast."
+        },
+        {
+          "title": "Rest the beef fully",
+          "text": "Move the roast to a cutting board, tent it loosely with foil, and rest it for at least 30 minutes. The internal temperature will coast up another 5 to 8°F (3 to 4°C) as it sits. Slicing early is the classic mistake here: all the juice runs onto the board and you are left with dry roast beef and a wet cutting board."
+        },
+        {
+          "title": "Strain and reduce the jus",
+          "text": "Strain the pot liquid through a fine sieve into a saucepan, pressing gently on the vegetables, then discard the solids. Simmer it over medium heat until it reduces to about 3 cups (700 ml) and coats a spoon lightly, 15 to 20 minutes. Skim the fat off the top with a wide spoon, taste, and adjust with salt ¼ tsp at a time."
+        },
+        {
+          "title": "Slice against the grain",
+          "text": "Find the direction the muscle fibers run and slice straight across them, as thin as you can, ideally ⅛ inch (3 mm). With a lean cut like round, cutting against the grain is the difference between tender and leathery. Add any juice that pools on the board back into the jus."
+        },
+        {
+          "title": "Prepare the rolls",
+          "text": "Split the rolls, butter the cut faces, and toast them under the broiler for 90 seconds until the surface is dry, golden, and slightly crisp. A crusty French roll is essential for a dip sandwich: soft bread turns to paste the second it hits the jus, while a firm crumb drinks up liquid and holds its shape. Watch the broiler constantly, since ninety seconds and three minutes look very different."
+        },
+        {
+          "title": "Warm the beef in jus",
+          "text": "Dip the sliced beef into the hot jus for just 10 to 15 seconds using tongs, only long enough to warm it and pick up flavor. Do not let it sit in there — medium-rare beef will keep cooking in 180°F (82°C) liquid and turn gray and firm within a minute. Lift, let it drip briefly, and pile it into the rolls."
+        },
+        {
+          "title": "Melt the cheese and serve",
+          "text": "Lay 2 slices of provolone over the hot beef in each open roll and slide them under the broiler for 45 to 60 seconds, just until the cheese slumps and blisters in spots. Close the sandwiches, cut them in half on a diagonal, and serve each one with a small ramekin holding about ½ cup (120 ml) of hot jus. Spread horseradish on the top half first if you want the classic sharp counterpoint."
+        }
+      ],
+      "tips": [
+        "Make the roast and jus a day ahead. Cold beef slices dramatically thinner, and you can reheat the slices in jus in under a minute right before serving.",
+        "No wine in the house? Substitute ½ cup (120 ml) of extra beef stock plus 1 tsp red wine vinegar for the acidity the wine was providing.",
+        "If your jus tastes flat, it is almost always underseasoned or underreduced. Reduce another 5 minutes before you reach for more salt.",
+        "Do not dunk the whole sandwich for more than about two seconds. The jus is a dipping sauce, not a bath, and even good bread has limits.",
+        "Leftover sliced beef makes exceptional cold roast beef sandwiches with horseradish mayo the next day."
+      ],
+      "keyTemp": "Pull the roast at 130°F (54°C) for medium-rare; it will carry over to about 135 to 138°F (57 to 59°C) during the 30-minute rest.",
+      "pairing": "Kettle chips or a simple green salad, and a glass of the same red wine you deglazed with.",
+      "videoQuery": "french dip sandwich au jus roast beef",
+      "photoQuery": "french dip sandwich au jus provolone",
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "Date Night"
+      ]
+    },
+    {
+      "id": "cuban-sandwich",
+      "title": "Cubano with Mojo Roast Pork",
+      "emoji": "🥪",
+      "art": "sandwich",
+      "blurb": "Citrus-marinated roast pork, sweet ham, Swiss, pickles, and mustard pressed flat until the bread crackles. Nothing extra, nothing missing, and absolutely no lettuce.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "3 hr",
+      "totalTime": "7 hr 55 min",
+      "ingredients": [
+        {
+          "group": "Mojo pork",
+          "items": [
+            "3 lb (1.4 kg) boneless pork shoulder",
+            "¾ cup (180 ml) fresh orange juice",
+            "⅓ cup (80 ml) fresh lime juice",
+            "8 garlic cloves, minced (about 3 tbsp)",
+            "2 tsp (2 g) dried oregano",
+            "1½ tsp (3 g) ground cumin",
+            "2 tsp (10 g) kosher salt",
+            "¼ cup (60 ml) olive oil",
+            "½ cup (120 ml) water, for the roasting pan"
+          ]
+        },
+        {
+          "group": "To build",
+          "items": [
+            "2 loaves Cuban bread or 6 soft sub rolls, 8 in (20 cm) each",
+            "12 oz (340 g) thinly sliced Swiss cheese",
+            "12 oz (340 g) thinly sliced smoked deli ham",
+            "24 dill pickle chips or 1 cup (150 g) sliced dill pickles",
+            "6 tbsp (90 g) yellow mustard",
+            "6 tbsp (85 g) unsalted butter, softened"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the mojo marinade",
+          "text": "Whisk the orange juice, lime juice, minced garlic, oregano, cumin, 2 tsp kosher salt, and olive oil together in a bowl until the salt dissolves. Sour orange is traditional, and this two-to-one mix of orange to lime is the standard substitute that gets you very close. Reserve ¼ cup (60 ml) of the mojo in a separate container for later — do not marinate raw pork in the portion you plan to serve."
+        },
+        {
+          "title": "Marinate the pork",
+          "text": "Put the pork shoulder in a zip-top bag or a snug dish, pour the remaining marinade over it, and refrigerate for at least 4 hours or up to 24. Turn it once or twice so every surface spends time in the citrus. Longer is genuinely better here, since a shoulder is thick and acid penetrates slowly."
+        },
+        {
+          "title": "Roast it low and covered",
+          "text": "Lift the pork from the marinade, pat the surface dry, and set it fat side up in a roasting pan or Dutch oven with ½ cup (120 ml) of water in the bottom. Cover tightly with foil and roast at 300°F (150°C) for about 2½ hours. The steam trapped under that foil keeps the exterior from drying out while collagen slowly melts."
+        },
+        {
+          "title": "Uncover and brown",
+          "text": "Pull the foil off, raise the oven to 425°F (220°C), and roast another 20 to 30 minutes until the outside is browned and crisp in patches. The pork is ready when a thermometer reads 190 to 195°F (88 to 91°C) and a fork twists easily in the meat. Whole cuts of pork are safe at 145°F (63°C), but shoulder needs this much higher finish for the connective tissue to break down."
+        },
+        {
+          "title": "Rest, then slice cold",
+          "text": "Rest the roast at least 30 minutes, spooning the reserved ¼ cup of clean mojo over it while it is still hot so it soaks in. For the cleanest sandwich slices, chill the pork completely and slice it thin the next day. Warm shoulder shreds rather than slices, and shreds slide out of a pressed sandwich."
+        },
+        {
+          "title": "Cut and open the bread",
+          "text": "Cut the bread into 6 portions about 8 inches (20 cm) long and split each one horizontally, leaving a hinge if you can. Cuban bread has a thin, papery crust and a soft, almost fluffy crumb, which is exactly what allows it to compress to half its height without turning into a cracker. If you cannot find it, soft Italian sub rolls are the closest common substitute; a crusty baguette is not."
+        },
+        {
+          "title": "Mustard both faces",
+          "text": "Spread about ½ tbsp of yellow mustard on each cut face, edge to edge, so each sandwich carries roughly 1 tbsp in total and the 6 tbsp covers all twelve faces. Yellow mustard is not a lazy choice here, it is the correct one — its vinegar sharpness is what cuts through all that pork fat and cheese. Mayonnaise has no place in a traditional Cubano and will make the whole thing heavy."
+        },
+        {
+          "title": "Stack in the correct order",
+          "text": "On the bottom half, layer in this order: Swiss cheese, roast pork, ham, pickles, then a second layer of Swiss, then the top bread. Cheese goes on the outside of the stack on both sides so that as it melts it seals the pickles and their brine away from the bread. Keep the pickles in a single flat layer rather than a pile, or the sandwich will not press evenly."
+        },
+        {
+          "title": "Butter the outside",
+          "text": "Spread the softened butter across the top and bottom outer crusts of each sandwich. This is what gives a Cubano its signature shattering, golden-brown shell, so be generous and cover the whole surface. Skipping the butter gives you a warm sandwich rather than a pressed one."
+        },
+        {
+          "title": "Press it flat",
+          "text": "Heat a skillet or griddle over medium-low, lay in a sandwich, and set a second heavy pan on top, weighted with a couple of cans if you have no plancha. Press for 4 to 5 minutes per side, flipping once, until the sandwich has compressed to about half its original height and the cheese is fully melted. Medium-low is essential: high heat browns the bread long before the center is hot."
+        },
+        {
+          "title": "Rest briefly and cut",
+          "text": "Let each pressed sandwich sit for 1 minute before cutting so the molten cheese sets just enough to stay put. Cut on a sharp diagonal with a serrated knife using long sawing strokes rather than pressing down. Serve immediately while the crust is still crackling."
+        }
+      ],
+      "tips": [
+        "Short on time? A pound of good deli roast pork or even sliced porchetta works, and the sandwich is still very good. Warm the slices in a splash of mojo first.",
+        "The pork keeps 4 days refrigerated and freezes for 3 months sliced. Portion it in sandwich-sized stacks with parchment between.",
+        "No press or second pan? Wrap the sandwich in foil and press it with a foil-wrapped brick, or just lean on it hard with a spatula for the entire cook.",
+        "Blot your pickles dry before they go in. Wet pickles will steam the inside of the bread and undo everything the pressing accomplished.",
+        "Ham and Swiss are the traditional pairing but a thin layer of salami turns it into a Tampa-style Cubano, which is also correct depending on who you ask."
+      ],
+      "keyTemp": "Whole cuts of pork are safe at 145°F (63°C) with a 3-minute rest, but this shoulder needs 190 to 195°F (88 to 91°C) for the collagen to melt and the meat to slice tenderly.",
+      "pairing": "Plantain chips or yuca fries, plus a cold Cuban-style espresso or a Mexican lager with lime.",
+      "videoQuery": "cuban sandwich mojo pork press technique",
+      "photoQuery": "cuban sandwich pressed pork swiss pickles",
+      "tags": [
+        "Make Ahead",
+        "Crowd Pleaser",
+        "Comfort Food"
+      ]
+    },
+    {
+      "id": "classic-reuben",
+      "title": "Griddled Reuben on Marble Rye",
+      "emoji": "🥪",
+      "art": "sandwich",
+      "blurb": "Corned beef, sauerkraut, Swiss, and Russian dressing griddled in butter until the rye shatters. The whole sandwich hinges on one thing: squeezing the kraut properly dry.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "20 min",
+      "totalTime": "35 min",
+      "ingredients": [
+        {
+          "group": "Russian dressing",
+          "items": [
+            "½ cup (120 g) mayonnaise",
+            "3 tbsp (45 g) ketchup or chili sauce",
+            "1 tbsp (10 g) finely minced shallot",
+            "1 tbsp (10 g) minced dill pickle",
+            "1 tsp (5 ml) Worcestershire sauce",
+            "1 tsp (5 g) prepared horseradish",
+            "¼ tsp (1 g) sweet paprika"
+          ]
+        },
+        {
+          "group": "Sandwich",
+          "items": [
+            "1 lb (450 g) thinly sliced cooked corned beef brisket",
+            "1½ cups (300 g) sauerkraut, drained and squeezed dry",
+            "8 slices Swiss cheese (about 8 oz / 225 g total)",
+            "8 slices marble or seeded rye bread, ½ in (1 cm) thick",
+            "4 tbsp (55 g) salted butter, softened",
+            "1 tsp (2 g) caraway seeds, optional"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Stir the Russian dressing",
+          "text": "Combine the mayonnaise, ketchup, minced shallot, minced pickle, Worcestershire, horseradish, and paprika in a bowl and stir until uniform. The working ratio is about 2 parts mayo to 1 part ketchup, which keeps it creamy and tangy rather than sweet. Let it sit at least 10 minutes so the raw shallot mellows and the flavors marry."
+        },
+        {
+          "title": "Squeeze the sauerkraut dry",
+          "text": "Dump the drained sauerkraut into the center of a clean kitchen towel, gather the corners, and wring it hard over the sink until barely a drop comes out. You should lose close to ⅓ cup (80 ml) of liquid. This is the single most important step in the whole recipe — wet kraut is why most homemade Reubens end up as a soggy tragedy."
+        },
+        {
+          "title": "Warm the kraut and beef",
+          "text": "In a dry skillet over medium heat, toast the squeezed kraut with the caraway seeds for 3 to 4 minutes to drive off any remaining moisture and wake up the aroma. Slide it to a bowl, then warm the sliced corned beef in the same pan for about 2 minutes, just until it loses its chill and goes floppy. Warm filling means the cheese melts on schedule instead of leaving you with a cold center."
+        },
+        {
+          "title": "Butter the bread evenly",
+          "text": "Spread the softened butter across one side of each of the 8 rye slices, all the way to the crust. Cold butter tears the bread and leaves bare patches that will not brown, so let it soften on the counter for 20 minutes first. Rye is the right bread because its dense crumb resists the dressing and its sour, caraway notes stand up to corned beef."
+        },
+        {
+          "title": "Dress the inside faces",
+          "text": "Flip the slices over and spread about 1½ tbsp of Russian dressing on the unbuttered side of each one. Dressing on both slices, rather than a thick layer on just one, distributes the moisture and keeps any single spot from getting saturated. Go edge to edge; the corners of a sandwich are where the disappointment lives."
+        },
+        {
+          "title": "Layer for a moisture barrier",
+          "text": "On 4 of the slices, lay down 1 slice of Swiss, then a quarter of the corned beef, then a quarter of the kraut, then a second slice of Swiss, then the top slice of rye dressed side down. Cheese on both the top and the bottom of the pile is deliberate — it melts into a seal that keeps the kraut's acidity off the bread. Do not overload it; 4 oz of beef per sandwich is plenty."
+        },
+        {
+          "title": "Preheat the griddle gently",
+          "text": "Set a large skillet or griddle over medium-low heat and give it 3 minutes to come up evenly. You are aiming for around 300°F (150°C), which sounds low but is correct. A Reuben is thick, and the only way to melt the interior without incinerating the rye is to go slow."
+        },
+        {
+          "title": "Griddle the first side",
+          "text": "Lay the sandwiches in the pan and cook 4 to 5 minutes, pressing lightly with a spatula every minute or so to encourage contact. Lift a corner at 4 minutes to check color; you want an even deep golden brown, not leopard spots. If it is browning in under 3 minutes, the pan is too hot."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Flip with a wide spatula, steadying the top with your hand, and cook another 4 to 5 minutes. Look for cheese visibly melting out of the seams, which is your best signal that the middle is properly hot. Cover the pan for the last minute if the cheese is lagging behind the bread."
+        },
+        {
+          "title": "Rest on a rack and cut",
+          "text": "Move the sandwiches to a wire rack for 2 minutes so steam escapes from underneath instead of softening the crust you just built. Cut each in half on the diagonal with a serrated knife, sawing gently rather than pressing. Serve with extra Russian dressing on the side and a pickle spear."
+        }
+      ],
+      "tips": [
+        "Russian dressing keeps 2 weeks in the fridge and is the best thing that can happen to a wedge salad or a burger.",
+        "Ask the deli to slice the corned beef thin but not shaved — around ⅛ inch (3 mm). Shaved beef mats into a solid layer instead of staying pillowy.",
+        "Swap the corned beef for pastrami and you have a Rachel adjacent classic; swap the kraut for coleslaw and it becomes a true Rachel.",
+        "Mayonnaise on the outside of the bread instead of butter browns more evenly and has a higher smoke point, which is a genuinely useful cheat.",
+        "Making four at once? Griddle them all, then hold on a rack in a 200°F (95°C) oven for up to 15 minutes without losing crispness."
+      ],
+      "keyTemp": "Deli corned beef is already cooked; you are only reheating it to about 140°F (60°C), which is when the Swiss will be fully melted and running at the seams.",
+      "pairing": "A crisp dill pickle, kettle chips, and a dark lager or a cream soda.",
+      "videoQuery": "reuben sandwich griddle russian dressing",
+      "photoQuery": "reuben sandwich rye corned beef melted",
+      "tags": [
+        "30 Minutes",
+        "Deli Classic",
+        "Comfort Food"
+      ]
+    },
+    {
+      "id": "nashville-hot-chicken-sandwich",
+      "title": "Nashville Hot Chicken Sandwich",
+      "emoji": "🍗",
+      "art": "chicken",
+      "blurb": "Buttermilk-brined thighs fried shatteringly crisp, then brushed with a cayenne paste made from the frying oil itself. Pickles and slaw are not garnish here, they are fire control.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "30 min",
+      "totalTime": "5 hr",
+      "ingredients": [
+        {
+          "group": "Brine and chicken",
+          "items": [
+            "4 boneless skinless chicken thighs (about 1½ lb / 680 g total)",
+            "1½ cups (360 ml) buttermilk",
+            "1 tbsp (15 g) kosher salt",
+            "1 tbsp (15 ml) dill pickle brine",
+            "1 tsp (3 g) cayenne pepper",
+            "1 large egg"
+          ]
+        },
+        {
+          "group": "Dredge and frying",
+          "items": [
+            "2 cups (250 g) all-purpose flour",
+            "2 tbsp (16 g) cornstarch",
+            "1 tbsp (8 g) paprika",
+            "2 tsp (6 g) garlic powder",
+            "2 tsp (10 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "6 cups (1.4 L) peanut or vegetable oil, for frying"
+          ]
+        },
+        {
+          "group": "Hot paste",
+          "items": [
+            "½ cup (120 ml) hot frying oil, reserved from the pot",
+            "3 tbsp (24 g) cayenne pepper, or 2 tbsp for medium heat",
+            "1 tbsp (12 g) dark brown sugar",
+            "1 tsp (3 g) smoked paprika",
+            "1 tsp (3 g) garlic powder",
+            "½ tsp (2 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To build",
+          "items": [
+            "4 soft white sandwich buns or 8 slices white bread",
+            "2 tbsp (28 g) salted butter, softened",
+            "24 dill pickle chips (about 3 oz / 85 g)",
+            "1½ cups (150 g) crunchy coleslaw, drained"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Brine the thighs",
+          "text": "Whisk the buttermilk, 1 tbsp kosher salt, pickle brine, 1 tsp cayenne, and the egg together in a bowl, then submerge the chicken thighs. Cover and refrigerate at least 4 hours, or overnight for the best result. Buttermilk's acidity and salt tenderize the meat and season it all the way through, and the egg gives the dredge something to grip."
+        },
+        {
+          "title": "Pound to even thickness",
+          "text": "Before brining, lay each thigh flat and press or gently pound the thick end so the whole piece is a fairly even ¾ inch (2 cm). Uneven thighs are the reason home fried chicken comes out raw in one spot and dry in another. Trim off any hanging fat, which will not render in the short fry time."
+        },
+        {
+          "title": "Mix the dredge",
+          "text": "Whisk the flour, cornstarch, paprika, 2 tsp garlic powder, 2 tsp salt, and black pepper in a wide shallow dish. Spoon in 3 tbsp of the buttermilk brine and rake it through with your fingers until you have shaggy little clumps throughout. Those clumps are what fry into the craggy, crunchy ridges that hold the hot oil paste."
+        },
+        {
+          "title": "Dredge and rest",
+          "text": "Lift each thigh from the brine, let the excess drip for 3 seconds, then press it firmly into the flour, packing the coating on from every angle. Set the coated pieces on a wire rack and let them rest 15 minutes at room temperature. That rest hydrates the flour into a glue-like layer so the crust does not slide off in the fryer."
+        },
+        {
+          "title": "Heat the oil to 325°F",
+          "text": "Pour the 6 cups of oil into a deep, heavy pot so it comes no more than halfway up the sides, and heat to 325°F (163°C) on a clip-on thermometer. That temperature is deliberately lower than for wings, because a thick thigh needs 6 or 7 minutes to cook through and 350°F would burn the crust first. Keep the thermometer in and adjust the burner constantly."
+        },
+        {
+          "title": "Fry two at a time",
+          "text": "Gently lower in 2 thighs and fry 6 to 8 minutes, turning once at the halfway mark, until the crust is deep golden brown. The oil temperature will crash to about 290°F (143°C) when the chicken goes in, which is expected — nudge the heat up to bring it back toward 325°F (163°C). Frying all four at once would drop the oil so far that the crust turns greasy instead of crisp."
+        },
+        {
+          "title": "Check for 165°F",
+          "text": "Probe the thickest part of a thigh with an instant-read thermometer: chicken is safe and juicy at 165°F (74°C), and thighs are forgiving up to about 175°F (79°C). Drain the finished pieces on a wire rack, never on paper towels, so the bottom crust stays crisp instead of steaming. Let the oil come back to 325°F (163°C) before the second batch."
+        },
+        {
+          "title": "Make the hot paste",
+          "text": "Whisk the 3 tbsp cayenne, brown sugar, smoked paprika, 1 tsp garlic powder, and ½ tsp salt in a heatproof bowl. Carefully ladle ½ cup (120 ml) of the hot frying oil straight from the pot into the spices and whisk until smooth and glossy. Using the frying oil is the actual Nashville technique: it carries the chicken flavor and blooms the cayenne so the heat is round rather than raw and dusty."
+        },
+        {
+          "title": "Brush it on hot",
+          "text": "Brush the paste generously over both sides of each hot thigh with a silicone pastry brush, letting it soak into all the craggy bits. Do this the moment the chicken comes out of the fryer, while the crust is still porous and thirsty. Start with a thinner coat than you think you want, because you can always brush on more but you cannot take it back."
+        },
+        {
+          "title": "Toast the buns",
+          "text": "Butter the cut faces and toast them in a dry skillet over medium heat for about 60 seconds until golden. Plain soft white bread or a squishy potato bun is traditional and correct — you want something that soaks up the spiced oil rather than fighting it. A crusty artisan roll would be wrong in both texture and spirit."
+        },
+        {
+          "title": "Build and serve immediately",
+          "text": "Lay pickle chips on the bottom bun in a flat overlapping layer, set the hot chicken on top, add a small handful of drained slaw, and cap it. Pickles go underneath so their brine cannot reach the crust, and the slaw rides on top where its cool crunch hits your tongue first. Serve right away with the extra pickles and a very cold drink."
+        }
+      ],
+      "tips": [
+        "Cayenne heat is personal. Use 1½ tbsp for a warm sandwich and 3 tbsp for genuinely hot, or skip the paste entirely and you have a straight-up crispy fried chicken sandwich.",
+        "Wear gloves when you brush the paste on, and do not touch your face afterward. Cayenne oil clings to skin for hours.",
+        "The brined and dredged chicken can rest on a rack in the fridge for up to 2 hours before frying, which actually improves crust adhesion.",
+        "No thermometer for the oil? Drop in a pinch of dredge — it should sizzle steadily and rise within 2 seconds, not erupt violently or sink quietly.",
+        "Reheat leftovers on a rack in a 375°F (190°C) oven for 10 minutes. A microwave will turn that crust into wet cardboard."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the thickest point; thighs stay juicy up to about 175°F (79°C), so err high rather than low.",
+      "pairing": "White bread, extra pickles, and something cold and sweet — sweet tea, a milkshake, or a light lager.",
+      "videoQuery": "nashville hot chicken sandwich cayenne oil",
+      "photoQuery": "nashville hot chicken sandwich pickles",
+      "tags": [
+        "Spicy",
+        "Weekend Project",
+        "Fried"
+      ]
+    },
+    {
+      "id": "blt-done-right",
+      "title": "The BLT Done Properly",
+      "emoji": "🥓",
+      "art": "sandwich",
+      "blurb": "Three ingredients and nowhere to hide, so every one of them has to be handled correctly. Salted tomatoes, oven-flat bacon, and mayonnaise spread edge to edge on toast that is still warm.",
+      "difficulty": "Easy",
+      "servings": "2 servings",
+      "prepTime": "10 min",
+      "cookTime": "18 min",
+      "totalTime": "28 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "8 slices thick-cut bacon (about 8 oz / 225 g)",
+            "4 slices good white sandwich bread or sourdough, ½ in (1 cm) thick",
+            "1 large ripe tomato (about 8 oz / 225 g), cut into 6 slices ¼ in (6 mm) thick",
+            "4 tbsp (60 g) mayonnaise",
+            "4 large leaves iceberg or crisp romaine lettuce",
+            "½ tsp (2 g) flaky sea salt",
+            "¼ tsp (1 g) freshly ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Start the bacon in a cold oven",
+          "text": "Lay the 8 bacon slices flat on a foil-lined rimmed sheet pan without overlapping, then put the pan into a cold oven and set it to 400°F (205°C). Starting cold lets the fat render gradually so the bacon cooks flat and evenly instead of buckling. Flat bacon is not a cosmetic detail — curled slices leave gaps that make the whole sandwich slip apart."
+        },
+        {
+          "title": "Cook to the right doneness",
+          "text": "Bake 16 to 20 minutes total, checking at 14 minutes since ovens and bacon thickness vary a lot. You want it deep brown and firm but with a slight bend left in it, not shattering-brittle, because brittle bacon smashes into shards on the first bite. Move the slices to a wire rack rather than paper towels so they stay crisp."
+        },
+        {
+          "title": "Salt and drain the tomato",
+          "text": "Lay the tomato slices on a double layer of paper towels and sprinkle them with about ¼ tsp of the flaky salt. Let them sit 10 minutes, then blot the tops dry. Salting draws out the watery seed jelly that would otherwise flood your bread, and it concentrates the tomato's own flavor at the same time."
+        },
+        {
+          "title": "Chill and dry the lettuce",
+          "text": "Tear the lettuce leaves into pieces roughly the size of your bread and dunk them in a bowl of ice water for 5 minutes. Spin or pat them completely dry — any clinging water will thin the mayonnaise and soak the toast. The ice bath is what gives iceberg that loud, glassy crunch that makes a BLT worth eating."
+        },
+        {
+          "title": "Toast the bread",
+          "text": "Toast all 4 slices until they are golden and firm all the way to the edges, about 3 minutes in a toaster or 2 minutes per side in a dry skillet. You want them dry and rigid rather than lightly warmed, because toast is the structural floor of this sandwich. Let them cool for just 30 seconds so trapped steam escapes and they do not go limp."
+        },
+        {
+          "title": "Mayonnaise both slices, edge to edge",
+          "text": "Spread 1 tbsp of mayonnaise on one face of every slice, pushing it right into the corners. Mayo on both slices is doing two jobs: it delivers the fat and acid that ties bacon and tomato together, and it forms a waterproof seal on the bread. A bare corner is a corner that will be soggy in three minutes."
+        },
+        {
+          "title": "Break the bacon to fit",
+          "text": "Snap each bacon slice in half so the pieces sit inside the footprint of the bread, then arrange them in a tight single layer with the halves running in opposite directions. Crosshatching this way means every bite gets bacon rather than a mouthful of plain bread followed by a mouthful of all bacon. Four half-slices per sandwich is the right load."
+        },
+        {
+          "title": "Stack in the correct order",
+          "text": "Build it bottom bread, lettuce, bacon, tomato, lettuce, top bread. The lettuce leaves act as gaskets on both sides, keeping the wet tomato from ever touching the bread, and the bacon underneath keeps the tomato from sliding. Season the tomato with the remaining flaky salt and the black pepper the moment before you cap it."
+        },
+        {
+          "title": "Press, cut, and eat now",
+          "text": "Set the top slice on and press down gently and evenly with your palm for about 3 seconds to lock the layers together. Cut on the diagonal with a serrated knife, using a sawing motion so the filling stays put. A BLT has roughly a five-minute life span before physics takes over, so make it last, not first."
+        }
+      ],
+      "tips": [
+        "Only make this when tomatoes are actually in season. In January, use jarred roasted red peppers or thick avocado slices instead and call it something else.",
+        "Bacon can be baked up to 3 days ahead and recrisped in a 350°F (175°C) oven for 4 minutes, which makes a weekday BLT a ten-minute affair.",
+        "A thin smear of pesto or a few basil leaves under the tomato is the one addition that improves a BLT without breaking it.",
+        "Save the rendered bacon fat in a jar in the fridge. Frying the bread in it instead of toasting is decadent and completely worth trying once.",
+        "If your bread is soft sandwich bread, toast it a shade darker than feels right. It softens as soon as the fillings go in."
+      ],
+      "keyTemp": "Bacon is done when it is deep brown, firm, and still slightly flexible; pork bacon is fully cooked well before that point, so judge by color and texture rather than a target of 145°F (63°C).",
+      "pairing": "Kettle chips, an ice-cold beer or lemonade, and a napkin you are prepared to lose.",
+      "videoQuery": "how to make the best blt sandwich",
+      "photoQuery": "blt sandwich bacon lettuce tomato toast",
+      "tags": [
+        "30 Minutes",
+        "Summer",
+        "Weeknight"
+      ]
+    },
+    {
+      "id": "grilled-cheese-tomato-soup",
+      "title": "Grilled Cheese with Tomato Soup",
+      "emoji": "🧀",
+      "art": "cheese",
+      "blurb": "A properly griddled cheese sandwich with a shattering crust and a molten center, plus the creamy tomato soup it was built to be dunked into. Comfort food with real technique behind it.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "35 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "Tomato soup",
+          "items": [
+            "2 tbsp (28 g) unsalted butter",
+            "1 medium yellow onion (about 8 oz / 225 g), diced",
+            "3 garlic cloves, minced (about 1 tbsp)",
+            "1 can (28 oz / 800 g) whole peeled San Marzano tomatoes",
+            "2 cups (480 ml) low-sodium chicken or vegetable stock",
+            "1 tsp (5 g) kosher salt, plus more to taste",
+            "1 tsp (4 g) granulated sugar",
+            "½ cup (120 ml) heavy cream",
+            "8 fresh basil leaves"
+          ]
+        },
+        {
+          "group": "Grilled cheese",
+          "items": [
+            "8 slices sturdy white sandwich bread or pain de mie, ½ in (1 cm) thick",
+            "4 tbsp (55 g) unsalted butter, softened",
+            "6 oz (170 g) sharp cheddar, coarsely grated",
+            "4 oz (115 g) low-moisture mozzarella or young Gouda, grated",
+            "2 tbsp (24 g) grated Parmesan, for the crust"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Sweat the aromatics",
+          "text": "Melt the 2 tbsp butter in a heavy 4-quart (4 L) pot over medium heat, add the diced onion and a pinch of salt, and cook 6 to 8 minutes until soft and translucent. Add the minced garlic and cook 60 seconds more, just until it smells sweet rather than sharp. Do not let the garlic brown, because burnt garlic will haunt the entire pot with bitterness."
+        },
+        {
+          "title": "Add tomatoes and simmer",
+          "text": "Crush the canned tomatoes with your hands as you add them, then pour in their juice, the 2 cups of stock, the 1 tsp salt, and the sugar. Bring it to a simmer and cook uncovered for 20 minutes, stirring occasionally. That sugar is not there to make it sweet — it balances the natural acidity of canned tomatoes so the soup does not taste sharp."
+        },
+        {
+          "title": "Blend until silky",
+          "text": "Blend the soup smooth with an immersion blender, or in batches in a countertop blender with the lid vented and covered by a towel. Never fill a blender more than halfway with hot liquid; steam expands and will blow the lid off. Blend a full 60 seconds longer than you think you need to for a genuinely velvety texture."
+        },
+        {
+          "title": "Finish with cream and basil",
+          "text": "Stir in the ½ cup heavy cream and the basil leaves, then warm the soup over low heat for 5 minutes without letting it boil. Boiling after the cream goes in can cause it to break into grainy curds against the tomato acid. Taste and adjust with salt ¼ tsp at a time, then keep it warm while you cook the sandwiches."
+        },
+        {
+          "title": "Grate your own cheese",
+          "text": "Grate the cheddar and mozzarella on the large holes of a box grater and toss them together in a bowl. Pre-shredded cheese is coated in potato starch or cellulose to stop clumping, and that coating makes it melt into a stringy, slightly grainy mess. Mixing a sharp cheese for flavor with a good melter for texture is the whole trick."
+        },
+        {
+          "title": "Butter the bread edge to edge",
+          "text": "Spread the softened butter across one side of all 8 bread slices, covering every corner. Sturdy sandwich bread with a tight crumb works best; airy artisan loaves have holes that let cheese escape and burn in the pan. Press the Parmesan onto the buttered faces if you want the frico-style crust, which is genuinely worth doing."
+        },
+        {
+          "title": "Fill without overloading",
+          "text": "Turn 4 slices butter side down and mound about 2½ oz (70 g) of the cheese mixture on each, spreading it to within ½ inch (1 cm) of the edges. Cap with the remaining slices, butter side up. Leaving that border keeps the cheese from oozing out and scorching, and it means the sandwich actually seals shut."
+        },
+        {
+          "title": "Griddle on medium-low",
+          "text": "Heat a large skillet over medium-low for 3 minutes, aiming for roughly 275 to 300°F (135 to 150°C). Lay in the sandwiches and cook 4 to 5 minutes on the first side without pressing. High heat is the number one grilled cheese mistake: you get a dark crust in ninety seconds and a cold, solid brick of cheese inside."
+        },
+        {
+          "title": "Flip and press",
+          "text": "Flip carefully and cook another 4 to 5 minutes, now pressing gently with a spatula to bring the top slice down into the melting cheese. Look for cheese oozing at the seams as your doneness signal. If the bread is getting too dark before the cheese melts, cover the pan for the last 60 seconds and take the heat down a notch."
+        },
+        {
+          "title": "Rest, cut, and dunk",
+          "text": "Move the sandwiches to a cutting board and wait 1 minute so the cheese sets enough to stay inside when you cut. Slice on the diagonal with a serrated knife. Ladle the soup into mugs rather than bowls, about 1 cup (240 ml) each, so the sandwich has somewhere convenient to go."
+        }
+      ],
+      "tips": [
+        "The soup keeps 5 days in the fridge and freezes 3 months, though freeze it before adding the cream and stir the cream in when you reheat.",
+        "Mayonnaise on the outside of the bread instead of butter browns more evenly and will not burn. It sounds wrong and it works perfectly.",
+        "Cheese should be at room temperature before it goes in the sandwich. Fridge-cold cheese needs so long to melt that the bread burns first.",
+        "For extra depth in the soup, roast the canned tomatoes on a sheet pan at 425°F (220°C) for 20 minutes before adding them to the pot.",
+        "Add a thin layer of caramelized onions or a few thin apple slices inside the sandwich if you want to make it feel like an adult meal."
+      ],
+      "keyTemp": "Griddle at about 275 to 300°F (135 to 150°C) so the cheese reaches a fully molten 150°F (66°C) at the same moment the crust turns golden.",
+      "pairing": "The soup is the pairing, but a crisp green salad with a sharp vinaigrette cuts the richness nicely.",
+      "videoQuery": "grilled cheese tomato soup from scratch",
+      "photoQuery": "grilled cheese sandwich tomato soup mug",
+      "tags": [
+        "Comfort Food",
+        "Weeknight",
+        "Vegetarian"
+      ]
+    },
+    {
+      "id": "meatball-sub",
+      "title": "Meatball Sub with Melted Provolone",
+      "emoji": "🍝",
+      "art": "sandwich",
+      "blurb": "Tender pork and beef meatballs simmered in real marinara, packed into a garlic-buttered roll and broiled until the cheese blisters. The panade is what keeps them soft, so do not skip it.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "1 hr",
+      "totalTime": "1 hr 25 min",
+      "ingredients": [
+        {
+          "group": "Meatballs",
+          "items": [
+            "1 lb (450 g) ground beef chuck, 80/20",
+            "½ lb (225 g) ground pork",
+            "1 cup (60 g) fresh breadcrumbs from 2 slices white bread",
+            "⅓ cup (80 ml) whole milk",
+            "1 large egg",
+            "½ cup (50 g) grated Parmesan",
+            "3 garlic cloves, minced (about 1 tbsp)",
+            "2 tbsp (6 g) chopped fresh parsley",
+            "1½ tsp (7 g) kosher salt",
+            "½ tsp (1 g) freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Marinara",
+          "items": [
+            "3 tbsp (45 ml) olive oil",
+            "4 garlic cloves, thinly sliced",
+            "1 can (28 oz / 800 g) crushed San Marzano tomatoes",
+            "1 tsp (5 g) kosher salt",
+            "½ tsp (1 g) crushed red pepper flakes",
+            "6 fresh basil leaves, torn"
+          ]
+        },
+        {
+          "group": "To build",
+          "items": [
+            "6 sturdy Italian sub rolls, 7 in (18 cm) long",
+            "3 tbsp (42 g) unsalted butter, softened",
+            "2 garlic cloves, finely grated",
+            "12 slices provolone (about 8 oz / 225 g total)",
+            "½ cup (50 g) grated Parmesan, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the panade",
+          "text": "Tear the bread into small pieces, put them in a large bowl with the ⅓ cup of milk, and mash with a fork until you have a smooth paste, about 2 minutes. Let it sit 5 minutes to fully hydrate. This milk-and-bread paste is called a panade and it physically blocks the meat proteins from tightening, which is the actual reason good meatballs stay tender instead of turning into rubber balls."
+        },
+        {
+          "title": "Mix the meat gently",
+          "text": "Add the beef, pork, egg, ½ cup Parmesan, minced garlic, parsley, 1½ tsp salt, and pepper to the panade. Mix with your hands just until you no longer see streaks of unincorporated ingredients, no more than about 45 seconds. Overworking ground meat develops the proteins and gives you dense, springy meatballs, so stop while it still looks a little rough."
+        },
+        {
+          "title": "Roll and chill",
+          "text": "Roll the mixture into 18 meatballs of about 1½ inches (4 cm), roughly 1½ oz (42 g) each, wetting your hands with cold water so nothing sticks. Set them on a parchment-lined sheet pan and chill 15 minutes while you start the sauce. Chilled meatballs hold their shape far better when they hit hot oil."
+        },
+        {
+          "title": "Start the marinara",
+          "text": "Warm the 3 tbsp olive oil in a wide Dutch oven over medium heat, add the sliced garlic, and cook 2 minutes until it is fragrant and just barely blond. Add the crushed tomatoes, 1 tsp salt, and the red pepper flakes, then bring it to a gentle simmer. Keep the heat modest — garlic that browns in oil turns bitter and there is no fixing it."
+        },
+        {
+          "title": "Brown the meatballs",
+          "text": "Bake the meatballs on their sheet pan at 425°F (220°C) for 12 to 14 minutes, until browned on top but not cooked through. Roasting instead of pan-frying browns all of them at once and saves you standing over spitting oil. They will finish cooking in the sauce, which is where they pick up their flavor."
+        },
+        {
+          "title": "Simmer them in sauce",
+          "text": "Slide the browned meatballs and any pan juices into the simmering marinara, cover partially, and cook on low for 25 to 30 minutes. The sauce should barely bubble around the edges. Check that the center of a meatball reads 160°F (71°C) on an instant-read thermometer, which is the safe temperature for ground beef and pork mixtures."
+        },
+        {
+          "title": "Finish the sauce with basil",
+          "text": "Stir the torn basil into the pot in the last 2 minutes of cooking and taste for salt. Fresh basil added early loses all its perfume and turns black, so it always goes in at the end. The sauce should be thick enough to coat a meatball without sliding straight off."
+        },
+        {
+          "title": "Make the garlic butter",
+          "text": "Mash the 3 tbsp softened butter with the 2 finely grated garlic cloves and a pinch of salt. Split the sub rolls three-quarters of the way through, leaving a hinge, and spread the garlic butter across both cut faces. The hinge matters structurally, and the butter is about to become a waterproof barrier between the bread and the sauce."
+        },
+        {
+          "title": "Toast the rolls hard",
+          "text": "Open the rolls flat on a sheet pan and broil them 6 inches (15 cm) from the element for 90 seconds to 2 minutes, until the buttered surfaces are golden and audibly crisp. Do not walk away, because broilers go from perfect to charcoal in about twenty seconds. A properly toasted interior is the only thing standing between you and a sauce-logged roll."
+        },
+        {
+          "title": "Fill and cheese",
+          "text": "Place 3 meatballs in each roll, pressing them down gently so they nest instead of rolling out, then spoon about 3 tbsp of sauce over them. Resist adding more sauce than that; a meatball sub drowns easily. Drape 2 slices of provolone over the top and sprinkle with the remaining Parmesan."
+        },
+        {
+          "title": "Broil and serve",
+          "text": "Return the assembled subs to the broiler for 2 to 3 minutes, until the provolone is fully melted with brown blistered spots. Let them sit 2 minutes so the molten cheese sets slightly and the filling stops being lava-hot. Serve with extra sauce on the side rather than inside the sandwich."
+        }
+      ],
+      "tips": [
+        "Meatballs and sauce both improve overnight and keep 4 days refrigerated or 3 months frozen. This is the make-ahead recipe to have in your back pocket.",
+        "No ground pork? Use all beef but add 2 tbsp of olive oil to the mix, or substitute sweet Italian sausage removed from its casing.",
+        "The panade is non-negotiable. Skipping the bread and milk and using dry breadcrumbs straight is exactly why so many homemade meatballs come out tough.",
+        "Hollow out a little of the soft bread from the top half of each roll if your rolls are very doughy. It makes room for the meatballs and reduces sogginess.",
+        "For a party, keep the meatballs in sauce in a slow cooker on low and let people build their own subs from a tray of toasted rolls."
+      ],
+      "keyTemp": "Meatballs made with ground beef and pork must reach 160°F (71°C) in the center — check the largest one after 25 minutes in the sauce.",
+      "pairing": "A sharp arugula salad with lemon, and a glass of Chianti or a cold Italian lager.",
+      "videoQuery": "meatball sub marinara provolone broiled",
+      "photoQuery": "meatball sub melted provolone roll",
+      "tags": [
+        "Make Ahead",
+        "Crowd Pleaser",
+        "Comfort Food"
+      ]
+    },
+    {
+      "id": "maine-lobster-roll",
+      "title": "Maine Lobster Roll on a Split-Top Bun",
+      "emoji": "🦞",
+      "art": "lobster",
+      "blurb": "Cold lobster meat barely bound with mayonnaise, lemon, and celery, piled into a bun griddled in butter until both flat sides are gold. Restraint is the entire recipe.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "12 min",
+      "totalTime": "1 hr 27 min",
+      "ingredients": [
+        {
+          "group": "Lobster",
+          "items": [
+            "1½ lb (680 g) cooked lobster meat, from about 4 lb (1.8 kg) whole lobsters",
+            "1 tbsp (15 g) kosher salt, for the steaming water",
+            "2 cups (480 ml) water, for steaming"
+          ]
+        },
+        {
+          "group": "Dressing",
+          "items": [
+            "⅓ cup (80 g) mayonnaise",
+            "2 tbsp (15 g) finely diced celery, from 1 inner stalk",
+            "1 tbsp (15 ml) fresh lemon juice",
+            "1 tbsp (3 g) finely chopped fresh chives",
+            "½ tsp (2 g) kosher salt",
+            "¼ tsp (1 g) freshly ground white or black pepper"
+          ]
+        },
+        {
+          "group": "Buns",
+          "items": [
+            "4 New England split-top hot dog buns",
+            "4 tbsp (55 g) salted butter, softened",
+            "1 cup (50 g) shredded iceberg lettuce, optional",
+            "1 lemon, cut into 4 wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Steam the lobsters",
+          "text": "If starting from live lobsters, bring the 2 cups of water and 1 tbsp of salt to a rolling boil in a large pot with a steamer rack, add the lobsters head first, cover, and steam 8 to 9 minutes for 1¼ lb (570 g) each. The shells should be bright red and the meat opaque, around 140°F (60°C) at the thickest part of the tail. Overcooked lobster turns dense and squeaky, so set a timer rather than guessing."
+        },
+        {
+          "title": "Chill the meat quickly",
+          "text": "Transfer the cooked lobsters straight into a bowl of ice water for 5 minutes to stop the cooking cold. This halts carryover cooking and firms the meat so it releases cleanly from the shell. Drain them well and pat everything dry before you go any further."
+        },
+        {
+          "title": "Pick the meat carefully",
+          "text": "Twist off the claws and tails, crack them, and pull the meat out in the largest pieces you can manage, saving the knuckle meat too since it is the sweetest part. Remove the dark vein running down the back of each tail. Aim for pieces about ¾ inch (2 cm) — big enough that you can tell you are eating lobster, not lobster salad."
+        },
+        {
+          "title": "Dry and chill the lobster",
+          "text": "Spread the picked meat on a paper-towel-lined plate, blot the top, and refrigerate at least 1 hour. Wet lobster will thin your dressing into soup and slide right out of the bun. Cold meat also holds its texture and tastes noticeably sweeter than room-temperature meat."
+        },
+        {
+          "title": "Mix a restrained dressing",
+          "text": "Whisk the mayonnaise, diced celery, lemon juice, chives, ½ tsp salt, and pepper together in a bowl. The ratio is roughly 1 part mayonnaise to 4 parts lobster by volume, which is far less than most people expect. You are seasoning lobster, not making a salad, and anything heavier buries the flavor you paid for."
+        },
+        {
+          "title": "Fold, do not stir",
+          "text": "Add the cold lobster to the dressing and fold gently with a rubber spatula just until every piece is lightly coated, about 10 turns. Vigorous stirring shreds the delicate claw meat into mush. Taste and add salt a pinch at a time; lobster needs more salt than you would think."
+        },
+        {
+          "title": "Butter the flat sides",
+          "text": "Split-top New England buns have two flat, crustless sides, and that is the entire reason they exist for this sandwich. Spread the softened butter generously across both flat outer faces of each bun. If you can only find side-split buns, slice the crusts off the two flat sides yourself to create the same surface."
+        },
+        {
+          "title": "Griddle the buns golden",
+          "text": "Heat a skillet over medium and toast the buns on each buttered side for 2 to 3 minutes, until deep golden and crisp like a grilled cheese. Press down lightly with a spatula for good contact. This crisp shell is what keeps the bun intact under a cup of dressed lobster."
+        },
+        {
+          "title": "Line the bun and fill",
+          "text": "Tuck a small pinch of shredded lettuce into the bottom of each bun if you are using it, which acts as a barrier as much as a garnish. Divide the lobster among the four buns, about 6 oz (170 g) each, mounding it high rather than packing it down. A lobster roll should look overstuffed; that is the point of it."
+        },
+        {
+          "title": "Finish and serve cold",
+          "text": "Scatter a few extra chives over the top and tuck a lemon wedge alongside each roll. Serve immediately while the bun is still warm and the lobster is still cold — that temperature contrast is exactly what makes a Maine roll different from a Connecticut one. Do not assemble these ahead; a filled bun starts softening within ten minutes."
+        }
+      ],
+      "tips": [
+        "Frozen cooked lobster meat is a completely legitimate shortcut. Thaw it overnight in the fridge and squeeze it dry in a towel, since it holds a lot of water.",
+        "For a Connecticut-style roll, skip the mayonnaise entirely and toss the warm meat with 4 tbsp (55 g) of melted butter and a squeeze of lemon just before serving.",
+        "The lobster can be cooked, picked, and refrigerated up to 24 hours ahead. Dress it no more than an hour before eating or the salt will draw out water.",
+        "Save the shells. Simmered with water, onion, and a bay leaf for 45 minutes they make a lobster stock worth freezing for bisque or risotto.",
+        "Buy lobsters that are lively and heavy for their size, and cook them the same day you buy them."
+      ],
+      "keyTemp": "Lobster is done at 140°F (60°C) at the thickest part of the tail — opaque, firm, and still tender; past 145°F (63°C) it turns rubbery.",
+      "pairing": "Salt and vinegar chips, a crisp pickle, and a cold glass of Muscadet or a light pilsner.",
+      "videoQuery": "maine lobster roll split top bun",
+      "photoQuery": "maine lobster roll buttered split bun",
+      "tags": [
+        "Summer",
+        "Date Night",
+        "30 Minutes"
+      ]
+    },
+    {
+      "id": "muffuletta",
+      "title": "New Orleans Muffuletta with Olive Salad",
+      "emoji": "🫒",
+      "art": "sandwich",
+      "blurb": "A round sesame loaf packed with cured meats, provolone, and a briny olive salad, then pressed for hours until the oil soaks through. Built the night before, which is the whole idea.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "15 min",
+      "totalTime": "24 hr 45 min",
+      "ingredients": [
+        {
+          "group": "Olive salad",
+          "items": [
+            "1 cup (150 g) pitted green olives, roughly chopped",
+            "¾ cup (110 g) pitted Kalamata olives, roughly chopped",
+            "1 cup (200 g) giardiniera, drained and chopped",
+            "2 tbsp (20 g) capers, drained",
+            "3 garlic cloves, minced (about 1 tbsp)",
+            "2 tbsp (6 g) chopped fresh parsley",
+            "1 tsp (1 g) dried oregano",
+            "½ cup (120 ml) extra-virgin olive oil",
+            "2 tbsp (30 ml) red wine vinegar",
+            "½ tsp (1 g) coarsely ground black pepper"
+          ]
+        },
+        {
+          "group": "Sandwich",
+          "items": [
+            "1 round sesame-topped muffuletta or Italian loaf, 10 in (25 cm) across",
+            "6 oz (170 g) thinly sliced Genoa salami",
+            "6 oz (170 g) thinly sliced mortadella",
+            "6 oz (170 g) thinly sliced capicola or deli ham",
+            "8 oz (225 g) thinly sliced provolone",
+            "4 oz (115 g) thinly sliced mozzarella"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the olive salad first",
+          "text": "Combine the chopped green and Kalamata olives, giardiniera, capers, minced garlic, parsley, oregano, olive oil, red wine vinegar, and pepper in a bowl and stir well. Do not add salt — between the olives, capers, and giardiniera there is plenty already. You should have about 3 cups (700 ml)."
+        },
+        {
+          "title": "Let it marinate a full day",
+          "text": "Cover the olive salad and refrigerate at least 24 hours, and up to a week if you can plan that far ahead. This rest is not optional: it lets the garlic mellow, the oregano bloom in the oil, and all the briny flavors merge into one thing rather than a bowl of separate chopped items. Stir it once before you use it."
+        },
+        {
+          "title": "Split the loaf",
+          "text": "Slice the round loaf in half horizontally with a long serrated knife, sawing gently and keeping the blade level so you get two even halves. The bread should be soft-crumbed with a thin sesame crust — sturdy enough to hold up, soft enough to compress. A crusty sourdough boule is the wrong choice and will fight you at every bite."
+        },
+        {
+          "title": "Hollow the top half",
+          "text": "Pull out some of the soft interior bread from the top half, leaving a shell about ¾ inch (2 cm) thick. This creates a bowl for the olive salad so the sandwich sits flat instead of bulging, and it reduces the total amount of bread relative to filling. Save the torn-out bread for breadcrumbs."
+        },
+        {
+          "title": "Toast the cut faces",
+          "text": "Brush both cut surfaces with 2 tbsp of the oil that has pooled at the top of the olive salad, then toast them cut side up on a sheet pan at 400°F (205°C) for 6 to 8 minutes until lightly golden. Toasting builds a barrier so that hours of oil contact soften the bread pleasantly instead of dissolving it. Let the halves cool completely before you build."
+        },
+        {
+          "title": "Spread olive salad on both halves",
+          "text": "Spoon about 1 cup (240 ml) of drained olive salad into the hollowed top half and another ½ cup (120 ml) onto the bottom half, pressing it into an even layer. Let the excess oil drain off the spoon first — you want the flavor and the texture, not a puddle. Both halves get salad so every bite carries it."
+        },
+        {
+          "title": "Layer the meats and cheese",
+          "text": "On the bottom half, layer in this order: provolone, salami, mortadella, capicola, then mozzarella. Cheese on the outside of the meat stack, top and bottom, insulates the bread from the oily cured meats. Lay each slice flat and overlapping rather than folded, so the sandwich compresses into even layers."
+        },
+        {
+          "title": "Close and wrap tightly",
+          "text": "Set the top half on, press down firmly with both palms, and wrap the entire loaf tightly in plastic wrap, then again in foil. The wrapping is what holds everything in place during pressing. Wrap it snugly enough that the sandwich holds its shape when you pick it up."
+        },
+        {
+          "title": "Press under weight",
+          "text": "Set the wrapped loaf on a sheet pan, lay a second sheet pan on top, and weigh it down with a cast-iron skillet or a few cans, about 5 lb (2.3 kg) total. Refrigerate and press for at least 2 hours and ideally 8 hours or overnight. Pressing drives the olive oil into the bread and compacts the layers into something you can actually bite through."
+        },
+        {
+          "title": "Rest at room temperature",
+          "text": "Take the sandwich out of the fridge 30 minutes before serving and leave it wrapped. Cold cured meat tastes flat and cold provolone is waxy, while at room temperature both come alive. This half hour genuinely changes how the sandwich tastes."
+        },
+        {
+          "title": "Cut into wedges",
+          "text": "Unwrap and cut the loaf into 6 wedges with a serrated knife, using long sawing strokes and cutting all the way through in one pass. Wipe the blade between cuts so the olive salad does not smear across the layers. Serve at room temperature with the extra olive salad on the side."
+        }
+      ],
+      "tips": [
+        "The olive salad is the soul of this sandwich and keeps 2 weeks refrigerated under a film of oil. Make a double batch and use it on eggs, pasta, and grilled fish.",
+        "If you can only find one kind of cured meat, choose Genoa salami and use 1 lb of it. A muffuletta with only salami is far better than one with three mediocre meats.",
+        "Pressing overnight is genuinely better than 2 hours. Build it after dinner and you have lunch for the next two days already made.",
+        "Wrapped tightly, a pressed muffuletta keeps 3 days in the fridge and travels beautifully, which is why it is the greatest picnic sandwich ever devised.",
+        "For a warm version, unwrap and bake the pressed loaf at 350°F (175°C) for 12 minutes before cutting, just until the cheese softens."
+      ],
+      "keyTemp": "No cooking temperature applies — the sandwich is done when it has pressed down to about two-thirds of its original height and the bread is saturated with olive oil at the seams. Serve at room temperature, roughly 68°F (20°C).",
+      "pairing": "Zapp's potato chips, an ice-cold Abita amber, and a wedge of the sandwich for tomorrow.",
+      "videoQuery": "new orleans muffuletta olive salad recipe",
+      "photoQuery": "muffuletta sandwich olive salad wedge",
+      "tags": [
+        "Make Ahead",
+        "Picnic",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "pulled-pork-sandwich",
+      "title": "Slow-Roasted Pulled Pork Sandwiches",
+      "emoji": "🐷",
+      "art": "pork",
+      "blurb": "A whole pork shoulder rubbed the night before and roasted until it collapses, dressed with tangy vinegar sauce and piled onto a soft bun with slaw. Almost all of the eight hours is waiting.",
+      "difficulty": "Medium",
+      "servings": "8 servings",
+      "prepTime": "30 min",
+      "cookTime": "8 hr",
+      "totalTime": "9 hr 30 min",
+      "ingredients": [
+        {
+          "group": "Pork and rub",
+          "items": [
+            "6 lb (2.7 kg) bone-in pork shoulder, also sold as pork butt",
+            "3 tbsp (36 g) dark brown sugar",
+            "2 tbsp (30 g) kosher salt",
+            "1 tbsp (8 g) smoked paprika",
+            "2 tsp (5 g) freshly ground black pepper",
+            "2 tsp (5 g) garlic powder",
+            "1 tsp (3 g) onion powder",
+            "1 tsp (2 g) dry mustard powder",
+            "½ tsp (1 g) cayenne pepper",
+            "1 tbsp (15 ml) yellow mustard, as a binder"
+          ]
+        },
+        {
+          "group": "Vinegar sauce",
+          "items": [
+            "1½ cups (360 ml) apple cider vinegar",
+            "2 tbsp (30 g) dark brown sugar",
+            "1 tbsp (15 g) ketchup",
+            "1 tsp (5 g) kosher salt",
+            "1 tsp crushed red pepper flakes",
+            "½ tsp (1 g) freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "To build",
+          "items": [
+            "8 soft potato or brioche buns",
+            "3 tbsp (42 g) salted butter, softened",
+            "3 cups (300 g) crunchy vinegar coleslaw, well drained",
+            "32 dill pickle chips (about 4 oz / 115 g)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Rub the pork a day ahead",
+          "text": "Pat the shoulder dry, smear it all over with the 1 tbsp of yellow mustard, then mix the brown sugar, 2 tbsp salt, smoked paprika, black pepper, garlic powder, onion powder, mustard powder, and cayenne and press that rub into every surface. The mustard is a binder only — you will not taste it. Wrap and refrigerate overnight, which lets the salt penetrate deep into a very thick cut."
+        },
+        {
+          "title": "Temper before roasting",
+          "text": "Take the pork out of the fridge 1 hour before cooking and set it fat side up on a rack in a roasting pan. A 6-pound roast straight from the fridge takes an extra hour just to shake off the chill. Do not trim the fat cap below about ¼ inch (6 mm), since it bastes the meat for the entire cook."
+        },
+        {
+          "title": "Roast low and steady",
+          "text": "Roast at 275°F (135°C) with a rack in the lower third of the oven. Pour 1 cup (240 ml) of water into the pan below the rack to keep the drippings from scorching and to add humidity. Plan on roughly 1 hour 20 minutes per pound, which is 7 to 8 hours for a 6-pound shoulder."
+        },
+        {
+          "title": "Expect the stall",
+          "text": "Somewhere around 160°F (71°C) the internal temperature will stop climbing for an hour or more. This is the stall, caused by evaporative cooling from the surface, and it is completely normal. Do not raise the oven temperature in a panic; just wait it out or wrap the roast in foil to push through faster."
+        },
+        {
+          "title": "Make the vinegar sauce",
+          "text": "While the pork cooks, whisk the cider vinegar, 2 tbsp brown sugar, ketchup, 1 tsp salt, red pepper flakes, and black pepper in a jar until the sugar dissolves. Let it sit at room temperature for at least an hour so the pepper flakes infuse. This thin Carolina-style sauce is a seasoning, not a glaze — it is there to cut the richness of the pork, not to coat it."
+        },
+        {
+          "title": "Cook to 203°F",
+          "text": "The pork is ready when an instant-read thermometer slides into the thickest part with no resistance, right around 203°F (95°C). Whole pork is safe at 145°F (63°C), but shoulder needs to go this much higher for the collagen to melt into gelatin and the meat to pull apart. Start probing at the 6-hour mark and check in a few different spots."
+        },
+        {
+          "title": "Rest it long",
+          "text": "Tent the roast loosely with foil and rest it for a full hour before touching it. This is the longest rest in this whole book and it is worth every minute; the gelatin and juices need time to settle back into the muscle. Pulling it hot means a puddle on the board and dry pork in the bun."
+        },
+        {
+          "title": "Pull, do not shred to death",
+          "text": "Pull the bone straight out — it should slide free with almost no effort — then pull the meat apart with two forks or gloved hands into rough, irregular strands. Leave some pieces chunky rather than reducing everything to fluff, because texture variation is what makes it interesting. Discard any large pockets of unrendered fat but keep the darker bark bits mixed in."
+        },
+        {
+          "title": "Dress the meat",
+          "text": "Pour about ¾ cup (180 ml) of the vinegar sauce over the pulled pork along with ½ cup (120 ml) of the defatted pan drippings and toss to combine. Taste and add more sauce a splash at a time until it tastes bright and seasoned rather than merely rich. Keep the remaining sauce on the table."
+        },
+        {
+          "title": "Butter and toast the buns",
+          "text": "Spread the softened butter on the cut faces and toast them in a skillet over medium heat for about 60 seconds until golden. Soft potato buns are the correct choice — they compress around the filling instead of pushing it out the sides the way a crusty roll does. The toasted face is your only defense against the vinegar sauce."
+        },
+        {
+          "title": "Build with slaw on top",
+          "text": "Lay pickle chips on the bottom bun, pile on about 5 oz (140 g) of pulled pork, then finish with a generous handful of well-drained slaw and the top bun. Slaw goes on top so its dressing does not soak down through the pork into the bread, and its cold crunch is a deliberate contrast to the soft, hot meat. Press gently and serve immediately."
+        }
+      ],
+      "tips": [
+        "Pulled pork keeps 4 days refrigerated and 3 months frozen. Reheat it in a covered pan with a splash of cider vinegar and stock so it steams back to life instead of drying out.",
+        "Drain your coleslaw in a sieve for 10 minutes before it goes on the sandwich. Undrained slaw is the fastest way to destroy a good bun.",
+        "A slow cooker works if the oven is spoken for: 8 to 10 hours on low, then spread the pulled meat on a sheet pan and broil for 5 minutes to get some bark back.",
+        "Save the defatted pan drippings. That cup of concentrated pork jus is the best thing you can add back to the meat and most people throw it away.",
+        "Bone-in beats boneless every time. The bone conducts heat toward the center, adds gelatin, and gives you an unmistakable doneness test when it pulls clean."
+      ],
+      "keyTemp": "Whole pork is safe at 145°F (63°C) with a 3-minute rest, but shoulder must reach about 203°F (95°C) for the connective tissue to break down and the meat to pull.",
+      "pairing": "Baked beans, cornbread, and an ice-cold cider or a hoppy pale ale.",
+      "videoQuery": "oven pulled pork shoulder sandwich recipe",
+      "photoQuery": "pulled pork sandwich slaw potato bun",
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "turkey-club",
+      "title": "Triple-Decker Turkey Club",
+      "emoji": "🥪",
+      "art": "sandwich",
+      "blurb": "Three slices of toast, two fillings, and four frilled picks holding the whole architectural achievement together. It is a diner classic because the layering genuinely works.",
+      "difficulty": "Easy",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "18 min",
+      "totalTime": "33 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "6 slices good white sandwich bread, ½ in (1 cm) thick",
+            "8 slices thick-cut bacon (about 8 oz / 225 g)",
+            "8 oz (225 g) thinly sliced roast turkey breast",
+            "5 tbsp (75 g) mayonnaise",
+            "4 large leaves crisp romaine or iceberg lettuce",
+            "1 medium ripe tomato (about 6 oz / 170 g), cut into 4 slices ¼ in (6 mm) thick",
+            "½ tsp (2 g) flaky sea salt",
+            "¼ tsp (1 g) freshly ground black pepper",
+            "8 frilled sandwich picks or long toothpicks"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Bake the bacon flat",
+          "text": "Lay the bacon in a single layer on a foil-lined sheet pan, put it in a cold oven, and set the temperature to 400°F (205°C). Bake 16 to 20 minutes until deep brown and just barely flexible. Flat oven bacon is essential in a triple-decker, because curled slices create air gaps that make the tower unstable and impossible to cut cleanly."
+        },
+        {
+          "title": "Salt and drain the tomato",
+          "text": "Lay the 4 tomato slices on paper towels, season with ¼ tsp of the flaky salt, and let them drain 10 minutes while the bacon cooks. Blot the tops before using. A club has two layers of filling and twice the opportunity to go soggy, so drying the tomato matters even more here than in a BLT."
+        },
+        {
+          "title": "Crisp the lettuce",
+          "text": "Soak the lettuce leaves in ice water for 5 minutes, then dry them completely in a salad spinner or between towels. Tear or trim them so they sit within the footprint of the bread rather than hanging over the edges. Overhanging lettuce is what makes a club fall apart when you cut it."
+        },
+        {
+          "title": "Toast all six slices",
+          "text": "Toast the bread until firm and evenly golden, about 3 minutes in a toaster. Every slice must be properly toasted, including the middle one, since that center slice is the structural beam holding two separate sandwiches together. A soft middle slice collapses under the weight and the whole thing slides sideways."
+        },
+        {
+          "title": "Mayonnaise every inside face",
+          "text": "Spread mayonnaise on one face of the top and bottom slices and on both faces of the middle slice, using about 1 tbsp per surface and going right to the crust. That is five buttered surfaces in total. Beyond flavor, the mayo is a fat barrier that keeps moisture from wicking into the toast."
+        },
+        {
+          "title": "Build the bottom layer",
+          "text": "On the bottom slice, lay down lettuce first, then half the turkey folded into loose ruffles rather than laid flat, then 2 tomato slices seasoned with salt and pepper. Ruffling the turkey traps air and gives the sandwich height and a better bite than a compressed slab. Lettuce on the bottom keeps tomato juice off the toast."
+        },
+        {
+          "title": "Add the middle slice",
+          "text": "Set the double-mayonnaised middle slice on top and press down gently to settle the first layer. Make sure it is aligned squarely with the bottom slice, because a crooked middle slice guarantees a leaning tower. This is the moment to check that nothing is hanging over the edges."
+        },
+        {
+          "title": "Build the second layer",
+          "text": "On the middle slice, layer the bacon first, broken into halves and crosshatched to cover the surface evenly, then the remaining turkey, then the last 2 tomato slices and more lettuce. Putting bacon directly against the dry middle toast keeps the salty fat where it can season everything. Finish with the top slice, mayonnaise side down."
+        },
+        {
+          "title": "Pin it before you cut",
+          "text": "Press the whole stack down firmly with your palm for 5 seconds, then push a sandwich pick vertically through the center of each of the four quadrants, about 1 inch (2.5 cm) in from each corner. The picks are not decoration; they are the only thing keeping a five-inch tall sandwich together while a knife goes through it. Push them all the way to the bottom slice."
+        },
+        {
+          "title": "Cut into four triangles",
+          "text": "With a long serrated knife, cut the sandwich corner to corner in both directions to make 4 triangles, sawing gently rather than pressing down. Wipe the blade between the two cuts for clean edges. Serve immediately with chips and a pickle, arranging the triangles points up the way a diner would."
+        }
+      ],
+      "tips": [
+        "Roast your own turkey breast if you have the time, or ask the deli to slice it thick, about ⅛ inch (3 mm). Paper-thin deli turkey packs into a wet, flavorless mat.",
+        "Add a thin layer of sliced avocado in the bottom layer for a California club, or swap the mayo for herbed mayonnaise with 1 tbsp of chopped tarragon.",
+        "Bacon can be cooked 3 days ahead and recrisped for 4 minutes at 350°F (175°C), which turns this into a genuinely fast lunch.",
+        "If the sandwich is too tall to bite, that is normal. Cutting into quarters rather than halves is exactly why the club is traditionally served in triangles.",
+        "Use a bread with a tight crumb. Airy bakery bread compresses unevenly and the tower will lean before you get a knife into it."
+      ],
+      "keyTemp": "Deli turkey is already cooked and served cold here; if you roast your own breast, cook it to 165°F (74°C) and chill it fully before slicing.",
+      "pairing": "Kettle chips, a dill pickle spear, and iced tea or a crisp lager.",
+      "videoQuery": "triple decker turkey club sandwich diner",
+      "photoQuery": "turkey club sandwich triangles picks",
+      "tags": [
+        "30 Minutes",
+        "Deli Classic",
+        "Weeknight"
+      ]
+    }
+  ]
+}

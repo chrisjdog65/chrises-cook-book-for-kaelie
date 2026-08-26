@@ -147,7 +147,44 @@ D.steak = (r, v) => {
   ${scatter(r, 9, 120, 168, 160, 18, ['#f0e3c0', '#e3d3a8'], 2)}`;
 };
 
-D.roast = r => `${board()}
+D.roast = (r, v) => {
+  if (v === 1) {                                   // in the roasting pan with vegetables
+    let veg = '';
+    const cols = ['#e0682c', '#4f9c43', '#e8b73f', '#b8412f'];
+    for (let i = 0; i < 14; i++) {
+      const x = 78 + r() * 244, y = 158 + r() * 30, s = 0.6 + r() * 0.5, a = r() * 360;
+      veg += `<g transform="translate(${R(x)},${R(y)}) rotate(${R(a)}) scale(${R(s, 2)})">
+        <rect x="-15" y="-9" width="30" height="18" rx="8" fill="${cols[Math.floor(r() * cols.length)]}"/></g>`;
+    }
+    return `${shadow(200, 206, 142, 15)}
+      <rect x="40" y="112" width="26" height="16" rx="7" fill="#7d8087"/>
+      <rect x="334" y="112" width="26" height="16" rx="7" fill="#7d8087"/>
+      <rect x="56" y="106" width="288" height="94" rx="14" fill="#8d9098"/>
+      <rect x="62" y="112" width="276" height="82" rx="10" fill="#63666e"/>
+      <rect x="62" y="112" width="276" height="82" rx="10" fill="url(#panSh)"/>
+      <path d="M108,158 C108,124 144,108 196,108 C250,108 288,124 288,156 C288,178 250,188 196,188 C144,188 108,180 108,158 z" fill="#6b3417"/>
+      <path d="M114,153 C114,122 148,108 196,108 C246,108 282,122 282,152 C282,172 246,181 196,181 C148,181 114,173 114,153 z" fill="#8c4620"/>
+      ${grillMarks(126, 116, 140, 58, -8, 3, '#4a2210')}
+      ${veg}
+      ${herb(300, 130, 0.6)}`;
+  }
+  if (v === 2) {                                   // carved and fanned on a platter
+    let sl = '';
+    for (let i = 0; i < 7; i++) {
+      const x = 118 + i * 27, a = -12 + i * 4;
+      sl += `<g transform="translate(${x},148) rotate(${a})">
+        <ellipse cx="0" cy="0" rx="20" ry="38" fill="#5c2c12"/>
+        <ellipse cx="0" cy="0" rx="17" ry="34" fill="#9c5028"/>
+        <ellipse cx="0" cy="0" rx="10" ry="24" fill="#c4707a"/>
+      </g>`;
+    }
+    return `${plate(200, 172, 136, 48)}
+      <path d="M96,166 C126,142 180,136 236,146 C272,152 296,164 302,174 C264,184 122,184 96,166 z" fill="#5c3418" opacity=".5"/>
+      ${sl}
+      ${herb(316, 140, 0.62)}
+      ${scatter(r, 10, 120, 182, 160, 12, ['#f0e3c0'], 2.2)}`;
+  }
+  return `${board()}
   <path d="M92,158 C92,120 132,100 190,100 C250,100 296,118 296,156 C296,180 250,192 190,192 C132,192 92,182 92,158 z" fill="#6b3417"/>
   <path d="M98,152 C98,118 136,100 190,100 C246,100 290,116 290,150 C290,172 246,184 190,184 C136,184 98,174 98,152 z" fill="#8c4620"/>
   ${grillMarks(112, 108, 150, 66, -8, 3, '#4a2210')}
@@ -158,6 +195,7 @@ D.roast = r => `${board()}
   </g>
   ${herb(120, 116, 0.8)}
   ${scatter(r, 14, 100, 100, 190, 80, ['#2f1b0c', '#efe3c4'], 2)}`;
+};
 
 D.burger = r => `${board()}
   <g transform="translate(0,-6)">
@@ -273,7 +311,29 @@ D.pizza = r => `${board()}
     </g>
   </g>`;
 
-D.pasta = r => {
+/* A pasta chapter is almost entirely this one key, so it carries three sauces
+   and two vessels rather than repeating a single red bowl seven times. */
+const SAUCES = [
+  { a: '#c33f2c', b: '#d84f36', fl: ['#f7f4e8', '#3f8b4a'] },   // tomato
+  { a: '#e0d2ad', b: '#f4ecd8', fl: ['#3a3a3a', '#fffdf4'] },   // cream / carbonara
+  { a: '#4a8434', b: '#5fa142', fl: ['#f7f4e8', '#e8d36a'] },   // pesto
+];
+D.pasta = (r, v) => {
+  const s = SAUCES[v % SAUCES.length];
+  if (v === 2) {                                   // twirled nest on a shallow plate
+    let rings = '';
+    for (let i = 0; i < 5; i++) {
+      rings += `<ellipse cx="200" cy="${150 - i * 3}" rx="${74 - i * 13}" ry="${40 - i * 7}"
+        fill="none" stroke="${i % 2 ? '#f2ce74' : '#e8bd5c'}" stroke-width="9"/>`;
+    }
+    return `${plate(200, 170, 132, 48)}
+      <ellipse cx="200" cy="154" rx="80" ry="44" fill="#d9a94e"/>
+      ${rings}
+      <ellipse cx="200" cy="140" rx="36" ry="17" fill="${s.a}"/>
+      <ellipse cx="200" cy="138" rx="30" ry="13" fill="${s.b}"/>
+      ${scatter(r, 9, 168, 128, 66, 22, s.fl, 3)}
+      ${herb(200, 128, 0.5)}`;
+  }
   const b = bowl(200, 126, 124, 90);
   let strands = '';
   for (let i = 0; i < 16; i++) {
@@ -286,9 +346,9 @@ D.pasta = r => {
     <g clip-path="url(#cpP)">
       <ellipse cx="200" cy="134" rx="118" ry="40" fill="#efc86b"/>
       ${strands}
-      <ellipse cx="200" cy="122" rx="72" ry="24" fill="#c33f2c"/>
-      <ellipse cx="200" cy="119" rx="64" ry="20" fill="#d84f36"/>
-      ${scatter(r, 10, 148, 108, 104, 24, ['#f7f4e8', '#3f8b4a'], 3.2)}
+      <ellipse cx="200" cy="122" rx="72" ry="24" fill="${s.a}"/>
+      <ellipse cx="200" cy="119" rx="64" ry="20" fill="${s.b}"/>
+      ${scatter(r, 10, 148, 108, 104, 24, s.fl, 3.2)}
     </g>
     ${b.front}
     ${herb(200, 112, 0.55)}
@@ -393,7 +453,30 @@ D.curry = r => {
   ${steam(200, 104, r)}`;
 };
 
-D.soup = r => {
+D.soup = (r, v) => {
+  if (v === 1) {                                   // a mug of it
+    return `${shadow(200, 208, 88, 14)}
+      <path d="M268,124 q46,4 46,32 q0,28 -46,30" fill="none" stroke="#e6ded0" stroke-width="15"/>
+      <path d="M118,108 h154 v72 a28,28 0 0 1 -28,28 h-98 a28,28 0 0 1 -28,-28 z" fill="#e6ded0"/>
+      <path d="M124,108 h142 v70 a24,24 0 0 1 -24,24 h-94 a24,24 0 0 1 -24,-24 z" fill="#fbf6ec"/>
+      <ellipse cx="195" cy="108" rx="77" ry="25" fill="#e6ded0"/>
+      <ellipse cx="195" cy="108" rx="68" ry="20" fill="#c0431f"/>
+      <ellipse cx="195" cy="106" rx="61" ry="16" fill="#d95a30"/>
+      ${scatter(r, 8, 158, 98, 74, 16, ['#f6d9a8', '#3f8b4a'], 3)}
+      ${steam(195, 82, r)}`;
+  }
+  if (v === 2) {                                   // crock under a cheese cap
+    const b2 = bowl(200, 128, 120, 84, '#c9855a', '#e8dcc8');
+    return `${b2.back}
+      <clipPath id="cpSo"><ellipse cx="200" cy="128" rx="116" ry="34"/></clipPath>
+      <g clip-path="url(#cpSo)"><ellipse cx="200" cy="136" rx="116" ry="38" fill="#7a4418"/></g>
+      ${b2.front}
+      <ellipse cx="200" cy="120" rx="104" ry="32" fill="#e0a63c"/>
+      <ellipse cx="200" cy="115" rx="96" ry="28" fill="#f2c559"/>
+      <path d="M112,124 q22,26 44,4 q20,24 44,2 q22,26 44,2 q20,22 44,-4 q-14,30 -88,30 q-74,0 -88,-34 z" fill="#e8b23c"/>
+      ${scatter(r, 10, 150, 100, 100, 22, ['#c98a2a', '#fbe6a8'], 4)}
+      ${herb(200, 100, 0.5)}`;
+  }
   const b = bowl(200, 124, 130, 84, '#fff', '#f0e9dc');
   return `${b.back}
   <clipPath id="cpS"><ellipse cx="200" cy="124" rx="126" ry="37"/></clipPath>
@@ -455,9 +538,39 @@ D.salad = r => {
   ${b.front}`;
 };
 
-D.veggie = r => {
-  let v = '';
+D.veggie = (r, variant) => {
   const cols = ['#e0682c', '#4f9c43', '#e8b73f', '#b8412f', '#7a4a9c', '#68b34f'];
+  if (variant === 1) {                             // spears tied on a plate
+    let spears = '';
+    for (let i = 0; i < 9; i++) {
+      const x = 128 + i * 18, a = -9 + i * 2.2;
+      spears += `<g transform="translate(${x},150) rotate(${a})">
+        <rect x="-6" y="-52" width="12" height="104" rx="6" fill="#3f7f34"/>
+        <rect x="-4" y="-50" width="8" height="100" rx="4" fill="#5aa347"/>
+        <path d="M0,-64 C-8,-58 -8,-48 0,-44 C8,-48 8,-58 0,-64 z" fill="#4a8f3a"/>
+      </g>`;
+    }
+    return `${plate(200, 170, 132, 48)}${spears}
+      <rect x="146" y="140" width="112" height="16" rx="8" fill="#c14a4a"/>
+      <rect x="146" y="140" width="112" height="6" rx="3" fill="#d76a63"/>
+      ${lemon(326, 160, 0.6)}
+      ${scatter(r, 10, 130, 182, 150, 12, ['#f0e3c0'], 2.4)}`;
+  }
+  if (variant === 2) {                             // roasted vegetables heaped in a bowl
+    const b = bowl(200, 126, 124, 84);
+    let chunks = '';
+    for (let i = 0; i < 24; i++) {
+      const x = 100 + r() * 200, y = 108 + r() * 34, s = 0.7 + r() * 0.6, a = r() * 360;
+      chunks += `<g transform="translate(${R(x)},${R(y)}) rotate(${R(a)}) scale(${R(s, 2)})">
+        <rect x="-17" y="-10" width="34" height="20" rx="9" fill="${cols[Math.floor(r() * cols.length)]}"/>
+        <rect x="-13" y="-7" width="26" height="7" rx="3.5" fill="#ffffff" opacity=".26"/></g>`;
+    }
+    return `${b.back}
+      <clipPath id="cpV"><ellipse cx="200" cy="126" rx="120" ry="35"/></clipPath>
+      <g clip-path="url(#cpV)"><ellipse cx="200" cy="134" rx="118" ry="40" fill="#e3d9c6"/>${chunks}</g>
+      ${b.front}${herb(200, 112, 0.5)}`;
+  }
+  let v = '';
   for (let i = 0; i < 22; i++) {
     const x = 86 + r() * 228, y = 118 + r() * 56, s = 0.7 + r() * 0.6, a = r() * 360;
     v += `<g transform="translate(${R(x)},${R(y)}) rotate(${R(a)}) scale(${R(s, 2)})">
@@ -502,7 +615,35 @@ D.bread = r => `${board()}
     ${scatter(r, 12, 110, 178, 180, 14, ['#e8d3a0'], 2.4)}
   </g>`;
 
-D.egg = r => `${skillet()}
+D.egg = (r, v) => {
+  if (v === 1) {                                   // folded omelette on a plate
+    return `${plate(200, 170, 132, 50)}
+      <g transform="translate(0,-8)">
+        <path d="M96,166 C104,124 142,104 200,104 C258,104 300,124 300,162 C300,182 258,192 200,192 C142,192 100,184 96,166 z" fill="#e0a92c"/>
+        <path d="M102,162 C110,126 146,110 200,110 C254,110 294,126 294,158 C294,176 254,186 200,186 C146,186 108,178 102,162 z" fill="#f5c744"/>
+        <path d="M110,150 C122,124 152,114 200,114 C246,114 278,126 286,148 C250,134 148,134 110,150 z" fill="#fbdc7c" opacity=".85"/>
+        <path d="M120,168 q80,20 160,-6" stroke="#d09420" stroke-width="6" fill="none" stroke-linecap="round"/>
+        ${scatter(r, 8, 150, 140, 100, 30, ['#5fa84c'], 3)}
+      </g>
+      ${herb(316, 168, 0.55)}`;
+  }
+  if (v === 2) {                                   // poached eggs on muffin halves
+    return `${plate(200, 172, 132, 48)}
+      ${[[144, 150], [256, 150]].map(([x, y]) => `
+        <g transform="translate(${x},${y})">
+          <ellipse cx="0" cy="34" rx="52" ry="17" fill="#c98a3c"/>
+          <rect x="-52" y="12" width="104" height="24" rx="8" fill="#e0a95a"/>
+          <ellipse cx="0" cy="12" rx="52" ry="17" fill="#f2cf95"/>
+          <ellipse cx="0" cy="6" rx="46" ry="14" fill="#e8896a"/>
+          <ellipse cx="0" cy="-6" rx="42" ry="26" fill="#fdfaf1"/>
+          <ellipse cx="-4" cy="-10" rx="36" ry="21" fill="#ffffff"/>
+          <path d="M-40,-8 q12,16 40,14 q28,-2 40,-16 q2,16 -14,22 q-26,8 -52,0 q-16,-6 -14,-20 z" fill="#f7cf55"/>
+          <circle cx="-2" cy="-10" r="14" fill="#f0aa2c"/>
+          <circle cx="-7" cy="-15" r="5" fill="#ffd97a" opacity=".8"/>
+        </g>`).join('')}
+      ${scatter(r, 8, 150, 118, 100, 16, ['#3a3a3a', '#5fa84c'], 2.6)}`;
+  }
+  return `${skillet()}
   ${[[152, 138], [242, 148]].map(([x, y]) => `
     <g transform="translate(${x},${y})">
       <ellipse cx="0" cy="0" rx="62" ry="42" fill="#fdfaf1"/>
@@ -512,6 +653,7 @@ D.egg = r => `${skillet()}
       <circle cx="-4" cy="-6" r="6" fill="#ffd97a" opacity=".8"/>
     </g>`).join('')}
   ${scatter(r, 10, 120, 110, 160, 70, ['#3a3a3a', '#5fa84c'], 2.4)}`;
+};
 
 D.pancake = r => `${plate(200, 172, 130, 48)}
   <g transform="translate(0,-6)">
@@ -528,7 +670,29 @@ D.pancake = r => `${plate(200, 172, 130, 48)}
     ${scatter(r, 9, 150, 110, 100, 20, ['#c02c3c', '#7a2f8c'], 4)}
   </g>`;
 
-D.chicken = r => `${board()}
+D.chicken = (r, v) => {
+  if (v === 1) {                                   // crispy-skin pieces in a skillet
+    return `${skillet()}
+      ${[[148, 130], [246, 152]].map(([x, y]) => `
+        <g transform="translate(${x},${y})">
+          <path d="M-54,6 C-54,-20 -30,-36 0,-36 C34,-36 56,-20 56,6 C56,26 32,36 0,36 C-30,36 -54,26 -54,6 z" fill="#8f5a2a"/>
+          <path d="M-50,3 C-50,-19 -28,-32 0,-32 C31,-32 52,-18 52,4 C52,22 30,31 0,31 C-28,31 -50,20 -50,3 z" fill="#c98a3c"/>
+          <path d="M-38,-9 C-30,-21 -14,-26 2,-26 C22,-26 38,-18 44,-6 C24,-17 -14,-17 -38,-9 z" fill="#e8b264" opacity=".8"/>
+          ${scatter(r, 11, -42, -20, 84, 44, ['#a86a24', '#f0cd8a'], 2.6)}
+        </g>`).join('')}
+      ${herb(318, 118, 0.6)}`;
+  }
+  if (v === 2) {                                   // fried pieces piled on a plate
+    return `${plate(200, 170, 132, 50)}
+      ${[[138, 156, -14], [206, 144, 9], [268, 158, 17], [172, 180, 4], [240, 182, -7]].map(([x, y, a]) => `
+        <g transform="translate(${x},${y}) rotate(${a})">
+          <path d="M-34,10 C-38,-14 -20,-31 4,-31 C28,-31 41,-14 39,8 C37,25 20,33 2,33 C-16,33 -32,25 -34,10 z" fill="#a8672a"/>
+          <path d="M-30,8 C-33,-12 -17,-27 4,-27 C26,-27 36,-12 34,7 C32,22 18,29 2,29 C-14,29 -28,20 -30,8 z" fill="#d99a45"/>
+          ${scatter(r, 8, -26, -22, 56, 46, ['#f0cd8a', '#b87c30'], 4)}
+        </g>`).join('')}
+      ${herb(322, 172, 0.55)}`;
+  }
+  return `${board()}
   <g transform="translate(0,-6)">
     <path d="M118,152 C118,110 152,84 200,84 C250,84 284,110 284,152 C284,180 250,192 200,192 C152,192 118,180 118,152 z" fill="#b4762f"/>
     <path d="M122,146 C122,108 154,84 200,84 C248,84 280,108 280,146 C280,172 248,184 200,184 C154,184 122,172 122,146 z" fill="#d99a45"/>
@@ -539,6 +703,7 @@ D.chicken = r => `${board()}
     ${scatter(r, 16, 140, 96, 120, 78, ['#a86a24', '#f0cd8a'], 2.6)}
     ${herb(148, 108, 0.55)}${herb(256, 112, 0.5)}
   </g>`;
+};
 
 D.wings = r => {
   let w = '';
@@ -596,7 +761,33 @@ D.lamb = r => `${plate(200, 176, 130, 46)}
   ${herb(322, 178, 0.65)}
   ${scatter(r, 8, 120, 182, 160, 12, ['#4f7a2f'], 2.4)}`;
 
-D.fish = r => `${plate(200, 166, 134, 52)}
+D.fish = (r, v) => {
+  if (v === 1) {                                   // white fillet, lemon, herbs
+    return `${plate(200, 168, 132, 50)}
+      <g transform="translate(0,-6)">
+        <path d="M94,166 C102,122 142,100 204,100 C260,100 300,122 300,158 C300,178 258,190 200,190 C142,190 98,184 94,166 z" fill="#c9b8a2"/>
+        <path d="M100,161 C110,124 146,106 204,106 C256,106 294,124 294,155 C294,173 254,183 200,183 C144,183 106,177 100,161 z" fill="#f4e9d6"/>
+        <path d="M104,158 C114,126 148,110 204,110 C252,110 288,126 290,152 C250,142 150,142 104,158 z" fill="#fdf7ec"/>
+        <g opacity=".6" stroke="#d8c7ae" stroke-width="6" fill="none" stroke-linecap="round">
+          <path d="M126,152 q42,-26 96,-28"/><path d="M136,166 q48,-26 110,-26"/>
+          <path d="M120,138 q36,-22 82,-24"/></g>
+        ${herb(268, 120, 0.7)}
+        <rect x="184" y="92" width="34" height="14" rx="6" fill="#fbe9a8"/>
+      </g>
+      ${lemon(110, 190, 0.7)}${scatter(r, 9, 140, 186, 130, 12, ['#3f8b4a'], 2.4)}`;
+  }
+  if (v === 2) {                                   // battered and fried
+    return `${board()}
+      ${[[142, 142, -9], [244, 156, 11]].map(([x, y, a]) => `
+        <g transform="translate(${x},${y}) rotate(${a})">
+          <path d="M-62,8 C-64,-14 -40,-30 -2,-30 C40,-30 66,-14 64,8 C62,26 36,34 -2,34 C-40,34 -60,26 -62,8 z" fill="#b4762f"/>
+          <path d="M-57,6 C-59,-12 -37,-26 -2,-26 C38,-26 61,-12 59,6 C57,22 34,29 -2,29 C-38,29 -55,22 -57,6 z" fill="#e0a95a"/>
+          ${scatter(r, 12, -48, -20, 96, 46, ['#f2cf95', '#c98a3c'], 4)}
+        </g>`).join('')}
+      ${lemon(324, 132, 0.62)}
+      ${scatter(r, 10, 100, 184, 200, 12, ['#f0e3c0'], 2.2)}`;
+  }
+  return `${plate(200, 166, 134, 52)}
   <g transform="translate(0,-4)">
     <path d="M78,150 C110,104 180,96 244,116 C276,126 296,140 304,150 C296,160 276,174 244,184 C180,204 110,196 78,150 z" fill="#9fb0bd"/>
     <path d="M84,150 C114,110 180,102 240,120 C270,130 288,142 294,150 C288,158 270,170 240,180 C180,198 114,190 84,150 z" fill="#c3d0da"/>
@@ -607,6 +798,7 @@ D.fish = r => `${plate(200, 166, 134, 52)}
     <path d="M170,110 q30,-12 58,0" stroke="#8fa3b0" stroke-width="6" fill="none" stroke-linecap="round"/>
   </g>
   ${lemon(120, 190, 0.72)}${herb(288, 190, 0.6)}`;
+};
 
 D.salmon = r => `${plate(200, 168, 132, 50)}
   <g transform="translate(0,-6)">
@@ -703,16 +895,52 @@ D.scallop = r => `${plate(200, 164, 134, 52, '#fff', '#efe9dd')}
   ${scatter(r, 14, 110, 130, 180, 56, ['#8c5a2a', '#3f8b4a'], 2.6)}
   ${herb(322, 158, 0.6)}`;
 
-D.sauce = r => `${shadow(200, 202, 120, 15)}
+/* The sauces chapter leans hard on this one key, so it varies both vessel and colour. */
+const SAUCE_COLS = [
+  ['#b8412f', '#d15238', ['#e8734f', '#3f8b4a']],   // tomato / red
+  ['#4a8434', '#5fa142', ['#8fc47a', '#e8d36a']],   // herb / green
+  ['#d9a83c', '#eec25e', ['#f7e6b4', '#3f8b4a']],   // butter / cream
+];
+D.sauce = (r, v) => {
+  const [a, b, fl] = SAUCE_COLS[v % SAUCE_COLS.length];
+  if (v === 1) {                                   // shallow bowl with a wooden spoon
+    return `${plate(200, 182, 118, 34)}
+      <ellipse cx="192" cy="144" rx="98" ry="46" fill="#e0d8c8"/>
+      <ellipse cx="192" cy="139" rx="98" ry="46" fill="#fbf6ec"/>
+      <ellipse cx="192" cy="139" rx="84" ry="36" fill="${a}"/>
+      <ellipse cx="192" cy="136" rx="77" ry="30" fill="${b}"/>
+      ${scatter(r, 15, 146, 120, 94, 32, fl, 3.4)}
+      <g transform="rotate(24 300 118)">
+        <rect x="292" y="52" width="12" height="100" rx="6" fill="#b98551"/>
+        <rect x="292" y="52" width="12" height="34" rx="6" fill="#c9975f"/>
+        <ellipse cx="298" cy="160" rx="23" ry="16" fill="#c9975f"/>
+        <ellipse cx="298" cy="158" rx="17" ry="11" fill="${b}"/>
+      </g>`;
+  }
+  if (v === 2) {                                   // a jar of it, made ahead
+    return `${shadow(200, 208, 82, 14)}
+      <rect x="138" y="66" width="124" height="28" rx="9" fill="#8d9098"/>
+      <rect x="138" y="66" width="124" height="11" rx="5" fill="#a8abb4"/>
+      <path d="M142,92 h116 v84 a24,24 0 0 1 -24,24 h-68 a24,24 0 0 1 -24,-24 z" fill="#dfe8ee" opacity=".55"/>
+      <path d="M150,102 h100 v72 a18,18 0 0 1 -18,18 h-64 a18,18 0 0 1 -18,-18 z" fill="${a}"/>
+      <path d="M150,102 h100 v18 h-100 z" fill="${b}"/>
+      ${scatter(r, 13, 158, 110, 84, 70, fl, 3.4)}
+      <rect x="164" y="132" width="72" height="36" rx="5" fill="#fdf8ec" opacity=".93"/>
+      <rect x="174" y="142" width="52" height="5" rx="2.5" fill="#c9bfa8"/>
+      <rect x="180" y="153" width="40" height="5" rx="2.5" fill="#d9d0bc"/>
+      <path d="M142,92 h18 v108 a24,24 0 0 1 -18,-24 z" fill="#ffffff" opacity=".35"/>`;
+  }
+  return `${shadow(200, 202, 120, 15)}
   <path d="M96,120 h188 a10,10 0 0 1 10,10 v18 a56,56 0 0 1 -56,56 h-96 a56,56 0 0 1 -56,-56 v-18 a10,10 0 0 1 10,-10 z" fill="#dcd6ca"/>
   <path d="M96,120 h188 v14 h-188 z" fill="#eee8dc"/>
   <ellipse cx="190" cy="120" rx="94" ry="20" fill="#f5f0e6"/>
-  <ellipse cx="190" cy="120" rx="84" ry="16" fill="#b8412f"/>
-  <ellipse cx="190" cy="118" rx="78" ry="13" fill="#d15238"/>
-  ${scatter(r, 10, 140, 110, 100, 16, ['#e8734f', '#3f8b4a'], 3.4)}
+  <ellipse cx="190" cy="120" rx="84" ry="16" fill="${a}"/>
+  <ellipse cx="190" cy="118" rx="78" ry="13" fill="${b}"/>
+  ${scatter(r, 10, 140, 110, 100, 16, fl, 3.4)}
   <path d="M284,130 q34,4 40,26 q4,20 -14,26" fill="none" stroke="#dcd6ca" stroke-width="12" stroke-linecap="round"/>
-  <path d="M296,66 q10,20 0,32 q-10,-12 0,-32 z" fill="#d15238" opacity=".85"/>
+  <path d="M296,66 q10,20 0,32 q-10,-12 0,-32 z" fill="${b}" opacity=".85"/>
   ${steam(190, 96, r)}`;
+};
 
 D.cake = r => `${plate(200, 178, 128, 44)}
   <g transform="translate(0,-8)">
@@ -861,12 +1089,14 @@ function art(key, seed) {
   const r = rng(h);
   const fam = FAMILIES[BG[k] || BG.default] || FAMILIES.warm;
   const [c0, c1] = fam[h % fam.length];
-  // deterministic nudges so two cards of the same dish type don't look identical
+  // Deterministic nudges so two cards of the same dish type don't look identical.
+  // These MUST use >>> : hash() returns a full unsigned 32-bit value, and a signed
+  // >> on anything above 2^31 goes negative, which yields a negative variant index.
   const tilt = h % 3;
-  const spin = ((h >> 3) % 5) - 2;                 // -2..2 degrees
-  const nudge = ((h >> 6) % 7) - 3;                // -3..3 px
+  const spin = ((h >>> 3) % 5) - 2;                // -2..2 degrees
+  const nudge = ((h >>> 6) % 7) - 3;               // -3..3 px
   const uid = 'a' + (h % 1000000).toString(36);
-  const body = D[k](r, (h >> 11) % 3);   // drawings that offer variants pick one from the seed
+  const body = D[k](r, (h >>> 11) % 3);  // drawings that offer variants pick one from the seed
   const svg = `<svg class="dishArt" viewBox="0 0 400 260" role="img" aria-hidden="true" preserveAspectRatio="xMidYMid slice">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">

@@ -1,0 +1,1588 @@
+{
+  "category": "Pork, Lamb & BBQ",
+  "categoryEmoji": "🍖",
+  "categoryBlurb": "This is the patient chapter — rubs that sit overnight, fires that hold steady, and meat that goes from tough to tender if you just let it. Learn the stall, learn when to wrap, and always let it rest.",
+  "recipes": [
+    {
+      "id": "oven-baby-back-ribs",
+      "title": "Oven Baby Back Ribs, Grill Finished",
+      "emoji": "🍖",
+      "art": "ribs",
+      "blurb": "A low oven does the patient work, then five minutes over live fire sets the glaze. You get ribs that pull cleanly off the bone with a lacquered edge, and you never need a smoker.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "3 hr 20 min",
+      "totalTime": "3 hr 50 min",
+      "ingredients": [
+        {
+          "group": "For the ribs",
+          "items": [
+            "2 racks baby back ribs (about 2 lb / 900 g each)",
+            "2 tbsp (30 ml) yellow mustard, 1 tbsp per rack",
+            "¼ cup (60 ml) apple juice, for the foil packets",
+            "2 tbsp (28 g) unsalted butter, 1 tbsp per rack"
+          ]
+        },
+        {
+          "group": "Dry rub",
+          "items": [
+            "¼ cup (50 g) light brown sugar, packed",
+            "2 tbsp (14 g) sweet paprika",
+            "1 tbsp (9 g) kosher salt",
+            "2 tsp coarsely ground black pepper",
+            "2 tsp garlic powder",
+            "1 tsp onion powder",
+            "1 tsp chili powder",
+            "½ tsp (1 g) cayenne pepper"
+          ]
+        },
+        {
+          "group": "Glaze",
+          "items": [
+            "1 cup (240 ml) tomato-based barbecue sauce",
+            "2 tbsp (30 ml) apple cider vinegar",
+            "2 tbsp (40 g) honey"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Pull off the membrane",
+          "text": "Flip each rack bone side up and slide a butter knife under the thin shiny membrane at one end until you can lift a corner. Grab that corner with a paper towel for grip and peel the whole sheet off in one steady pull. If it tears, start again at the nearest bone. Left on, it turns papery and rubbery, blocks the rub, and never becomes tender."
+        },
+        {
+          "title": "Mix and apply the rub",
+          "text": "Whisk the brown sugar, paprika, salt, pepper, garlic powder, onion powder, chili powder, and cayenne together until the color is completely uniform. Smear each rack with 1 tbsp of yellow mustard — at this amount you will not taste it, it just glues the rub down. Sprinkle the rub from about 12 inches (30 cm) above so it lands evenly, heavy on the meat side and light on the bone side. Let the racks sit 30 minutes at room temperature until the rub looks wet and dissolved rather than powdery."
+        },
+        {
+          "title": "Set up a low oven",
+          "text": "Heat the oven to 275°F (135°C) with a rack in the middle position. Line a large rimmed sheet pan with foil and set a wire rack inside it so hot air can circulate underneath the ribs. Low and slow is not just a slogan: below about 300°F (150°C) the collagen has time to melt into gelatin before the lean meat between the bones dries out."
+        },
+        {
+          "title": "Bake uncovered for two hours",
+          "text": "Lay the racks bone side down on the wire rack and bake uncovered for 2 hours. The surface will darken and dry into a tacky crust, which is the bark forming, and you want it set before you wrap anything. Somewhere in the second hour the internal temperature usually parks between 150 and 165°F (65 and 74°C) and simply stops climbing. That plateau is the stall: moisture evaporating off the surface cools the meat almost exactly as fast as the oven heats it."
+        },
+        {
+          "title": "Wrap through the stall",
+          "text": "Tear two double-layer sheets of heavy foil about 24 inches (60 cm) long. Set each rack meat side down on a sheet, dot with 1 tbsp butter, splash 2 tbsp (30 ml) apple juice around it, and fold the foil into a tightly sealed packet. Wrapping stops evaporation, which breaks the stall — the temperature usually starts climbing again within 20 minutes. Meat side down means the top of the rack sits in the buttery liquid instead of above it."
+        },
+        {
+          "title": "Braise inside the foil",
+          "text": "Return the packets to the sheet pan and bake another 1 hour to 1 hour 15 minutes. The ribs are steaming now rather than roasting, and that moist heat is what carries them from tough to tender quickly. Move the packets gently, because a torn seam dumps hot liquid onto the oven floor and costs you the steam you just built."
+        },
+        {
+          "title": "Test for real doneness",
+          "text": "Open one packet carefully with your face turned away, since the trapped steam is scalding. Lift the rack in the middle with tongs: it should bow deeply and the surface should crack slightly, and a toothpick pushed between two bones should slide in with no resistance at all. In the meat between the bones you want 198 to 203°F (92 to 95°C). If it is still stiff, seal it back up and give it another 20 minutes."
+        },
+        {
+          "title": "Warm the glaze",
+          "text": "While the ribs finish, whisk the barbecue sauce, cider vinegar, and honey together in a small saucepan over low heat for 3 to 4 minutes. The vinegar cuts the sweetness so the glaze tastes bright instead of like candy, and the honey helps it cling to the bark. Keep it just warm and pourable, because if it reduces too far it sets like glue the moment it hits the meat."
+        },
+        {
+          "title": "Finish over high heat",
+          "text": "Heat a grill to medium-high, around 425°F (220°C), or move an oven rack to 6 inches (15 cm) below the broiler. Unwrap the racks, brush the meat side with a thin coat of glaze, and cook 4 to 6 minutes while watching constantly. Sugar goes from glossy to scorched in under a minute, so pull them the second the surface bubbles and darkens at the edges."
+        },
+        {
+          "title": "Glaze a second time",
+          "text": "Brush on one more thin layer of glaze and give it 2 more minutes to set into a tacky lacquer. Two thin coats build a far better shine than one thick coat, which tends to slide off in sheets the moment you cut. Keep whatever glaze is left in the pan to pass at the table."
+        },
+        {
+          "title": "Rest, then slice",
+          "text": "Move the racks to a cutting board and let them rest 10 minutes so the juices redistribute and the glaze firms up. Flip each rack bone side up, where you can see exactly where the bones run, which makes clean cuts easy. Slice between the bones with single long strokes of a sharp knife instead of sawing, and serve with the reserved glaze."
+        }
+      ],
+      "tips": [
+        "Make-ahead: cook through the foil stage up to 2 days early, chill the sealed packets, then reheat at 300°F (150°C) for 30 minutes and glaze right before serving.",
+        "Baby backs are leaner and faster than spare ribs. If you swap in a 3 lb (1.4 kg) St. Louis rack, add about 1 hour to the uncovered stage.",
+        "Meat that literally falls off the bone is technically overcooked. If you want a little bite left, start checking at 45 minutes in the foil.",
+        "No apple juice on hand? Use apple cider, cola, or plain water with a splash of cider vinegar — the point of the liquid is steam, not flavor."
+      ],
+      "keyTemp": "Ribs are tender at 198 to 203°F (92 to 95°C) in the meat between the bones, but the bend test matters more than the number.",
+      "pairing": "Vinegary coleslaw, buttered corn, and a cold lager or a glass of dry cider.",
+      "videoQuery": "oven baked baby back ribs then grilled",
+      "photoQuery": "glazed baby back ribs sliced",
+      "tags": ["BBQ", "Oven", "Weekend"]
+    },
+    {
+      "id": "smoked-st-louis-ribs",
+      "title": "Smoked St. Louis Spare Ribs",
+      "emoji": "🍖",
+      "art": "ribs",
+      "blurb": "The full backyard-smoker education in one cook: trimming, fire control, spritzing, the stall, and the wrap. Spare ribs have more fat than baby backs, which makes them far more forgiving of a wobbly fire.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "6 hr",
+      "totalTime": "6 hr 45 min",
+      "ingredients": [
+        {
+          "group": "For the ribs and fire",
+          "items": [
+            "2 full racks pork spare ribs (about 3½ lb / 1.6 kg each)",
+            "3 or 4 fist-sized chunks hickory, oak, or cherry wood (about 8 oz / 225 g total)",
+            "2 tbsp (30 ml) yellow mustard, 1 tbsp per rack",
+            "2 cups (480 ml) water, for the foil pan inside the smoker"
+          ]
+        },
+        {
+          "group": "Rub",
+          "items": [
+            "½ cup (100 g) turbinado or raw sugar",
+            "¼ cup (18 g) sweet paprika",
+            "2 tbsp (18 g) kosher salt",
+            "2 tbsp coarsely ground black pepper, 16-mesh if you can find it",
+            "1 tbsp (8 g) garlic powder",
+            "2 tsp onion powder",
+            "1 tsp cayenne pepper"
+          ]
+        },
+        {
+          "group": "Spritz and wrap",
+          "items": [
+            "1 cup (240 ml) apple cider vinegar mixed with 1 cup (240 ml) water, in a spray bottle",
+            "4 tbsp (55 g) unsalted butter, 2 tbsp per rack",
+            "¼ cup (55 g) light brown sugar, packed",
+            "¼ cup (85 g) honey"
+          ]
+        },
+        {
+          "group": "Glaze",
+          "items": [
+            "¾ cup (180 ml) tomato-based barbecue sauce",
+            "2 tbsp (30 ml) apple cider vinegar"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Trim to the St. Louis cut",
+          "text": "Lay a rack meat side down and find the line of cartilage-tipped rib ends running diagonally across one side. Cut straight across just outside that line with a sharp boning knife to remove the whole strip, then trim the flap of meat and the pointed skirt off the back. What is left is a neat rectangle that cooks evenly instead of a wedge with thin ends that scorch. Save the trimmings — they smoke in about 2 hours and are the cook's snack."
+        },
+        {
+          "title": "Remove the membrane",
+          "text": "Slip a butter knife under the silverskin membrane at the wide end of the bone side and lift a corner free. Grip it with a paper towel and peel it off the whole rack in one motion. Spare ribs have a tougher membrane than baby backs, so work slowly and re-start at a bone if it shreds. Smoke and rub cannot get through it, and it cooks up like plastic."
+        },
+        {
+          "title": "Season the night before",
+          "text": "Combine all the rub ingredients and break up any lumps of sugar with your fingers. Coat each rack with 1 tbsp mustard, then dust the rub on heavily from a foot above, about 3 tbsp per side. Refrigerate uncovered on a rack over a sheet pan for at least 4 hours and ideally overnight; the salt penetrates and the surface dries, which is what lets smoke stick and bark form."
+        },
+        {
+          "title": "Build a clean fire",
+          "text": "Light your charcoal or set your pellet grill for a steady 250°F (120°C) measured at the grate, not the dome thermometer, which usually reads 25°F (14°C) high. On a kettle, bank the coals to one side and set a foil pan holding the 2 cups (480 ml) of water on the empty side. Wait until the smoke coming out of the vent is thin and blue rather than thick and white — white smoke is unburnt fuel and it makes ribs taste like an ashtray."
+        },
+        {
+          "title": "Add the wood",
+          "text": "Bury two chunks of wood in the hot coals and hold the other two in reserve. Pork takes smoke best in the first 2 to 3 hours, when the surface is still cool and damp, so you do not need to add wood all day. Hickory is the classic for ribs, oak is milder, and cherry gives the best mahogany color. Adding wood after hour three mostly just adds bitterness."
+        },
+        {
+          "title": "Smoke bare for three hours",
+          "text": "Set the ribs bone side down on the grate away from the fire and close the lid. Leave them completely alone for the first 90 minutes so the rub can set into a crust; poking or flipping early smears it off. Keep the vents adjusted to hold 250°F (120°C), making small changes and waiting 10 minutes to see the effect rather than chasing the needle."
+        },
+        {
+          "title": "Spritz and watch the stall",
+          "text": "After 90 minutes, spray the racks lightly with the vinegar-and-water mix every 45 minutes, just enough to darken the surface without washing off rub. Around hour 3 the internal temperature will stall somewhere between 150 and 165°F (65 and 74°C) and refuse to move for an hour or more. Nothing is wrong: evaporating moisture is cooling the meat as fast as the fire heats it. This is exactly where impatient cooks crank the heat and ruin ribs."
+        },
+        {
+          "title": "Wrap with butter and honey",
+          "text": "Lay each rack meat side down on two overlapping sheets of heavy foil, dot with 2 tbsp butter, sprinkle 2 tbsp brown sugar, and drizzle 2 tbsp honey over it. Spritz once more, then fold the foil into a tight packet with no gaps. This is the Texas crutch: sealing the meat stops evaporation, ends the stall, and steams the ribs tender in about half the time bare smoking would take."
+        },
+        {
+          "title": "Cook wrapped for two hours",
+          "text": "Return the packets to the smoker meat side down and hold 250°F (120°C) for about 2 hours. Start checking at 90 minutes by pressing the packet — the racks should feel loose and floppy through the foil. When a toothpick pushed between the bones meets no resistance and the meat reads 198 to 203°F (92 to 95°C), they are ready to come out of the foil."
+        },
+        {
+          "title": "Unwrap and set the bark",
+          "text": "Open the packets away from your face, pour the liquid into a bowl, and put the racks back on the grate bone side down. Give them 20 to 30 minutes uncovered so the softened bark firms back up and stops feeling wet. Skipping this step is why crutched ribs sometimes come out pot-roasty instead of barbecued."
+        },
+        {
+          "title": "Glaze in thin coats",
+          "text": "Stir the barbecue sauce with the cider vinegar and 2 tbsp of the reserved foil liquid, then brush a thin coat over the meat side. Close the lid for 10 minutes to let it tighten, then brush on a second thin coat and give it another 10. Two light coats set into a glossy lacquer, while one heavy coat slides off and tastes raw."
+        },
+        {
+          "title": "Rest before cutting",
+          "text": "Take the racks off and let them sit on a board for 15 minutes, loosely tented with foil. Rendered fat and gelatin are liquid at cooking temperature and need a few minutes to thicken back up inside the meat. Cut too soon and all of that runs onto the board instead of staying in the ribs."
+        },
+        {
+          "title": "Slice and check your work",
+          "text": "Flip the racks bone side up and slice between the bones in single long strokes. A perfect rib holds together when you pick it up and takes a clean bite that leaves a crescent-shaped tooth mark in the meat. If the meat falls off before you get it to your mouth, pull the ribs 20 minutes earlier next time."
+        }
+      ],
+      "tips": [
+        "The dome thermometer on most grills reads high because it sits far from the meat. Clip a probe thermometer at grate level next to the ribs and trust that one.",
+        "If the fire runs hot early, the ribs will be tough no matter how long you cook them. Open the lid for 2 minutes and close the bottom vent halfway rather than dumping water on the coals.",
+        "Make-ahead: smoked ribs reheat beautifully. Wrap in foil with a splash of apple juice and warm at 275°F (135°C) for 30 minutes, then glaze fresh.",
+        "Skip the wrap entirely for a firmer, chewier, more traditional Texas-style rib. Expect to add 1½ to 2 hours and to spritz more often.",
+        "Turbinado sugar resists burning better than brown sugar over a long cook, which is why competition rubs use it."
+      ],
+      "keyTemp": "Pull between 198 and 203°F (92 and 95°C) when a toothpick slides between the bones with no resistance; the stall sits at 150 to 165°F (65 to 74°C).",
+      "pairing": "White bread, pickles, sliced raw onion, and a very cold pilsner.",
+      "videoQuery": "smoked st louis style spare ribs 250 degrees",
+      "photoQuery": "smoked spare ribs sliced bark",
+      "tags": ["BBQ", "Smoker", "Weekend", "Project"]
+    },
+    {
+      "id": "pulled-pork-shoulder",
+      "title": "Slow-Roasted Pulled Pork Shoulder",
+      "emoji": "🐖",
+      "art": "pork",
+      "blurb": "One cheap, fatty cut and a very patient oven turn into enough pork for a crowd, with crackly bark edges mixed through the soft meat. It is nearly impossible to overcook, which makes it the friendliest big-batch meat there is.",
+      "difficulty": "Medium",
+      "servings": "10 to 12 servings",
+      "prepTime": "25 min",
+      "cookTime": "9 hr",
+      "totalTime": "10 hr 25 min",
+      "ingredients": [
+        {
+          "group": "For the pork",
+          "items": [
+            "1 bone-in pork shoulder, also sold as Boston butt (8 lb / 3.6 kg)",
+            "2 tbsp (30 ml) yellow mustard",
+            "½ cup (120 ml) apple cider vinegar, for wrapping",
+            "2 cups (480 ml) water, for the roasting pan"
+          ]
+        },
+        {
+          "group": "Rub",
+          "items": [
+            "⅓ cup (70 g) dark brown sugar, packed",
+            "3 tbsp (27 g) kosher salt",
+            "2 tbsp (14 g) sweet paprika",
+            "1 tbsp coarsely ground black pepper",
+            "1 tbsp (8 g) garlic powder",
+            "2 tsp onion powder",
+            "2 tsp dry mustard powder",
+            "1 tsp cayenne pepper"
+          ]
+        },
+        {
+          "group": "Carolina finishing sauce",
+          "items": [
+            "1½ cups (360 ml) apple cider vinegar",
+            "2 tbsp (25 g) granulated sugar",
+            "1 tbsp (15 ml) ketchup",
+            "2 tsp red pepper flakes",
+            "1 tsp kosher salt",
+            "1 tsp coarsely ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Buy the right cut",
+          "text": "Ask for bone-in pork shoulder or Boston butt, not the leaner picnic shoulder and definitely not pork loin. The butt is laced with fat and connective tissue that melt into gelatin over a long cook, which is what makes pulled pork juicy. The blade bone should slide out clean at the end, and that is your best doneness signal."
+        },
+        {
+          "title": "Trim and score the fat cap",
+          "text": "Trim the fat cap down to about ¼ inch (6 mm) thick, leaving enough to baste the meat but not so much that the rub never touches it. Score the remaining fat in a crosshatch about ½ inch (1 cm) apart, cutting into the fat but not the meat. Those cuts let fat render out and let rub get down into the surface."
+        },
+        {
+          "title": "Rub it the night before",
+          "text": "Mix all the rub ingredients until evenly colored, smear the shoulder with the mustard, and pack the rub on every surface including the underside. Use all of it — an 8 lb (3.6 kg) roast can carry far more seasoning than you think, because only the outside gets any. Set it on a rack over a sheet pan and refrigerate uncovered 12 to 24 hours so the salt works its way in."
+        },
+        {
+          "title": "Temper and heat the oven",
+          "text": "Take the pork out of the fridge 45 minutes before it goes in the oven so the surface is not ice cold. Heat the oven to 275°F (135°C) with a rack in the lower third. Pour the 2 cups (480 ml) of water into a roasting pan and set a rack in it, then put the pork on the rack fat side up. The water keeps drippings from scorching and adds a little humidity."
+        },
+        {
+          "title": "Roast uncovered until the bark sets",
+          "text": "Roast uncovered for about 5 hours, until the outside is deep mahogany and dry to the touch. Do not baste, and do not open the door more than once an hour — every peek costs you 25 to 50°F (14 to 28°C) of oven recovery. By now the internal temperature is usually somewhere around 160°F (71°C)."
+        },
+        {
+          "title": "Recognize the stall",
+          "text": "Somewhere between 150 and 170°F (65 and 77°C) the temperature will stop rising and may even drop a degree, and it can sit there for 3 hours. This is the stall, and it is evaporative cooling — the meat is sweating and that sweat is refrigerating it. Nothing is broken, the oven is fine, and turning up the heat will only dry out the exterior."
+        },
+        {
+          "title": "Wrap to power through",
+          "text": "Once the bark is dark and firm, pull the pan out and set the shoulder on two overlapping sheets of heavy foil. Pour the ½ cup (120 ml) cider vinegar around it and wrap tightly, sealing every seam so no steam escapes. Return it to the rack in the pan; wrapping ends the stall within about 30 minutes and typically saves you 2 hours."
+        },
+        {
+          "title": "Cook to 203°F",
+          "text": "Continue roasting for roughly 3½ to 4 more hours, until the thickest part away from the bone reads 203°F (95°C). Start checking at 195°F (91°C) by pushing a probe or a skewer into several spots — it should slide in like the meat is room-temperature butter. Temperature is a guide here, but probe tenderness is the real test, and some shoulders need 207°F (97°C)."
+        },
+        {
+          "title": "Rest it properly",
+          "text": "Leave the pork wrapped, set it in a small cooler or an unheated oven, and rest it at least 1 hour and up to 3. This is not optional: at 203°F (95°C) the melted fat and gelatin are thin as water and will pour out if you open it now. A long rest lets them thicken and get reabsorbed, and the pork stays above 140°F (60°C) the whole time."
+        },
+        {
+          "title": "Make the finishing sauce",
+          "text": "While the pork rests, whisk the cider vinegar, sugar, ketchup, red pepper flakes, salt, and black pepper in a jar until the sugar dissolves. Let it sit at room temperature for 30 minutes so the pepper flakes bloom. This thin Eastern Carolina sauce is not a glaze — it is seasoning for the pulled meat, and it wakes the richness right up."
+        },
+        {
+          "title": "Pull the pork",
+          "text": "Unwrap over a bowl to catch every drop of juice, then twist the blade bone; it should pull free with no meat clinging to it. Shred with two forks or gloved hands into big, irregular strands rather than mush, and chop the darkest bark pieces so they distribute through the whole batch. Fish out and discard any thick pockets of unrendered fat."
+        },
+        {
+          "title": "Season and serve",
+          "text": "Skim the fat off the reserved juices and pour about ½ cup (120 ml) of the defatted juice back over the meat, then add the finishing sauce a few tablespoons at a time, tasting as you go. It should taste bright and lightly salty, not soupy. Serve immediately on soft buns, or hold it covered in a 200°F (95°C) oven for up to an hour."
+        }
+      ],
+      "tips": [
+        "Plan on 1 to 1¼ hours per pound (about 2 to 2½ hours per kg) at 275°F (135°C), then add an hour of slack. Pork is done when it is done, and a stubborn stall can wreck a dinner schedule.",
+        "Make-ahead: pulled pork is better the next day. Cool it in its own juices, refrigerate up to 4 days, and reheat covered at 300°F (150°C) with a splash of stock.",
+        "Freeze leftovers in 2-cup portions with plenty of juice; they keep 3 months and thaw into tacos, nachos, or hash.",
+        "For smoker instead of oven, run 250°F (120°C) with hickory or apple wood and follow the exact same wrap-and-rest timeline.",
+        "If the bark goes soft under the foil, unwrap for the last 20 minutes of cooking and let the dry heat firm it back up."
+      ],
+      "keyTemp": "Pull at 203°F (95°C) when a probe slides in with no resistance; the stall parks at 150 to 170°F (65 to 77°C) and is normal.",
+      "pairing": "Soft potato buns, sharp coleslaw, dill pickles, and sweet tea or a light amber ale.",
+      "videoQuery": "oven pulled pork shoulder boston butt 275",
+      "photoQuery": "pulled pork shoulder shredded bark",
+      "tags": ["BBQ", "Feeds a Crowd", "Weekend"]
+    },
+    {
+      "id": "thick-cut-pork-chops-pan-sauce",
+      "title": "Thick-Cut Pork Chops with Pan Sauce",
+      "emoji": "🥩",
+      "art": "pork",
+      "blurb": "Two big bone-in chops, a hot skillet, and a mustard-cider sauce built from the browned bits left behind. Thirty minutes start to finish and it eats like something you would order out.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "For the chops",
+          "items": [
+            "2 bone-in pork rib chops (12 oz / 340 g each, 1½ in / 4 cm thick)",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as grapeseed or avocado",
+            "2 tbsp (28 g) unsalted butter",
+            "3 sprigs fresh thyme",
+            "2 garlic cloves, lightly smashed"
+          ]
+        },
+        {
+          "group": "Pan sauce",
+          "items": [
+            "1 medium shallot, finely minced (about 3 tbsp / 30 g)",
+            "½ cup (120 ml) dry hard cider or dry white wine",
+            "¾ cup (180 ml) low-sodium chicken stock",
+            "1 tbsp (15 g) whole-grain Dijon mustard",
+            "1 tsp (5 ml) apple cider vinegar",
+            "2 tbsp (28 g) cold unsalted butter, cut into cubes",
+            "¼ tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Buy chops thick enough",
+          "text": "Ask the butcher for rib chops cut 1½ inches (4 cm) thick, which usually means about 12 oz (340 g) each. A thin chop hits 145°F (63°C) before the outside has any color, so it is guaranteed to be either pale or dry. The bone insulates one side and adds flavor, and the fat cap along the edge bastes the meat as it renders."
+        },
+        {
+          "title": "Salt and air-dry",
+          "text": "Pat both chops completely dry with paper towels and season all over with the kosher salt, including the fat edge. Set them on a rack and leave them uncovered at room temperature while you mince the shallot and heat the pan, about 10 minutes, or refrigerate them uncovered for up to 12 hours if you are working ahead. Salt draws moisture out and then the meat reabsorbs it seasoned, while the surface dries — dry surface is the whole secret to browning."
+        },
+        {
+          "title": "Preheat the skillet properly",
+          "text": "Set a 12-inch (30 cm) cast-iron or stainless skillet over medium-high heat for a full 3 minutes before adding the oil. Add the tablespoon of oil and swirl; it should shimmer and thin out almost instantly and send up the faintest wisp of smoke. If it just sits there looking thick, the pan is not ready and the pork will stick."
+        },
+        {
+          "title": "Season with pepper and sear",
+          "text": "Grind the black pepper over both sides now, right before cooking, so it toasts rather than burns. Lay the chops in the pan away from you and press down for 5 seconds so the full surface touches metal. It should sizzle steadily and loudly, not smoke violently — if it screams and smokes, drop the heat to medium."
+        },
+        {
+          "title": "Build the first crust",
+          "text": "Leave the chops alone for 4 minutes without moving, poking, or peeking under them. Meat releases from the pan on its own when a crust has formed, so if it sticks when you nudge it, it needs another 30 seconds. Flip once and sear the second side for 3 minutes."
+        },
+        {
+          "title": "Render the fat edge",
+          "text": "Stand the chops on their fat edge, leaning them against each other or holding them with tongs, for 60 to 90 seconds. The strip of fat should go from white and firm to golden and soft, and it will pour more fat into the pan for basting. Unrendered fat is chewy and unpleasant, and this one minute fixes it."
+        },
+        {
+          "title": "Baste with butter and aromatics",
+          "text": "Lower the heat to medium, add the 2 tbsp butter, thyme sprigs, and smashed garlic, and tilt the pan so the butter pools at the near edge. Spoon the foaming butter over the chops continuously for 2 to 3 minutes. The butter should be foaming and smell nutty; if it turns dark brown and smells acrid, pull the pan off the heat for 20 seconds."
+        },
+        {
+          "title": "Cook to 145°F and rest",
+          "text": "Check the center of the thickest part, away from the bone, and pull the chops onto a plate at 140°F (60°C) — carryover will carry them to the safe 145°F (63°C). Rest them at least 3 minutes, which is both a food-safety requirement for whole-muscle pork and what keeps the juice inside. Modern pork is safe and best at 145°F (63°C) with a faint blush of pink in the center."
+        },
+        {
+          "title": "Start the sauce",
+          "text": "Pour off all but 1 tbsp of fat, return the pan to medium heat, and add the minced shallot with a pinch of the salt. Stir for 60 to 90 seconds until it is translucent and smells sweet, scraping constantly so it does not scorch in the residual heat. Discard the thyme and garlic if they look dark."
+        },
+        {
+          "title": "Deglaze and finish",
+          "text": "Pour in the cider and scrape every browned bit off the bottom with a wooden spoon — that fond is the entire flavor of the sauce. Simmer until reduced by half, about 2 minutes, then add the stock and reduce again to about ⅓ cup (80 ml), 4 to 5 minutes. Whisk in the mustard and vinegar, take the pan off the heat, then swirl in the cold butter cubes one at a time until glossy. Pour any resting juices from the plate into the sauce, taste, and spoon it over the chops."
+        }
+      ],
+      "tips": [
+        "If your chops are thinner than 1 inch (2.5 cm), skip the basting stage entirely — sear 2½ minutes per side and go straight to the sauce.",
+        "Substitutions: dry white wine, apple cider, or even ¼ cup (60 ml) stock plus 1 tsp cider vinegar all work in place of hard cider.",
+        "The butter must be cold and go in off the heat. Boiling it will break the sauce into a greasy pool instead of an emulsion.",
+        "Make-ahead: salt the chops in the morning and leave them uncovered in the fridge; they will brown noticeably better at dinner."
+      ],
+      "keyTemp": "Pull pork chops at 140°F (60°C) and rest 3 minutes to reach the safe serving temperature of 145°F (63°C).",
+      "pairing": "Buttered mashed potatoes or soft polenta, a pile of sautéed greens, and the rest of the cider.",
+      "videoQuery": "thick cut bone in pork chops pan sauce",
+      "photoQuery": "seared thick pork chop pan sauce",
+      "tags": ["30 Minutes", "Cast Iron", "Date Night"]
+    },
+    {
+      "id": "cider-brined-grilled-pork-chops",
+      "title": "Cider-Brined Grilled Pork Chops",
+      "emoji": "🐷",
+      "art": "pork",
+      "blurb": "A two-hour salt-and-cider soak is the cheapest insurance there is against dry pork. The chops come off the grill juicy, faintly sweet, and seasoned all the way through.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "2 hr 30 min",
+      "ingredients": [
+        {
+          "group": "Brine",
+          "items": [
+            "2 cups (480 ml) apple cider or unsweetened apple juice",
+            "2 cups (480 ml) cold water",
+            "¼ cup (36 g) kosher salt",
+            "2 tbsp (25 g) light brown sugar",
+            "4 garlic cloves, smashed",
+            "2 bay leaves",
+            "1 tbsp (7 g) black peppercorns, lightly crushed",
+            "4 sprigs fresh thyme",
+            "2 cups (about 450 g) ice cubes"
+          ]
+        },
+        {
+          "group": "Chops and finish",
+          "items": [
+            "4 bone-in pork loin or rib chops (10 oz / 280 g each, 1¼ in / 3 cm thick)",
+            "1 tbsp (15 ml) neutral oil",
+            "1 tsp coarsely ground black pepper",
+            "2 tbsp (28 g) unsalted butter, softened",
+            "1 tsp flaky sea salt, for finishing",
+            "1 lemon, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dissolve the brine",
+          "text": "Bring the cider, salt, brown sugar, garlic, bay leaves, peppercorns, and thyme to a simmer in a saucepan over medium heat, stirring until the salt and sugar completely dissolve, about 3 minutes. You have to heat it or the salt sits in crystals at the bottom and never gets into the meat. Take it off the heat as soon as it is clear."
+        },
+        {
+          "title": "Chill it fast",
+          "text": "Pour the hot brine into a large bowl, add the 2 cups (480 ml) cold water and all the ice, and stir until the ice mostly melts. The brine must be below 40°F (4°C) before the pork goes in — warm brine sits in the food-safety danger zone and starts to cook the outside of the chops. Feel the side of the bowl; it should be cold to the touch, not lukewarm."
+        },
+        {
+          "title": "Brine the chops",
+          "text": "Submerge the chops in the cold brine, pressing them under with a small plate if they float, and refrigerate for 2 hours. Do not go past 4 hours: this brine is strong, and over-brined pork turns spongy and tastes like ham. Two hours is enough for salt to reach the center of a 1¼-inch (3 cm) chop."
+        },
+        {
+          "title": "Dry them thoroughly",
+          "text": "Lift the chops out, rinse them briefly under cold water, and pat them absolutely dry with paper towels, pressing rather than wiping. Set them on a rack for 20 minutes at room temperature so the surface dries further. A wet chop steams on the grill and comes off gray; a dry one gets those brown grill marks in half the time."
+        },
+        {
+          "title": "Set up two heat zones",
+          "text": "Heat a gas grill with one side on high and the other off, or bank lit charcoal to one side of a kettle. You want the hot side around 500°F (260°C) and the cool side around 300°F (150°C). Two zones let you sear hard and then move the chops out of the flames to finish, which is how you avoid a burnt outside and raw middle."
+        },
+        {
+          "title": "Oil and pepper the chops",
+          "text": "Brush the chops with the neutral oil and grind the black pepper over both sides. Do not add any more salt — the brine already handled it, and salting again now makes them inedible. Scrape the grates clean with a wire brush and wipe them with an oiled paper towel held in tongs."
+        },
+        {
+          "title": "Sear over direct heat",
+          "text": "Lay the chops over the hot side and grill 3 minutes without moving them, then rotate each 45 degrees and go 2 more minutes for crosshatch marks. Flip and repeat on the second side, about 3 minutes. If flames flare up from dripping fat, slide the chops to the cool side for 20 seconds instead of squirting water, which just kicks up ash."
+        },
+        {
+          "title": "Finish over indirect heat",
+          "text": "Move all four chops to the cool side of the grill, close the lid, and cook 4 to 8 more minutes depending on thickness. This gentle heat brings the center up without adding any more char. Start checking early — the difference between juicy and dry pork is about 90 seconds."
+        },
+        {
+          "title": "Pull at the right number",
+          "text": "Slide an instant-read thermometer into the side of a chop, aiming for the center and staying off the bone, and pull at 140°F (60°C). Carryover heat will take them to the safe 145°F (63°C) while they rest. A little pink in the center of a whole-muscle pork chop is correct and safe."
+        },
+        {
+          "title": "Rest with butter",
+          "text": "Move the chops to a warm platter, smear the softened butter over the tops so it melts into the grooves, and tent loosely with foil for 5 minutes. Resting lets the juices that were driven to the center redistribute back out through the meat. Sprinkle with flaky salt and serve with lemon wedges to squeeze over."
+        }
+      ],
+      "tips": [
+        "Never brine pork that is already enhanced or injected — check the label for a saline solution percentage. It will come out far too salty.",
+        "Make-ahead: mix and chill the brine up to 3 days early, then drop the chops in on the day. The chilled brine is the slow part.",
+        "No grill? Sear in a cast-iron skillet over medium-high for 3 minutes a side, then finish in a 375°F (190°C) oven for 6 to 8 minutes.",
+        "The same brine works on a 3 lb (1.4 kg) pork loin roast — just extend the soak to 6 hours and roast at 375°F (190°C) to 140°F (60°C)."
+      ],
+      "keyTemp": "Pull at 140°F (60°C) and rest 3 to 5 minutes so the chops finish at the safe 145°F (63°C).",
+      "pairing": "Grilled peaches or apple sauce, a shaved fennel salad, and a chilled off-dry Riesling.",
+      "videoQuery": "brined grilled pork chops two zone fire",
+      "photoQuery": "grilled pork chop grill marks",
+      "tags": ["Grill", "Make Ahead", "Easy"]
+    },
+    {
+      "id": "herb-stuffed-porchetta",
+      "title": "Herb-Stuffed Porchetta with Crackling",
+      "emoji": "🍖",
+      "art": "roast",
+      "blurb": "Pork belly wrapped around a loin, packed with fennel, garlic, and rosemary, roasted until the skin shatters like glass. It takes two days of mostly waiting and it is the best thing you can put on a table.",
+      "difficulty": "Advanced",
+      "servings": "10 servings",
+      "prepTime": "45 min",
+      "cookTime": "3 hr",
+      "totalTime": "28 hr 15 min",
+      "ingredients": [
+        {
+          "group": "For the pork",
+          "items": [
+            "1 skin-on pork belly, squared off (5 lb / 2.3 kg, about 14 x 10 in / 35 x 25 cm)",
+            "1 boneless center-cut pork loin (2 lb / 900 g), trimmed of silverskin",
+            "3 tbsp (27 g) kosher salt, divided",
+            "1 tbsp (9 g) kosher salt, extra for the skin",
+            "2 tbsp (30 ml) olive oil",
+            "8 to 10 lengths butcher's twine, each about 18 in (45 cm)"
+          ]
+        },
+        {
+          "group": "Herb paste",
+          "items": [
+            "3 tbsp (18 g) fennel seeds",
+            "2 tsp (4 g) black peppercorns",
+            "1 tsp (2 g) red pepper flakes",
+            "8 garlic cloves, peeled",
+            "3 tbsp finely chopped fresh rosemary (from about 6 sprigs)",
+            "3 tbsp finely chopped fresh sage (about 20 leaves)",
+            "Finely grated zest of 2 lemons (about 2 tbsp)",
+            "3 tbsp (45 ml) olive oil"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Order the right pieces",
+          "text": "Ask your butcher for a squared-off, skin-on pork belly about 5 lb (2.3 kg) and a boneless loin that is no longer than the belly's short side. The loin should be roughly the same length as the belly is wide, so the roll comes out even. Ask them to score the skin in a crosshatch for you if they have a proper blade, since a dull home knife makes ragged cuts."
+        },
+        {
+          "title": "Toast and grind the spices",
+          "text": "Toast the fennel seeds, peppercorns, and red pepper flakes in a dry skillet over medium heat for 2 to 3 minutes, shaking constantly, until the fennel smells sweet and licorice-like. Tip them onto a plate immediately so they stop cooking. Grind them coarsely in a mortar or spice grinder; toasting first is what turns fennel from grassy to warm and is worth the three minutes."
+        },
+        {
+          "title": "Make the herb paste",
+          "text": "Pound or pulse the garlic with 1 tbsp of the kosher salt into a rough paste, then work in the ground spices, rosemary, sage, lemon zest, and 3 tbsp olive oil. It should look like coarse green mud and smell strongly of fennel and lemon. The salt acts as an abrasive that breaks the garlic down properly instead of just chopping it."
+        },
+        {
+          "title": "Score the skin",
+          "text": "Lay the belly skin side up and, using a very sharp utility knife or box cutter, score a crosshatch of lines about ¾ inch (2 cm) apart. Cut through the skin and just into the fat but never into the meat, or juice will bubble up and stop the skin from crisping. Working with the belly cold, straight from the fridge, makes this dramatically easier."
+        },
+        {
+          "title": "Season the inside",
+          "text": "Flip the belly meat side up and rub 1 tbsp of the kosher salt evenly over the flesh, then spread all the herb paste across it, leaving a bare 1-inch (2.5 cm) border along the far long edge. Season the loin all over with the last 1 tbsp of the divided salt, which accounts for all 3 tbsp: one in the paste, one on the belly, one on the loin. That bare border is what lets the roll seal instead of squeezing paste out as you tie it."
+        },
+        {
+          "title": "Roll and tie",
+          "text": "Lay the loin along the near long edge of the belly and roll it up tightly into a log, keeping the skin on the outside and the seam underneath. Tie with butcher's twine at 1½-inch (4 cm) intervals, starting at the middle and working outward, pulling each loop snug enough to compress the roll without cutting into it. A loose roll cooks unevenly and falls apart when you slice it."
+        },
+        {
+          "title": "Dry the skin overnight",
+          "text": "Rub the skin all over with the extra 1 tbsp kosher salt, then set the tied roast on a rack over a sheet pan and refrigerate uncovered for 24 hours, and up to 48. This is the single most important step for crackling: the cold dry air of the fridge pulls water out of the skin so it can puff instead of steam. Do not cover it, and do not skip it."
+        },
+        {
+          "title": "Temper and start low",
+          "text": "Take the porchetta out 1 hour before cooking and wipe the skin with a paper towel to remove any beaded moisture. Heat the oven to 300°F (150°C) with a rack in the lower third. Set the roast on a rack in a roasting pan, rub the skin with the 2 tbsp olive oil, and roast for about 2½ hours. The gentle heat renders the belly fat and cooks the loin without seizing it."
+        },
+        {
+          "title": "Check the center",
+          "text": "Start checking at 2 hours by pushing a thermometer through the end of the roll into the loin at the center. You are looking for 140°F (60°C) in the loin at this stage, since the high-heat blast still to come will push it past the safe 145°F (63°C). The belly wrapped around it is far more forgiving and will be fine either way."
+        },
+        {
+          "title": "Blast for crackling",
+          "text": "Crank the oven to 500°F (260°C) and roast 20 to 30 minutes more, turning the pan every 8 minutes so the skin browns evenly. The skin will bubble, blister, and go from leathery to hard and glassy — you can hear it crackle and pop. Watch it closely from minute 15, because it goes from mahogany to burnt very quickly. If patches stay soft, hit them directly under the broiler for 60 seconds."
+        },
+        {
+          "title": "Rest for real",
+          "text": "Move the porchetta to a cutting board and rest it, uncovered, for 30 minutes. Do not tent it with foil, because trapped steam will soften the crackling you just spent half an hour building. Uncovered resting still lets the internal juices settle while the skin stays hard."
+        },
+        {
+          "title": "Slice with a serrated knife",
+          "text": "Snip and remove all the twine, then cut with a serrated bread knife in a firm sawing motion — a smooth chef's knife slips off the skin and squashes the roll. Cut slices ½ to ¾ inch (1 to 2 cm) thick. Each one should show a spiral of belly around a pale loin center with a rim of shattered crackling."
+        },
+        {
+          "title": "Serve and store",
+          "text": "Fan the slices on a warm platter and spoon a little of the rendered pan fat over them, or leave them plain if the crackling is at its best. Serve within 20 minutes while the skin is still crisp. Leftovers are extraordinary the next day, sliced thin on crusty bread with mustard and pickled onions."
+        }
+      ],
+      "tips": [
+        "The overnight uncovered chill is non-negotiable for crackling. If your skin comes out chewy, moisture is almost always the reason.",
+        "Make-ahead: assemble and tie the roast up to 2 days early. It has to sit in the fridge anyway, so the work is genuinely front-loaded.",
+        "No loin? A 7 lb (3.2 kg) belly rolled on its own makes a classic porchetta di Ariccia — cut the low-oven time to 2 hours.",
+        "Save the rendered fat in a jar in the fridge for up to a month. Roasting potatoes in it is the best possible use of leftovers.",
+        "Buy an extra foot of twine and practice the tie once on the untreated belly. It is much less stressful than learning while the paste slides everywhere."
+      ],
+      "keyTemp": "The loin center must reach 145°F (63°C); pull the low roast at 140°F (60°C) before the 500°F (260°C) crackling blast.",
+      "pairing": "Roasted potatoes in the pork fat, bitter greens with lemon, and a bright Chianti or Barbera.",
+      "videoQuery": "porchetta pork belly wrapped loin crackling",
+      "photoQuery": "sliced porchetta crackling spiral",
+      "tags": ["Project", "Feeds a Crowd", "Roast", "Weekend"]
+    },
+    {
+      "id": "bacon-wrapped-pork-tenderloin",
+      "title": "Bacon-Wrapped Pork Tenderloin",
+      "emoji": "🥓",
+      "art": "pork",
+      "blurb": "The leanest cut on the pig gets a jacket of bacon and a maple-mustard glaze, which solves its only real problem. Under an hour, and it slices into neat pink rounds that look far harder than they were.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "totalTime": "55 min",
+      "ingredients": [
+        {
+          "group": "For the tenderloins",
+          "items": [
+            "2 pork tenderloins (1 lb / 450 g each), silverskin removed",
+            "2 tsp (9 g) kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "1 tsp (2 g) smoked paprika",
+            "12 slices regular-cut bacon (about 12 oz / 340 g), not thick-cut",
+            "1 tbsp (15 ml) neutral oil",
+            "8 lengths butcher's twine, about 12 in (30 cm) each, or 12 toothpicks"
+          ]
+        },
+        {
+          "group": "Maple mustard glaze",
+          "items": [
+            "3 tbsp (60 g) pure maple syrup",
+            "2 tbsp (30 g) Dijon mustard",
+            "1 tbsp (15 ml) apple cider vinegar",
+            "1 garlic clove, finely grated",
+            "¼ tsp (1 g) kosher salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Remove the silverskin",
+          "text": "Slide a thin knife under the shiny silver membrane running along one side of each tenderloin, angle the blade slightly upward, and pull the membrane taut as you cut it away in strips. It will not render or soften, so anything you leave behind will make the meat curl and turn tight in the oven. Take your time; you should lose only a little meat."
+        },
+        {
+          "title": "Season the pork",
+          "text": "Pat the tenderloins dry and season all over with the kosher salt, black pepper, and smoked paprika. Let them sit at room temperature for 15 minutes while you get everything else ready. Keep the seasoning modest — bacon brings plenty of salt of its own, and it is easy to overshoot here."
+        },
+        {
+          "title": "Choose the right bacon",
+          "text": "Use regular-cut bacon, not thick-cut: thin slices render and crisp in the time it takes the pork to reach temperature, while thick slices stay flabby and raw-looking. Lay 6 slices side by side on a cutting board, slightly overlapping, in a sheet slightly longer than one tenderloin. Repeat for the second one."
+        },
+        {
+          "title": "Wrap and secure",
+          "text": "Set a tenderloin across one end of the bacon sheet and roll it up so the slices spiral around it, tucking the thin tail end of the pork under itself so the roast is an even thickness. Finish with the bacon seam on the bottom, which keeps it from unraveling. Tie with butcher's twine at 2-inch (5 cm) intervals or secure with toothpicks if the bacon is loose."
+        },
+        {
+          "title": "Mix the glaze",
+          "text": "Whisk the maple syrup, Dijon, cider vinegar, grated garlic, and salt in a small bowl until smooth and glossy. The vinegar and mustard keep it from being cloying, and the sugar in the syrup is what gives you the lacquered finish. Set it aside; do not brush it on yet, or it will burn during the sear."
+        },
+        {
+          "title": "Heat the oven and pan",
+          "text": "Heat the oven to 400°F (205°C) with a rack in the middle. Set a large oven-safe skillet over medium-high heat for 2 minutes, then add the neutral oil and let it shimmer. A cast-iron or heavy stainless skillet means you can sear and roast in the same pan, which saves you a dish and keeps all the drippings."
+        },
+        {
+          "title": "Sear the bacon crust",
+          "text": "Lay the tenderloins seam side down and sear, turning with tongs every 2 minutes, until the bacon is browned on all sides, about 8 minutes total. Start seam side down so the heat welds the bacon shut. It should sizzle steadily; if the bacon fat starts smoking hard, drop to medium heat and pour off some of the rendered fat."
+        },
+        {
+          "title": "Roast and glaze",
+          "text": "Slide the skillet into the oven and roast for 10 minutes, then pull it out and brush half the glaze over both roasts. Return to the oven for 6 to 10 minutes more, brushing on the rest of the glaze for the last 4 minutes. Glazing late means the maple caramelizes instead of scorching black."
+        },
+        {
+          "title": "Check temperature early",
+          "text": "Begin checking at the 14-minute mark by inserting a thermometer into the thickest part of one tenderloin, parallel to the length of the meat. Pull them out at 140°F (60°C) — carryover will take them to the safe 145°F (63°C). Tenderloin is very lean and there is a hard line between juicy and chalky, so check often rather than guessing."
+        },
+        {
+          "title": "Rest and slice into medallions",
+          "text": "Move the roasts to a cutting board and rest 10 minutes, loosely tented, which also satisfies the required 3-minute rest for whole-muscle pork. Snip off the twine, then slice crosswise into medallions about ¾ inch (2 cm) thick. The centers should be pale pink and the juices clear. Spoon any pan glaze and resting juices over the top and serve."
+        }
+      ],
+      "tips": [
+        "Do not confuse pork tenderloin with pork loin. Tenderloin is a 1 lb (450 g) tapered muscle that cooks in 25 minutes; a loin roast is 3 to 4 lb (1.4 to 1.8 kg) and needs an hour or more.",
+        "Make-ahead: wrap and tie the tenderloins up to a day ahead and keep them covered in the fridge. Take them out 20 minutes before searing.",
+        "If the bacon is still soft when the pork reaches 140°F (60°C), do not keep roasting and overcook the meat. Move the skillet 6 inches (15 cm) under the broiler for 60 to 90 seconds instead — the fierce top heat crisps the bacon while the pork gains only a degree or two.",
+        "Substitutions: honey works for maple, and whole-grain mustard gives a nice texture. Add 1 tsp chopped rosemary to the glaze if you have it."
+      ],
+      "keyTemp": "Pull at 140°F (60°C) and rest 10 minutes; whole-muscle pork is safe at 145°F (63°C) after a 3-minute rest.",
+      "pairing": "Roasted brussels sprouts, a wild rice pilaf, and a light Pinot Noir.",
+      "videoQuery": "bacon wrapped pork tenderloin oven roasted",
+      "photoQuery": "bacon wrapped pork tenderloin sliced",
+      "tags": ["Easy", "Weeknight", "Oven"]
+    },
+    {
+      "id": "honey-glazed-ham",
+      "title": "Honey Glazed Spiral Ham",
+      "emoji": "🍯",
+      "art": "roast",
+      "blurb": "The ham is already cooked, so your only two jobs are to warm it gently without drying it and to build a sticky, burnished glaze. It is the least stressful holiday centerpiece in this book.",
+      "difficulty": "Easy",
+      "servings": "12 to 16 servings",
+      "prepTime": "15 min",
+      "cookTime": "2 hr",
+      "totalTime": "2 hr 30 min",
+      "ingredients": [
+        {
+          "group": "For the ham",
+          "items": [
+            "1 bone-in spiral-cut fully cooked ham (9 lb / 4 kg)",
+            "1½ cups (360 ml) water or apple cider, for the pan",
+            "20 whole cloves, optional, for studding"
+          ]
+        },
+        {
+          "group": "Honey glaze",
+          "items": [
+            "1 cup (340 g) honey",
+            "½ cup (110 g) light brown sugar, packed",
+            "4 tbsp (55 g) unsalted butter",
+            "2 tbsp (30 g) Dijon mustard",
+            "2 tbsp (30 ml) apple cider vinegar",
+            "½ tsp (1 g) ground cinnamon",
+            "¼ tsp (1 g) ground cloves",
+            "¼ tsp (1 g) kosher salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Understand what you bought",
+          "text": "Almost every ham at the supermarket is fully cooked and cured, so you are reheating, not cooking. Look for bone-in and, ideally, one labeled ham rather than ham with water added, which is wetter and less flavorful. Bone-in tastes better and gives you a bone worth saving for soup."
+        },
+        {
+          "title": "Bring it toward room temperature",
+          "text": "Take the ham out of the fridge 1 hour before it goes in the oven and unwrap it, discarding any plastic disc covering the bone. A 9 lb (4 kg) ham straight from the fridge takes far longer to warm through, and every extra oven minute dries out the spiral-cut slices. Pat the surface dry with paper towels."
+        },
+        {
+          "title": "Set up the pan",
+          "text": "Heat the oven to 325°F (165°C) with a rack in the lower third so the ham fits with headroom. Set the ham cut side down in a roasting pan and pour the water or cider into the bottom of the pan, not over the ham. That liquid steams gently and keeps the exposed slices from turning into jerky."
+        },
+        {
+          "title": "Tent it tightly",
+          "text": "Cover the whole pan tightly with heavy foil, crimping it around the rim so steam cannot escape. If you like, stud the fat cap with the whole cloves in a diamond pattern first — they add a warm background note and look traditional. A tight seal is what makes the difference between a moist ham and a salty, dry one."
+        },
+        {
+          "title": "Warm it low and slow",
+          "text": "Bake for about 1 hour 30 minutes, roughly 10 minutes per pound (22 minutes per kg). You are aiming for an internal temperature of 110 to 120°F (43 to 49°C) at this stage, not the final number. Going slowly means the middle warms before the outer slices overcook."
+        },
+        {
+          "title": "Make the glaze",
+          "text": "While the ham warms, combine the honey, brown sugar, butter, Dijon, cider vinegar, cinnamon, ground cloves, and salt in a small saucepan over medium heat. Simmer for 4 to 5 minutes, whisking, until it thickens slightly and coats the back of a spoon. Do not let it boil hard or it will turn to candy in the pan and set solid."
+        },
+        {
+          "title": "Uncover and start glazing",
+          "text": "Pull the pan out, remove the foil, and raise the oven to 400°F (205°C). Brush about a third of the glaze all over the ham, working some down between the spiral slices with a pastry brush or spoon. Getting glaze between the slices is what makes every piece taste glazed instead of only the outside ones."
+        },
+        {
+          "title": "Build the layers",
+          "text": "Return the ham uncovered and bake 10 minutes, then brush on another third and bake 10 more. Repeat with the last of the glaze for a final 10 minutes, so you have three thin layers rather than one thick one. Watch closely in these last minutes, because honey and brown sugar go from burnished to burnt fast at 400°F (205°C)."
+        },
+        {
+          "title": "Check the final temperature",
+          "text": "Slide a thermometer into the thickest part, avoiding the bone, and look for 140°F (60°C) for a fully cooked ham. If it is not there yet, tent it back up and give it 15 more minutes. The USDA line for reheating a fully cooked ham is 140°F (60°C); for one labeled cook-before-eating, you need 145°F (63°C) plus a 3-minute rest."
+        },
+        {
+          "title": "Rest, then carve",
+          "text": "Rest the ham for 15 minutes on a board, spooning some of the pan drippings and loose glaze over the top as it sits. Run a knife around the bone to free the pre-cut slices, then lift them off in sections and fan them on a warm platter. Pour the remaining pan glaze into a small pitcher to pass at the table."
+        }
+      ],
+      "tips": [
+        "Save the bone. Simmered with split peas or white beans and a bay leaf, it makes a soup that is arguably better than the ham dinner itself.",
+        "Make-ahead: the glaze keeps in the fridge for 2 weeks. Rewarm it gently and thin with 1 tbsp water if it has stiffened.",
+        "If the glaze runs off instead of clinging, it needed another minute of simmering. Reduce it until it visibly coats a spoon before brushing.",
+        "Leftovers keep 5 days refrigerated. Slice them thick for sandwiches and dice the scraps for omelets, fried rice, or potato hash."
+      ],
+      "keyTemp": "Reheat a fully cooked ham to 140°F (60°C); if the label says cook-before-eating, take it to 145°F (63°C) with a 3-minute rest.",
+      "pairing": "Scalloped potatoes, buttery green beans, and a sparkling wine or a crisp lager.",
+      "videoQuery": "honey glazed spiral ham oven baked",
+      "photoQuery": "honey glazed spiral ham platter",
+      "tags": ["Holiday", "Feeds a Crowd", "Easy"]
+    },
+    {
+      "id": "rack-of-lamb-herb-crust",
+      "title": "Rack of Lamb with Herb Crust",
+      "emoji": "🐑",
+      "art": "lamb",
+      "blurb": "Sear, paint with mustard, press on a garlicky herb crumb, and roast to a rosy medium-rare. It looks like a special occasion and takes an hour from fridge to table.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "30 min",
+      "totalTime": "1 hr",
+      "ingredients": [
+        {
+          "group": "For the lamb",
+          "items": [
+            "2 frenched racks of lamb (1½ lb / 700 g each, 8 ribs per rack)",
+            "2 tsp (9 g) kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as grapeseed",
+            "2 tbsp (30 g) Dijon mustard"
+          ]
+        },
+        {
+          "group": "Herb crust",
+          "items": [
+            "1 cup (55 g) panko breadcrumbs",
+            "3 tbsp finely chopped fresh flat-leaf parsley",
+            "1 tbsp finely chopped fresh rosemary",
+            "1 tbsp finely chopped fresh thyme leaves",
+            "3 garlic cloves, finely minced (about 1 tbsp)",
+            "3 tbsp (20 g) finely grated Parmesan",
+            "3 tbsp (45 ml) olive oil",
+            "½ tsp (2 g) kosher salt",
+            "¼ tsp (1 g) black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Trim and temper",
+          "text": "If the racks are not already frenched, scrape the meat and membrane from the top 1½ inches (4 cm) of each bone with a small knife. Trim the fat cap on the meaty side down to about ¼ inch (6 mm), leaving enough to baste but not so much that the crust slides off. Let the racks sit at room temperature for 20 minutes while you heat the oven and mix the crust, so the centers are not fridge-cold and they cook evenly."
+        },
+        {
+          "title": "Season and heat the oven",
+          "text": "Pat the racks completely dry and season all over with the kosher salt and black pepper. Heat the oven to 400°F (205°C) with a rack in the upper third. A hot oven and a short roast is right for lamb racks, which are small and lean and turn gray if you cook them gently for a long time."
+        },
+        {
+          "title": "Mix the crust",
+          "text": "Toss the panko, parsley, rosemary, thyme, garlic, Parmesan, olive oil, salt, and pepper in a wide dish until every crumb is lightly coated and the mixture looks damp, like fresh sand. Squeeze a handful; it should just hold together. Dry crumbs will not brown properly and will fall off the moment you carve."
+        },
+        {
+          "title": "Sear the fat side",
+          "text": "Heat the neutral oil in a large ovenproof skillet over medium-high until it shimmers, about 2 minutes. Lay the racks fat side down and sear 3 to 4 minutes without moving them, until deeply golden and much of the fat has rendered out. It should sizzle steadily, not smoke; lamb fat burns faster than beef fat."
+        },
+        {
+          "title": "Brown the other sides",
+          "text": "Turn the racks onto the meaty ends and sear 1 minute per side, using tongs to hold them upright. Do not sear the bones themselves, which will just blacken and taste bitter. Move the racks to a foil-lined sheet pan, bones curving upward, and let them cool for 5 minutes."
+        },
+        {
+          "title": "Paint with mustard",
+          "text": "Brush a thin, even layer of Dijon over the fat side and the two ends of each rack while they are still warm but not hot. The mustard is glue first and flavor second, so do not glob it on. Skipping this and pressing crumbs onto bare meat guarantees a crust that slides off in the oven."
+        },
+        {
+          "title": "Press on the crust",
+          "text": "Press the crumb mixture firmly onto the mustard, packing it about ¼ inch (6 mm) thick over the fat side and the ends. Use the heel of your hand and really compact it — loose crumbs fall away, packed crumbs form a sheet. Leave the bones clean so they stay presentable."
+        },
+        {
+          "title": "Roast to a pull temperature",
+          "text": "Roast for 15 to 20 minutes for medium-rare, depending on the size of the racks. Start checking at 12 minutes with a thermometer pushed into the center of the eye of meat, parallel to the bones and not touching them. Pull at 125°F (52°C) for medium-rare or 130°F (54°C) for medium; carryover adds another 5 to 8°F (3 to 4°C)."
+        },
+        {
+          "title": "Fix a pale crust",
+          "text": "If the lamb hits temperature before the crumbs are golden, that is normal and easily solved. Move the pan to 6 inches (15 cm) under the broiler for 60 to 90 seconds, watching it the entire time. Panko goes from blond to burnt in about 15 seconds, so do not walk away for any reason."
+        },
+        {
+          "title": "Rest without foil",
+          "text": "Rest the racks on a board for 10 minutes, uncovered. Foil traps steam and would turn your crisp crust soggy, and the racks hold heat well enough on their own. Resting lets the juices, which the heat drove toward the center, spread back through the meat so they stay in the chops instead of on the board."
+        },
+        {
+          "title": "Carve into chops",
+          "text": "Set a rack bone side down and slice straight down between the bones with a sharp knife, cutting single or double chops depending on how generous you want to be. Cut confidently in one motion so you do not saw the crust off. Arrange them crossed on a warm platter and sprinkle any fallen crumbs back over the top."
+        }
+      ],
+      "tips": [
+        "Buy the racks frenched if you can — it is fiddly work and butchers do it in seconds. American racks run about 1½ lb (700 g); smaller New Zealand racks need 4 to 5 fewer minutes.",
+        "Make-ahead: sear and crust the racks up to 6 hours ahead, keep them refrigerated on the sheet pan, and add 3 to 4 minutes to the roast time.",
+        "Wrap the exposed bones in a strip of foil if they darken too much for your liking. It is cosmetic, not functional.",
+        "Substitutions: fresh breadcrumbs from stale bread work in place of panko but brown faster, so check at 10 minutes.",
+        "Lamb fat tastes best hot. Serve on warmed plates, because it congeals and turns waxy on a cold one."
+      ],
+      "keyTemp": "Pull at 125°F (52°C) for medium-rare or 130°F (54°C) for medium; after resting they will read 130 to 138°F (54 to 59°C).",
+      "pairing": "Potato gratin, blistered green beans, and a Bordeaux or a Rioja Reserva.",
+      "videoQuery": "herb crusted rack of lamb dijon panko",
+      "photoQuery": "herb crusted rack of lamb chops",
+      "tags": ["Date Night", "Roast", "Special Occasion"]
+    },
+    {
+      "id": "braised-lamb-shanks",
+      "title": "Red Wine Braised Lamb Shanks",
+      "emoji": "🍲",
+      "art": "lamb",
+      "blurb": "Three hours in a low oven turns the toughest, cheapest piece of the lamb into something that collapses at the touch of a spoon. The braising liquid reduces into a glossy sauce that does half the work of dinner.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "3 hr 30 min",
+      "totalTime": "4 hr",
+      "ingredients": [
+        {
+          "group": "For the shanks",
+          "items": [
+            "4 lamb shanks (about 1 lb / 450 g each)",
+            "2 tsp (9 g) kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "3 tbsp (45 ml) olive oil",
+            "3 tbsp (24 g) all-purpose flour, for dredging"
+          ]
+        },
+        {
+          "group": "Braise",
+          "items": [
+            "1 large yellow onion, diced (about 1½ cups / 200 g)",
+            "2 medium carrots, cut into ½-in (1 cm) coins (about 1 cup / 130 g)",
+            "2 celery stalks, diced (about ¾ cup / 90 g)",
+            "1 whole head garlic, halved crosswise",
+            "3 tbsp (48 g) tomato paste",
+            "2 cups (480 ml) dry red wine such as Cabernet or Syrah",
+            "2½ cups (600 ml) low-sodium beef or chicken stock",
+            "1 can (14 oz / 400 g) whole peeled tomatoes, crushed by hand",
+            "3 sprigs fresh rosemary",
+            "4 sprigs fresh thyme",
+            "2 bay leaves",
+            "½ cup (120 ml) water, only if you need to top up the braising liquid"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "2 tbsp finely chopped fresh flat-leaf parsley",
+            "1 tsp finely grated lemon zest",
+            "½ tsp (2 g) flaky sea salt",
+            "1 tsp (7 g) honey, only if the finished sauce tastes sharp"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Season the shanks early",
+          "text": "Pat the shanks dry and season them all over with the kosher salt and pepper, ideally 4 hours ahead or even the night before. Salting early lets the seasoning get past the surface, which matters a lot on a piece of meat this thick. Take them out of the fridge 30 minutes before cooking."
+        },
+        {
+          "title": "Heat the oven and pot",
+          "text": "Heat the oven to 325°F (165°C) with a rack low enough that a covered Dutch oven fits. Set a heavy 7-quart (6.6 L) Dutch oven over medium-high heat with the olive oil and let it get hot enough that the oil shimmers, about 3 minutes. The shanks need real space, so use the biggest pot you have."
+        },
+        {
+          "title": "Dredge and sear",
+          "text": "Dust the shanks lightly with the flour, shaking off all the excess, then brown them two at a time so the pot is never crowded. Give each side 3 to 4 minutes until deeply browned, about 12 minutes per pair. It should sizzle hard and steadily; if you hear a dull hiss the pan is too cool and the meat will stew instead of brown."
+        },
+        {
+          "title": "Build the vegetable base",
+          "text": "Set the browned shanks aside, pour off all but 2 tbsp of the fat, and add the onion, carrots, and celery with a generous pinch of salt. Cook over medium heat for 8 to 10 minutes, scraping the bottom as the vegetables release their water and lift the fond. The onions should be soft and translucent with brown edges."
+        },
+        {
+          "title": "Cook the tomato paste",
+          "text": "Push the vegetables to one side, add the tomato paste to the bare spot, and let it fry for 2 minutes, stirring, until it darkens from bright red to brick and smells sweet rather than tinny. This step is called pincage and it removes the raw metallic edge. Stir it through the vegetables along with the halved head of garlic, cut sides down."
+        },
+        {
+          "title": "Deglaze with wine",
+          "text": "Pour in the red wine and scrape the bottom of the pot hard with a wooden spoon until nothing is stuck. Bring it to a boil and reduce by about half, 6 to 8 minutes, until it no longer smells sharply of alcohol. Reducing now concentrates the wine and prevents a harsh, boozy sauce three hours from now."
+        },
+        {
+          "title": "Assemble the braise",
+          "text": "Add the stock, hand-crushed tomatoes with their juice, rosemary, thyme, and bay leaves, then nestle the shanks back in along with any juices from the plate. The liquid should come about two-thirds of the way up the shanks, not cover them — the exposed tops brown while the bottoms braise. Top up with a little water if you are short."
+        },
+        {
+          "title": "Braise low and covered",
+          "text": "Bring everything to a bare simmer on the stove, then cover and move the pot to the oven. Cook for 2½ hours, turning the shanks once at the halfway point so the exposed side does not dry out. A gentle 325°F (165°C) oven surrounds the pot with even heat, which is far kinder than a stovetop burner hitting it from below."
+        },
+        {
+          "title": "Check for fork tenderness",
+          "text": "After 2½ hours, test with a fork: it should slide into the thickest part with no resistance, and the meat should be visibly pulling back from the bone. Internally that is around 205°F (96°C), well past any food-safety concern and into the range where collagen has melted into gelatin. If it still grips the bone, cover and give it 30 more minutes."
+        },
+        {
+          "title": "Reduce the sauce",
+          "text": "Lift the shanks onto a plate and tent them, then fish out the herb stems, bay leaves, and garlic halves, squeezing the soft garlic cloves back into the pot. Skim the fat off the surface with a wide spoon or a ladle. Simmer the liquid on the stove over medium-high for 10 to 15 minutes until it coats a spoon and has reduced by about a third."
+        },
+        {
+          "title": "Return and glaze",
+          "text": "Slide the shanks back into the reduced sauce and spoon it over them repeatedly for 2 to 3 minutes so they take on a glossy coat. Taste the sauce now and add salt in small pinches until it tastes savory rather than flat. If it tastes too sharp, a teaspoon of honey rounds it out."
+        },
+        {
+          "title": "Finish with gremolata",
+          "text": "Stir the parsley and lemon zest together and scatter it over the shanks just before serving, along with the flaky salt. Three hours of braising makes everything deep and rich, and this raw, bright hit at the end is what stops it from feeling heavy. Serve each shank in a wide bowl with plenty of sauce."
+        }
+      ],
+      "tips": [
+        "Make-ahead: braises are better on day two. Cool the shanks in their liquid, refrigerate up to 3 days, lift off the solidified fat cap, and reheat gently at 300°F (150°C) for 40 minutes.",
+        "If your pot is too small to hold 4 shanks in one layer, use a roasting pan covered tightly with two layers of foil. Crowding is what causes gray, steamed meat.",
+        "Do not cook with wine you would not drink, but do not use anything expensive either. A $12 dry red is exactly right.",
+        "Veal shanks, beef short ribs, and oxtail all work in this braise with the same timing. Pork shanks need about 30 minutes less."
+      ],
+      "keyTemp": "Braise until fork-tender, roughly 205°F (96°C) internal, when the meat pulls away from the bone with no resistance.",
+      "pairing": "Creamy polenta or mashed potatoes to catch the sauce, and a big Syrah or Cabernet.",
+      "videoQuery": "red wine braised lamb shanks dutch oven",
+      "photoQuery": "braised lamb shank polenta sauce",
+      "tags": ["Braise", "Comfort Food", "Sunday Dinner"]
+    },
+    {
+      "id": "lamb-chops-mint-chimichurri",
+      "title": "Lamb Chops with Mint Chimichurri",
+      "emoji": "🐏",
+      "art": "lamb",
+      "blurb": "Little rib chops cook in about four minutes total, and a sharp herb sauce cuts straight through the richness. This is the fastest impressive dinner in the whole chapter.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "10 min",
+      "totalTime": "25 min",
+      "ingredients": [
+        {
+          "group": "For the chops",
+          "items": [
+            "8 lamb rib or loin chops (about 3 oz / 85 g each, 1 in / 2.5 cm thick)",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp coarsely ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as grapeseed",
+            "1 tsp flaky sea salt, for finishing"
+          ]
+        },
+        {
+          "group": "Mint chimichurri",
+          "items": [
+            "1 cup (25 g) packed fresh flat-leaf parsley leaves, finely chopped",
+            "½ cup (12 g) packed fresh mint leaves, finely chopped",
+            "3 garlic cloves, finely minced (about 1 tbsp)",
+            "1 small shallot, finely minced (about 2 tbsp / 20 g)",
+            "3 tbsp (45 ml) red wine vinegar",
+            "½ cup (120 ml) extra-virgin olive oil",
+            "1 tsp (2 g) red pepper flakes",
+            "1 tsp (5 g) kosher salt",
+            "½ tsp (1 g) dried oregano"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the chimichurri first",
+          "text": "Stir the shallot, garlic, red wine vinegar, kosher salt, and red pepper flakes together in a bowl and let them sit for 10 minutes. The acid takes the raw bite off the garlic and shallot and softens them, which is the difference between a balanced sauce and one that burns. This is also why you make it before you touch the lamb."
+        },
+        {
+          "title": "Finish the sauce",
+          "text": "Stir in the chopped parsley, mint, and dried oregano, then pour in the olive oil and stir — do not blend it. A food processor turns chimichurri into a dull green purée, while hand-chopping keeps the herbs distinct and the texture loose. It should look like herbs suspended in oil, not a paste."
+        },
+        {
+          "title": "Chop the herbs properly",
+          "text": "Use a very sharp knife and chop the parsley and mint in a rocking motion rather than crushing them, and do it right before mixing. Mint bruises and darkens within minutes once its cells are torn, turning black and tasting flat. If you need to prep ahead, chop the parsley early and add the mint at the last moment."
+        },
+        {
+          "title": "Season the chops",
+          "text": "Pat the chops completely dry with paper towels and season both flat sides with the kosher salt and pepper. Leave them at room temperature for 15 minutes while the pan heats, which takes the fridge chill off and helps them cook evenly. Do not salt more than 20 minutes ahead unless you plan to salt them a full hour ahead — the in-between window leaves the surface wet."
+        },
+        {
+          "title": "Get the skillet hot",
+          "text": "Set a 12-inch (30 cm) cast-iron skillet over medium-high heat for 3 full minutes, then add the neutral oil. The oil should shimmer and move like water when you tilt the pan, with the very first wisp of smoke. Turn on your exhaust fan now — these chops are fatty and the pan will smoke."
+        },
+        {
+          "title": "Render the fat edge first",
+          "text": "Stand the chops on their fat edges, leaning them against each other or the pan wall, and cook 60 to 90 seconds until that strip turns golden and gives up its fat. This is not optional with lamb: unrendered lamb fat is waxy and is the main reason people think they dislike lamb. The rendered fat then cooks the chops."
+        },
+        {
+          "title": "Sear both flat sides",
+          "text": "Lay the chops flat in the pan in a single layer, working in two batches if they do not all fit with space between them. Sear 2 minutes without moving, until a deep brown crust forms, then flip and go 1½ to 2 minutes more. Crowding the pan drops its temperature and steams the chops gray."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Slide a thermometer horizontally into the side of a chop, into the eye of meat and away from the bone, and pull at 125°F (52°C) for medium-rare. Carryover will bring them to about 130°F (54°C). On chops this thin the whole cook is over in about 4 minutes, so start checking at 3."
+        },
+        {
+          "title": "Rest and dress",
+          "text": "Pile the chops on a warm platter and rest 5 minutes, uncovered, so the juices settle without steaming the crust. Sprinkle with the flaky salt, then spoon the chimichurri generously over the top and pass more at the table. Serve on warmed plates, because lamb fat sets fast on a cold one."
+        }
+      ],
+      "tips": [
+        "Chimichurri keeps 5 days in the fridge and gets better after a few hours, but the mint will darken. For a make-ahead version, mix everything except the mint and stir that in before serving.",
+        "Rib chops are the elegant lollipop ones; loin chops look like tiny T-bones and are meatier and cheaper. Both work with the same timing.",
+        "If your chops are 1½ inches (4 cm) thick, sear 2 minutes per side and then finish them in a 400°F (205°C) oven for 3 to 5 minutes.",
+        "The same sauce is excellent on grilled steak, roast potatoes, or a bowl of white beans, so make a double batch."
+      ],
+      "keyTemp": "Pull lamb chops at 125°F (52°C) for medium-rare; after a 5-minute rest they land around 130°F (54°C).",
+      "pairing": "Warm pita or crushed potatoes, a cucumber-tomato salad, and a glass of Malbec.",
+      "videoQuery": "pan seared lamb chops chimichurri cast iron",
+      "photoQuery": "lamb chops green chimichurri sauce",
+      "tags": ["30 Minutes", "Cast Iron", "Date Night"]
+    },
+    {
+      "id": "gyro-style-lamb-with-tzatziki",
+      "title": "Gyro-Style Lamb with Tzatziki",
+      "emoji": "🥙",
+      "art": "wrap",
+      "blurb": "A food-processor loaf of lamb and beef, baked, chilled, sliced paper-thin, and crisped in a pan — the honest home version of the vertical spit. Tucked into warm pita with tzatziki, it is exactly what you want it to be.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "1 hr",
+      "totalTime": "1 hr 45 min",
+      "ingredients": [
+        {
+          "group": "Gyro loaf",
+          "items": [
+            "1 lb (450 g) ground lamb, 80/20 if you can get it",
+            "1 lb (450 g) ground beef chuck, 80/20",
+            "1 medium yellow onion, grated and squeezed dry (about ¾ cup / 100 g after squeezing)",
+            "4 garlic cloves, finely minced (about 4 tsp)",
+            "1 tbsp (3 g) dried oregano, preferably Greek",
+            "2 tsp (2 g) dried marjoram",
+            "1 tbsp finely chopped fresh rosemary",
+            "2 tsp (9 g) kosher salt",
+            "1½ tsp coarsely ground black pepper",
+            "2 tbsp (30 ml) olive oil, for crisping the slices"
+          ]
+        },
+        {
+          "group": "Tzatziki",
+          "items": [
+            "1½ cups (360 g) full-fat Greek yogurt",
+            "1 English cucumber, grated and squeezed dry (about 1 cup / 150 g after squeezing)",
+            "2 garlic cloves, finely grated",
+            "2 tbsp (30 ml) fresh lemon juice",
+            "2 tbsp (30 ml) extra-virgin olive oil",
+            "2 tbsp finely chopped fresh dill",
+            "¾ tsp (3 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "6 pocketless pita breads (about 7 in / 18 cm across)",
+            "2 medium tomatoes, sliced (about 2 cups / 300 g)",
+            "½ small red onion, sliced paper-thin (about ½ cup / 60 g)",
+            "1 cup (30 g) shredded romaine lettuce"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Squeeze the onion dry",
+          "text": "Grate the onion on the large holes of a box grater, then wrap it in a clean kitchen towel and wring it out hard over the sink. You want at least ¼ cup (60 ml) of liquid out of it. Excess onion water makes the loaf steam and crumble instead of setting into a sliceable block, and this is the mistake that ruins most homemade gyro meat."
+        },
+        {
+          "title": "Chill everything",
+          "text": "Put the ground lamb, ground beef, and the bowl of your food processor in the freezer for 15 minutes before you start. Cold fat stays in suspension when you process the meat, while warm fat smears and breaks, which gives you a greasy loaf. The mixture should never feel warm to the touch."
+        },
+        {
+          "title": "Process to a paste",
+          "text": "Combine the chilled meats, squeezed onion, garlic, oregano, marjoram, rosemary, salt, and pepper in the food processor and run it for 60 to 90 seconds, scraping down twice. Keep going until it looks like a smooth, sticky pink paste rather than ground meat. That emulsified texture is what lets you slice it into thin sheets without it falling apart."
+        },
+        {
+          "title": "Pack the loaf pan",
+          "text": "Heat the oven to 325°F (165°C). Press the mixture into an 8½ x 4½-inch (21 x 11 cm) loaf pan, pushing it firmly into the corners and slamming the pan on the counter three or four times to knock out air pockets. Smooth the top flat. Air pockets become holes and holes become crumbly slices."
+        },
+        {
+          "title": "Bake in a water bath",
+          "text": "Set the loaf pan inside a larger roasting pan and pour boiling water into the outer pan until it comes halfway up the sides of the loaf pan. The water bath keeps the edges from overcooking while the dense center comes up to temperature. Bake for about 55 to 65 minutes."
+        },
+        {
+          "title": "Make the tzatziki",
+          "text": "Grate the cucumber, salt it lightly, let it sit 10 minutes, then squeeze it dry in a towel just like the onion. Stir it into the yogurt with the grated garlic, lemon juice, olive oil, dill, and salt. Refrigerate at least 30 minutes so the garlic mellows and the flavors come together; it will taste harsh straight away and lovely after half an hour."
+        },
+        {
+          "title": "Check for doneness",
+          "text": "The loaf is done at 165°F (74°C) in the center, measured with a thermometer pushed through the top into the middle. Ground meat needs a higher final temperature than whole cuts because bacteria get mixed throughout during grinding — 160°F (71°C) is the safety line and 165°F (74°C) gives the firm, sliceable texture you want here. It will have pulled away from the sides of the pan."
+        },
+        {
+          "title": "Press and chill",
+          "text": "Pour off the rendered fat, cover the loaf with foil, set a second loaf pan on top, and weight it with two large cans for 20 minutes. Pressing compacts the loaf so it slices cleanly instead of shredding. For the best slices of all, chill the pressed loaf in the refrigerator for at least 2 hours or overnight."
+        },
+        {
+          "title": "Slice it thin",
+          "text": "Turn the loaf out and cut it crosswise into slices as thin as you can manage, ideally under ⅛ inch (3 mm), using a long serrated or very sharp chef's knife. Cold loaf slices far better than warm loaf. Thin slices are the entire point — thick slabs eat like meatloaf, thin ones eat like gyro."
+        },
+        {
+          "title": "Crisp the slices",
+          "text": "Heat the olive oil in a large skillet over medium-high and fry the slices in a single layer for 60 to 90 seconds per side. You want frizzled brown edges and a slight curl, which is what the outside of a spinning spit tastes like. Work in batches and do not crowd the pan, or they will steam instead of crisping."
+        },
+        {
+          "title": "Warm the pita",
+          "text": "Brush the pitas lightly with oil and warm them 30 seconds per side in the same skillet, or directly over a gas flame for 15 seconds a side. A warm, pliable pita folds around the filling; a cold one cracks down the middle and dumps everything on your plate. Stack them in a towel to stay soft."
+        },
+        {
+          "title": "Build the gyros",
+          "text": "Spread a generous spoonful of tzatziki down the center of each pita, then pile on the crisped lamb, tomato, red onion, and lettuce. Add another spoonful of tzatziki on top and fold the pita around it, wrapping the bottom half in foil or parchment to hold it together. Serve immediately while the meat is still hot and the pita soft."
+        }
+      ],
+      "tips": [
+        "Make-ahead: bake, press, and chill the loaf up to 3 days ahead, or freeze it whole for 2 months. Slicing and crisping takes 10 minutes on the night.",
+        "No food processor? Use the finest plate on a meat grinder twice, or knead the mixture hard by hand for a full 5 minutes until it turns tacky and sticks to your palm.",
+        "All lamb makes a stronger, more traditional flavor; all beef makes it milder if lamb is not your thing. The 50/50 split is the crowd-pleaser.",
+        "Squeeze the cucumber harder than feels necessary. Watery tzatziki slides straight out of the pita.",
+        "Leftover crisped slices are excellent over a Greek salad or on rice with the tzatziki thinned into a dressing."
+      ],
+      "keyTemp": "Cook the ground meat loaf to 165°F (74°C) in the center; the food-safety minimum for ground lamb and beef is 160°F (71°C).",
+      "pairing": "Lemony roast potatoes or fries tucked right in the pita, and an ice-cold Greek lager.",
+      "videoQuery": "homemade gyro meat loaf lamb beef tzatziki",
+      "photoQuery": "gyro pita lamb tzatziki",
+      "tags": ["Make Ahead", "Family Favorite", "Greek"]
+    },
+    {
+      "id": "central-texas-smoked-brisket",
+      "title": "Central Texas Smoked Brisket",
+      "emoji": "🥩",
+      "art": "roast",
+      "blurb": "Salt, coarse pepper, post oak smoke, and twelve unhurried hours. This is the big one — the cook that teaches you fire management, the stall, the wrap, and why the rest matters as much as the smoke.",
+      "difficulty": "Advanced",
+      "servings": "12 to 15 servings",
+      "prepTime": "45 min",
+      "cookTime": "12 hr",
+      "totalTime": "14 hr 45 min",
+      "ingredients": [
+        {
+          "group": "For the brisket",
+          "items": [
+            "1 whole packer brisket (13 lb / 5.9 kg), Prime or upper Choice grade",
+            "½ cup (55 g) coarsely ground black pepper, 16-mesh butcher grind",
+            "¼ cup (36 g) kosher salt",
+            "1 tbsp (8 g) garlic powder, optional",
+            "2 tbsp (30 ml) yellow mustard or water, as a binder"
+          ]
+        },
+        {
+          "group": "Fire and wrap",
+          "items": [
+            "8 to 10 lb (3.6 to 4.5 kg) lump charcoal or briquettes, plus a chimney's worth to start",
+            "6 to 8 splits or chunks of post oak, hickory, or pecan (about 3 lb / 1.4 kg)",
+            "1 roll (18 in / 45 cm wide) pink butcher paper, unwaxed",
+            "1 cup (240 ml) beef tallow or rendered brisket fat, warmed, optional",
+            "1 cup (240 ml) water, in a spray bottle"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Choose the brisket",
+          "text": "Buy a whole packer, which is the flat and the point still joined, in the 12 to 14 lb (5.5 to 6.4 kg) range. Prime grade has more intramuscular fat and is far more forgiving than Choice for a first attempt. Pick one up by the middle: it should droop and bend easily, which means a thick, floppy flat rather than a thin, stiff one that will dry out."
+        },
+        {
+          "title": "Trim the fat cap",
+          "text": "Work with the brisket cold and use a sharp, flexible boning knife. Trim the fat cap to an even ¼ inch (6 mm), cut away the hard, waxy deckle fat between the point and the flat, and round off every thin corner and edge so nothing sticks out to burn. Aim to remove about 2 lb (900 g) total. A well-trimmed brisket cooks evenly; a lumpy one cooks in patches."
+        },
+        {
+          "title": "Season heavily",
+          "text": "Mix the black pepper, kosher salt, and optional garlic powder in a shaker — the classic Central Texas ratio is two parts pepper to one part salt. Rub the brisket with a thin film of mustard or water so the rub grips, then apply it from 12 inches (30 cm) up in even passes on every surface, including the sides. It should look like the meat has a coat on, not a dusting. Let it sit 1 hour at room temperature, or refrigerate overnight uncovered."
+        },
+        {
+          "title": "Build and stabilize the fire",
+          "text": "Light your coals and bring the smoker to a steady 250°F (120°C) measured at grate level, then hold it there for a full 30 minutes before the meat goes on. Add two splits of post oak and wait for the smoke to turn thin and blue — thick white smoke is smoldering wood and it makes brisket taste bitter and sooty. Fire management is 80 percent of brisket, and stability beats any particular number."
+        },
+        {
+          "title": "Put it on fat side up",
+          "text": "Set the brisket on the grate fat side up, with the thicker point end facing the fire and the thin flat end pointed away. The fat cap shields the meat from direct heat above, and the point can take more heat than the flat. Close the lid and leave it completely alone for 3 hours."
+        },
+        {
+          "title": "Spritz and rotate",
+          "text": "After 3 hours, start spritzing lightly with water every hour, just enough to darken the surface without washing the rub off. Rotate the brisket 180 degrees each time so both ends see the same heat. Keep lid-opening to under 30 seconds; every peek costs you 15 to 20 minutes of recovery time."
+        },
+        {
+          "title": "Understand the stall",
+          "text": "Somewhere between 150 and 170°F (65 and 77°C), usually around hour 6, the internal temperature will simply stop rising and can sit there for 4 hours or more. This is evaporative cooling: the brisket is sweating, and that evaporation refrigerates it as fast as the fire heats it. Do not raise the temperature and do not panic. Every good brisket goes through it."
+        },
+        {
+          "title": "Judge the bark before wrapping",
+          "text": "Wait to wrap until the bark is dark mahogany and firm enough that dragging a fingernail across it does not smear the rub, typically at 165 to 175°F (74 to 79°C). Wrapping earlier will soften a bark that never fully set. Wrapping later, or never, gives you a firmer crust but adds hours and risks a dry flat."
+        },
+        {
+          "title": "Wrap in butcher paper",
+          "text": "Lay out two overlapping arm-lengths of pink butcher paper, brush the paper with warmed beef tallow if you are using it, set the brisket in the middle fat side up, and roll it tight, tucking the sides in like a burrito. Paper is porous, so it stops most evaporation and breaks the stall while still letting the bark breathe — foil would end the stall faster but steams the bark soft. Return it to the smoker seam side down."
+        },
+        {
+          "title": "Ride it out to probe tender",
+          "text": "Cook wrapped for another 3 to 5 hours. Start testing at 195°F (91°C) by sliding a thermometer probe or a skewer into the thickest part of the flat: it should go in and out with the resistance of warm butter, with no grabbing at all. Most briskets land between 200 and 205°F (93 and 96°C), but tenderness is the real test and the number is only a signpost."
+        },
+        {
+          "title": "Vent, then rest long",
+          "text": "Take the wrapped brisket off and let it sit on the counter for 20 to 30 minutes until the internal temperature drops to about 170°F (77°C). Then put it, still wrapped, into a dry empty cooler lined with a towel and let it rest 2 to 4 hours. Venting first stops it from carrying over and overcooking in the cooler, and the long rest lets rendered fat and gelatin thicken and get reabsorbed. Slicing a hot brisket dumps all of that on the board."
+        },
+        {
+          "title": "Separate the point from the flat",
+          "text": "Unwrap on a big board and find the thick line of fat that runs between the two muscles, then cut along it with a long knife to separate the point from the flat. The two muscles have grain running in different directions, so you cannot slice the whole thing one way and get it right. Save the point for burnt ends if you like."
+        },
+        {
+          "title": "Slice against the grain",
+          "text": "Look at the flat and find the direction the muscle fibers run, then slice perpendicular to them in pieces about the thickness of a No. 2 pencil, ¼ inch (6 mm). Use a long slicing knife and pull it through in single strokes without sawing. Rotate the point 90 degrees from the flat and slice it thicker, about ½ inch (1 cm), since it is richer."
+        },
+        {
+          "title": "Check your work and serve",
+          "text": "A good slice should hold together when you lift it by one end but pull apart with a gentle tug, and it should leave a glistening smear on the board. Look for a pink smoke ring about ¼ inch (6 mm) under the bark — it is a chemical reaction, not a flavor, but it tells you the fire ran clean. Serve immediately with white bread, pickles, and onion, and never with sauce until someone asks."
+        }
+      ],
+      "tips": [
+        "Budget 1 to 1½ hours per pound (2 to 3 hours per kg) at 250°F (120°C), then add 3 hours of slack. A brisket that finishes early can hold in a cooler for 4 hours; one that finishes late ruins dinner.",
+        "Two thermometers, always: one clipped at grate level for the fire and one probe in the thickest part of the flat. Dome thermometers routinely read 25 to 50°F (14 to 28°C) off.",
+        "Leftovers: slice only what you will eat and refrigerate the rest in whole chunks. Sliced brisket dries out in a day, while a chunk reheats beautifully wrapped in foil at 300°F (150°C).",
+        "If the flat comes out dry but the point is good, you either trimmed too much fat or cooked past probe tender. Next time, start testing at 195°F (91°C).",
+        "Save every scrap of trimmed fat, render it slowly in a low oven, and keep the tallow. It is what you brush on the butcher paper and it makes a real difference."
+      ],
+      "keyTemp": "Probe tender between 200 and 205°F (93 and 96°C); the stall sits at 150 to 170°F (65 to 77°C) and wrapping happens at 165 to 175°F (74 to 79°C).",
+      "pairing": "White bread, dill pickles, raw white onion, and a very cold Shiner or Lone Star.",
+      "videoQuery": "central texas brisket butcher paper post oak",
+      "photoQuery": "sliced smoked brisket smoke ring",
+      "tags": ["BBQ", "Smoker", "Project", "Weekend"]
+    },
+    {
+      "id": "brisket-burnt-ends",
+      "title": "Kansas City Brisket Burnt Ends",
+      "emoji": "🍢",
+      "art": "steak",
+      "blurb": "Cubes of the fatty brisket point, sauced and put back in the smoke until they tighten into sticky, candied bites. Barbecue people call them meat candy and they are not exaggerating.",
+      "difficulty": "Medium",
+      "servings": "8 servings",
+      "prepTime": "20 min",
+      "cookTime": "7 hr 30 min",
+      "totalTime": "7 hr 50 min",
+      "ingredients": [
+        {
+          "group": "For the point",
+          "items": [
+            "1 brisket point, also called the deckle (5 lb / 2.3 kg)",
+            "2 tbsp (30 ml) yellow mustard, as a binder",
+            "3 tbsp (20 g) coarsely ground black pepper",
+            "2 tbsp (18 g) kosher salt",
+            "1 tbsp (8 g) garlic powder",
+            "4 or 5 chunks oak, hickory, or pecan wood (about 1 lb / 450 g)"
+          ]
+        },
+        {
+          "group": "Sauce and finish",
+          "items": [
+            "1 cup (240 ml) thick tomato-based barbecue sauce",
+            "⅓ cup (75 g) light brown sugar, packed",
+            "4 tbsp (55 g) unsalted butter, cut into pats",
+            "2 tbsp (40 g) honey",
+            "1 tbsp (15 ml) apple cider vinegar",
+            "1 tbsp of the same rub, reserved from above"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Get the right cut",
+          "text": "Ask the butcher for the brisket point or deckle, which is the thick, fatty muscle that sits on top of the flat on a whole packer. If they only sell whole packers, buy one and separate the two muscles along the fat seam yourself. The point is far fattier than the flat, and that fat is exactly what renders into the sticky texture burnt ends need."
+        },
+        {
+          "title": "Trim, but not too much",
+          "text": "Trim the outer fat cap down to about ¼ inch (6 mm) and cut away any hard, waxy fat, but leave the interior marbling alone. Square off thin edges so nothing hangs out to burn. Over-trimming is the classic mistake here: without internal fat you get dry brown cubes instead of glossy ones."
+        },
+        {
+          "title": "Season the night before",
+          "text": "Mix the black pepper, salt, and garlic powder and set 1 tbsp aside for the sauce later. Coat the point with the mustard and press the rest of the rub on heavily from every angle, including the underside. Refrigerate uncovered on a rack for 8 to 24 hours; the salt penetrates and the surface dries so the bark can set."
+        },
+        {
+          "title": "Set the smoker",
+          "text": "Bring your smoker to a steady 250°F (120°C) at grate level and add two wood chunks once the coals are ashed over. Wait for thin blue smoke before the meat goes on, since thick white smoke will make everything taste acrid. Fill a water pan if your cooker has one, which helps hold humidity and steadies the temperature."
+        },
+        {
+          "title": "Smoke it whole",
+          "text": "Put the point on fat side up and smoke it whole for about 5 hours, spritzing lightly with water after the third hour. Do not cube it yet — cutting early exposes too much surface and dries the meat out. Add one more wood chunk at the 2-hour mark if the smoke has thinned out."
+        },
+        {
+          "title": "Push through the stall",
+          "text": "The internal temperature will stall somewhere between 150 and 165°F (65 and 74°C), often for two hours. This is evaporative cooling and it is completely normal, so hold your fire steady rather than raising it. If you are pressed for time, wrap the point in butcher paper once the bark is dark and firm and it will push through in about half the time."
+        },
+        {
+          "title": "Cook to 195°F",
+          "text": "Continue until the point reaches 195 to 200°F (91 to 93°C) and a probe slides into the thickest part with only slight resistance. You want it just short of fully tender, since it has another 90 minutes of cooking ahead of it in the sauce. Total time is usually 5 to 6 hours at 250°F (120°C)."
+        },
+        {
+          "title": "Rest, then cube",
+          "text": "Let the point rest 20 minutes on a board so it firms up enough to cut cleanly. Slice it into even 1½-inch (4 cm) cubes, which is big enough that they do not dry out and small enough that every cube gets sauce on all six sides. Even sizing matters more than exact size, because mixed sizes cook unevenly."
+        },
+        {
+          "title": "Sauce and pan them",
+          "text": "Toss the cubes in a disposable foil pan with the barbecue sauce, brown sugar, honey, cider vinegar, and the reserved 1 tbsp of rub until every piece is coated. Dot the pats of butter over the top. Spread them into a single layer so they roast rather than stew in a pile."
+        },
+        {
+          "title": "Finish uncovered",
+          "text": "Put the pan back in the 250°F (120°C) smoker, uncovered, for 60 to 90 minutes, stirring gently every 30 minutes. The sauce will reduce and cling, the edges will darken, and the cubes will go from wet to tacky. They are done when a cube lifted on a fork holds a glossy coat that does not run off."
+        },
+        {
+          "title": "Taste and serve hot",
+          "text": "Pull one cube out and cut it in half: the inside should be juicy and the fat fully rendered with no chewy white streaks left. If it is still firm, give it another 20 minutes covered with foil. Serve them straight from the pan while they are hot, with toothpicks and plenty of napkins."
+        }
+      ],
+      "tips": [
+        "Make-ahead: smoke the point a day early, refrigerate it whole, then cube, sauce, and finish the next day. Cold meat cubes even more neatly.",
+        "Poor man's burnt ends use a 4 lb (1.8 kg) chuck roast the exact same way and cost half as much. They are excellent, just a little less fatty.",
+        "If the cubes come out dry, you trimmed too much fat or overcooked the point before cubing. Pull it at 195°F (91°C), not 205°F (96°C).",
+        "Do not cover the pan during the finishing stage. Covering traps steam and gives you saucy stew meat instead of candied edges."
+      ],
+      "keyTemp": "Smoke the point to 195 to 200°F (91 to 93°C) before cubing, then finish in sauce until the fat is fully rendered.",
+      "pairing": "Creamy potato salad, baked beans, white bread, and a cold bourbon and Coke.",
+      "videoQuery": "brisket burnt ends point smoker sauce",
+      "photoQuery": "brisket burnt ends glossy cubes",
+      "tags": ["BBQ", "Smoker", "Party Food"]
+    },
+    {
+      "id": "char-siu-pork",
+      "title": "Char Siu Chinese Barbecue Pork",
+      "emoji": "🍖",
+      "art": "pork",
+      "blurb": "Strips of pork shoulder marinated overnight in hoisin, five-spice, and honey, then roasted until the edges char and the glaze turns to red lacquer. It is the sweet-savory pork that hangs in every Chinatown window.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "20 min",
+      "cookTime": "40 min",
+      "totalTime": "13 hr",
+      "ingredients": [
+        {
+          "group": "For the pork",
+          "items": [
+            "2 lb (900 g) boneless pork shoulder, cut into strips 2 in (5 cm) wide and 1½ in (4 cm) thick",
+            "1 cup (240 ml) water, for the roasting pan"
+          ]
+        },
+        {
+          "group": "Marinade",
+          "items": [
+            "¼ cup (60 g) hoisin sauce",
+            "2 tbsp (30 ml) light soy sauce",
+            "2 tbsp (30 ml) Shaoxing wine or dry sherry",
+            "2 tbsp (30 ml) oyster sauce",
+            "2 tbsp (25 g) granulated sugar",
+            "2 tbsp (40 g) honey",
+            "3 garlic cloves, finely grated (about 1 tbsp)",
+            "1½ tsp (3 g) Chinese five-spice powder",
+            "½ tsp (1 g) ground white pepper",
+            "2 cubes red fermented bean curd plus 1 tsp of its brine, optional"
+          ]
+        },
+        {
+          "group": "Glaze",
+          "items": [
+            "3 tbsp (60 g) honey or maltose",
+            "1 tbsp (15 ml) hot water",
+            "2 tbsp reserved marinade, boiled for 2 full minutes"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut the pork into strips",
+          "text": "Trim the shoulder of any thick fat sheets but leave the marbling, then cut it with the grain into long strips about 2 inches (5 cm) wide and 1½ inches (4 cm) thick. Strips give you far more surface area than a roast, which is where the charred, caramelized edges come from. Uniform thickness matters more than uniform length so everything finishes together."
+        },
+        {
+          "title": "Mix the marinade",
+          "text": "Whisk the hoisin, soy sauce, Shaoxing wine, oyster sauce, sugar, honey, garlic, five-spice, and white pepper in a bowl until smooth. If you are using red fermented bean curd, mash the cubes with the brine first until they dissolve — this is what gives authentic char siu its reddish color and savory funk, not food coloring. Taste it: it should be aggressively sweet and salty, since it has to season the whole strip."
+        },
+        {
+          "title": "Reserve and marinate",
+          "text": "Set aside ¼ cup (60 ml) of the marinade in a covered container in the fridge for the glaze later. Put the pork strips in a zip-top bag with the rest, press out the air, and massage it until every surface is coated. Refrigerate at least 12 hours and up to 24, turning the bag once or twice."
+        },
+        {
+          "title": "Bring the pork to room temperature",
+          "text": "Take the bag out 45 minutes before roasting so the strips are not fridge-cold going into a hot oven. Cold meat browns unevenly and takes longer, which risks drying out the thinner ends. Meanwhile, take the reserved marinade out too."
+        },
+        {
+          "title": "Set up the pan",
+          "text": "Heat the oven to 425°F (220°C) with a rack in the upper third. Line a rimmed sheet pan with foil, pour in the 1 cup (240 ml) of water, and set a wire rack over it. The water catches the sugary drips and keeps them from burning into acrid smoke, which is the single most common char siu problem at home."
+        },
+        {
+          "title": "Roast the first side",
+          "text": "Shake the excess marinade off each strip and lay them on the rack with at least 1 inch (2.5 cm) between them. Roast for 15 minutes, until the surface is dry to the touch and starting to darken at the corners. Space matters — strips that touch will steam instead of roasting."
+        },
+        {
+          "title": "Boil the reserved marinade",
+          "text": "While the pork roasts, pour the reserved ¼ cup (60 ml) of marinade into a small saucepan and boil it hard for a full 2 minutes. It touched raw pork, so it must be boiled before it goes anywhere near cooked meat. Take 2 tbsp of it, whisk in the 3 tbsp honey and 1 tbsp hot water, and you have your glaze."
+        },
+        {
+          "title": "Flip and roast again",
+          "text": "Turn each strip over with tongs and roast 15 minutes more. The pork should be firming up and the edges going deep brown-red. If the water in the pan has evaporated, add another ½ cup (120 ml) so the drippings never scorch."
+        },
+        {
+          "title": "Glaze in layers",
+          "text": "Brush the strips with a thin coat of glaze and roast 5 minutes, then flip, glaze the other side, and roast 5 minutes more. Repeat once more if you want a heavier lacquer, watching closely because honey burns quickly at 425°F (220°C). Thin repeated coats build a glossy shell; one thick coat just slides off."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Push a thermometer into the thickest strip. Char siu is taken further than a pork chop on purpose, to 160°F (71°C), because shoulder has enough fat and collagen that the extra heat makes it tender rather than dry. Whole-muscle pork is safe at 145°F (63°C) with a 3-minute rest, so anything from there up is fine — 160°F (71°C) is simply where the texture is best."
+        },
+        {
+          "title": "Char the edges",
+          "text": "Move the pan 6 inches (15 cm) under the broiler for 1 to 2 minutes per side, watching it every second. You are after blackened tips and blistered edges, which is where the name char siu comes from. There is a 20-second window between beautifully charred and burnt, so do not answer your phone."
+        },
+        {
+          "title": "Rest and slice",
+          "text": "Rest the strips on a board for 10 minutes so the juices settle and the glaze sets into a tacky shell. Slice across the grain about ¼ inch (6 mm) thick; each slice should have a dark ring and a rosy interior. Brush the slices with any leftover glaze and serve warm over rice or in steamed buns."
+        }
+      ],
+      "tips": [
+        "Pork shoulder is the right cut — it has the fat to stay juicy through a hot roast. Tenderloin makes a dry, disappointing char siu no matter how carefully you cook it.",
+        "Maltose is the traditional glaze sugar and gives an unmistakable sheen. It is rock-hard in the jar, so warm the jar in hot water for 5 minutes before you try to scoop it.",
+        "Make-ahead: char siu keeps 4 days refrigerated and freezes for 2 months. Slice cold, then warm it in a hot pan for 60 seconds a side.",
+        "Leftovers are the whole point for a lot of people. Dice them into fried rice, tuck them into steamed bao, or lay slices over a bowl of wonton noodle soup.",
+        "Red fermented bean curd is worth seeking out at an Asian grocery, but the recipe is still excellent without it — just expect a browner, less crimson color."
+      ],
+      "keyTemp": "Roast to 160°F (71°C) for the best texture on pork shoulder; the food-safety minimum for whole-muscle pork is 145°F (63°C) plus a 3-minute rest.",
+      "pairing": "Steamed jasmine rice, blanched gai lan with oyster sauce, and jasmine tea or a cold pilsner.",
+      "videoQuery": "chinese char siu bbq pork oven roasted",
+      "photoQuery": "char siu pork sliced glazed",
+      "tags": ["Make Ahead", "Oven", "Takeout at Home"]
+    },
+    {
+      "id": "sausage-and-peppers",
+      "title": "Italian Sausage and Peppers",
+      "emoji": "🌭",
+      "art": "sandwich",
+      "blurb": "One skillet, half an hour, and the smell that takes over a street fair. Brown the sausages, soften the peppers in their fat, and let a splash of wine pull it all together.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "6 links Italian sausage, sweet or hot (1½ lb / 680 g total)",
+            "2 tbsp (30 ml) olive oil, divided",
+            "2 bell peppers, one red and one yellow, sliced ½ in (1 cm) thick (about 4 cups / 400 g)",
+            "1 large yellow onion, sliced ½ in (1 cm) thick (about 2 cups / 250 g)",
+            "4 garlic cloves, thinly sliced",
+            "1 tsp (1 g) dried oregano",
+            "½ tsp (1 g) red pepper flakes",
+            "¾ tsp kosher salt, plus more to taste",
+            "½ tsp (1 g) coarsely ground black pepper",
+            "½ cup (120 ml) dry white wine or low-sodium chicken stock",
+            "2 tbsp (32 g) tomato paste",
+            "2 tbsp chopped fresh basil or flat-leaf parsley",
+            "4 hoagie or Italian rolls, split and warmed"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Do not prick the sausages",
+          "text": "Leave the links whole and resist the urge to poke holes in them, which is a myth that only lets fat and juice escape. Pat them dry with a paper towel so they brown rather than steam. If the links are very thick, more than 1¼ inches (3 cm), leave them whole anyway and just plan on a couple of extra minutes."
+        },
+        {
+          "title": "Brown the sausages",
+          "text": "Heat 1 tbsp of the olive oil in a 12-inch (30 cm) skillet over medium heat until it shimmers, then add the links in a single layer. Cook 8 to 10 minutes total, turning every 2 minutes, until they are browned on all sides but still slightly underdone in the middle. Medium heat, not high, is the key here — high heat splits the casings and pushes all the fat out at once."
+        },
+        {
+          "title": "Set them aside",
+          "text": "Move the browned sausages to a plate; they will finish cooking in the peppers later. Leave every drop of rendered fat in the pan, because that seasoned fat is what the vegetables cook in and it carries all the fennel and garlic flavor from the sausage. Add the second tablespoon of oil only if the pan looks dry."
+        },
+        {
+          "title": "Cook the onions first",
+          "text": "Add the sliced onion with the ¾ tsp salt and cook over medium-high heat for 4 minutes, stirring occasionally, until the edges start to brown and the slices soften. Salting now pulls water out and speeds up the browning. Scrape the bottom as you go to lift the browned sausage bits."
+        },
+        {
+          "title": "Add the peppers",
+          "text": "Add the sliced bell peppers and cook 5 to 6 minutes more, stirring every minute or so. You want them softened and blistered in spots but still holding their shape, not collapsed into mush. If the pan looks crowded, that is fine — they will shrink by nearly half as they cook."
+        },
+        {
+          "title": "Bloom the aromatics",
+          "text": "Push the vegetables to the edges of the pan, add the sliced garlic, oregano, red pepper flakes, and black pepper to the center, and stir them in the hot fat for 45 seconds until fragrant. Garlic burns in about 90 seconds at this heat, so keep it moving and do not let it go past pale gold. Then stir everything together."
+        },
+        {
+          "title": "Cook the tomato paste",
+          "text": "Clear another small space, add the tomato paste, and let it fry for 90 seconds, stirring, until it darkens from bright red to brick. This drives off the raw canned flavor and deepens the whole dish. Stir it through the vegetables so they take on a rusty coating."
+        },
+        {
+          "title": "Deglaze and finish the sausages",
+          "text": "Pour in the wine and scrape the bottom of the pan clean with a wooden spoon while it bubbles. Nestle the sausages back in with any juices from the plate, turn the heat to medium-low, cover, and simmer 6 to 8 minutes. The steam finishes cooking the sausages through while the peppers turn silky."
+        },
+        {
+          "title": "Check and serve",
+          "text": "Cut into the thickest sausage or probe it: fresh pork sausage needs 160°F (71°C) in the center and should show no pink. Taste the peppers and add salt in pinches until they taste bright rather than flat, then scatter the basil over the top. Pile everything into warm split rolls, or serve it over polenta with the pan juices spooned on."
+        }
+      ],
+      "tips": [
+        "Mix sweet and hot links — three of each — so everyone at the table gets what they want without you making two pans.",
+        "Make-ahead: the whole dish reheats well and is arguably better the next day. Keep the rolls separate and warm them fresh.",
+        "For a saucier version, add a 14 oz (400 g) can of crushed tomatoes with the wine and simmer 15 minutes instead of 8.",
+        "Leftovers make a great baked ziti: slice the sausages into coins, toss with the peppers and a pound of cooked pasta, top with mozzarella, and bake at 375°F (190°C) for 20 minutes."
+      ],
+      "keyTemp": "Fresh pork sausage is done at 160°F (71°C) in the center, with no pink remaining.",
+      "pairing": "Crusty rolls or soft polenta, a simple green salad, and a glass of Chianti or a cold Peroni.",
+      "videoQuery": "italian sausage and peppers skillet recipe",
+      "photoQuery": "italian sausage peppers onions skillet",
+      "tags": ["30 Minutes", "One Pan", "Weeknight"]
+    }
+  ]
+}

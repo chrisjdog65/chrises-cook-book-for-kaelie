@@ -1,0 +1,1684 @@
+{
+  "category": "Chicken & Poultry",
+  "categoryEmoji": "🍗",
+  "categoryBlurb": "Chicken rewards two habits above all else — dry the skin before it meets heat, and cook to 165°F (74°C) instead of to a guess — and once those are yours, everything in this chapter is just a variation on a bird you already know how to handle.",
+  "recipes": [
+    {
+      "id": "buttermilk-fried-chicken",
+      "title": "Buttermilk Fried Chicken",
+      "emoji": "🍗",
+      "art": "chicken",
+      "blurb": "A long soak in salted buttermilk seasons the meat all the way to the bone and keeps it juicy, and a shaggy double-dredge fries into shards of crust. This is a weekend project that people remember years later.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "35 min",
+      "totalTime": "9 hr 30 min",
+      "ingredients": [
+        {
+          "group": "Buttermilk brine",
+          "items": [
+            "1 whole chicken (4 lb / 1.8 kg), cut into 10 pieces",
+            "4 cups (960 ml) whole buttermilk",
+            "2 tbsp (36 g) kosher salt",
+            "1 tbsp (12 g) granulated sugar",
+            "2 tsp (10 ml) hot sauce, such as Frank's or Crystal",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Seasoned dredge",
+          "items": [
+            "3 cups (360 g) all-purpose flour",
+            "1/4 cup (32 g) cornstarch",
+            "1 tbsp (18 g) kosher salt",
+            "2 tsp freshly ground black pepper",
+            "2 tsp (5 g) sweet paprika",
+            "1 tsp (3 g) garlic powder",
+            "1 tsp (3 g) onion powder",
+            "1/2 tsp (1 g) cayenne pepper",
+            "1 tsp (4 g) baking powder"
+          ]
+        },
+        {
+          "group": "For frying",
+          "items": [
+            "2 qt (2 L) peanut oil, or enough for 2 in (5 cm) of depth",
+            "1 tsp flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Break down the bird",
+          "text": "Cut the chicken into 10 pieces: two drumsticks, two thighs, two wings, and two breasts each cut crosswise in half. Evenly sized pieces are the whole trick, because a huge breast half will still be raw when the crust on a wing has gone bitter and dark. If jointing a bird feels like too much tonight, buy 4 lb (1.8 kg) of mixed bone-in pieces and just cut the breasts in half yourself with a heavy knife."
+        },
+        {
+          "title": "Mix the brine",
+          "text": "Whisk the buttermilk, 2 tbsp kosher salt, sugar, hot sauce, and black pepper in a large bowl for about 30 seconds, until the salt has fully dissolved and you cannot feel grains on the bottom. The salt is doing the real work, seasoning the meat deep inside, while the mild acidity of the buttermilk tenderizes the surface without turning it to mush. It should taste aggressively salty, close to seawater — that is correct."
+        },
+        {
+          "title": "Brine 8 to 24 hours",
+          "text": "Slide the chicken pieces into the brine, press them under the surface, cover, and refrigerate for at least 8 hours and up to 24. Turn the bowl or bag once partway through so no piece sits above the liquid the whole time. Do not push past 24 hours: the acid eventually breaks down the outer half-inch of meat into a chalky, cottony texture that frying cannot fix."
+        },
+        {
+          "title": "Whisk the dredge",
+          "text": "In a wide, shallow dish, whisk the flour, cornstarch, 1 tbsp kosher salt, black pepper, paprika, garlic powder, onion powder, cayenne, and baking powder until the color is completely uniform. The cornstarch keeps the crust from turning bready and the baking powder gives it a little lift so it fries lighter. Streaks of pale flour mean the seasoning is not distributed, so keep whisking for a full 30 seconds."
+        },
+        {
+          "title": "Make the craggy bits",
+          "text": "Drizzle 3 tbsp (45 ml) of the buttermilk brine over the flour and rub it in with your fingertips until the mixture looks like coarse, pebbly wet sand. Those little clumps are exactly what fry into the shattering, shaggy edges that everyone picks at first. Skip this step and you get a smooth, tight coating that tastes fine but feels flat and sheds off in one sheet."
+        },
+        {
+          "title": "Dredge and rest",
+          "text": "Lift each piece from the brine, let it drip for three or four seconds, then press it hard into the flour, packing the coating on with your palm and getting into every crease. Set the coated pieces on a wire rack and let them sit at room temperature for 20 minutes. During that rest the flour hydrates and glues itself to the skin, so the crust stays put in the oil instead of sliding off in the pot."
+        },
+        {
+          "title": "Heat the oil to 325°F",
+          "text": "Pour 2 in (5 cm) of peanut oil into a large Dutch oven, never filling it more than halfway up the sides, and heat over medium-high to 325°F (163°C) on a clip-on thermometer. That depth gives the oil enough thermal mass that cold chicken will not crash the temperature. A pinch of the dredge dropped in should sizzle steadily and float within a second or two, not sink silently or spit violently."
+        },
+        {
+          "title": "Fry the dark meat",
+          "text": "Lower in the thighs and drumsticks, no more than 4 pieces at a time, and expect the oil to drop 40 to 50°F (22 to 28°C) the moment they hit. Adjust the burner to hold it between 300 and 325°F (150 and 163°C) and fry for 12 to 15 minutes, turning once at the halfway mark. It should sizzle steadily and smell nutty, not smoke — if the oil smokes, pull the pot off the heat for a minute."
+        },
+        {
+          "title": "Fry the white meat",
+          "text": "Move the finished dark meat to a clean wire rack, bring the oil back up to 325°F (163°C), and fry the breast halves and wings for 10 to 12 minutes. White meat has less fat and less collagen, so it cooks faster and dries out sooner — this is exactly why you fry it separately instead of dumping everything in at once. Turn each piece once so both sides take on the same deep amber color."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Probe the thickest part of each piece with an instant-read thermometer, staying off the bone, and look for a minimum of 165°F (74°C) in the breast. Thighs and drumsticks are safe at 165°F (74°C) too but taste noticeably better at 175°F (79°C), where the connective tissue has melted. If the crust is already dark and the center reads low, finish those pieces on a rack in a 350°F (175°C) oven for 5 to 8 minutes."
+        },
+        {
+          "title": "Drain on a rack",
+          "text": "Rest the fried pieces on a wire rack set over a sheet pan, never on paper towels, which trap steam and turn the bottom crust soggy within a minute. Leave at least an inch between pieces so air can move around them. Season each piece with a pinch of flaky sea salt while the surface is still glossy with hot oil, because that is when salt actually sticks."
+        },
+        {
+          "title": "Rest and serve",
+          "text": "Let the chicken sit for 5 to 10 minutes before anyone touches it so the juices redistribute and the crust firms up into something that audibly cracks. Serve it warm rather than blazing hot, when the flavor of the meat has come forward. If you are frying in batches for a crowd, hold the finished pieces on their rack in a 200°F (95°C) oven for up to 30 minutes."
+        }
+      ],
+      "tips": [
+        "Peanut oil has a high smoke point and a clean flavor, but refined vegetable, canola, or 2 lb (900 g) of shortening all fry beautifully. Never use olive oil, which smokes and turns acrid well below frying temperature.",
+        "Make ahead: the chicken can brine a full 24 hours, and fried chicken is genuinely excellent cold from the fridge the next day. To reheat it hot, set the pieces on a rack in a 375°F (190°C) oven for 12 to 15 minutes.",
+        "No buttermilk? Whisk 4 cups (960 ml) whole milk with 4 tbsp (60 ml) lemon juice or white vinegar and let it sit 10 minutes until it thickens and curdles slightly.",
+        "If the crust slides off in the pot, you either skipped the 20-minute rest after dredging or moved the pieces too soon after they went in. Leave them alone for the first 4 minutes of frying.",
+        "Strain the cooled oil through a coffee filter into a jar and it will fry two or three more times before it starts to taste tired."
+      ],
+      "keyTemp": "Hold the oil between 300 and 325°F (150 and 163°C). Chicken is safe at 165°F (74°C); pull thighs and drumsticks nearer 175°F (79°C) so the connective tissue melts.",
+      "pairing": "Cold lager or sweet tea, with buttermilk slaw, dill pickles, and a hot skillet of cornbread.",
+      "videoQuery": "buttermilk fried chicken dutch oven technique",
+      "photoQuery": "buttermilk fried chicken platter",
+      "tags": ["Weekend Project", "Southern", "Fried"]
+    },
+    {
+      "id": "roast-chicken-crispy-skin",
+      "title": "Roast Chicken with Shatteringly Crisp Skin",
+      "emoji": "🐔",
+      "art": "roast",
+      "blurb": "A plain bird, salted a day ahead and roasted hot over onions and garlic, is still the best thing you can put on a table. The pan drippings become a two-minute sauce that makes it feel like a restaurant.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "1 hr 10 min",
+      "totalTime": "3 hr 15 min",
+      "ingredients": [
+        {
+          "group": "For the chicken",
+          "items": [
+            "1 whole chicken (4 to 4 1/2 lb / 1.8 to 2 kg), giblets removed",
+            "1 tbsp (18 g) kosher salt",
+            "1 tsp (4 g) baking powder",
+            "1 tsp freshly ground black pepper",
+            "2 tbsp (28 g) unsalted butter, softened"
+          ]
+        },
+        {
+          "group": "Aromatics and pan",
+          "items": [
+            "1 lemon, halved",
+            "6 sprigs fresh thyme",
+            "1 head garlic (about 12 cloves), halved crosswise",
+            "1 large yellow onion (about 2 cups / 280 g), cut into 8 wedges",
+            "1 tbsp (15 ml) olive oil"
+          ]
+        },
+        {
+          "group": "Two-minute pan sauce",
+          "items": [
+            "1/2 cup (120 ml) dry white wine",
+            "1 cup (240 ml) low-sodium chicken stock",
+            "1 tbsp (14 g) cold unsalted butter",
+            "1 tsp (5 ml) fresh lemon juice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry the bird completely",
+          "text": "Take the chicken out of its packaging, pull out any giblets, and pat it bone dry inside and out with paper towels — the cavity holds more water than you expect. Water on the skin has to boil off before browning can begin, and that steam is the single reason home roast chickens come out pale and rubbery. Spend a full minute on this and blot the wing pits and the crease where the thigh meets the body."
+        },
+        {
+          "title": "Salt it a day ahead",
+          "text": "Stir the kosher salt with the baking powder, then rub the mixture over every surface of the skin and sprinkle about a teaspoon inside the cavity. Set the bird breast-up on a rack over a sheet pan and refrigerate uncovered for at least 45 minutes, or up to 24 hours if you can plan ahead. The cold dry air of the fridge dehydrates the skin while the salt seasons the meat, and the baking powder raises the skin's pH so it browns faster and blisters."
+        },
+        {
+          "title": "Let it lose the chill",
+          "text": "Pull the chicken out of the refrigerator 45 minutes before it goes into the oven and leave it on the counter, still on its rack. A bird straight from the fridge at 38°F (3°C) needs so much extra oven time that the breast overcooks before the thighs catch up. The skin should feel dry and papery to the touch, almost like parchment — that is exactly what you want."
+        },
+        {
+          "title": "Heat the oven to 425°F",
+          "text": "Set a rack in the lower third of the oven and heat it to 425°F (220°C), giving it a full 20 minutes after the indicator beeps so the walls and floor are genuinely saturated with heat. Most ovens lie by 15 to 25°F, so if you own an oven thermometer, now is when it earns its keep. A hot oven is what crisps the skin before the meat has time to dry out."
+        },
+        {
+          "title": "Fill the cavity",
+          "text": "Squeeze one lemon half over the outside of the bird, then tuck both halves, the thyme sprigs, and one half of the garlic head into the cavity. These aromatics will not perfume the meat much, but they release steam that keeps the breast from drying and they scent the drippings, which is where you will actually taste them. Do not pack the cavity tight — hot air needs to circulate through it."
+        },
+        {
+          "title": "Truss loosely",
+          "text": "Tie the ends of the drumsticks together with a 12 in (30 cm) length of kitchen twine and tuck the wing tips behind the shoulders. Trussing keeps the legs from splaying and burning while pulling them slightly closer to the body so they finish nearer to the same time as the breast. Keep the tie snug but not strangling, since a tightly trussed bird traps raw juices between the thigh and the body."
+        },
+        {
+          "title": "Butter and pepper the skin",
+          "text": "Rub the softened butter over the breast, thighs, and drumsticks with your hands, then grind the black pepper over everything. Do not add more salt now — the bird has already been salted and this second coat would push it over the edge. The butter gives the skin fat to brown in and helps the pepper stick where it lands."
+        },
+        {
+          "title": "Build the onion bed",
+          "text": "Toss the onion wedges and the remaining garlic half with the olive oil in a 12 in (30 cm) cast-iron skillet or a small roasting pan, then set the chicken breast-up right on top of them. The vegetables lift the bird off the pan floor so the bottom skin roasts instead of stewing, and they turn jammy and sweet in the drippings. Push any stray onion out from under the wings where it would otherwise scorch."
+        },
+        {
+          "title": "Roast 50 to 70 minutes",
+          "text": "Slide the pan into the oven and leave the door shut for the first 40 minutes so the oven holds its heat. A 4 lb (1.8 kg) bird usually takes 50 to 60 minutes, a 4 1/2 lb (2 kg) bird closer to 70. Rotate the pan 180 degrees once at the halfway point, since every oven has a hot corner and this is the cheapest insurance against one side going darker than the other."
+        },
+        {
+          "title": "Temp both the breast and thigh",
+          "text": "Slide an instant-read thermometer into the thickest part of the breast, angling in from the neck end and stopping short of the bone: you want 165°F (74°C). Then check the inner thigh, where you are looking for 175°F (79°C), because dark meat is safe at 165°F (74°C) but tastes tough until its collagen has melted. If the thigh lags, give it another 5 to 8 minutes and re-check rather than guessing."
+        },
+        {
+          "title": "Rest for 15 minutes",
+          "text": "Move the chicken to a carving board and let it rest, uncovered, for a full 15 minutes while you make the sauce. Resting lets the muscle fibers relax and reabsorb their juices, so they end up in the meat instead of flooding the board. Do not tent it with foil — trapped steam will soften the skin you just spent an hour crisping."
+        },
+        {
+          "title": "Make the pan sauce",
+          "text": "Set the skillet with its onions over medium-high heat, pour in the wine, and scrape up the browned bits with a wooden spoon as it bubbles down by half, about 2 minutes. Add the stock and simmer until the sauce coats the back of a spoon, roughly 4 minutes more, then kill the heat and swirl in the cold butter and lemon juice. Taste it and add a pinch of salt only if it needs it, since the drippings are already seasoned."
+        }
+      ],
+      "tips": [
+        "Make ahead: salt the bird up to 24 hours in advance and leave it uncovered in the fridge. This is the single highest-impact thing you can do, and it costs you two minutes of work.",
+        "If the skin is browning too fast at 30 minutes, lay a loose piece of foil over the breast only and remove it for the last 10 minutes.",
+        "Save the carcass. Cover it with cold water, add an onion, a carrot, and a bay leaf, and simmer for 3 hours for stock that is worlds better than anything in a box.",
+        "A convection or fan setting works well here: drop the temperature to 400°F (205°C) and start checking 10 minutes early.",
+        "Carve the legs first by cutting through the skin between thigh and body and popping the joint back, then take the breasts off the bone in one piece and slice them crosswise."
+      ],
+      "keyTemp": "Roast at 425°F (220°C) until the breast reads 165°F (74°C) and the inner thigh reads 175°F (79°C). Dark meat is safe at 165°F (74°C) but eats better a bit higher.",
+      "pairing": "A crisp unoaked Chardonnay or a light Pinot Noir, with roast potatoes and a sharp green salad to cut the fat.",
+      "videoQuery": "how to roast a whole chicken crispy skin",
+      "photoQuery": "whole roast chicken skillet",
+      "tags": ["Sunday Dinner", "Cast Iron", "Classic"]
+    },
+    {
+      "id": "spatchcock-roast-chicken",
+      "title": "Spatchcock Chicken with Lemon and Thyme",
+      "emoji": "🍋",
+      "art": "roast",
+      "blurb": "Cutting out the backbone and pressing the bird flat drops roasting time to 45 minutes and puts every inch of skin against the heat at once. It is the fastest route to a whole roast chicken on a weeknight.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "45 min",
+      "totalTime": "2 hr",
+      "ingredients": [
+        {
+          "group": "For the chicken",
+          "items": [
+            "1 whole chicken (3 1/2 to 4 lb / 1.6 to 1.8 kg)",
+            "2 1/2 tsp (15 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) olive oil"
+          ]
+        },
+        {
+          "group": "Lemon thyme butter",
+          "items": [
+            "4 tbsp (55 g) unsalted butter, softened",
+            "2 tsp finely grated lemon zest, from 1 large lemon",
+            "1 tbsp chopped fresh thyme leaves, plus 4 whole sprigs",
+            "2 garlic cloves (about 2 tsp), finely minced",
+            "1/4 tsp red pepper flakes"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1 lemon, cut into 4 thick slices",
+            "1 tbsp (15 ml) fresh lemon juice",
+            "1 tsp flaky sea salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Get the right tool",
+          "text": "You need sturdy kitchen shears or poultry shears, not scissors and not a knife, because you are cutting through rib bones on both sides of the spine. Set the chicken breast-down on a cutting board with the tail end facing you and pat it dry so it does not slip. If you have no shears at all, ask the butcher to spatchcock the bird for you — it takes them 20 seconds."
+        },
+        {
+          "title": "Cut out the backbone",
+          "text": "Starting at the tail, cut up along one side of the backbone, staying about 1/4 in (6 mm) off the spine, and work through the ribs with steady squeezes rather than sawing. Repeat on the other side and lift the backbone free. It will feel like it takes more force than seems right; that is normal, and the bones give in a series of small pops."
+        },
+        {
+          "title": "Flatten the bird",
+          "text": "Flip the chicken breast-up, set the heel of your palm on the center of the breastbone, and press down hard until you hear a crack and the bird lies flat. That crack is the keel bone giving way, which is what lets the whole chicken sit in one even plane. Tuck the wing tips behind the shoulders so they do not char in the hot oven."
+        },
+        {
+          "title": "Salt and air-dry",
+          "text": "Season both sides with the 2 1/2 tsp kosher salt and the black pepper, then set the bird skin-up on a rack over a sheet pan. Leave it uncovered in the refrigerator for 45 minutes while the oven heats, or up to 24 hours if you have the time. The skin should go from tacky to dry and papery, which is the state that crisps rather than steams."
+        },
+        {
+          "title": "Make the compound butter",
+          "text": "Mash the softened butter with the lemon zest, chopped thyme, minced garlic, and red pepper flakes in a small bowl until it is evenly flecked. Keep it soft but not melted — melted butter runs straight off the bird instead of clinging. Taste a fleck: it should be bright and garlicky, since it will be diluted across a whole chicken."
+        },
+        {
+          "title": "Butter under the skin",
+          "text": "Slide your fingers between the skin and the breast meat, working carefully from the neck end so you do not tear it, and push about two-thirds of the butter into that pocket. Massage it from the outside to spread it evenly over both breasts and into the thigh pockets. Rub the remaining butter and the olive oil over the outside of the skin. Butter under the skin bastes the leanest meat from the inside while the outside crisps."
+        },
+        {
+          "title": "Heat the oven to 450°F",
+          "text": "Set a rack in the upper-middle position and heat the oven to 450°F (230°C) with a heavy rimmed sheet pan or a 12 in (30 cm) cast-iron skillet inside. Preheating the pan means the thighs start searing the second the bird lands, which is what keeps the underside from stewing. Give the oven a full 20 minutes at temperature before you commit the chicken."
+        },
+        {
+          "title": "Lay the bird on the hot pan",
+          "text": "Scatter the lemon slices and thyme sprigs onto the hot pan, then set the chicken skin-up on top, pressing lightly so it lies flat. It should hiss loudly on contact — if it is silent, the pan was not hot enough and you should give it 5 more minutes next time. Arrange the legs so the thighs sit toward the outside edges of the pan, where the heat is strongest."
+        },
+        {
+          "title": "Roast 40 to 50 minutes",
+          "text": "Roast without opening the door for the first 30 minutes, then rotate the pan 180 degrees and check the color. A 3 1/2 lb (1.6 kg) bird usually finishes around 40 minutes, a 4 lb (1.8 kg) bird closer to 50. The skin should be deep mahogany with a few blistered spots and the drippings should be sizzling, not smoking."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Probe the thickest part of the breast for 165°F (74°C) and the inner thigh for 175°F (79°C), keeping the thermometer tip away from bone, which reads hot and will lie to you. Because the bird is flat, the two numbers arrive much closer together than in a traditional roast — that is the entire point of spatchcocking. If the breast is there and the thigh is not, give it 5 more minutes."
+        },
+        {
+          "title": "Rest, then carve",
+          "text": "Move the chicken to a board and rest it uncovered for 10 minutes so the juices settle back into the muscle instead of running out at the first cut. Squeeze the roasted lemon slices over the top, drizzle on the fresh lemon juice and any pan drippings, and finish with flaky sea salt. Carve the legs off first, then run your knife down either side of the breastbone and slice the breasts crosswise."
+        }
+      ],
+      "tips": [
+        "Freeze the backbone with the giblets. Two of them plus an onion and a carrot make a quart of excellent stock in about 3 hours.",
+        "Make ahead: spatchcock and salt the bird up to 24 hours in advance and leave it uncovered on a rack in the fridge. The skin gets dramatically crisper and dinner becomes a 50-minute affair.",
+        "Roasting potatoes underneath works beautifully — toss 1 1/2 lb (680 g) of halved baby potatoes in oil and spread them on the hot pan before the chicken goes on so they cook in the drippings.",
+        "If your smoke alarm is sensitive, put the pan on a rack in the upper-middle rather than the very top, and make sure there is no dry flour or crumbs on the pan.",
+        "Leftover meat pulled off the bone keeps 4 days refrigerated and makes the best chicken salad you will have."
+      ],
+      "keyTemp": "Roast at 450°F (230°C) until the breast reads 165°F (74°C) and the thigh reads 175°F (79°C). Never serve chicken below 165°F (74°C).",
+      "pairing": "A cold, dry Riesling or Sauvignon Blanc, with roasted potatoes and blanched green beans tossed in the pan drippings.",
+      "videoQuery": "how to spatchcock a chicken and roast it",
+      "photoQuery": "spatchcock roast chicken lemon",
+      "tags": ["Weeknight", "One Pan", "Roasting"]
+    },
+    {
+      "id": "cast-iron-crispy-chicken-thighs",
+      "title": "Cast-Iron Crispy-Skin Chicken Thighs",
+      "emoji": "🥘",
+      "art": "chicken",
+      "blurb": "Skin-on thighs pressed into a hot cast-iron pan and left alone give you glass-crisp skin and meat that is nearly impossible to overcook. A short shopping list, one pan, and it looks like you tried much harder than you did.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "30 min",
+      "totalTime": "1 hr",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "6 bone-in, skin-on chicken thighs (about 2 1/2 lb / 1.1 kg total)",
+            "2 tsp (12 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) grapeseed or other neutral high-smoke-point oil"
+          ]
+        },
+        {
+          "group": "Quick pan sauce",
+          "items": [
+            "3 garlic cloves (about 1 tbsp), smashed",
+            "4 sprigs fresh thyme",
+            "1/2 cup (120 ml) low-sodium chicken stock",
+            "1 tbsp (14 g) cold unsalted butter",
+            "2 tsp (10 ml) fresh lemon juice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry the skin hard",
+          "text": "Pat each thigh completely dry with paper towels, pressing down on the skin side rather than wiping, and change towels when they get damp. Any moisture left on the surface has to boil off before browning starts, which is why so many home cooks end up with flabby skin. Trim off any overhanging flaps of skin or fat with kitchen shears so the thighs sit flat."
+        },
+        {
+          "title": "Season and let it sit",
+          "text": "Season both sides with the kosher salt and black pepper, using slightly more on the skin side, then leave the thighs skin-up on a plate for 15 to 20 minutes while the oven heats. In that time the salt draws moisture to the surface, where it evaporates, leaving the skin drier than when you started. If you have longer, salt them and leave them uncovered in the fridge for up to 12 hours."
+        },
+        {
+          "title": "Heat the oven to 400°F",
+          "text": "Set a rack in the middle of the oven and heat it to 400°F (205°C). You will start the thighs on the stovetop and finish them in the oven, which renders the skin properly on the burner and then cooks the meat through with gentle, even heat. Preheating now means there is no dead time later while the chicken sits waiting."
+        },
+        {
+          "title": "Heat the skillet",
+          "text": "Set a 12 in (30 cm) cast-iron skillet over medium heat for 4 minutes, add the oil, and swirl it to coat. The pan is ready when the oil shimmers and moves like water but does not smoke. Cast iron heats unevenly at first, so those 4 minutes matter more than they seem to — a pan rushed to temperature will have a scorching center and cool edges."
+        },
+        {
+          "title": "Lay the thighs skin-down",
+          "text": "Place the thighs skin-side down, laying them away from you so no oil splashes toward your hand, and leave at least 1/2 in (1 cm) between them. You should hear a steady, moderate sizzle — a violent crackle means the pan is too hot and the skin will scorch before the fat renders. Press each thigh down with a spatula for 10 seconds so the whole skin surface makes contact."
+        },
+        {
+          "title": "Render without moving",
+          "text": "Cook skin-side down for 12 to 15 minutes over medium heat and resist every urge to peek or shuffle them. The fat under the skin needs that long to melt out and the skin needs the constant contact to turn from rubbery to crisp. If it starts to smoke or smell sharp, drop the heat to medium-low; if there is no sizzle at all, nudge it up."
+        },
+        {
+          "title": "Check the color and flip",
+          "text": "Lift one thigh with tongs: the skin should be deep golden-brown, taut, and release from the pan on its own. If it sticks, it is not done rendering, so give it another 2 minutes and try again. Flip all the thighs skin-side up, tuck the smashed garlic and thyme sprigs into the fat around them, and get ready to move to the oven."
+        },
+        {
+          "title": "Finish in the oven",
+          "text": "Slide the whole skillet onto the middle rack and roast for 10 to 12 minutes, until the meat is cooked through and the skin has set hard. Do not turn the thighs again — leaving the skin facing up keeps it out of the rendered fat where it would soften. Remember the handle will be blistering hot when it comes out, so drape a towel over it the moment it hits the stovetop."
+        },
+        {
+          "title": "Temp and rest",
+          "text": "Probe the thickest part of a thigh next to but not touching the bone; 165°F (74°C) is the safe minimum, but thighs are far better at 175 to 185°F (79 to 85°C), where the collagen has fully melted. Move them to a plate, skin-up, and rest 5 minutes. Do not cover them, because trapped steam will undo the crisp skin in under a minute."
+        },
+        {
+          "title": "Build the pan sauce",
+          "text": "Pour off all but about 1 tbsp of fat, return the skillet to medium heat, and add the stock, scraping up the browned bits with a wooden spoon. Simmer until it has reduced by half and coats a spoon, roughly 3 minutes, then take the pan off the heat and swirl in the cold butter and lemon juice until glossy. Spoon it around, never over, the thighs so the skin stays crisp."
+        }
+      ],
+      "tips": [
+        "Bone-in thighs are far more forgiving than breasts because the extra fat and collagen keep them juicy even 20°F past done. This is the cut to practice on.",
+        "A stainless-steel skillet works just as well as cast iron; a nonstick pan does not, because it cannot get hot enough to render skin properly.",
+        "If your skin is sticking hard, the pan was not hot enough when the chicken went in. Give it a full 4 minutes to preheat next time and let the oil shimmer.",
+        "Make ahead: salt the thighs and leave them uncovered on a rack in the fridge for up to 12 hours. The skin dries out and crisps noticeably better.",
+        "Save the rendered chicken fat in a jar in the fridge for up to a month — it is the best thing you can roast potatoes in."
+      ],
+      "keyTemp": "Safe at 165°F (74°C), but thighs are at their best between 175 and 185°F (79 and 85°C) once the collagen has broken down.",
+      "pairing": "A glass of Beaujolais or a dry cider, with buttered rice or crusty bread to catch the pan sauce.",
+      "videoQuery": "crispy skin chicken thighs cast iron skillet",
+      "photoQuery": "crispy chicken thighs cast iron",
+      "tags": ["One Pan", "Cast Iron", "Weeknight"]
+    },
+    {
+      "id": "lemon-herb-grilled-chicken",
+      "title": "Lemon Herb Grilled Chicken",
+      "emoji": "🌿",
+      "art": "chicken",
+      "blurb": "Boneless thighs in a bright lemon, garlic, and oregano marinade, grilled hot and fast until the edges char. It is the simplest good thing you can make outside, and it works just as well in a grill pan.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "1 hr 5 min",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "2 lb (900 g) boneless, skinless chicken thighs (about 8)",
+            "1 1/2 tsp (9 g) kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "2 tbsp (30 ml) neutral oil, such as canola, for the grate and the grill pan"
+          ]
+        },
+        {
+          "group": "Lemon herb marinade",
+          "items": [
+            "1/3 cup (80 ml) extra-virgin olive oil",
+            "1/4 cup (60 ml) fresh lemon juice, from about 2 lemons",
+            "2 tsp finely grated lemon zest",
+            "4 garlic cloves (about 4 tsp), finely minced",
+            "1 tbsp chopped fresh oregano, or 1 tsp dried",
+            "2 tbsp chopped fresh flat-leaf parsley",
+            "1 tsp (5 ml) honey"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1 lemon, cut into 4 wedges",
+            "1 tsp flaky sea salt",
+            "2 tbsp chopped fresh parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Even out the thighs",
+          "text": "Open each thigh flat on the board and trim away any thick pockets of fat or dangling bits with a paring knife. If one end is noticeably thicker than the other, press it down with your palm or give it two light taps with the flat of a knife. Pieces of even thickness hit 165°F (74°C) at the same moment, which is the difference between all-juicy and half-dry."
+        },
+        {
+          "title": "Whisk the marinade",
+          "text": "In a bowl, whisk the olive oil, lemon juice, lemon zest, garlic, oregano, parsley, and honey until it turns cloudy and slightly thickened, about 20 seconds. The honey is not there to sweeten it but to help the surface caramelize on the grill and to soften the raw edge of the garlic. Taste it — it should be sharply lemony, because the chicken will mute it considerably."
+        },
+        {
+          "title": "Marinate 30 minutes to 4 hours",
+          "text": "Season the thighs with the kosher salt and black pepper, then turn them in the marinade until every surface is coated and refrigerate for 30 minutes to 4 hours. Thirty minutes is genuinely enough for boneless thighs, since the surface is where the flavor lives. Do not go past 4 hours: the lemon juice will start to chemically cook the outside and give it a mealy, opaque texture."
+        },
+        {
+          "title": "Set up a two-zone fire",
+          "text": "For charcoal, bank the coals to one side so half the grate is directly over fire and half is empty; for gas, set one or two burners to medium-high and leave the others off. That cool zone is your escape hatch if the outside browns before the inside is done. Let the grate preheat for 10 minutes with the lid closed until it is genuinely hot."
+        },
+        {
+          "title": "Clean and oil the grate",
+          "text": "Scrub the hot grate with a wire brush, then fold a paper towel, soak it with about 1 tbsp (15 ml) of the neutral oil, grip it with tongs, and wipe the bars two or three times. Oiling a hot grate rather than a cold one is what actually stops sticking, because the oil polymerizes on contact. The grate should look slick and dark, not pooled with oil."
+        },
+        {
+          "title": "Grill the first side",
+          "text": "Shake the excess marinade off each thigh so it does not flare, and lay the pieces over the hot zone with the smoother side down. Close the lid and grill undisturbed for 4 to 5 minutes, until you see clear grill marks and the edges have gone opaque. If flames leap up around the meat, move it to the cool side for 30 seconds and let them die down rather than spraying water."
+        },
+        {
+          "title": "Flip once",
+          "text": "Turn each thigh with tongs and grill the second side for another 4 to 5 minutes with the lid closed. Flipping repeatedly cools the surface each time and prevents the char you are after, so resist the urge to fuss. The thighs will shrink and firm noticeably, and the marinade on the surface should be visibly caramelized and dark in spots."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Slide an instant-read thermometer into the thickest part of a thigh from the side, going in about 1 in (2.5 cm). Chicken is safe at 165°F (74°C), and thighs are still juicy well past that, so 170 to 175°F (77 to 79°C) is a comfortable target here. If they are not there, move them to the cool side of the grill, close the lid, and give them 3 more minutes."
+        },
+        {
+          "title": "Rest and dress",
+          "text": "Pile the thighs on a platter and rest them for 5 minutes so the juices redistribute instead of running out onto the cutting board. Squeeze one lemon wedge over the top, scatter the chopped parsley and flaky sea salt, and serve the remaining wedges alongside. That final hit of raw lemon after cooking is what makes the dish taste bright rather than merely grilled."
+        },
+        {
+          "title": "Indoor version",
+          "text": "With no grill, heat a cast-iron grill pan over medium-high for 5 minutes, or use a heavy skillet, and brush either one with the remaining 1 tbsp (15 ml) of neutral oil. Cook the thighs 5 to 6 minutes per side, working in two batches so the pan does not crowd and steam. Open a window and turn on the fan, because the marinade will smoke a little as it caramelizes."
+        }
+      ],
+      "tips": [
+        "Boneless breasts work too, but pound them to an even 3/4 in (2 cm) first, grill 5 to 6 minutes per side, and pull them at exactly 165°F (74°C) — they have no fat to forgive you.",
+        "Make ahead: the marinade keeps 5 days in the fridge and the chicken can sit in it for up to 4 hours. Any longer and the acid ruins the texture.",
+        "Leftovers are excellent cold, sliced over a salad with feta and cucumber, or stuffed into warm pita with yogurt.",
+        "Double the marinade and reserve half before the raw chicken touches it — that reserved half becomes a dressing you can spoon over the cooked meat.",
+        "Dried oregano is genuinely fine here and in some ways more traditional; use one-third the volume of fresh."
+      ],
+      "keyTemp": "Grill over medium-high until the thickest part reads at least 165°F (74°C); thighs stay juicy up to 175°F (79°C).",
+      "pairing": "Chilled rosé or a cold Greek beer, with a tomato and cucumber salad and warm pita.",
+      "videoQuery": "lemon herb grilled chicken thighs marinade",
+      "photoQuery": "grilled lemon herb chicken platter",
+      "tags": ["Grill", "Summer", "Easy"]
+    },
+    {
+      "id": "chicken-pot-pie",
+      "title": "Chicken Pot Pie with All-Butter Crust",
+      "emoji": "🥧",
+      "art": "pie",
+      "blurb": "A proper velouté thick enough to hold a spoon upright, sweet vegetables, and a flaky all-butter lid that shatters when you cut it. This is a Sunday afternoon spent well, and it feeds six generously.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "45 min",
+      "cookTime": "1 hr 25 min",
+      "totalTime": "4 hr 10 min",
+      "ingredients": [
+        {
+          "group": "All-butter crust",
+          "items": [
+            "2 1/2 cups (300 g) all-purpose flour",
+            "1 tsp (6 g) kosher salt",
+            "1 tsp (4 g) granulated sugar",
+            "1 cup (225 g) very cold unsalted butter, cut into 1/2 in (1 cm) cubes",
+            "6 to 8 tbsp (90 to 120 ml) ice water",
+            "1 large egg beaten with 1 tbsp (15 ml) water, for the wash"
+          ]
+        },
+        {
+          "group": "Chicken and vegetables",
+          "items": [
+            "1 1/2 lb (680 g) boneless, skinless chicken thighs, cut into 1 in (2.5 cm) pieces",
+            "4 tbsp (55 g) unsalted butter",
+            "1 large yellow onion (1 1/2 cups / 210 g), diced",
+            "2 medium carrots (1 cup / 130 g), cut into 1/2 in (1 cm) coins",
+            "2 celery ribs (3/4 cup / 90 g), diced",
+            "8 oz (225 g) cremini mushrooms, quartered",
+            "1 cup (140 g) frozen peas"
+          ]
+        },
+        {
+          "group": "Velouté",
+          "items": [
+            "1/2 cup (60 g) all-purpose flour",
+            "3 cups (720 ml) low-sodium chicken stock, warmed",
+            "3/4 cup (180 ml) whole milk",
+            "2 tsp (10 ml) Dijon mustard",
+            "1 tbsp fresh thyme leaves",
+            "1 1/2 tsp (9 g) kosher salt",
+            "1/2 tsp freshly ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut the butter into the flour",
+          "text": "Whisk the flour, salt, and sugar in a large bowl, then add the cold butter cubes and toss to coat. Work the butter in with your fingertips or a pastry cutter until the largest pieces are the size of almonds and the smallest are like coarse sand. Those almond-sized pieces are what steam into flaky layers in the oven, so stopping too early is far better than going too far."
+        },
+        {
+          "title": "Bring the dough together",
+          "text": "Drizzle in 6 tbsp (90 ml) of ice water while tossing with a fork, then squeeze a handful: if it holds without crumbling, it is ready, and if not, add water 1 tbsp at a time. Do not knead it — you want a shaggy mass, not a smooth ball, because gluten development here means a tough, shrinking crust. Press it into a 1 in (2.5 cm) thick disc, wrap it, and chill for at least 1 hour."
+        },
+        {
+          "title": "Brown the chicken",
+          "text": "Pat the chicken pieces dry, season with 1/2 tsp of the salt, and brown them in 1 tbsp of the butter in a large Dutch oven over medium-high heat for 5 to 6 minutes, working in two batches. You are after color on two sides, not cooked-through chicken, since it will finish in the oven. Set the browned pieces aside on a plate and keep every bit of fond stuck to the bottom of the pot."
+        },
+        {
+          "title": "Sweat the vegetables",
+          "text": "Melt the remaining 3 tbsp butter over medium heat, add the onion, carrots, and celery, and cook for 8 minutes, stirring often, until the onion is translucent and the carrots have lost their raw snap. Scrape the bottom as you go so the fond dissolves into the vegetables rather than burning. Season with 1/2 tsp of the salt now so the vegetables draw out their own moisture."
+        },
+        {
+          "title": "Cook the mushrooms dry",
+          "text": "Add the quartered mushrooms and cook for 6 to 8 minutes over medium-high heat until they have released their water and it has all evaporated. Do not rush this — mushrooms added wet will thin your sauce later and taste like nothing. You will know they are ready when the pot goes quiet and the mushrooms start to squeak and brown at the edges."
+        },
+        {
+          "title": "Make the roux",
+          "text": "Sprinkle the 1/2 cup flour over the vegetables and stir constantly for 2 full minutes, until the flour coats everything and smells faintly like toast rather than raw paste. This is a blond roux, so you want no real color, just the raw edge cooked out. It will look dry and clumpy and that is exactly right at this stage."
+        },
+        {
+          "title": "Build the sauce",
+          "text": "Pour in the warm stock about 1 cup at a time, whisking hard after each addition until completely smooth before adding more. Adding it all at once is how you get lumps that no amount of whisking will fix later. Once all the stock is in, add the milk and bring it to a gentle simmer, stirring, until it thickens enough to coat the back of a spoon, about 5 minutes."
+        },
+        {
+          "title": "Season and finish the filling",
+          "text": "Stir in the Dijon, thyme, remaining 1/2 tsp salt, and the black pepper, then return the browned chicken with any juices on the plate and simmer for 4 minutes. Kill the heat and fold in the frozen peas, which will thaw in the residual warmth without turning grey. Taste and adjust: the filling should be a shade over-seasoned, since the crust brings none of its own salt."
+        },
+        {
+          "title": "Cool the filling completely",
+          "text": "Spread the filling in a 9x13 in (23x33 cm) baking dish or a 10 in (25 cm) deep pie dish and let it cool for at least 30 minutes, or refrigerate it to speed things up. A hot filling melts the butter in your crust before it ever reaches the oven, and melted butter means a greasy, flat lid instead of a flaky one. It should be barely warm to the touch, not steaming."
+        },
+        {
+          "title": "Roll the top crust",
+          "text": "On a lightly floured counter, roll the chilled dough into a rectangle or round about 1/8 in (3 mm) thick and 1 in (2.5 cm) larger than your dish on all sides. Work from the center outward, turning the dough a quarter turn between rolls so it does not stick. If it softens or gets sticky at any point, slide it onto a sheet pan and chill it for 10 minutes before continuing."
+        },
+        {
+          "title": "Top and seal",
+          "text": "Drape the dough over the cooled filling, trim the overhang to about 1/2 in (1 cm), and tuck or crimp the edge against the rim of the dish. Sealing the edge keeps the filling from bubbling up over the crust and burning onto the sides. Chill the whole assembled pie for 15 minutes while the oven comes to temperature — cold pastry hitting a hot oven is what makes it puff."
+        },
+        {
+          "title": "Wash and vent",
+          "text": "Brush the crust evenly with the egg wash, getting into the crimped edge, then cut four 2 in (5 cm) slits in the center with a sharp knife. The vents let steam escape so the crust crisps instead of steaming from below and going soggy. Skip the vents and the lid will dome up and then split somewhere you did not choose."
+        },
+        {
+          "title": "Bake at 400°F",
+          "text": "Set the pie on a rimmed sheet pan to catch drips and bake at 400°F (205°C) on the lower-middle rack for 45 to 55 minutes. It is done when the crust is deep golden brown all over and you can see the filling bubbling thickly through the vents. If the edges darken early, cover just them with strips of foil for the last 15 minutes."
+        },
+        {
+          "title": "Rest 15 minutes",
+          "text": "Let the pie sit for a full 15 minutes before you cut it, no matter how good it smells. The velouté needs that time to set up, and cutting early gives you a soupy plate instead of clean wedges. The center should read at least 165°F (74°C) on a thermometer, which it will comfortably exceed after that bake."
+        }
+      ],
+      "tips": [
+        "Make ahead: the dough keeps 3 days refrigerated or 3 months frozen, and the filling keeps 3 days. Assemble the pie cold and bake it straight from the fridge, adding 5 to 10 minutes.",
+        "Leftover roast chicken or a rotisserie bird is a legitimate shortcut — use 4 cups (about 550 g) of shredded meat and skip the browning step entirely.",
+        "The most common failure is a soggy bottom-of-the-crust texture, which is why this version has a top crust only. If you want a double crust, blind-bake the bottom at 375°F (190°C) for 20 minutes first.",
+        "Store-bought all-butter puff pastry makes a perfectly respectable lid on a weeknight. Bake at 400°F (205°C) and start checking at 35 minutes.",
+        "If your filling seems thin after simmering, let it bubble 3 more minutes uncovered; if it is too thick, whisk in warm stock 2 tbsp at a time."
+      ],
+      "keyTemp": "Bake at 400°F (205°C) until the crust is deep golden and the filling reads at least 165°F (74°C) in the center.",
+      "pairing": "A buttery Chardonnay or a pint of English bitter, with a sharply dressed green salad to cut the richness.",
+      "videoQuery": "chicken pot pie from scratch butter crust",
+      "photoQuery": "chicken pot pie golden crust",
+      "tags": ["Weekend Project", "Comfort Food", "Baking"]
+    },
+    {
+      "id": "honey-garlic-chicken",
+      "title": "Honey Garlic Chicken Thighs",
+      "emoji": "🍯",
+      "art": "chicken",
+      "blurb": "Seared thighs glazed in a four-ingredient sauce that reduces to a sticky lacquer in about three minutes. Thirty minutes start to finish, one pan, and it tastes like it took much longer.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "1 1/2 lb (680 g) boneless, skinless chicken thighs (about 6)",
+            "1 1/2 tsp (9 g) kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "2 tbsp (30 ml) neutral oil, such as canola or grapeseed"
+          ]
+        },
+        {
+          "group": "Honey garlic sauce",
+          "items": [
+            "1/3 cup (110 g) honey",
+            "1/4 cup (60 ml) low-sodium soy sauce",
+            "6 garlic cloves (about 2 tbsp), finely minced",
+            "2 tbsp (30 ml) rice vinegar",
+            "1 tsp (5 ml) toasted sesame oil",
+            "1/4 tsp red pepper flakes",
+            "1 tbsp (8 g) cornstarch mixed with 2 tbsp (30 ml) cold water"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "2 scallions (about 1/4 cup), thinly sliced",
+            "1 tsp (3 g) toasted sesame seeds"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry and season the thighs",
+          "text": "Pat the chicken thighs completely dry with paper towels and season both sides with the kosher salt and black pepper. Dry meat browns; wet meat steams, and you cannot glaze a piece of chicken that never developed any color. Trim off large flaps of fat but leave the thighs whole so they stay juicy."
+        },
+        {
+          "title": "Mix the sauce first",
+          "text": "Whisk the honey, soy sauce, minced garlic, rice vinegar, sesame oil, and red pepper flakes in a small bowl until the honey has dissolved into the liquid. Having this ready before you turn on the heat matters, because once the chicken is seared everything moves fast. In a separate small cup, stir the cornstarch into the cold water until there are no lumps and set it aside."
+        },
+        {
+          "title": "Heat the pan properly",
+          "text": "Set a 12 in (30 cm) skillet over medium-high heat for 3 minutes, then add the oil and swirl. The oil should shimmer and thin out immediately but not send up wisps of smoke. A pan that is not fully preheated is the reason chicken sticks and tears when you try to flip it."
+        },
+        {
+          "title": "Sear the first side",
+          "text": "Lay the thighs in the pan in a single layer with about 1/2 in (1 cm) of space around each one — six thighs just fit in a 12 in (30 cm) skillet — and then leave them alone for 5 to 6 minutes. Crowding drops the pan temperature and the thighs will release water and simmer instead of browning, so use two batches rather than squeezing them in. You want a deep golden crust and a steady, confident sizzle, not a smoky roar."
+        },
+        {
+          "title": "Flip and finish the sear",
+          "text": "Turn each thigh with tongs and cook the second side for 4 to 5 minutes. The chicken should release easily now; if it grips the pan, give it another 30 seconds and it will let go on its own. Move the finished thighs to a plate — they will not be fully cooked yet, and that is intentional."
+        },
+        {
+          "title": "Wipe and lower the heat",
+          "text": "Pour off all but about 1 tsp of fat and turn the heat down to medium-low, waiting a full minute for the pan to cool a little. Honey and garlic both burn fast, and adding them to a screaming pan gives you bitter, black flecks in 20 seconds. The pan should be hot enough to sizzle but not so hot that liquid vanishes on contact."
+        },
+        {
+          "title": "Build the glaze",
+          "text": "Pour in the sauce and stir constantly, scraping up the browned bits from the searing, for about 1 minute until the garlic smells sweet and mellow rather than sharp. Bring it to a gentle bubble, then stir in the cornstarch slurry and keep stirring for 30 to 60 seconds as it thickens. It should go from watery to a syrup that coats the back of a spoon and holds a line when you drag a finger through it."
+        },
+        {
+          "title": "Return the chicken",
+          "text": "Slide the thighs and any juices from the plate back into the pan and turn them in the glaze to coat, spooning sauce over the top. Simmer gently for 3 to 4 minutes, flipping once, until the chicken is cooked through and the glaze has tightened around it. If the sauce reduces too far and starts pulling away from the pan, splash in 2 tbsp (30 ml) of water."
+        },
+        {
+          "title": "Check, rest, and garnish",
+          "text": "Probe the thickest thigh for at least 165°F (74°C) on an instant-read thermometer — thighs are still tender well past this, so 170°F (77°C) is fine. Take the pan off the heat and let it sit for 3 minutes so the glaze clings instead of running off. Scatter the sliced scallions and sesame seeds over the top and serve straight from the skillet."
+        }
+      ],
+      "tips": [
+        "Chicken breasts work if that is what you have: pound them to an even 3/4 in (2 cm), sear 4 minutes per side, and pull them at exactly 165°F (74°C).",
+        "Make ahead: the sauce can be whisked together and refrigerated for up to a week. Mix the cornstarch slurry fresh, since it settles into a solid brick.",
+        "If the glaze turns bitter, the garlic scorched — the fix is to lower the heat and wait a minute before the sauce goes in, and to use minced rather than grated garlic.",
+        "Serve it over rice and spoon the extra glaze on top; the sauce is salty and sweet enough to season the whole plate.",
+        "Leftovers keep 4 days and reheat well in a covered pan over low heat with a splash of water to loosen the glaze."
+      ],
+      "keyTemp": "Cook to at least 165°F (74°C) at the thickest point; boneless thighs stay juicy up to about 175°F (79°C).",
+      "pairing": "Steamed jasmine rice and quick-blanched broccoli, with a cold lager or an off-dry Riesling.",
+      "videoQuery": "honey garlic chicken thighs skillet glaze",
+      "photoQuery": "honey garlic chicken skillet",
+      "tags": ["30 Minutes", "One Pan", "Weeknight"]
+    },
+    {
+      "id": "chicken-and-waffles",
+      "title": "Fried Chicken and Buttermilk Waffles",
+      "emoji": "🧇",
+      "art": "pancake",
+      "blurb": "Crisp boneless thighs on a tangy, crisp-edged buttermilk waffle with hot honey poured over the top. The salty-sweet thing that sounds like a gimmick until you eat it and understand.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "40 min",
+      "totalTime": "2 hr 25 min",
+      "ingredients": [
+        {
+          "group": "Chicken and soak",
+          "items": [
+            "2 lb (900 g) boneless, skinless chicken thighs (about 8)",
+            "2 cups (480 ml) whole buttermilk",
+            "1 tbsp (18 g) kosher salt",
+            "1 tbsp (15 ml) hot sauce",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Dredge and frying",
+          "items": [
+            "2 cups (240 g) all-purpose flour",
+            "2 tbsp (16 g) cornstarch",
+            "2 tsp (12 g) kosher salt",
+            "2 tsp (5 g) sweet paprika",
+            "1 tsp (3 g) garlic powder",
+            "1 tsp freshly ground black pepper",
+            "1/2 tsp (1 g) cayenne pepper",
+            "6 cups (1.4 L) peanut or vegetable oil, for frying"
+          ]
+        },
+        {
+          "group": "Buttermilk waffles",
+          "items": [
+            "2 cups (260 g) all-purpose flour",
+            "2 tbsp (24 g) granulated sugar",
+            "2 tsp (8 g) baking powder",
+            "1/2 tsp (3 g) baking soda",
+            "3/4 tsp (5 g) kosher salt",
+            "2 cups (480 ml) whole buttermilk",
+            "2 large eggs, separated",
+            "6 tbsp (85 g) unsalted butter, melted and cooled"
+          ]
+        },
+        {
+          "group": "Hot honey",
+          "items": [
+            "1/2 cup (170 g) honey",
+            "1 tbsp (15 ml) hot sauce",
+            "1/4 tsp red pepper flakes",
+            "2 tbsp (28 g) unsalted butter"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Soak the chicken",
+          "text": "Whisk the buttermilk, 1 tbsp kosher salt, hot sauce, and black pepper in a bowl until the salt dissolves, then add the thighs and press them under. Cover and refrigerate for at least 1 hour and up to 12. The salted buttermilk seasons the meat past the surface and keeps boneless thighs from drying out in the fryer."
+        },
+        {
+          "title": "Mix the waffle dry ingredients",
+          "text": "Whisk the 2 cups flour, sugar, baking powder, baking soda, and 3/4 tsp salt in a large bowl for 20 seconds so the leaveners are evenly distributed. Clumps of baking soda leave metallic-tasting pockets, so break up anything you see. Set this aside while you deal with the chicken."
+        },
+        {
+          "title": "Whisk the seasoned flour",
+          "text": "In a wide dish, whisk the 2 cups flour, cornstarch, 2 tsp salt, paprika, garlic powder, black pepper, and cayenne until the color is completely uniform. Spoon in 2 tbsp (30 ml) of the buttermilk soak and rub it through with your fingers until you see small pebbly clumps. Those clumps fry into the craggy texture that stands up under syrup instead of going limp."
+        },
+        {
+          "title": "Dredge and rest",
+          "text": "Lift each thigh from the buttermilk, let it drip a few seconds, then press it firmly into the flour on both sides and set it on a wire rack. Let the coated pieces sit at room temperature for 15 minutes so the flour hydrates and bonds to the meat. Skipping this rest is why coatings slide off in the oil."
+        },
+        {
+          "title": "Finish the waffle batter",
+          "text": "Whisk the buttermilk, egg yolks, and melted butter together, pour them into the dry ingredients, and stir just until no dry flour remains — lumps are fine and welcome. In a clean bowl, whip the egg whites to soft peaks, about 90 seconds by hand, and fold them in with a spatula in three additions. The whites are what give you a waffle that is crisp outside and airy inside rather than dense."
+        },
+        {
+          "title": "Heat the oil",
+          "text": "Pour 2 in (5 cm) of oil into a large Dutch oven and heat over medium-high to 350°F (175°C) on a clip-on thermometer. Set a wire rack over a sheet pan next to the stove and heat the oven to 200°F (95°C) for holding. A pinch of dredge dropped in should sizzle briskly and rise within two seconds."
+        },
+        {
+          "title": "Fry the chicken",
+          "text": "Fry the thighs 4 at a time for 6 to 8 minutes, turning once, keeping the oil between 325 and 350°F (163 and 175°C) by adjusting the burner. Boneless thighs cook much faster than bone-in pieces, so start checking at 6 minutes. They should be deep golden and the sizzle should stay steady rather than dying to a whisper, which means the oil has cooled too far."
+        },
+        {
+          "title": "Check and hold",
+          "text": "Probe the thickest part of a thigh for at least 165°F (74°C); 170 to 175°F (77 to 79°C) is even better for thigh meat. Move the finished pieces to the wire rack, season with a pinch of salt, and slide the pan into the 200°F (95°C) oven. Never stack fried chicken on a plate or on paper towels, where trapped steam softens the crust in about a minute."
+        },
+        {
+          "title": "Cook the waffles",
+          "text": "Heat your waffle iron to medium-high and brush it lightly with melted butter or spray. Ladle in enough batter to cover about two-thirds of the grid, close the lid, and cook 4 to 5 minutes, until the steam coming out the sides slows to almost nothing. That steam signal is more reliable than any indicator light on the machine."
+        },
+        {
+          "title": "Keep the waffles crisp",
+          "text": "Move each finished waffle directly to a rack in the 200°F (95°C) oven alongside the chicken rather than stacking them on a plate. Waffles stacked on top of one another go soft and floppy within 2 minutes from their own steam. They will hold, crisp, for up to 25 minutes this way."
+        },
+        {
+          "title": "Make the hot honey",
+          "text": "Warm the honey, hot sauce, red pepper flakes, and butter in a small saucepan over low heat, whisking, for about 2 minutes until the butter has melted and everything is glossy and pourable. Do not let it boil, which drives off the honey's floral flavor and can make it bitter. Taste and add more hot sauce if you want it sharper."
+        },
+        {
+          "title": "Build the plates",
+          "text": "Set a waffle on each plate, lean two thighs against it, and pour the warm hot honey generously over both. Serve immediately, while the chicken still crackles and the waffle is hot enough to melt a knob of butter. A few grinds of black pepper over the honey is not traditional but it is very good."
+        }
+      ],
+      "tips": [
+        "Make ahead: soak the chicken up to 12 hours in advance and whisk the waffle dry mix a day ahead. The batter itself should be made within 20 minutes of cooking, since the leavening starts working immediately.",
+        "No waffle iron? Make thick buttermilk pancakes with the same batter, cooking 3 minutes per side on a buttered griddle over medium heat.",
+        "Bone-in thighs give better flavor but need 12 to 15 minutes in the oil at 325°F (163°C) instead of 6 to 8. Adjust and temp carefully.",
+        "The hot honey keeps 2 months in a jar at room temperature and is excellent on pizza, roasted carrots, and cornbread.",
+        "If the coating gets soggy while you finish the waffles, put the chicken back in a 400°F (205°C) oven for 4 minutes on a rack to re-crisp it."
+      ],
+      "keyTemp": "Fry at 325 to 350°F (163 to 175°C) and cook the chicken to at least 165°F (74°C); thigh meat is best at 170 to 175°F (77 to 79°C).",
+      "pairing": "Strong black coffee for brunch, or a cold pilsner and pickles if you are doing this for dinner.",
+      "videoQuery": "fried chicken and waffles recipe hot honey",
+      "photoQuery": "chicken and waffles hot honey",
+      "tags": ["Brunch", "Fried", "Comfort Food"]
+    },
+    {
+      "id": "sheet-pan-chicken-and-vegetables",
+      "title": "Sheet-Pan Chicken with Potatoes and Broccoli",
+      "emoji": "🥕",
+      "art": "chicken",
+      "blurb": "Everything roasts on one pan, but staggered so the potatoes get a head start and the broccoli never turns to mush. Twenty minutes of work and one pan to wash.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "40 min",
+      "totalTime": "1 hr 5 min",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "6 bone-in, skin-on chicken thighs (about 2 1/2 lb / 1.1 kg)",
+            "2 tsp (12 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tsp (3 g) sweet paprika",
+            "1 tbsp (15 ml) olive oil"
+          ]
+        },
+        {
+          "group": "Vegetables",
+          "items": [
+            "1 1/2 lb (680 g) baby Yukon Gold potatoes, halved",
+            "1 large red onion (about 2 cups / 280 g), cut into 8 wedges",
+            "1 lb (450 g) broccoli, cut into 2 in (5 cm) florets",
+            "3 tbsp (45 ml) olive oil",
+            "1 1/2 tsp (9 g) kosher salt, divided",
+            "1/2 tsp freshly ground black pepper",
+            "4 garlic cloves (about 4 tsp), smashed"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1 tbsp (15 ml) fresh lemon juice",
+            "2 tbsp chopped fresh flat-leaf parsley",
+            "1/2 tsp flaky sea salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Heat the oven and the pan",
+          "text": "Set a rack in the upper-middle position and heat the oven to 425°F (220°C) with a heavy rimmed sheet pan inside. A preheated pan means the potatoes start crisping on contact instead of slowly sweating in their own steam. Give the oven a full 20 minutes so the pan is genuinely hot, not just warm."
+        },
+        {
+          "title": "Dry and season the chicken",
+          "text": "Pat the thighs completely dry with paper towels, then season all over with the 2 tsp kosher salt, black pepper, and paprika, working a little extra into the skin side. Rub the 1 tbsp olive oil over the skin so it browns evenly. Let them sit at room temperature while you prep the vegetables — about 15 minutes, which also takes the fridge chill off."
+        },
+        {
+          "title": "Cut the vegetables to size",
+          "text": "Halve the baby potatoes so they all have a flat cut face, cut the onion into 8 wedges through the root so they hold together, and break the broccoli into florets no bigger than 2 in (5 cm). Uniform sizes are the whole game on a sheet pan, because a pan of mixed chunks means half of it burns and half stays raw. Keep the broccoli in a separate bowl for now."
+        },
+        {
+          "title": "Toss potatoes and onion",
+          "text": "Toss the potatoes and onion wedges with 2 tbsp (30 ml) of the olive oil, 1 tsp of the kosher salt, and the black pepper until every surface is slick. Do not skimp on the oil, since dry vegetable surfaces on a hot pan scorch rather than caramelize. Add the smashed garlic cloves now so they soften and sweeten under the chicken."
+        },
+        {
+          "title": "Start the potatoes alone",
+          "text": "Pull the hot pan out carefully, tip the potatoes cut-side down and the onion wedges onto it, and listen for a loud sizzle. Roast for 15 minutes on their own. Potatoes take considerably longer than chicken thighs, so this head start is what gets everything finishing at the same moment."
+        },
+        {
+          "title": "Add the chicken",
+          "text": "Slide the pan out, push the vegetables toward the edges, and nestle the thighs skin-up in the middle in a single layer with space around each one. Do not let the thighs overlap the potatoes, or the skin underneath will steam and stay pale. Return the pan to the oven and roast for another 20 minutes."
+        },
+        {
+          "title": "Toss and add the broccoli",
+          "text": "While the chicken roasts, toss the broccoli florets with the remaining 1 tbsp (15 ml) olive oil and 1/2 tsp kosher salt. Broccoli needs only about 12 minutes at this temperature and turns grey and limp if it goes in earlier. Getting the timing staggered like this is the difference between a good sheet-pan dinner and a sad one."
+        },
+        {
+          "title": "Finish everything together",
+          "text": "Scatter the broccoli into any gaps on the pan, keeping it in a single layer and out from under the chicken, and roast for a final 10 to 12 minutes. The florets should be tender at the stem with charred, almost blackened tips, which is where all the flavor lives. If the pan is genuinely full, put the broccoli on a second small pan on the rack below."
+        },
+        {
+          "title": "Check the chicken",
+          "text": "Probe the thickest thigh next to the bone: 165°F (74°C) is the safe minimum, and 175°F (79°C) is where dark meat actually tastes best. The skin should be deep golden and taut. If the chicken is done but the potatoes need more color, move the thighs to a plate and give the pan 5 more minutes."
+        },
+        {
+          "title": "Dress and serve",
+          "text": "Let the pan sit for 5 minutes, then squeeze the lemon juice over everything and scatter the parsley and flaky salt. That acid at the end wakes up 40 minutes of roasted, fatty flavors and keeps the plate from tasting heavy. Serve straight from the pan, spooning the garlicky drippings over the potatoes."
+        }
+      ],
+      "tips": [
+        "Use a heavy aluminum half sheet pan, 18x13 in (46x33 cm). A flimsy pan warps in a hot oven and pools the oil in one corner.",
+        "Crowding is the number one sheet-pan mistake. If everything does not fit in a single layer with breathing room, use two pans and rotate them halfway through.",
+        "Swap the broccoli for Brussels sprouts (halved, added with the chicken), green beans (added in the last 12 minutes), or cauliflower florets (added with the chicken).",
+        "Make ahead: cut the vegetables and season the chicken up to 24 hours in advance and keep them covered in the fridge. Let the chicken sit out 15 minutes before roasting.",
+        "Chicken breasts can be used but add them for the last 20 minutes only and pull at exactly 165°F (74°C), or they will be dry by the time the potatoes are done."
+      ],
+      "keyTemp": "Roast at 425°F (220°C) until the thighs read at least 165°F (74°C); dark meat is best pulled around 175°F (79°C).",
+      "pairing": "A simple red like Côtes du Rhône, or sparkling water with lemon, and nothing else on the table.",
+      "videoQuery": "sheet pan chicken thighs potatoes broccoli roasted",
+      "photoQuery": "sheet pan chicken vegetables roasted",
+      "tags": ["One Pan", "Weeknight", "Easy"]
+    },
+    {
+      "id": "teriyaki-chicken",
+      "title": "Japanese Teriyaki Chicken Thighs",
+      "emoji": "🍚",
+      "art": "chicken",
+      "blurb": "Real teriyaki is four ingredients simmered down around the chicken until it lacquers, not a bottled sauce poured over the top. Skin-on thighs, a hot pan, and 35 minutes.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "20 min",
+      "totalTime": "35 min",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "4 boneless, skin-on chicken thighs (about 1 1/2 lb / 680 g)",
+            "1/2 tsp (3 g) kosher salt",
+            "1 tsp (5 ml) neutral oil, such as canola"
+          ]
+        },
+        {
+          "group": "Teriyaki sauce",
+          "items": [
+            "1/4 cup (60 ml) soy sauce",
+            "1/4 cup (60 ml) mirin",
+            "2 tbsp (30 ml) sake, or dry sherry",
+            "2 tbsp (24 g) granulated sugar",
+            "1 tsp (2 g) finely grated fresh ginger"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "3 cups (500 g) cooked short-grain white rice",
+            "2 scallions (about 1/4 cup), thinly sliced",
+            "1 tsp (3 g) toasted sesame seeds",
+            "1 cup (90 g) shredded cabbage, for the side"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Prepare the thighs",
+          "text": "Pat the thighs dry and lay them skin-side down, then use the tip of a knife to score the meat side about 1/4 in (6 mm) deep in a few places. Scoring helps the thick and thin parts cook at the same rate and gives the sauce somewhere to grip. Season the meat side only with the kosher salt, since the sauce is already salty."
+        },
+        {
+          "title": "Mix the sauce",
+          "text": "Whisk the soy sauce, mirin, sake, sugar, and grated ginger in a small bowl until the sugar has dissolved, about 30 seconds. This 1:1:sugar ratio is the traditional teriyaki base — soy for salt, mirin for gloss and sweetness, sake for depth. Having it mixed before you start cooking is essential, because the pan moves quickly once the chicken is seared."
+        },
+        {
+          "title": "Start the skin in a cool pan",
+          "text": "Put the thighs skin-side down in a cold 10 in (25 cm) nonstick or stainless skillet with the 1 tsp oil, then turn the heat to medium. Starting cold lets the fat under the skin render out slowly instead of seizing, which is what gives you crisp skin rather than a rubbery layer. You should hear the sizzle build gradually over the first 2 minutes."
+        },
+        {
+          "title": "Render the skin",
+          "text": "Cook skin-side down for 8 to 10 minutes without moving the thighs, pressing them flat with a spatula for the first 30 seconds so the whole skin makes contact. Fat will pool in the pan and the skin will go from pale to deep golden and taut. If the sizzle turns violent or you smell scorching, drop the heat to medium-low."
+        },
+        {
+          "title": "Pour off the fat",
+          "text": "Tip the rendered fat out of the pan into a heatproof cup, leaving just a thin film behind. There will be a surprising amount — 2 to 3 tbsp is normal for four thighs. Leaving it all in makes the finished sauce greasy and stops it from clinging to the chicken."
+        },
+        {
+          "title": "Flip and brown",
+          "text": "Turn the thighs skin-side up and cook the meat side for 3 to 4 minutes over medium heat. You are not looking for deep color here, just enough to firm the surface and set the juices. The thighs will still be a little underdone in the center, which is exactly right before the sauce goes in."
+        },
+        {
+          "title": "Add the sauce",
+          "text": "Pour the sauce into the pan around the chicken, not over the crisp skin, and let it come to a brisk simmer. It will bubble hard and smell sharply of soy for the first minute as the alcohol cooks off from the sake and mirin. Keep the heat at medium so it reduces steadily rather than scorching at the edges."
+        },
+        {
+          "title": "Reduce to a lacquer",
+          "text": "Simmer for 4 to 6 minutes, tilting the pan and spooning the sauce over the thighs every 30 seconds or so. The sauce will go from thin and watery to a glossy syrup that clings to the spoon and leaves a clear trail when you drag a spatula across the pan. Watch it closely at the end — the last 30 seconds are when sugar turns from glaze to burnt."
+        },
+        {
+          "title": "Check, slice, and serve",
+          "text": "Probe the thickest part of a thigh for at least 165°F (74°C); 170 to 175°F (77 to 79°C) is ideal for thighs. Move them to a board, rest for 3 minutes, then slice crosswise into 1/2 in (1 cm) strips and lay them over bowls of hot rice. Spoon the remaining pan sauce over the top and finish with scallions, sesame seeds, and a handful of shredded cabbage on the side."
+        }
+      ],
+      "tips": [
+        "Mirin is not optional for real teriyaki — it is what gives the sauce its shine. If you truly cannot find it, use 3 tbsp (45 ml) dry sherry plus 1 tbsp (12 g) extra sugar.",
+        "Boneless skin-on thighs are worth asking your butcher for. Boneless skinless works, but you lose the rendered fat and the crisp skin that make this dish.",
+        "Make ahead: the sauce keeps 3 weeks in a jar in the fridge and is excellent on salmon, tofu, or grilled mushrooms.",
+        "If your sauce breaks or turns grainy, it reduced too far. Whisk in 2 tbsp (30 ml) of water off the heat and it will come back together.",
+        "Short-grain Japanese rice matters here — rinse it until the water runs clear, then cook with a 1:1.1 ratio of rice to water."
+      ],
+      "keyTemp": "Cook thighs to at least 165°F (74°C); they eat best at 170 to 175°F (77 to 79°C) once the fat has rendered.",
+      "pairing": "Hot short-grain rice, shredded cabbage with a squeeze of lemon, and cold barley tea or a light Japanese lager.",
+      "videoQuery": "authentic japanese teriyaki chicken thigh recipe",
+      "photoQuery": "teriyaki chicken rice bowl",
+      "tags": ["30 Minutes", "Japanese", "Weeknight"]
+    },
+    {
+      "id": "orange-chicken",
+      "title": "Crispy Orange Chicken",
+      "emoji": "🍊",
+      "art": "chicken",
+      "blurb": "Cornstarch-battered chicken fried until it crackles, then tossed at the last second in a sharp orange sauce built on real zest and juice. The trick is to sauce it in the final thirty seconds so it never goes soft.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "25 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "Chicken and batter",
+          "items": [
+            "1 1/2 lb (680 g) boneless, skinless chicken thighs, cut into 1 in (2.5 cm) pieces",
+            "1 tsp (6 g) kosher salt",
+            "1 large egg, beaten",
+            "1 tbsp (15 ml) soy sauce",
+            "3/4 cup (95 g) cornstarch",
+            "1/4 cup (32 g) all-purpose flour",
+            "6 cups (1.4 L) peanut or vegetable oil, for frying"
+          ]
+        },
+        {
+          "group": "Orange sauce",
+          "items": [
+            "3/4 cup (180 ml) fresh orange juice, from 3 to 4 oranges",
+            "1 tbsp finely grated orange zest",
+            "1/4 cup (60 ml) low-sodium soy sauce",
+            "1/4 cup (50 g) granulated sugar",
+            "3 tbsp (45 ml) rice vinegar",
+            "1 tbsp (15 g) finely minced fresh ginger",
+            "3 garlic cloves (about 1 tbsp), finely minced",
+            "1/2 tsp red pepper flakes",
+            "1 tbsp (8 g) cornstarch mixed with 2 tbsp (30 ml) cold water"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "2 scallions (about 1/4 cup), thinly sliced",
+            "1 tsp (3 g) toasted sesame seeds",
+            "3 cups (500 g) cooked jasmine rice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut and season the chicken",
+          "text": "Trim the thighs and cut them into pieces about 1 in (2.5 cm) across, aiming for cubes rather than long strips so they fry evenly. Toss them with the kosher salt and let them sit 10 minutes. Thighs are the right cut here because they stay juicy through a hard fry, where breast meat turns dry and stringy in the same time."
+        },
+        {
+          "title": "Make the wet batter",
+          "text": "Whisk the beaten egg and 1 tbsp soy sauce into the chicken until every piece is slick and coated. This thin egg layer is what the dry starch grabs onto, so do not skip it or thin it with water. Let it sit for 5 minutes while you set up the dredge."
+        },
+        {
+          "title": "Set up the starch coating",
+          "text": "Whisk the 3/4 cup cornstarch with the 1/4 cup flour in a shallow bowl. Cornstarch is the key to a shell that stays crisp under sauce, and the small amount of flour gives it enough structure not to shatter into dust. Lift each piece of chicken out and press it into the mixture, then set it on a rack in a single layer."
+        },
+        {
+          "title": "Build the sauce",
+          "text": "Combine the orange juice, zest, 1/4 cup soy sauce, sugar, rice vinegar, ginger, garlic, and red pepper flakes in a small saucepan and whisk to dissolve the sugar. Bring it to a simmer over medium heat and cook for 4 to 5 minutes to soften the raw bite of the garlic and ginger. It should smell distinctly of orange, not just sweet — if it does not, add another teaspoon of zest."
+        },
+        {
+          "title": "Thicken the sauce",
+          "text": "Stir the cornstarch slurry to recombine it, then whisk it into the simmering sauce and cook for 45 to 60 seconds. It will turn from cloudy to glossy and thick enough to coat a spoon in a smooth sheet. Take it off the heat immediately, because overcooked cornstarch loses its thickening power and goes thin again."
+        },
+        {
+          "title": "Heat the oil to 350°F",
+          "text": "Pour 2 in (5 cm) of oil into a Dutch oven or wok and heat over medium-high to 350°F (175°C) on a clip-on thermometer. Set a wire rack over a sheet pan next to the stove. A pinch of cornstarch dropped in should sizzle immediately and float, and the surface of the oil should look faintly shimmery, not smoking."
+        },
+        {
+          "title": "Fry the first round",
+          "text": "Lower in about a third of the chicken piece by piece so they do not clump, and fry for 3 to 4 minutes until pale golden and firm. Keep the oil between 325 and 350°F (163 and 175°C) by adjusting the heat. Move the pieces to the rack and repeat with the remaining two batches, letting the oil come back to temperature between them."
+        },
+        {
+          "title": "Fry the second round",
+          "text": "Bring the oil up to 375°F (190°C) and fry all the chicken again, in two batches, for 60 to 90 seconds until deep golden and audibly crisp. This double fry is what makes takeout-style chicken stay crunchy — the first fry cooks it through, the second drives off surface moisture and hardens the shell. Do not skip it."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Probe one of the larger pieces for at least 165°F (74°C); after a double fry they will usually be at 175°F (79°C) or above, which is perfect for thigh meat. If any pieces feel soft or look pale, give them another 30 seconds in the oil. Drain everything on the wire rack, never on paper towels."
+        },
+        {
+          "title": "Toss at the last second",
+          "text": "Warm the sauce briefly in a large bowl or wok, add all the fried chicken at once, and toss for no more than 30 seconds until every piece is coated. Move fast: cornstarch shells stay crisp for about a minute in sauce and then start to soften. If the sauce has stiffened up while sitting, loosen it with 1 tbsp (15 ml) of hot water first."
+        },
+        {
+          "title": "Serve immediately",
+          "text": "Turn the chicken out over hot jasmine rice and scatter the scallions and sesame seeds over the top. This is a dish that is genuinely at its best in the first three minutes, so have everyone at the table before you toss. Any sauce left in the bowl should be spooned over the rice, not the chicken."
+        },
+        {
+          "title": "Deal with leftovers",
+          "text": "If you know you will have leftovers, hold back some fried chicken unsauced and store the sauce separately in the fridge for up to 4 days. Re-crisp the plain chicken on a rack in a 400°F (205°C) oven for 6 to 8 minutes, then toss it with warmed sauce. Sauced chicken stored overnight turns soft and cannot be brought back."
+        }
+      ],
+      "tips": [
+        "Fresh orange juice and real zest are what separate this from the cloying bottled version. Bottled juice tastes flat and needs an extra tablespoon of vinegar to compensate.",
+        "The double fry is non-negotiable for crispness, but you can do the first fry up to 2 hours ahead and leave the chicken on a rack at room temperature.",
+        "If you own a wok, use it. The sloped sides let you fry in less oil and toss the chicken in sauce in the same vessel.",
+        "Strain and save the cooled frying oil in a jar; it will handle two or three more fries before it starts tasting used.",
+        "For a lighter version, toss the coated chicken with 3 tbsp (45 ml) oil and roast at 450°F (230°C) for 20 minutes, turning once. It will not be as crisp but it is genuinely good."
+      ],
+      "keyTemp": "Fry at 350°F (175°C), then again at 375°F (190°C). Chicken must reach at least 165°F (74°C); thigh pieces land around 175°F (79°C).",
+      "pairing": "Steamed jasmine rice and stir-fried snow peas, with jasmine tea or a cold, simple lager.",
+      "videoQuery": "crispy orange chicken double fry recipe",
+      "photoQuery": "orange chicken with rice",
+      "tags": ["Takeout at Home", "Fried", "Family Favorite"]
+    },
+    {
+      "id": "chicken-shawarma",
+      "title": "Oven-Roasted Chicken Shawarma",
+      "emoji": "🌯",
+      "art": "wrap",
+      "blurb": "Thighs marinated in warm spices and lemon, roasted hot until the edges char like meat off a spit. Piled into pita with garlicky yogurt, it is one of the best things you can make from a bag of thighs.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "20 min",
+      "cookTime": "35 min",
+      "totalTime": "5 hr",
+      "ingredients": [
+        {
+          "group": "Chicken and marinade",
+          "items": [
+            "2 1/2 lb (1.1 kg) boneless, skinless chicken thighs",
+            "1/3 cup (80 ml) extra-virgin olive oil",
+            "1/4 cup (60 ml) fresh lemon juice, from about 2 lemons",
+            "6 garlic cloves (about 2 tbsp), finely minced",
+            "2 tsp (5 g) ground cumin",
+            "2 tsp (5 g) sweet paprika",
+            "1 1/2 tsp (4 g) ground coriander",
+            "1 tsp (2 g) ground turmeric",
+            "1/2 tsp (1 g) ground cinnamon",
+            "1/2 tsp (1 g) ground allspice",
+            "1/4 tsp (1 g) cayenne pepper",
+            "2 tsp (12 g) kosher salt",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Garlic yogurt sauce",
+          "items": [
+            "1 cup (240 g) full-fat Greek yogurt",
+            "2 tbsp (30 ml) tahini",
+            "1 garlic clove (about 1 tsp), grated on a microplane",
+            "2 tbsp (30 ml) fresh lemon juice",
+            "1/2 tsp (3 g) kosher salt",
+            "2 tbsp (30 ml) cold water, to loosen"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "6 pita breads, warmed",
+            "1 large tomato (about 1 cup / 180 g), diced",
+            "1/2 red onion (about 3/4 cup / 90 g), thinly sliced",
+            "1 cup (120 g) sliced cucumber",
+            "1/2 cup (15 g) fresh flat-leaf parsley leaves",
+            "1/2 cup (75 g) pickled turnips or dill pickles, sliced"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Toast the idea of the spice blend",
+          "text": "Whisk the cumin, paprika, coriander, turmeric, cinnamon, allspice, cayenne, kosher salt, and black pepper together in a bowl and smell it. This warm, slightly sweet blend is the whole identity of shawarma, and the cinnamon and allspice in small amounts are what make it taste right rather than merely spicy. If your ground spices are more than a year old, replace them, because they lose almost everything after that."
+        },
+        {
+          "title": "Build the marinade",
+          "text": "Whisk the olive oil, lemon juice, and minced garlic into the spices until you have a loose, brick-red paste. The oil carries the fat-soluble flavors into the meat and protects the spices from burning in a hot oven. It should be thick enough to cling to a spoon but pourable — add another tablespoon of oil if it is pasty."
+        },
+        {
+          "title": "Marinate 4 to 24 hours",
+          "text": "Turn the chicken thighs in the marinade until they are completely coated, then cover and refrigerate for at least 4 hours and up to 24. Four hours is the minimum for the spices to move past the surface; overnight is noticeably better. Turn the container once partway through so nothing sits dry at the top."
+        },
+        {
+          "title": "Make the yogurt sauce",
+          "text": "Whisk the Greek yogurt, tahini, grated garlic, lemon juice, and salt until smooth, then thin it with the cold water until it pours slowly off a spoon. Grating the garlic rather than mincing it dissolves it completely so nobody gets a raw chunk. Make this at least 30 minutes ahead and refrigerate it so the garlic mellows and the flavors marry."
+        },
+        {
+          "title": "Heat the oven very hot",
+          "text": "Set a rack in the upper-middle position and heat the oven to 425°F (220°C) with a heavy rimmed sheet pan inside. You need real heat to char the edges of the chicken the way a vertical spit does, and a preheated pan gives you a hard sear on the underside. Give it a full 20 minutes at temperature."
+        },
+        {
+          "title": "Take the chill off",
+          "text": "Pull the chicken out of the fridge 20 minutes before roasting and let it come partway to room temperature on the counter. Ice-cold thighs need extra oven time, which means the surface dries out before the center is done. Do not rinse or wipe off the marinade — those clinging spices are what char into the good bits."
+        },
+        {
+          "title": "Roast in a single layer",
+          "text": "Lay the thighs flat on the hot pan with at least 1/2 in (1 cm) between them and listen for an immediate sizzle. Roast for 20 minutes without turning. Crowding the pan makes them release liquid and boil in it, which is the difference between shawarma and grey stewed chicken — use two pans if you must."
+        },
+        {
+          "title": "Broil for the char",
+          "text": "Switch the oven to broil on high, move the pan to about 6 in (15 cm) below the element, and broil for 3 to 5 minutes until the edges blacken in spots and the surface blisters. Stay at the oven door and watch it, because it goes from perfect to burnt in under a minute. That char is exactly what you are chasing."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Probe the thickest thigh for at least 165°F (74°C); thighs are still tender at 175°F (79°C), so do not panic if you overshoot. If the chicken is not there yet, turn the broiler off, return the oven to 425°F (220°C), and give it 4 more minutes. Never judge doneness here by color alone, since the dark spice crust makes everything look further along than it is."
+        },
+        {
+          "title": "Rest and slice thin",
+          "text": "Rest the thighs on a board for 5 minutes, then slice them across the grain into strips about 1/4 in (6 mm) wide. Thin slicing is what makes it read as shawarma rather than as roast chicken pieces. Pour any juices left on the board and pan back over the sliced meat."
+        },
+        {
+          "title": "Build the sandwiches",
+          "text": "Warm the pitas directly over a gas flame or in a dry skillet for 20 seconds a side until they are pliable and blistered. Smear yogurt sauce down the middle, pile on the sliced chicken, then add tomato, red onion, cucumber, parsley, and pickles. Roll it tightly and wrap the bottom half in foil or parchment, which is the only thing standing between you and it falling apart."
+        }
+      ],
+      "tips": [
+        "Make ahead: the marinade and the yogurt sauce can both be made 3 days in advance, and the chicken can marinate a full 24 hours. This is a great dish to prep on Sunday for a Tuesday.",
+        "No pita? Serve it over rice or a chopped salad with the yogurt sauce thinned into a dressing. It loses nothing.",
+        "Bone-in, skin-on thighs are even better if you have the time — roast them at 425°F (220°C) for 35 to 40 minutes, then broil and pull the meat off.",
+        "The most common mistake is a crowded pan. Chicken that touches releases steam and never chars, so give every thigh its own space.",
+        "Leftover sliced shawarma keeps 4 days and reheats best in a dry hot skillet for 2 minutes, which brings back some of the crisp edges."
+      ],
+      "keyTemp": "Roast at 425°F (220°C), then broil. Chicken must reach at least 165°F (74°C); thighs remain juicy up to 175°F (79°C).",
+      "pairing": "Warm pita, pickled turnips, and a cold Lebanese lager or mint lemonade over crushed ice.",
+      "videoQuery": "oven roasted chicken shawarma thighs recipe",
+      "photoQuery": "chicken shawarma pita wrap",
+      "tags": ["Middle Eastern", "Make Ahead", "Crowd Pleaser"]
+    },
+    {
+      "id": "jerk-chicken",
+      "title": "Jamaican Jerk Chicken",
+      "emoji": "🌶️",
+      "art": "chicken",
+      "blurb": "A proper jerk paste built on Scotch bonnets, allspice, and thyme, rubbed into a bird overnight and cooked low over smoke before a hard finish. It is fiery, deeply aromatic, and worth the planning.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "45 min",
+      "totalTime": "13 hr 20 min",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "1 whole chicken (3 1/2 to 4 lb / 1.6 to 1.8 kg), cut into 8 pieces",
+            "1 tbsp (18 g) kosher salt",
+            "1 tbsp (15 ml) neutral oil, for the grate"
+          ]
+        },
+        {
+          "group": "Jerk paste",
+          "items": [
+            "2 to 4 Scotch bonnet or habanero chiles, stemmed and halved",
+            "6 scallions (about 1 cup), roughly chopped",
+            "4 garlic cloves (about 4 tsp)",
+            "2 tbsp (30 g) fresh ginger, roughly chopped",
+            "2 tbsp (12 g) ground allspice",
+            "2 tbsp fresh thyme leaves, from about 10 sprigs",
+            "2 tbsp (25 g) dark brown sugar",
+            "1/4 cup (60 ml) soy sauce",
+            "3 tbsp (45 ml) fresh lime juice",
+            "2 tbsp (30 ml) neutral oil",
+            "1 1/2 tsp (4 g) freshly grated nutmeg",
+            "1 tsp (2 g) ground cinnamon",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "2 limes, cut into wedges",
+            "2 cups (300 g) pimento or hickory wood chips, soaked 30 minutes",
+            "1 cup (240 ml) prepared jerk or hot pepper sauce, for the table"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Handle the chiles carefully",
+          "text": "Wear gloves to stem and halve the Scotch bonnets, and keep your hands away from your face for the rest of the evening. Two chiles gives real heat you can eat comfortably, four gives you the authentic Jamaican level that will make you sweat. Removing the seeds and white pith drops the heat by roughly half without losing the fruity, apricot-like flavor that makes Scotch bonnets irreplaceable here."
+        },
+        {
+          "title": "Blend the jerk paste",
+          "text": "Put the chiles, scallions, garlic, ginger, allspice, thyme, brown sugar, soy sauce, lime juice, oil, nutmeg, cinnamon, and black pepper in a blender and blend to a thick, dark green-brown paste, about 45 seconds. Scrape the sides down once and blend again — you want it smooth enough to spread but not liquid. Allspice, called pimento in Jamaica, is the defining flavor, so measure it generously and do not substitute."
+        },
+        {
+          "title": "Score and salt the chicken",
+          "text": "Cut the chicken into 8 pieces, then slash each piece two or three times through the skin down to the bone with a sharp knife. Season all over with the 1 tbsp kosher salt. Those cuts are not decorative: they let the paste reach the meat and they let heat penetrate faster, so the surface does not burn while the inside catches up."
+        },
+        {
+          "title": "Marinate 12 to 24 hours",
+          "text": "Rub the paste into every piece with gloved hands, pushing it into the slashes and under the skin wherever it will go. Seal it in a bag or covered container and refrigerate for at least 12 hours and up to 24. Jerk is a rub-and-wait dish; anything under 12 hours tastes like spiced chicken rather than jerk."
+        },
+        {
+          "title": "Set up indirect heat",
+          "text": "For charcoal, bank a chimney of lit coals to one side of the kettle and leave the other side empty; for gas, light the burners on one side only and keep the others off. Aim for a grill temperature of 325 to 350°F (163 to 175°C) with the lid on and the vents about half open. Jerk is traditionally cooked slowly over smoldering pimento wood, and this two-zone setup is the home approximation."
+        },
+        {
+          "title": "Add the smoke",
+          "text": "Drain the soaked wood chips and scatter about half of them directly onto the coals, or seal them in a foil packet punched with holes and set it over a lit gas burner. Wait until you see thin blue-white smoke rather than thick white billows, which taste acrid. Oil the grate with a folded paper towel gripped in tongs just before the chicken goes on."
+        },
+        {
+          "title": "Cook on the cool side",
+          "text": "Lay the chicken pieces skin-up on the indirect side, close the lid, and cook for 30 to 35 minutes without opening. Do not put it over direct flame yet — the sugar and soy in the paste will scorch black in under 5 minutes. Add the second half of the wood chips at the 15-minute mark."
+        },
+        {
+          "title": "Check the progress",
+          "text": "After 30 minutes, lift the lid and look: the paste should have dried into a dark crust and the skin should be pulling back from the drumstick bones. Rotate the pieces so the ones nearest the fire move to the far edge, since even an indirect zone has a hot end. Close the lid and give it another 5 to 10 minutes if the pieces still feel soft."
+        },
+        {
+          "title": "Finish over direct heat",
+          "text": "Move the pieces over the coals skin-side down for 2 to 3 minutes to char and crisp, turning once. Stay right there with tongs, because flare-ups happen fast when rendered fat hits fire and 30 seconds of inattention costs you a piece. If flames climb, move the chicken back to the cool side rather than dousing the fire."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Probe the thickest part of each piece away from bone: the breast needs 165°F (74°C) and the thighs and drumsticks are better at 175°F (79°C). The dark crust makes everything look done long before it is, so the thermometer is doing all the real work here. Pull each piece as it hits its number rather than waiting for the whole batch."
+        },
+        {
+          "title": "Rest and chop",
+          "text": "Rest the chicken on a board for 10 minutes so the juices settle back into the meat. Traditionally jerk is then chopped through the bone into rough chunks with a cleaver, which is worth doing if you have the right knife and a sturdy board. Squeeze lime wedges over everything just before serving."
+        },
+        {
+          "title": "Oven method",
+          "text": "With no grill, roast the marinated pieces skin-up on a rack over a sheet pan at 375°F (190°C) for 35 to 40 minutes, then broil 4 in (10 cm) from the element for 3 to 4 minutes to char. You lose the smoke, so add 1 tsp (3 g) of smoked paprika to the paste to compensate. Temp the same way: 165°F (74°C) minimum, 175°F (79°C) for dark meat."
+        }
+      ],
+      "tips": [
+        "Make ahead: the jerk paste keeps 2 weeks in the fridge and 6 months frozen in an ice cube tray. It is excellent on pork shoulder, shrimp, and roasted sweet potatoes.",
+        "Scotch bonnets are worth hunting down for their fruity aroma, but habaneros are a genuine one-for-one substitute. Jalapeños are not — you lose the whole character.",
+        "Wear gloves and wash the blender immediately. Capsaicin oil lingers on plastic and will find your eyes hours later.",
+        "If the heat is too much for the table, serve it with plenty of rice and peas and a bowl of coleslaw. Dairy and starch both blunt capsaicin far better than water.",
+        "Pimento wood is traditional and available online; hickory or apple chips are a fine everyday stand-in."
+      ],
+      "keyTemp": "Cook over indirect heat at 325 to 350°F (163 to 175°C) until the breast reads 165°F (74°C) and dark meat reads 175°F (79°C).",
+      "pairing": "Rice and peas, fried plantain, and a cold Red Stripe with a lime wedge.",
+      "videoQuery": "authentic jamaican jerk chicken grill recipe",
+      "photoQuery": "jamaican jerk chicken charred",
+      "tags": ["Grill", "Make Ahead", "Spicy"]
+    },
+    {
+      "id": "herb-roasted-turkey-breast",
+      "title": "Herb Roasted Turkey Breast",
+      "emoji": "🦃",
+      "art": "roast",
+      "blurb": "All the good parts of Thanksgiving without wrestling a twenty-pound bird — a bone-in breast, herb butter under the skin, and two hours in the oven. It feeds six and slices beautifully.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "20 min",
+      "cookTime": "1 hr 30 min",
+      "totalTime": "2 hr 10 min",
+      "ingredients": [
+        {
+          "group": "Turkey",
+          "items": [
+            "1 bone-in, skin-on turkey breast (5 to 6 lb / 2.3 to 2.7 kg)",
+            "1 tbsp (18 g) kosher salt",
+            "1 tsp (4 g) baking powder",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Herb butter",
+          "items": [
+            "6 tbsp (85 g) unsalted butter, softened",
+            "2 tbsp chopped fresh sage",
+            "2 tbsp chopped fresh flat-leaf parsley",
+            "1 tbsp chopped fresh rosemary",
+            "1 tbsp chopped fresh thyme leaves",
+            "4 garlic cloves (about 4 tsp), finely minced",
+            "2 tsp finely grated lemon zest"
+          ]
+        },
+        {
+          "group": "Pan and gravy",
+          "items": [
+            "1 large yellow onion (about 2 cups / 280 g), cut into thick rings",
+            "2 medium carrots (1 cup / 130 g), cut into 2 in (5 cm) pieces",
+            "1 1/2 cups (360 ml) low-sodium chicken or turkey stock",
+            "2 tbsp (16 g) all-purpose flour",
+            "1 tbsp (14 g) cold unsalted butter"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Thaw completely",
+          "text": "A frozen 6 lb (2.7 kg) breast needs about 24 hours in the refrigerator to thaw, so plan a day ahead. Roasting a partially frozen breast guarantees a dry outer inch and an undercooked center. Press the thickest part with your thumb — it should give evenly with no hard core."
+        },
+        {
+          "title": "Dry and salt the breast",
+          "text": "Pat the turkey bone dry with paper towels, then mix the kosher salt with the baking powder and rub it over all the skin and into the underside. Set it on a rack over a sheet pan and refrigerate uncovered for at least 4 hours, or up to 24 if you can. The baking powder raises the skin's pH so it browns faster, and the dry fridge air dehydrates the surface for crisper results."
+        },
+        {
+          "title": "Make the herb butter",
+          "text": "Mash the softened butter with the sage, parsley, rosemary, thyme, garlic, and lemon zest until it is uniformly green-flecked. Keep it at room temperature so it is spreadable but not melted — melted butter will not stay where you put it. Taste a small amount; it should be assertively herbal, since it has a lot of mild meat to season."
+        },
+        {
+          "title": "Butter under the skin",
+          "text": "Slide your fingers between the skin and the meat, starting at the wide end, and work carefully to loosen the whole surface without tearing it. Push about two-thirds of the herb butter into that pocket and press from the outside to spread it evenly over both lobes. Rub the remaining butter over the outside of the skin and grind the black pepper over the top."
+        },
+        {
+          "title": "Come to room temperature",
+          "text": "Leave the buttered breast on the counter for 45 minutes before it goes in the oven. Turkey breast is a thick, dense piece of lean meat, and starting it cold means the outside overcooks by 20°F before the center reaches temperature. This one step meaningfully improves how juicy the finished slices are."
+        },
+        {
+          "title": "Heat the oven to 425°F",
+          "text": "Set a rack in the lower-middle position and heat the oven to 425°F (220°C). You will start hot to set the skin and then drop the temperature, which gives you color without drying out the meat. Give the oven a full 20 minutes after it beeps so it is truly saturated with heat."
+        },
+        {
+          "title": "Build the vegetable rack",
+          "text": "Scatter the onion rings and carrot pieces across the bottom of a roasting pan or a large oven-safe skillet, then set the turkey breast skin-up directly on top of them. The vegetables lift the meat so hot air circulates underneath and they keep the drippings from scorching on the bare pan. Pour 1/2 cup (120 ml) of the stock into the pan around them."
+        },
+        {
+          "title": "Roast hot, then drop the heat",
+          "text": "Roast at 425°F (220°C) for 20 minutes to set and start browning the skin, then reduce the oven to 350°F (175°C) without opening the door. Continue roasting for 60 to 75 minutes more, depending on size — figure roughly 15 minutes per pound at the lower temperature. If the skin browns faster than you like, lay a loose sheet of foil over the top."
+        },
+        {
+          "title": "Temp in the right place",
+          "text": "Slide an instant-read thermometer into the thickest part of the breast, parallel to the bone and not touching it, and look for 160°F (71°C) if you are resting it or a full 165°F (74°C) if you are not. Carryover cooking will add 5 to 10°F (3 to 6°C) during the rest, which is why pulling at 160°F (71°C) and resting is the reliable way to hit 165°F (74°C) without overshooting. Check in two places, since one lobe is often thicker."
+        },
+        {
+          "title": "Rest 20 minutes",
+          "text": "Move the breast to a carving board and rest it for a full 20 minutes, loosely tented only if your kitchen is cold. A large piece of meat needs this long for the juices to redistribute, and cutting early will flood your board and leave the slices dry. Use the time to make the gravy."
+        },
+        {
+          "title": "Make the pan gravy",
+          "text": "Set the roasting pan over medium heat, pull out the vegetables, and whisk the flour into the fat and drippings, cooking for 2 minutes until it smells toasty. Pour in the remaining 1 cup (240 ml) of stock in a slow stream while whisking hard, and simmer for 4 to 5 minutes until it coats a spoon. Take it off the heat, swirl in the cold butter, and taste before adding any salt — the drippings are already seasoned."
+        }
+      ],
+      "tips": [
+        "Make ahead: salt the breast up to 24 hours in advance and make the herb butter up to 3 days ahead. On the day, it is mostly hands-off oven time.",
+        "A boneless rolled breast works too but cooks faster — start checking at 60 minutes total and pull at the same 160°F (71°C) before resting.",
+        "Save the bone. Simmered with an onion and a bay leaf for 3 hours it makes stock that turns leftover turkey into an excellent soup.",
+        "Leftover slices keep 4 days and are best reheated gently in a covered pan with a splash of stock, which keeps them from turning to sawdust.",
+        "Dried herbs can stand in at one-third the volume, but fresh sage and rosemary really do make the difference here."
+      ],
+      "keyTemp": "Pull the breast at 160°F (71°C) and rest 20 minutes; carryover brings it to a safe 165°F (74°C). Never serve poultry below 165°F (74°C).",
+      "pairing": "A dry Riesling or Pinot Noir, with mashed potatoes, buttered green beans, and plenty of the pan gravy.",
+      "videoQuery": "bone in turkey breast roast herb butter",
+      "photoQuery": "roasted turkey breast sliced",
+      "tags": ["Holiday", "Roasting", "Feeds a Crowd"]
+    },
+    {
+      "id": "chicken-cordon-bleu",
+      "title": "Chicken Cordon Bleu",
+      "emoji": "🧀",
+      "art": "chicken",
+      "blurb": "Pounded chicken breast rolled around ham and Gruyère, breaded, seared, and baked until the cheese pulls in strings when you cut it. Fussy in the best way, and genuinely impressive on a plate.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "40 min",
+      "cookTime": "30 min",
+      "totalTime": "1 hr 45 min",
+      "ingredients": [
+        {
+          "group": "Chicken rolls",
+          "items": [
+            "4 boneless, skinless chicken breasts (6 to 7 oz / 170 to 200 g each)",
+            "1 1/2 tsp (9 g) kosher salt",
+            "1/2 tsp freshly ground black pepper",
+            "8 thin slices Black Forest or good deli ham (about 6 oz / 170 g)",
+            "6 oz (170 g) Gruyère cheese, cut into 4 batons",
+            "2 tsp (10 ml) Dijon mustard"
+          ]
+        },
+        {
+          "group": "Breading",
+          "items": [
+            "1/2 cup (65 g) all-purpose flour",
+            "2 large eggs, beaten with 1 tbsp (15 ml) water",
+            "2 cups (100 g) panko breadcrumbs",
+            "2 tbsp (28 g) unsalted butter, melted",
+            "1/2 tsp (3 g) kosher salt",
+            "1/4 cup (60 ml) neutral oil, for searing"
+          ]
+        },
+        {
+          "group": "Dijon cream sauce",
+          "items": [
+            "1 tbsp (14 g) unsalted butter",
+            "1 small shallot (about 1/4 cup / 35 g), finely minced",
+            "1/2 cup (120 ml) dry white wine",
+            "3/4 cup (180 ml) heavy cream",
+            "1 tbsp (15 ml) Dijon mustard",
+            "1 tsp fresh thyme leaves",
+            "1/4 tsp (2 g) kosher salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Butterfly the breasts",
+          "text": "Lay each breast flat and, holding your knife parallel to the board, slice horizontally through the thick side almost but not all the way through, then open it like a book. Work slowly and keep your guiding hand flat on top of the meat. If a breast has a tenderloin attached underneath, pull it off and save it for another use, since it will not roll cleanly."
+        },
+        {
+          "title": "Pound them thin",
+          "text": "Place each butterflied breast between two sheets of plastic wrap and pound from the center outward with a mallet or a heavy pan until it is an even 1/4 in (6 mm) thick. Use glancing, spreading blows rather than straight-down smashes, which tear holes. Any hole in the meat is a hole the cheese will escape through, so patch tears by overlapping the edges."
+        },
+        {
+          "title": "Season and spread",
+          "text": "Season both sides of each pounded breast with the kosher salt and black pepper, then spread a thin layer of the 2 tsp Dijon over the inside face. The mustard adds a sharp note that cuts the richness and it also helps the ham stick to the meat. Do not oversalt — the ham and Gruyère are both already salty."
+        },
+        {
+          "title": "Layer the filling",
+          "text": "Lay 2 slices of ham on each breast, leaving a clear 1/2 in (1 cm) border on all sides, then set a baton of Gruyère along the short edge nearest you. That border is critical: filling that reaches the edge will push out and leak in the pan. Cut the cheese into batons rather than using slices so it sits in a compact log."
+        },
+        {
+          "title": "Roll them tight",
+          "text": "Starting from the cheese end, roll each breast up as tightly as you can, tucking the sides inward as you go like a burrito. Wrap each roll snugly in plastic wrap, twisting the ends like a candy wrapper to compress it into a firm cylinder. Chill the wrapped rolls for at least 30 minutes so they hold their shape when they hit the breading station."
+        },
+        {
+          "title": "Set up the breading",
+          "text": "Put the flour in one shallow dish, the beaten eggs in a second, and the panko tossed with the melted butter and 1/2 tsp salt in a third. Buttering the panko is what lets it brown deeply in the oven without needing a deep fry. Keep one hand for dry and one for wet so you do not end up with breaded fingers."
+        },
+        {
+          "title": "Bread the rolls",
+          "text": "Unwrap a roll, dredge it in flour and tap off every bit of excess, dip it in the egg and let the drips fall away, then press it into the panko, packing crumbs on firmly all over. Set it seam-side down on a rack. Excess flour is the usual reason breading falls off in the pan, so be thorough about that tap."
+        },
+        {
+          "title": "Chill again",
+          "text": "Refrigerate the breaded rolls uncovered on the rack for 15 to 20 minutes while the oven heats to 375°F (190°C). This second chill sets the coating so it stays on during searing and firms up the rolls so they hold their cylinder. It also gives the panko time to absorb a little moisture and adhere."
+        },
+        {
+          "title": "Sear all sides",
+          "text": "Heat the 1/4 cup oil in a 12 in (30 cm) oven-safe skillet over medium heat until it shimmers, then add the rolls seam-side down and sear for about 2 minutes per side, turning to hit all four faces. It should sizzle steadily and the panko should turn deep golden; if it browns in under a minute, the pan is too hot. Use two spatulas or tongs and turn gently so the coating stays intact."
+        },
+        {
+          "title": "Bake to temperature",
+          "text": "Transfer the skillet to the 375°F (190°C) oven and bake for 15 to 18 minutes. If your skillet is not oven-safe, move the rolls to a rack set over a sheet pan instead, which keeps the bottom from going soft. The rolls will firm up noticeably and you may see a little cheese bubbling at a seam, which is fine."
+        },
+        {
+          "title": "Check the center",
+          "text": "Slide an instant-read thermometer into the thickest part of a roll, through the side and into the chicken rather than the cheese pocket, and look for 165°F (74°C). Chicken breast has no fat to protect it, so pull them the moment they arrive. Rest the rolls on a rack for 5 minutes before slicing so the molten cheese sets just enough to stay put."
+        },
+        {
+          "title": "Make the Dijon cream",
+          "text": "Pour the oil out of the skillet, add the 1 tbsp butter, and cook the shallot over medium heat for 2 minutes until translucent. Pour in the wine, scrape the bottom, and reduce it by half, about 3 minutes, then add the cream, Dijon, thyme, and salt. Simmer for 3 to 4 minutes until it coats a spoon, and taste before adding more salt."
+        },
+        {
+          "title": "Slice and serve",
+          "text": "Cut each roll crosswise on a slight diagonal into three or four thick slices and fan them on the plate so the ham and cheese spiral shows. Spoon the sauce onto the plate underneath rather than over the top, which keeps the panko crisp. Serve immediately, while the cheese still stretches."
+        }
+      ],
+      "tips": [
+        "Make ahead: assemble and bread the rolls up to 24 hours in advance and keep them uncovered on a rack in the fridge. Sear and bake straight from cold, adding 3 to 4 minutes in the oven.",
+        "Gruyère is traditional and melts beautifully, but Emmental, Comté, or a good Swiss all work. Avoid pre-shredded cheese, which is coated in starch and melts gummy.",
+        "The number one failure is cheese leaking out. The fixes are a clean 1/2 in border, a tight plastic-wrap roll, and a full 30-minute chill before breading.",
+        "For a fully crisp shell, shallow-fry the rolls in 1/2 in (1 cm) of oil at 350°F (175°C) for 3 minutes per side and skip the searing step, then bake 12 minutes.",
+        "These freeze well breaded but unbaked. Freeze on a tray, bag them, and bake from frozen at 375°F (190°C) for 35 to 40 minutes to 165°F (74°C)."
+      ],
+      "keyTemp": "Bake at 375°F (190°C) until the chicken at the center of the roll reads 165°F (74°C) on an instant-read thermometer.",
+      "pairing": "A dry white Burgundy or Alsatian Pinot Blanc, with buttered egg noodles and a bitter greens salad.",
+      "videoQuery": "chicken cordon bleu rolled breaded recipe",
+      "photoQuery": "chicken cordon bleu sliced",
+      "tags": ["Date Night", "Impressive", "Make Ahead"]
+    },
+    {
+      "id": "chicken-satay-peanut-sauce",
+      "title": "Chicken Satay with Peanut Sauce",
+      "emoji": "🥜",
+      "art": "chicken",
+      "blurb": "Turmeric and lemongrass marinated chicken threaded onto skewers, grilled hard and fast, and dunked in a peanut sauce with real body. Great as dinner, even better as something to hand people standing in a kitchen.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "15 min",
+      "totalTime": "2 hr 40 min",
+      "ingredients": [
+        {
+          "group": "Chicken and marinade",
+          "items": [
+            "1 1/2 lb (680 g) boneless, skinless chicken thighs, cut into 1 in (2.5 cm) strips",
+            "1 cup (240 ml) full-fat coconut milk, well shaken",
+            "2 tbsp (30 ml) fish sauce",
+            "2 tbsp (25 g) light brown sugar",
+            "1 stalk lemongrass (about 3 tbsp), tender core finely minced",
+            "3 garlic cloves (about 1 tbsp), minced",
+            "1 tbsp (15 g) fresh ginger, grated",
+            "2 tsp (5 g) ground turmeric",
+            "2 tsp (5 g) ground coriander",
+            "1 tsp (2 g) ground cumin",
+            "1 tsp (6 g) kosher salt"
+          ]
+        },
+        {
+          "group": "Peanut sauce",
+          "items": [
+            "3/4 cup (200 g) natural creamy peanut butter",
+            "1 cup (240 ml) full-fat coconut milk",
+            "2 tbsp (30 ml) fish sauce",
+            "2 tbsp (30 ml) fresh lime juice",
+            "2 tbsp (25 g) light brown sugar",
+            "1 tbsp (15 ml) soy sauce",
+            "2 tsp (10 g) red curry paste",
+            "1/4 cup (60 ml) hot water, to loosen"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "16 bamboo skewers (8 in / 20 cm), soaked 30 minutes",
+            "1/2 cup (15 g) fresh cilantro leaves",
+            "1/4 cup (35 g) roasted peanuts, roughly chopped",
+            "1 lime, cut into wedges",
+            "1 cup (120 g) sliced cucumber"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut the chicken for skewers",
+          "text": "Slice the thighs with the grain into strips about 1 in (2.5 cm) wide and 4 in (10 cm) long so they can be threaded and will not fall apart. Cutting with the grain rather than across it gives strips that hold together on a skewer. Keep the thickness even at about 1/2 in (1 cm) so they grill in the same amount of time."
+        },
+        {
+          "title": "Prep the lemongrass",
+          "text": "Trim the dry top and root end off the lemongrass stalk, peel away the tough outer layers, and mince only the pale, tender bottom 4 in (10 cm) as finely as you can. Lemongrass fibers stay woody no matter how long you cook them, so the fineness of the mince genuinely matters. If you cannot find fresh, use 1 tbsp of lemongrass paste or the zest of one lime."
+        },
+        {
+          "title": "Mix the marinade",
+          "text": "Whisk the 1 cup coconut milk, fish sauce, brown sugar, lemongrass, garlic, ginger, turmeric, coriander, cumin, and kosher salt until the sugar dissolves and the mixture is a uniform bright yellow. Turmeric stains everything it touches, so keep it off wooden spoons and light countertops. It should smell fragrant and savory rather than sharply fishy — the fish sauce mellows completely once cooked."
+        },
+        {
+          "title": "Marinate 2 to 12 hours",
+          "text": "Turn the chicken strips in the marinade until coated, cover, and refrigerate for at least 2 hours and up to 12. Coconut milk marinades are gentle and there is no acid to worry about, so a long soak here only helps. Give the container a shake once partway through."
+        },
+        {
+          "title": "Soak the skewers",
+          "text": "Submerge the bamboo skewers in water for at least 30 minutes, weighing them down with a plate so they stay under. Dry bamboo catches fire over direct heat and you will end up with half a skewer and chicken in the coals. Metal skewers skip this step entirely and are worth buying if you do this often."
+        },
+        {
+          "title": "Make the peanut sauce",
+          "text": "Warm the peanut butter, 1 cup coconut milk, fish sauce, lime juice, brown sugar, soy sauce, and red curry paste in a small saucepan over medium-low heat, whisking constantly for 4 to 5 minutes. It will look separated and grainy at first and then suddenly come together into a smooth, glossy sauce. Whisk in hot water 1 tbsp at a time until it pours slowly off the spoon like heavy cream."
+        },
+        {
+          "title": "Taste and balance",
+          "text": "Taste the sauce and adjust it against four points: salty from the fish sauce, sour from the lime, sweet from the sugar, and hot from the curry paste. It should taste slightly too intense on its own, because it will be eaten in small amounts alongside mild chicken. Set it aside off the heat, where it will thicken as it cools — loosen it again with hot water before serving."
+        },
+        {
+          "title": "Thread the skewers",
+          "text": "Weave each strip of chicken onto a skewer in a loose S-shape, pushing it down to leave about 2 in (5 cm) of bare skewer at the handle end. Do not pack the meat tight against itself, because the pressed surfaces will steam instead of char. One or two strips per skewer is right for 16 skewers."
+        },
+        {
+          "title": "Get the grill hot",
+          "text": "Heat a charcoal grill until the coals are covered in white ash, or a gas grill to high, aiming for a hot direct zone around 450°F (230°C). Scrub and oil the grate just before cooking. If the exposed skewer ends worry you, lay a folded strip of foil along the edge of the grate and rest the handles on it."
+        },
+        {
+          "title": "Grill hard and fast",
+          "text": "Lay the skewers over direct heat and grill for 3 to 4 minutes per side, turning once, until the edges char and the surface looks lacquered. The coconut milk and sugar in the marinade brown quickly, so stay at the grill and move any skewer that is coloring too fast to a cooler spot. Total time is only 6 to 8 minutes — this is not a walk-away dish."
+        },
+        {
+          "title": "Check, then serve hot",
+          "text": "Probe the thickest piece on a skewer for at least 165°F (74°C); thigh meat this thin usually gets there right as the char develops. Pile the skewers on a platter, scatter the cilantro and chopped peanuts, and serve with the warm peanut sauce, lime wedges, and sliced cucumber alongside. The cucumber is not decoration — its coolness is what lets you keep eating."
+        }
+      ],
+      "tips": [
+        "Make ahead: the peanut sauce keeps 1 week refrigerated and the chicken can marinate up to 12 hours. Reheat the sauce gently with a splash of water, since it sets firm when cold.",
+        "Use natural peanut butter with no added sugar or palm oil. The sweetened kind makes a cloying sauce you cannot balance back.",
+        "Chicken breast works if you slice it thin and pull it at exactly 165°F (74°C), but thighs stay far juicier over high heat.",
+        "No grill? Broil the skewers 4 in (10 cm) from the element for 4 minutes per side, or cook them in a hot cast-iron grill pan in two batches.",
+        "Double the peanut sauce and keep the extra for noodles, roasted broccoli, or as a dressing thinned with lime juice and water."
+      ],
+      "keyTemp": "Grill over direct high heat until the chicken reaches at least 165°F (74°C) at the thickest point.",
+      "pairing": "Jasmine rice or cucumber salad, with a cold Singha or an off-dry Riesling to handle the chili.",
+      "videoQuery": "chicken satay skewers peanut sauce recipe",
+      "photoQuery": "chicken satay skewers peanut sauce",
+      "tags": ["Grill", "Party Food", "Southeast Asian"]
+    }
+  ]
+}
