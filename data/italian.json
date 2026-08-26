@@ -815,6 +815,794 @@
       "videoQuery": "osso buco veal shanks braised gremolata",
       "photoQuery": "osso buco veal shank gremolata plate",
       "tags": ["Weekend Project", "Braised", "Special Occasion"]
+    },
+    {
+      "id": "risotto-alla-milanese",
+      "title": "Risotto alla Milanese",
+      "emoji": "🍚",
+      "art": "risotto",
+      "blurb": "Saffron-gold, loose enough to ripple across the plate, and finished with a shameless amount of butter and Parmigiano. Twenty minutes of stirring buys you the creamiest thing in this book.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "35 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "For the risotto",
+          "items": [
+            "6 cups (1.4 L) low-sodium chicken stock",
+            "1/2 tsp saffron threads (about a generous pinch)",
+            "4 tbsp (55 g) unsalted butter, divided",
+            "1 tbsp (15 ml) extra-virgin olive oil",
+            "1 small yellow onion, very finely chopped (about 3/4 cup / 105 g)",
+            "1 1/2 cups (300 g) Carnaroli or Arborio rice",
+            "3/4 cup (180 ml) dry white wine",
+            "1 1/4 tsp kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "3 tbsp (42 g) very cold unsalted butter, cut into cubes",
+            "1 cup (100 g) finely grated Parmigiano-Reggiano",
+            "1/4 tsp freshly ground white or black pepper",
+            "2 tbsp (30 g) beef marrow, finely chopped (optional but traditional)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Bloom the saffron",
+          "text": "Bring the 6 cups stock to a bare simmer in a saucepan, then ladle about 1/2 cup of it into a small bowl and crumble the saffron threads into it. Let the saffron steep for at least 10 minutes while you start cooking, until the liquid is a deep orange-red. Blooming pulls the color and flavor out of the threads; tossed in dry, saffron gives you pale, unevenly flavored rice."
+        },
+        {
+          "title": "Keep the stock hot",
+          "text": "Leave the pot of stock on a back burner over low heat, at a temperature where you see steam and the occasional bubble but never a boil. Cold stock added to hot rice shocks the pan, stops the cooking, and adds ten minutes to your risotto. Set a ladle in the pot so it is always in reach."
+        },
+        {
+          "title": "Sweat the onion",
+          "text": "Melt 1 tbsp of the butter with the 1 tbsp olive oil in a wide heavy saucepan or 4 qt (3.8 L) Dutch oven over medium heat, then add the finely chopped onion and a pinch of salt. Cook 6 to 7 minutes, stirring, until the onion is completely soft and translucent with no color at all. Browned onion would muddy the clean saffron flavor, so keep the heat gentle."
+        },
+        {
+          "title": "Toast the rice",
+          "text": "Add the 1 1/2 cups rice and stir constantly for 2 to 3 minutes, until the grains are coated in fat and the edges turn translucent while the centers stay chalky white. This step, called the tostatura, firms the outside of each grain so the risotto stays al dente instead of collapsing into porridge. The rice should smell faintly nutty and click against the spoon."
+        },
+        {
+          "title": "Add the wine",
+          "text": "Pour in the 3/4 cup white wine and stir until it has almost completely evaporated, about 2 minutes. You will hear the sizzle change from a bubbling boil to a drier hiss when it is nearly gone. The wine adds acidity that keeps 4 tablespoons of butter and a cup of cheese from tasting heavy."
+        },
+        {
+          "title": "Start ladling stock",
+          "text": "Add the saffron liquid and one ladle of hot stock, about 3/4 cup, and stir. Keep the heat at a steady medium so the pan is always at a lively simmer — too low and the starch never releases, too high and the outside of the grains blows out before the inside cooks. Stir often but you do not have to stir constantly."
+        },
+        {
+          "title": "Repeat, ladle by ladle",
+          "text": "Each time the liquid reduces enough that dragging the spoon across the pan leaves a clear track for a second, add another ladle of stock and the 1 1/4 tsp salt in stages. Keep going for 16 to 18 minutes total. Adding stock gradually forces the grains to rub against each other, and that friction is what releases the starch that makes risotto creamy."
+        },
+        {
+          "title": "Taste for al dente",
+          "text": "Starting at 16 minutes, bite a grain every couple of minutes. It should be tender all the way through with the faintest firm point at the very center, and absolutely no chalky white core. This usually lands between 17 and 20 minutes depending on your rice. You may not need all the stock, or you may need a splash of hot water."
+        },
+        {
+          "title": "Get the texture right",
+          "text": "The finished risotto should be loose enough that it spreads slowly when you shake the pan — Italians call this all'onda, meaning wavy. If it is stiff, stir in another half ladle of stock. Remember it will tighten noticeably in the next two minutes and again on the plate, so err on the looser side."
+        },
+        {
+          "title": "Mantecare off the heat",
+          "text": "Pull the pan off the burner, wait 30 seconds, then beat in the 3 tbsp cold cubed butter and the 1 cup Parmigiano vigorously with a wooden spoon for a full minute. This is the mantecatura, and beating hard is what emulsifies the fat into the starch and turns the whole pan glossy. Cold butter off the heat emulsifies; warm butter on the heat just makes it greasy. Stir in the marrow now if you are using it."
+        },
+        {
+          "title": "Rest, then serve at once",
+          "text": "Cover the pan and let it sit for 2 minutes, then stir once more and check the salt and the 1/4 tsp pepper. Spoon into warm shallow bowls and tap the bottom of each bowl on the counter so the risotto settles into an even layer. Risotto waits for no one — serve within a minute or two, because it stiffens fast."
+        }
+      ],
+      "tips": [
+        "Carnaroli holds its shape better than Arborio and is much harder to overcook. If you can find it, buy it; it is the forgiving option.",
+        "Never rinse risotto rice. The powdery surface starch is exactly what you are trying to release into the sauce.",
+        "Saffron is expensive but you use only a pinch, and the cheap powdered stuff is often adulterated. Buy whole threads from a spice shop.",
+        "Leftover risotto spread on a sheet pan and chilled overnight is the starting point for arancini, which is the best reason to make extra.",
+        "If you must hold risotto, stop it 3 minutes early, spread it on a cold sheet pan, then finish with hot stock and butter just before serving."
+      ],
+      "keyTemp": "No internal temperature here — go by the grain: tender through with the barest firm point at the center, and loose enough to ripple when you shake the pan.",
+      "pairing": "The traditional partner for osso buco, or eat it alone with a glass of Franciacorta.",
+      "videoQuery": "risotto alla milanese saffron authentic method",
+      "photoQuery": "saffron risotto milanese bowl",
+      "tags": ["Vegetarian Option", "Comfort Food", "Date Night"]
+    },
+    {
+      "id": "wild-mushroom-risotto",
+      "title": "Wild Mushroom Risotto",
+      "emoji": "🍄",
+      "art": "risotto",
+      "blurb": "Dried porcini soaked into a dark, savory broth, fresh mushrooms browned hard, and rice stirred until it turns to cream. This is the most flavor you can get out of five dollars of dried fungus.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "40 min",
+      "totalTime": "55 min",
+      "ingredients": [
+        {
+          "group": "Mushrooms and broth",
+          "items": [
+            "1 oz (28 g) dried porcini mushrooms",
+            "2 cups (480 ml) boiling water",
+            "4 cups (960 ml) low-sodium chicken or vegetable stock",
+            "12 oz (340 g) mixed fresh mushrooms (cremini, shiitake, oyster), sliced 1/4 in (6 mm)",
+            "2 tbsp (30 ml) extra-virgin olive oil",
+            "1 tbsp (14 g) unsalted butter",
+            "1 tsp fresh thyme leaves",
+            "3/4 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "For the risotto",
+          "items": [
+            "2 tbsp (28 g) unsalted butter",
+            "1 small yellow onion, very finely chopped (about 3/4 cup / 105 g)",
+            "3 garlic cloves, minced",
+            "1 1/2 cups (300 g) Carnaroli or Arborio rice",
+            "3/4 cup (180 ml) dry white wine",
+            "1 tsp kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "3 tbsp (42 g) very cold unsalted butter, cubed",
+            "1 cup (100 g) finely grated Parmigiano-Reggiano",
+            "2 tbsp (8 g) chopped fresh flat-leaf parsley",
+            "1/2 tsp freshly ground black pepper",
+            "1 tsp (5 ml) good extra-virgin olive oil, for drizzling"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Soak the porcini",
+          "text": "Put the 1 oz dried porcini in a heatproof bowl, pour the 2 cups boiling water over them, and press them under with a spoon. Let them soak 20 minutes until fully softened and the water is dark brown. That soaking liquid is the single most valuable ingredient in this recipe, so do not even think about pouring it down the drain."
+        },
+        {
+          "title": "Strain and combine the broth",
+          "text": "Lift the porcini out with a slotted spoon, squeeze them gently over the bowl, and chop them coarsely. Pour the soaking liquid through a coffee filter or a sieve lined with a paper towel to catch the grit that always settles at the bottom. Combine the strained liquid with the 4 cups stock in a saucepan and keep it at a bare simmer on a back burner."
+        },
+        {
+          "title": "Brown the fresh mushrooms",
+          "text": "Heat the 2 tbsp olive oil and 1 tbsp butter in a wide heavy pan over medium-high, add the sliced fresh mushrooms in as close to a single layer as you can, and leave them alone for 4 minutes. They will release water, look wet and gray, then start browning once the liquid cooks off. Continue 5 to 6 minutes more, stirring occasionally, until they are properly dark at the edges."
+        },
+        {
+          "title": "Season and set aside",
+          "text": "Add the 1 tsp thyme and 3/4 tsp salt to the mushrooms and toss for 30 seconds. Season only after browning — salt added at the start draws water out and the mushrooms steam instead of searing. Scrape them onto a plate and reserve about a third for garnishing at the end."
+        },
+        {
+          "title": "Sweat the onion",
+          "text": "In the same pan, melt the 2 tbsp butter over medium heat and cook the finely chopped onion with a pinch of salt for 6 to 7 minutes, until soft and translucent. Scrape the browned mushroom fond off the bottom as the onion releases moisture. Stir in the minced garlic and cook 45 seconds until fragrant."
+        },
+        {
+          "title": "Toast the rice",
+          "text": "Add the 1 1/2 cups rice and stir constantly for 2 to 3 minutes until the grains look glossy and the outer edges turn translucent around a white center. You will hear them click against the pan and smell something like toasted popcorn. This toasting keeps the grains distinct instead of dissolving into paste."
+        },
+        {
+          "title": "Deglaze with wine",
+          "text": "Pour in the 3/4 cup white wine and stir until the pan is nearly dry, about 2 minutes, and the sharp smell of alcohol has burned off. The sizzle will go from a wet bubble to a dry hiss when it is ready. Stir in the chopped rehydrated porcini now so they have time to give up their flavor to the rice."
+        },
+        {
+          "title": "Ladle in the broth",
+          "text": "Add a ladle of the hot porcini broth, about 3/4 cup, and stir. Keep the pan at a steady, lively simmer and add another ladle each time the previous one has reduced enough to leave a clear track behind your spoon. Add the 1 tsp salt over the first few additions rather than all at once, since the broth is already savory."
+        },
+        {
+          "title": "Keep going and taste",
+          "text": "Continue the ladle-stir-reduce cycle for 16 to 18 minutes, keeping the rice moving so the grains rub together and release starch. Start tasting at 16 minutes: the grain should be tender through with just a whisper of firmness at the core. If you run out of broth before it is done, use hot water rather than overcooking."
+        },
+        {
+          "title": "Fold in the mushrooms",
+          "text": "Stir in two-thirds of the browned mushrooms and one more small ladle of broth, then cook 1 minute more. The risotto should be loose and wavy, spreading slowly when you shake the pan. Keep it slightly looser than you think you want; it thickens noticeably in the last two minutes."
+        },
+        {
+          "title": "Mantecare",
+          "text": "Take the pan off the heat, wait half a minute, then beat in the 3 tbsp cold cubed butter and the 1 cup Parmigiano hard with a wooden spoon for a full minute. The whole pan should go glossy and creamy as the fat emulsifies into the starch. Season with the 1/2 tsp black pepper and check the salt."
+        },
+        {
+          "title": "Serve immediately",
+          "text": "Spoon into warm shallow bowls, tap each bowl once on the counter so the risotto settles flat, and top with the reserved mushrooms, the chopped parsley, and a thin drizzle of good olive oil. Add a final shower of Parmigiano at the table. Risotto sets up as it cools, so this goes straight from pan to person."
+        }
+      ],
+      "tips": [
+        "Never skip straining the porcini liquid. There is always sand in the bottom of that bowl and it will end up in every bite.",
+        "A splash of dry Marsala or brandy added with the wine deepens the mushroom flavor noticeably for about a dollar.",
+        "Use vegetable stock and skip nothing else to make this fully vegetarian; the porcini carry more than enough savoriness.",
+        "Cook the mushrooms in two batches if your pan is under 12 in (30 cm). Piled-up mushrooms steam and stay pale and squeaky.",
+        "Leftovers make excellent risotto cakes: chill overnight, form 3/4 in (2 cm) patties, and pan-fry in butter for 3 minutes a side."
+      ],
+      "keyTemp": "No internal temperature — judge by the grain, which should be tender with a faint firm center, and by the risotto rippling slowly when the pan is shaken.",
+      "pairing": "A green salad with sharp vinaigrette and a glass of Barbaresco or an earthy Pinot Noir.",
+      "videoQuery": "wild mushroom risotto porcini creamy technique",
+      "photoQuery": "mushroom risotto bowl parmesan",
+      "tags": ["Vegetarian Option", "Date Night", "Comfort Food"]
+    },
+    {
+      "id": "sicilian-arancini",
+      "title": "Sicilian Arancini Rice Balls",
+      "emoji": "🍙",
+      "art": "rice",
+      "blurb": "Crisp golden spheres of saffron risotto hiding a molten center of ragu, peas, and mozzarella. They are a whole afternoon project and worth every minute of it.",
+      "difficulty": "Advanced",
+      "servings": "Makes 12",
+      "prepTime": "45 min",
+      "cookTime": "45 min",
+      "totalTime": "2 hr 30 min",
+      "ingredients": [
+        {
+          "group": "Saffron rice base",
+          "items": [
+            "5 cups (1.2 L) low-sodium chicken stock",
+            "1/2 tsp saffron threads",
+            "3 tbsp (42 g) unsalted butter",
+            "1 small yellow onion, finely chopped (about 3/4 cup / 105 g)",
+            "2 cups (400 g) Arborio rice",
+            "1/2 cup (120 ml) dry white wine",
+            "1 cup (100 g) finely grated Parmigiano-Reggiano",
+            "2 large eggs, beaten",
+            "1 1/2 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "Ragu filling",
+          "items": [
+            "1 tbsp (15 ml) extra-virgin olive oil",
+            "8 oz (225 g) ground beef",
+            "1 small onion, finely chopped (about 1/2 cup / 70 g)",
+            "2 tbsp (32 g) tomato paste",
+            "1/2 cup (120 ml) dry red wine",
+            "1 cup (240 ml) tomato passata or crushed tomatoes",
+            "3/4 cup (100 g) frozen peas, thawed",
+            "1 tsp kosher salt",
+            "4 oz (115 g) low-moisture mozzarella, cut into 12 cubes"
+          ]
+        },
+        {
+          "group": "Coating and frying",
+          "items": [
+            "1 cup (125 g) all-purpose flour",
+            "3 large eggs, beaten with 2 tbsp (30 ml) water",
+            "2 1/2 cups (150 g) fine dry breadcrumbs",
+            "6 cups (1.4 L) neutral oil, for deep frying",
+            "1 tsp flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the saffron rice",
+          "text": "Heat the 5 cups stock to a bare simmer and steep the saffron in a ladleful for 10 minutes. Melt the 3 tbsp butter in a wide pan, soften the chopped onion for 6 minutes, add the 2 cups Arborio and toast 2 minutes, then add the wine and let it cook away. Ladle in the hot stock and saffron liquid a cup at a time, stirring, for 16 to 18 minutes until the rice is just tender."
+        },
+        {
+          "title": "Make it stiffer than risotto",
+          "text": "Cook this rice until it is noticeably drier than a risotto you would eat with a spoon — it should hold a mound rather than spread. Stir in the 1 1/2 tsp salt and the 1 cup Parmigiano off the heat. Loose rice will not hold a ball shape and the arancini will burst in the fryer, so err firm."
+        },
+        {
+          "title": "Cool and bind the rice",
+          "text": "Spread the rice in a thin layer on a sheet pan and refrigerate for at least 1 hour, or overnight, until completely cold and firm. Once cold, mix in the 2 beaten eggs thoroughly with your hands. The egg is the glue that keeps the shell together in hot oil, and it must go into cold rice or it will scramble."
+        },
+        {
+          "title": "Build the ragu",
+          "text": "Heat the 1 tbsp olive oil and brown the 8 oz ground beef over medium-high for 6 minutes, breaking it into small crumbles, then add the chopped onion and cook 5 minutes more. Stir in the 2 tbsp tomato paste and cook 2 minutes until it darkens to brick red. Deglaze with the 1/2 cup red wine and simmer until nearly dry."
+        },
+        {
+          "title": "Finish the filling",
+          "text": "Add the 1 cup passata and 1 tsp salt and simmer over low heat for 20 to 25 minutes, until the mixture is thick enough that a spoon leaves a clean channel through it. Stir in the thawed peas in the last 2 minutes. Chill the ragu completely before filling — warm, loose filling turns your rice ball into a steam bomb."
+        },
+        {
+          "title": "Shape the arancini",
+          "text": "With damp hands, scoop about 1/3 cup (90 g) of cold rice and flatten it into a disc in your palm about 4 in (10 cm) across. Press a shallow well into the center. Keep a bowl of water nearby and re-wet your hands constantly, because dry hands will tear the rice."
+        },
+        {
+          "title": "Fill and seal",
+          "text": "Spoon 1 heaping tbsp of cold ragu into the well and press a cube of mozzarella into the middle of it. Fold the edges of the rice up and over the filling, then roll gently between your palms into a smooth ball or the traditional cone shape. Check carefully for cracks and patch them with a little extra rice — a single gap will leak cheese into the oil."
+        },
+        {
+          "title": "Chill the shaped balls",
+          "text": "Set the finished arancini on a parchment-lined sheet pan and refrigerate for 30 minutes. Cold, firm balls hold together in the fryer and heat through more evenly. This is also the natural stopping point if you want to break the project across two days."
+        },
+        {
+          "title": "Set up the breading",
+          "text": "Put the flour in one shallow dish, the 3 eggs beaten with 2 tbsp water in a second, and the breadcrumbs in a third. Roll each ball in flour, then egg, then press it firmly into the breadcrumbs, making sure every square inch is covered. Any bare spot is where the arancino will split open in the oil."
+        },
+        {
+          "title": "Heat the oil to 350°F",
+          "text": "Pour the 6 cups oil into a heavy pot so it is at least 3 in (8 cm) deep but no more than halfway up the sides, and heat to 350°F (175°C) on a thermometer. Temperature control matters enormously here: below 325°F (163°C) they go greasy, and above 375°F (190°C) the crust burns before the center is hot. Have a slotted spider and a wire rack ready."
+        },
+        {
+          "title": "Fry in small batches",
+          "text": "Lower 3 or 4 arancini into the oil with a spider and fry 4 to 5 minutes, turning once, until they are a deep even golden brown. Let the oil come back to 350°F (175°C) between batches; adding too many at once drops the temperature fast. The centers should reach 165°F (74°C) since the filling contains cooked ground beef."
+        },
+        {
+          "title": "Drain and rest",
+          "text": "Lift them onto a wire rack, never paper towels, and sprinkle immediately with the flaky sea salt while the surface is still oily enough to hold it. Let them rest 5 minutes before biting in; the mozzarella inside is well over 200°F (93°C) and will burn your mouth badly. Serve warm, with extra tomato sauce for dipping if you like."
+        }
+      ],
+      "tips": [
+        "This is a two-day recipe by design. Make the rice and ragu on day one, shape and fry on day two, and it stops being intimidating.",
+        "Leftover Risotto alla Milanese from this chapter is the ideal starting rice. Chill it overnight and skip straight to the egg-binding step.",
+        "Fine dry breadcrumbs, not panko, give the smooth crackly shell that arancini are supposed to have.",
+        "Shaped, breaded arancini freeze well for 2 months. Fry from frozen at 325°F (163°C) for 7 to 8 minutes so the center catches up.",
+        "If one bursts in the oil, take the whole batch out, strain the oil, and check the rest for cracks before continuing."
+      ],
+      "keyTemp": "Fry at 350°F (175°C) until the center reads 165°F (74°C); the filling contains cooked ground beef, which is safe at 160°F (71°C).",
+      "pairing": "Cold beer or a chilled glass of Grillo, with a bowl of marinara for dipping.",
+      "videoQuery": "sicilian arancini rice balls ragu filling",
+      "photoQuery": "arancini rice balls cut open",
+      "tags": ["Weekend Project", "Fried", "Make Ahead"]
+    },
+    {
+      "id": "neapolitan-pizza-margherita",
+      "title": "Neapolitan Pizza Margherita",
+      "emoji": "🍕",
+      "art": "pizza",
+      "blurb": "A slow-fermented dough with a puffed, blistered rim, crushed San Marzano, torn mozzarella, and basil. Two days of waiting and ninety seconds of cooking, and it is the best pizza you will make at home.",
+      "difficulty": "Advanced",
+      "servings": "Makes 4 pizzas",
+      "prepTime": "40 min",
+      "cookTime": "10 min",
+      "totalTime": "26 hr",
+      "ingredients": [
+        {
+          "group": "The dough",
+          "items": [
+            "500 g (about 3 1/2 cups) Italian 00 flour or bread flour",
+            "325 g (1 1/3 cups plus 1 tbsp / 325 ml) cool water, 65 percent hydration",
+            "15 g (2 1/2 tsp) fine sea salt",
+            "1 g (about 1/3 tsp) instant dry yeast",
+            "Semolina flour, about 1/2 cup (85 g), for dusting the peel"
+          ]
+        },
+        {
+          "group": "Sauce and toppings",
+          "items": [
+            "1 can (28 oz / 794 g) whole peeled San Marzano tomatoes",
+            "1 1/2 tsp fine sea salt",
+            "12 oz (340 g) fresh mozzarella di bufala or fior di latte, torn and drained",
+            "1/4 cup (60 ml) extra-virgin olive oil",
+            "24 large fresh basil leaves",
+            "1/4 cup (25 g) grated Parmigiano-Reggiano (optional)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dissolve salt and yeast",
+          "text": "Put the 325 g cool water in a large bowl and whisk in the 15 g salt until it dissolves, then whisk in the 1 g yeast. Neapolitan method dissolves the salt in the water first, so it never sits directly against the yeast in a concentrated pocket. Yes, that is a truly tiny amount of yeast — the long cold ferment does the work instead."
+        },
+        {
+          "title": "Mix a shaggy dough",
+          "text": "Add the 500 g flour a third at a time, mixing with your hand or a wooden spoon until there is no dry flour left and you have a rough, sticky mass. Do not knead yet. Cover the bowl and let it rest 20 minutes, which lets the flour fully hydrate and makes the kneading dramatically easier."
+        },
+        {
+          "title": "Knead until smooth",
+          "text": "Turn the dough onto an unfloured counter and knead for 10 to 12 minutes, using a bench scraper to fold it over on itself whenever it sticks. It will go from ragged and tacky to smooth and slightly springy. Test it by stretching a piece thin enough to see light through without tearing — that is the windowpane, and it means the gluten is developed."
+        },
+        {
+          "title": "Bulk ferment at room temperature",
+          "text": "Shape the dough into a tight ball, put it in a lightly oiled container, cover, and leave at room temperature, around 70°F (21°C), for 2 hours. It will not double; you are just waking the yeast up. If your kitchen is much warmer than that, cut this to 90 minutes."
+        },
+        {
+          "title": "Cold ferment overnight",
+          "text": "Move the covered container to the refrigerator for 20 to 24 hours. This slow cold fermentation is where all the flavor comes from — the dough develops complex, faintly sweet, slightly tangy notes that a same-day dough simply cannot have. It will rise slowly and look a little bubbly when you take it out."
+        },
+        {
+          "title": "Divide and ball",
+          "text": "Turn the cold dough out and divide it into 4 equal pieces of about 210 g each, using a scale if you have one. Shape each into a tight ball by folding the edges into the center and then rolling it seam-side down under a cupped hand until the surface is taut. A tight skin is what makes the rim puff dramatically."
+        },
+        {
+          "title": "Final proof",
+          "text": "Set the balls well apart in a covered container or on a floured tray under plastic and let them proof at room temperature for 4 to 6 hours, until they have visibly relaxed, spread slightly, and feel soft and pillowy when poked. An underproofed ball fights back when you stretch it and will not open properly. A gentle poke should leave a dent that fills in slowly."
+        },
+        {
+          "title": "Preheat as hot as you can",
+          "text": "Put a pizza steel or stone on a rack about 6 in (15 cm) below the broiler and heat the oven to its maximum, usually 550°F (290°C), for a full hour. A steel or stone that has only been in for 20 minutes is not saturated with heat and will give you a pale, cracker-like base. Switch the broiler on 10 minutes before the first pizza goes in."
+        },
+        {
+          "title": "Make the sauce",
+          "text": "Crush the canned tomatoes by hand or pass them through a food mill, then stir in the 1 1/2 tsp salt. Do not cook it and do not add garlic or herbs — the sauce cooks in 90 seconds on the pizza and stays bright and fresh that way. If it looks watery, drain off some of the thin juice."
+        },
+        {
+          "title": "Open the dough by hand",
+          "text": "Flour a work surface, lay a ball down, and press from the center outward with your fingertips, leaving the outer 3/4 in (2 cm) completely untouched. Then lift the disc and let gravity stretch it as you rotate it over your knuckles until it is about 10 in (25 cm) across. Never use a rolling pin — it crushes the gas out of the rim and you lose the cornicione entirely."
+        },
+        {
+          "title": "Top fast and lightly",
+          "text": "Slide the disc onto a semolina-dusted peel, spread about 1/3 cup of sauce in a spiral leaving the rim bare, scatter a quarter of the torn mozzarella, and drizzle with olive oil. Work in under 60 seconds; dough sitting on a peel starts to stick almost immediately. Shake the peel gently to confirm it slides before you go anywhere near the oven."
+        },
+        {
+          "title": "Bake under the broiler",
+          "text": "Slide the pizza onto the hot steel with a quick forward-and-back jerk and bake under the broiler for 4 to 6 minutes, until the rim is puffed with dark leopard spots and the cheese is bubbling. Turn the pizza halfway through with the peel for even color. Home ovens run cooler than a wood oven, so watch for color rather than the clock."
+        },
+        {
+          "title": "Finish with basil",
+          "text": "Pull the pizza out, add 6 fresh basil leaves, and drizzle with a little more olive oil. Basil added before baking turns black and bitter, which is why real pizzerias tuck it under the cheese or add it after. Cut and eat immediately, standing up, before making the next one."
+        }
+      ],
+      "tips": [
+        "Weigh everything. Pizza dough is a percentage formula and cup measurements can be off by 15 percent, which is the difference between good and unworkable.",
+        "A baking steel outperforms a stone by a wide margin because it transfers heat faster, which is exactly what a home oven lacks.",
+        "The dough can hold in the fridge for up to 72 hours and gets more flavorful every day. Just pull it 5 to 6 hours before you want to bake.",
+        "Drain torn fresh mozzarella on paper towels for 20 minutes. Undrained buffalo mozzarella will flood the center of the pizza.",
+        "If the dough springs back and refuses to open, cover it and wait 15 minutes. Fighting it only tears it."
+      ],
+      "keyTemp": "Bake at the oven's maximum, ideally 550°F (290°C) with the broiler on, until the rim is puffed and leopard-spotted, 4 to 6 minutes.",
+      "pairing": "Cold Peroni or a light Aglianico, and nothing else on the table.",
+      "videoQuery": "neapolitan pizza dough margherita home oven",
+      "photoQuery": "neapolitan margherita pizza leopard crust",
+      "tags": ["Weekend Project", "Baking", "Date Night"]
+    },
+    {
+      "id": "sicilian-pan-pizza",
+      "title": "Sicilian Pan Pizza",
+      "emoji": "🧀",
+      "art": "pizza",
+      "blurb": "A thick, airy square with a fried-crisp bottom, cheese caramelized right into the edge of the pan, and sauce spooned over the top. Far more forgiving than round pizza and arguably more fun to eat.",
+      "difficulty": "Medium",
+      "servings": "Makes 8 squares",
+      "prepTime": "25 min",
+      "cookTime": "25 min",
+      "totalTime": "5 hr",
+      "ingredients": [
+        {
+          "group": "The dough",
+          "items": [
+            "400 g (about 3 1/4 cups) bread flour",
+            "300 g (1 1/4 cups / 300 ml) lukewarm water, 75 percent hydration",
+            "9 g (1 1/2 tsp) fine sea salt",
+            "3 g (1 tsp) instant dry yeast",
+            "2 tbsp (30 ml) extra-virgin olive oil, for the dough",
+            "3 tbsp (45 ml) extra-virgin olive oil, for the pan"
+          ]
+        },
+        {
+          "group": "Sauce",
+          "items": [
+            "2 tbsp (30 ml) extra-virgin olive oil",
+            "3 garlic cloves, minced",
+            "1 can (28 oz / 794 g) crushed tomatoes",
+            "1 tsp dried oregano",
+            "3/4 tsp kosher salt",
+            "1/4 tsp red pepper flakes",
+            "1 tsp (4 g) sugar"
+          ]
+        },
+        {
+          "group": "Toppings",
+          "items": [
+            "10 oz (285 g) low-moisture whole-milk mozzarella, cut into 1/2 in (12 mm) cubes",
+            "2 oz (55 g) sharp provolone or aged white cheddar, shredded",
+            "1/3 cup (35 g) grated Pecorino Romano",
+            "2 tbsp (8 g) chopped fresh basil"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Mix a wet dough",
+          "text": "Stir the 400 g bread flour, 300 g lukewarm water, 9 g salt, and 3 g instant yeast together in a bowl with a spoon or your hand until no dry flour remains, about 1 minute. Add the 2 tbsp olive oil and squish it in. The dough will be very wet and sticky and that is correct — 75 percent hydration is what gives you the open, airy crumb."
+        },
+        {
+          "title": "Rest, then fold",
+          "text": "Cover the bowl and let it sit 20 minutes, then do a set of stretch and folds: wet your hand, grab one side of the dough, stretch it up, and fold it over the center, rotating the bowl and repeating four times. Do three sets of folds spaced 20 minutes apart. Folding builds strength in a wet dough without any kneading."
+        },
+        {
+          "title": "Bulk ferment",
+          "text": "Cover the bowl and leave it at room temperature, about 70°F (21°C), for 2 to 3 hours, until the dough has roughly doubled and the surface is dotted with bubbles. If your kitchen is cold this can take 4 hours, so judge by the look and not the clock. The dough should feel alive and jiggly when you shake the bowl."
+        },
+        {
+          "title": "Oil the pan generously",
+          "text": "Pour the 3 tbsp olive oil into a 13x9 in (33x23 cm) metal baking pan or a quarter sheet pan and spread it up the sides with your fingers. That much oil sounds like a lot but it is the whole point — the dough essentially shallow-fries against the pan and comes out with a crisp, golden bottom crust."
+        },
+        {
+          "title": "Transfer and let it relax",
+          "text": "Scrape the dough into the oiled pan, turn it once to coat both sides, and press it toward the corners with oiled fingertips. It will spring back and refuse to reach the edges, which is normal. Cover and wait 20 minutes, then press again; the gluten relaxes and it will go the rest of the way easily."
+        },
+        {
+          "title": "Second proof in the pan",
+          "text": "Cover the pan loosely and let the dough proof for 1 1/2 to 2 hours, until it is visibly puffy, has filled the corners, and a light poke leaves a dent that springs back only halfway. Underproofed dough bakes dense and bready. This is the stage that decides whether your crumb is open or tight."
+        },
+        {
+          "title": "Make the sauce",
+          "text": "While it proofs, warm the 2 tbsp olive oil with the minced garlic over medium-low for 2 minutes until fragrant but not colored. Add the crushed tomatoes, 1 tsp oregano, 3/4 tsp salt, red pepper flakes, and 1 tsp sugar, and simmer 20 minutes until thickened. Sicilian style spoons the sauce on top of the cheese, so it needs to be thick enough not to run."
+        },
+        {
+          "title": "Preheat with a stone",
+          "text": "Heat the oven to 500°F (260°C) with a baking steel or stone on the lowest rack for at least 45 minutes. Setting the pan directly on preheated steel blasts the bottom crust with heat and is the difference between crisp and pale. If you have neither, use the lowest oven rack."
+        },
+        {
+          "title": "Dimple and top",
+          "text": "Press your oiled fingertips into the proofed dough all over, going nearly to the bottom of the pan, to create dimples. Scatter the cubed mozzarella and shredded provolone evenly across the surface, pushing some cubes right up against the edges of the pan. Those edge cubes melt down the sides and fry into the caramelized cheese crust that makes this style famous."
+        },
+        {
+          "title": "Add the sauce in stripes",
+          "text": "Spoon the sauce over the cheese in three or four thick stripes rather than spreading it everywhere. Leaving cheese exposed lets it brown and bubble, and stripes are the traditional look. Use about 1 1/2 cups of sauce and save the rest for dipping."
+        },
+        {
+          "title": "Bake until deeply browned",
+          "text": "Set the pan on the hot steel and bake 20 to 25 minutes, until the cheese at the edges is dark brown and crackling and the top is bubbling. Do not pull it at the first sign of golden — this style wants real color. Lift a corner with a spatula to check that the bottom is crisp and browned."
+        },
+        {
+          "title": "Release and rest",
+          "text": "Run a thin metal spatula around the edges immediately to free the cheese crust, then slide the whole pizza out onto a wire rack within 2 minutes. Leaving it in the pan traps steam and softens that bottom crust you just worked for. Rest 5 minutes, scatter the Pecorino and basil, and cut into 8 squares."
+        }
+      ],
+      "tips": [
+        "A dark metal or steel pan browns the bottom far better than glass or ceramic. Cast iron works beautifully too.",
+        "The dough can bulk ferment in the refrigerator overnight instead. Bring it to room temperature for 2 hours before pressing it into the pan.",
+        "Pepperoni cups nicely on this style; add it under the sauce stripes so the edges curl and crisp without burning.",
+        "If the dough tears while you press it, stop and let it rest 15 more minutes. Torn gluten will not proof evenly.",
+        "Leftovers reheat perfectly in a dry skillet over medium heat for 4 minutes with a lid on, which re-crisps the base."
+      ],
+      "keyTemp": "Bake at 500°F (260°C) for 20 to 25 minutes until the cheese edges are deep brown and the bottom crust is crisp and golden.",
+      "pairing": "Cold lager and a big bowl of dressed greens to cut the richness.",
+      "videoQuery": "sicilian pan pizza thick crust recipe",
+      "photoQuery": "sicilian pan pizza square slice",
+      "tags": ["Baking", "Comfort Food", "Weekend Project"]
+    },
+    {
+      "id": "rosemary-focaccia",
+      "title": "Rosemary Sea Salt Focaccia",
+      "emoji": "🫓",
+      "art": "bread",
+      "blurb": "A dimpled, olive-oil-soaked slab with a crackly bottom and a cloud-soft middle. It takes about fifteen minutes of actual work and makes the whole apartment smell incredible.",
+      "difficulty": "Easy",
+      "servings": "Makes 12 pieces",
+      "prepTime": "20 min",
+      "cookTime": "25 min",
+      "totalTime": "4 hr",
+      "ingredients": [
+        {
+          "group": "The dough",
+          "items": [
+            "500 g (about 4 cups) bread flour",
+            "400 g (1 2/3 cups / 400 ml) lukewarm water, about 100°F (38°C)",
+            "10 g (1 3/4 tsp) fine sea salt",
+            "5 g (1 1/2 tsp) instant dry yeast",
+            "1 tsp (4 g) honey or sugar",
+            "3 tbsp (45 ml) extra-virgin olive oil, for the dough"
+          ]
+        },
+        {
+          "group": "Pan and topping",
+          "items": [
+            "4 tbsp (60 ml) extra-virgin olive oil, for the pan",
+            "2 tbsp (30 ml) extra-virgin olive oil, for the top",
+            "2 tbsp (4 g) fresh rosemary leaves, roughly chopped",
+            "1 1/2 tsp flaky sea salt",
+            "1/4 tsp coarsely cracked black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Wake up the yeast",
+          "text": "Whisk the 5 g instant yeast and 1 tsp honey into the 400 g lukewarm water and let it sit 5 minutes until it looks slightly cloudy and smells faintly of bread. The water should feel like a warm bath, around 100°F (38°C) — anything above 120°F (49°C) starts killing yeast. Instant yeast does not strictly need proofing, but this tells you it is alive before you commit."
+        },
+        {
+          "title": "Mix by hand",
+          "text": "Add the 500 g bread flour and 10 g fine sea salt to the water and stir with a sturdy spoon or your hand for about 90 seconds, until there are no dry patches and you have a shaggy, very wet dough. Then drizzle in the 3 tbsp olive oil and squish it through. There is no kneading in this recipe at all — time does the work."
+        },
+        {
+          "title": "Do two sets of folds",
+          "text": "Cover the bowl and rest 30 minutes, then wet your hand, reach under one side of the dough, stretch it upward, and fold it over the middle; rotate the bowl and repeat four times. Rest 30 minutes and do one more set. These folds build the gluten structure that traps the big bubbles you want in focaccia."
+        },
+        {
+          "title": "Bulk ferment until doubled",
+          "text": "Cover the bowl tightly and leave it at room temperature for 2 to 3 hours, until the dough has doubled in size and is full of visible bubbles across the surface. In a cool kitchen this may take 4 hours, so watch the dough and not the clock. It should look inflated and wobble when you nudge the bowl."
+        },
+        {
+          "title": "Oil the pan properly",
+          "text": "Pour the 4 tbsp olive oil into a 13x9 in (33x23 cm) metal pan or a quarter sheet pan and use your fingers to coat the bottom and all four sides thoroughly. This is more oil than feels reasonable and it is doing something specific: the underside of the focaccia essentially fries in it and comes out golden and crisp."
+        },
+        {
+          "title": "Transfer without deflating",
+          "text": "Slide an oiled hand or bowl scraper down the side of the bowl and gently ease the whole mass of dough into the pan in one piece. Handle it as if it were a sleeping cat — every big bubble you knock out is a hole you will not have in the finished bread. Turn it once so both sides are oiled."
+        },
+        {
+          "title": "Coax it to the corners",
+          "text": "Press the dough outward toward the corners with flat, oiled fingers. It will pull back and stop short of the edges the first time, which is normal. Wait 15 minutes and press again, and by the second or third try it will reach all four corners with no fighting."
+        },
+        {
+          "title": "Proof in the pan",
+          "text": "Cover the pan loosely and let the dough proof 45 minutes to 1 hour, until it is puffy and jiggly and has risen visibly up the sides. Poke it gently: the dent should fill back in slowly and only partway. Heat the oven to 450°F (230°C) about 30 minutes into this proof."
+        },
+        {
+          "title": "Dimple with authority",
+          "text": "Drizzle the 2 tbsp of top olive oil over the surface, then press all ten fingertips straight down through the dough until you feel the pan bottom, working across the whole surface. Do not be gentle — real dimples are what hold the pools of oil that define focaccia. The dough will deflate slightly and then recover in the oven."
+        },
+        {
+          "title": "Season the top",
+          "text": "Scatter the 2 tbsp chopped rosemary, 1 1/2 tsp flaky salt, and 1/4 tsp cracked pepper evenly across the surface, pushing a little rosemary into the dimples so it does not scorch. Rosemary sitting fully exposed on top of a 450°F (230°C) bake will blacken. Let the pan sit 10 more minutes while the oven finishes heating."
+        },
+        {
+          "title": "Bake until deep gold",
+          "text": "Bake on a lower-middle rack for 22 to 27 minutes, rotating the pan halfway, until the top is deeply golden and the edges are dark and crisp. The internal temperature of a fully baked focaccia is 200°F to 205°F (93°C to 96°C) if you want to check. Pale focaccia tastes doughy, so push it further than you think."
+        },
+        {
+          "title": "Get it out of the pan",
+          "text": "Run a spatula around the edges and slide the focaccia onto a wire rack within 2 minutes of leaving the oven. Steam trapped under the bread in a hot pan will turn that crisp bottom soggy in about five minutes. Cool at least 15 minutes before cutting into 12 squares."
+        }
+      ],
+      "tips": [
+        "For much better flavor, do the bulk ferment in the fridge overnight, up to 24 hours. Bring the dough to room temperature for an hour before panning it.",
+        "Halved cherry tomatoes, thin lemon slices, or olives pressed into the dimples before baking all work; press them in deep so they do not burn.",
+        "If your dough will not reach the corners, you are being too impatient. Rest 15 minutes and try again rather than forcing and tearing it.",
+        "Weigh the flour if you possibly can. A cup of flour can vary by 20 g depending on how you scoop, and this dough is sensitive to it.",
+        "Focaccia is best the day it is baked. Day-two slices come back to life in a 400°F (205°C) oven for 5 minutes, or split them for sandwiches."
+      ],
+      "keyTemp": "Bake at 450°F (230°C) until deep golden; the center of a finished loaf reads 200°F to 205°F (93°C to 96°C).",
+      "pairing": "Good olive oil and balsamic for dipping, a plate of prosciutto, and a glass of something cold.",
+      "videoQuery": "no knead rosemary focaccia sheet pan",
+      "photoQuery": "rosemary focaccia dimpled golden pan",
+      "tags": ["Baking", "Vegetarian", "Make Ahead"]
+    },
+    {
+      "id": "bruschetta-al-pomodoro",
+      "title": "Bruschetta al Pomodoro",
+      "emoji": "🍅",
+      "art": "bread",
+      "blurb": "Thick bread grilled until it is charred at the edges, rubbed with raw garlic, and piled with tomatoes that have been salted just long enough to taste like summer. Five ingredients, and every one of them has to be good.",
+      "difficulty": "Easy",
+      "servings": "Makes 8 pieces",
+      "prepTime": "20 min",
+      "cookTime": "8 min",
+      "totalTime": "28 min",
+      "ingredients": [
+        {
+          "group": "Tomato topping",
+          "items": [
+            "1 1/2 lb (680 g) ripe tomatoes, preferably a mix of heirloom and cherry",
+            "3/4 tsp kosher salt",
+            "1/2 cup (12 g) fresh basil leaves, torn",
+            "3 tbsp (45 ml) good extra-virgin olive oil",
+            "1 tsp (5 ml) red wine vinegar",
+            "1/4 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "The bread",
+          "items": [
+            "8 slices country sourdough or ciabatta, 3/4 in (2 cm) thick",
+            "3 tbsp (45 ml) extra-virgin olive oil, for brushing",
+            "2 large garlic cloves, peeled and halved",
+            "1/2 tsp flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Choose good tomatoes",
+          "text": "Use tomatoes that smell like tomatoes at the stem end and give slightly when you press them. Pale, hard, refrigerated supermarket tomatoes in February will make a sad bruschetta no matter how good your technique is. If good tomatoes are not available, use cherry or grape tomatoes, which are reliable year round."
+        },
+        {
+          "title": "Cut and salt them",
+          "text": "Core the large tomatoes and cut them into 1/2 in (12 mm) dice, halve any cherry tomatoes, and put everything in a colander set over a bowl. Toss with the 3/4 tsp kosher salt and let them drain for 15 to 20 minutes. Salting draws out the watery juice that would otherwise turn your toast to mush, and it seasons the tomatoes all the way through."
+        },
+        {
+          "title": "Save the tomato water",
+          "text": "You will end up with about 1/3 cup of pink tomato liquid in the bowl below. Do not throw it away — it is intensely flavorful. Either sip it, add it to a vinaigrette, or reduce it in a small pan for two minutes and spoon it over the finished bruschetta."
+        },
+        {
+          "title": "Dress the tomatoes",
+          "text": "Move the drained tomatoes to a clean bowl and toss with the 3 tbsp olive oil, 1 tsp red wine vinegar, torn basil, and 1/4 tsp black pepper. Tear the basil with your hands rather than chopping it, since a knife bruises the leaves and turns the cut edges black. Let it sit at room temperature while you toast the bread."
+        },
+        {
+          "title": "Cut the bread thick",
+          "text": "Slice the loaf into 8 pieces about 3/4 in (2 cm) thick, cutting on a slight angle if the loaf is narrow so you get more surface area. Thin slices go limp under wet tomatoes within a minute. You want slices sturdy enough to pick up with one hand."
+        },
+        {
+          "title": "Brush with oil",
+          "text": "Brush both sides of each slice lightly with the 3 tbsp olive oil, using about half a teaspoon per side. The oil helps the surface toast rather than dry out, and it carries flavor into the crumb. Do not soak the bread; it should look lightly sheened, not saturated."
+        },
+        {
+          "title": "Grill or broil the bread",
+          "text": "Cook the slices on a hot grill, in a ridged grill pan over medium-high, or under the broiler 6 in (15 cm) from the element. Give them 2 to 3 minutes per side, until you have dark char marks on the ridges and a crisp, dry surface. Bruschetta gets its name from bruscare, meaning to char, so a little real blackening is authentic and delicious."
+        },
+        {
+          "title": "Rub with raw garlic",
+          "text": "While each slice is still hot, drag a cut half of garlic clove firmly across the rough, toasted surface. The bread acts like a grater and the garlic melts into it. One clove half will do about four slices; go lighter if you are garlic-shy, because raw garlic on hot bread is potent."
+        },
+        {
+          "title": "Top just before serving",
+          "text": "Spoon the dressed tomatoes generously onto each slice, letting a little juice soak in but not pooling. Do this within a minute or two of eating — bruschetta assembled ahead of time becomes soggy bread with a salad on it. Set the toasts out and top them at the table if you are feeding a crowd."
+        },
+        {
+          "title": "Finish and eat",
+          "text": "Drizzle with a little more olive oil, sprinkle the 1/2 tsp flaky sea salt over the top, and add a few whole basil leaves for looks. Serve immediately, with a plate underneath because the juice will run. This is a dish that rewards eating standing in the kitchen."
+        }
+      ],
+      "tips": [
+        "The salting and draining step is what separates real bruschetta from soggy toast. Do not skip it even if the tomatoes look dry.",
+        "Day-old bread is better than fresh here; it toasts drier and holds up longer under the topping.",
+        "Use your best olive oil for the topping, since it is never heated and you taste it directly. Save the ordinary bottle for brushing the bread.",
+        "The tomato mixture can be made up to 2 hours ahead and left at room temperature. Never refrigerate it, which kills tomato flavor and turns the texture mealy.",
+        "A spoonful of the topping over burrata or grilled fish is a very good use of leftovers."
+      ],
+      "keyTemp": "No internal temperature — toast the bread until the surface is dry, crisp, and charred in spots on the ridges, about 2 to 3 minutes per side.",
+      "pairing": "A chilled glass of Vermentino or Prosecco, as the first thing you put on the table.",
+      "videoQuery": "bruschetta al pomodoro authentic italian tomatoes",
+      "photoQuery": "tomato bruschetta grilled bread basil",
+      "tags": ["30 Minutes", "Vegetarian", "Appetizer"]
+    },
+    {
+      "id": "caprese-with-torn-basil",
+      "title": "Caprese Salad with Torn Basil",
+      "emoji": "🥗",
+      "art": "salad",
+      "blurb": "Tomato, mozzarella, basil, olive oil, salt — the whole dish is in choosing well and seasoning properly. When the tomatoes are right, nothing on the table beats it.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "0 min",
+      "totalTime": "15 min",
+      "ingredients": [
+        {
+          "group": "Ingredients",
+          "items": [
+            "1 1/2 lb (680 g) ripe tomatoes (about 3 large), at room temperature",
+            "12 oz (340 g) fresh mozzarella di bufala or fior di latte",
+            "1 cup (25 g) fresh basil leaves",
+            "1/4 cup (60 ml) best-quality extra-virgin olive oil",
+            "1 tsp flaky sea salt, such as Maldon",
+            "1/2 tsp freshly cracked black pepper",
+            "1 tsp (5 ml) aged balsamic vinegar (optional)"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Bring everything to room temperature",
+          "text": "Take the tomatoes and mozzarella out of the refrigerator at least 30 minutes before you plan to eat, and an hour is better. Cold mutes flavor and firms up the fat in cheese, so a fridge-cold caprese tastes like almost nothing. Never store tomatoes in the fridge in the first place, since below 55°F (13°C) they lose their aroma permanently."
+        },
+        {
+          "title": "Choose your tomatoes",
+          "text": "Look for tomatoes that feel heavy for their size, smell green and sweet at the stem, and yield slightly to a gentle squeeze. A mix of colors — red, yellow, and a dark heirloom — looks beautiful, but flavor beats color every time. If it is winter, use ripe cherry tomatoes instead and halve them."
+        },
+        {
+          "title": "Drain the mozzarella",
+          "text": "Lift the mozzarella out of its liquid and set it on a double layer of paper towels for 10 minutes, turning once. Fresh mozzarella carries a lot of water, and undrained cheese will release a milky pool that dilutes the olive oil into a watery mess. Save the liquid to store any leftover cheese."
+        },
+        {
+          "title": "Slice the tomatoes",
+          "text": "Core the tomatoes and cut them into slices about 1/3 in (8 mm) thick with a very sharp or serrated knife, using a gentle sawing motion so you do not crush them. Cut through the equator rather than pole to pole for the prettiest cross sections. Lay them on a plate as you go."
+        },
+        {
+          "title": "Salt the tomatoes first",
+          "text": "Sprinkle the tomato slices with about half of the flaky salt and let them sit for 5 minutes. This small head start seasons the tomatoes properly and pulls a little juice to the surface, which then mixes with the olive oil into an instant dressing. Salting everything at the end leaves the tomato itself tasting flat."
+        },
+        {
+          "title": "Slice the mozzarella",
+          "text": "Cut the drained mozzarella into slices roughly the same 1/3 in (8 mm) thickness as the tomatoes so every bite is balanced. Wipe the knife between cuts if the cheese drags. For buffalo mozzarella, tearing it into rough pieces by hand is more traditional and gives the oil more nooks to sit in."
+        },
+        {
+          "title": "Arrange the plate",
+          "text": "Overlap the tomato and mozzarella slices in alternating rows or a spiral on a large platter, or simply pile them casually — both are correct. Do not build a tall tower; caprese should be shallow so the oil and juices pool where you can get at them with bread. Work on a flat platter rather than a bowl."
+        },
+        {
+          "title": "Tear the basil",
+          "text": "Tear the basil leaves in half by hand and tuck them between the layers as well as scattering some on top. Torn basil releases its oils without the bruising and blackening you get from a knife blade. Add it at the very last moment, because basil wilts and darkens within a few minutes of being dressed."
+        },
+        {
+          "title": "Dress and finish",
+          "text": "Drizzle the 1/4 cup olive oil over everything in a slow, generous stream, then finish with the remaining flaky salt and the 1/2 tsp cracked pepper. If you are using it, add only a few drops of aged balsamic — the thick sweet syrup, not the thin sharp supermarket kind, and never enough to hide the tomato. Serve within 10 minutes, with bread for the plate."
+        }
+      ],
+      "tips": [
+        "This dish has nowhere to hide. Buy the best tomatoes, the best mozzarella, and the best olive oil you can, and make something else in January.",
+        "Buffalo mozzarella is creamier and tangier; fior di latte is milder and firmer and slices more cleanly. Both are correct.",
+        "Skip the balsamic entirely if your tomatoes are excellent. In Italy caprese usually gets nothing but oil and salt.",
+        "Burrata instead of mozzarella turns this into a richer dish; tear it open at the table so the cream runs into the tomato juices.",
+        "Assemble at the last minute. A caprese that has sat for 30 minutes is a puddle with cheese in it."
+      ],
+      "keyTemp": "No cooking involved — serve everything at room temperature, around 68°F to 72°F (20°C to 22°C), which is when tomatoes and mozzarella taste their best.",
+      "pairing": "Crusty bread for mopping the plate and a cold glass of Falanghina or a dry rosato.",
+      "videoQuery": "caprese salad how to make authentic",
+      "photoQuery": "caprese salad tomato mozzarella basil platter",
+      "tags": ["15 Minutes", "No Cook", "Vegetarian"]
     }
   ]
 }

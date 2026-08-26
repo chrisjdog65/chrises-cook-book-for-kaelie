@@ -288,11 +288,13 @@
       '<div class="progtxt"><span data-progtxt></span><button data-resetsteps style="border:0;background:none;color:var(--accent);font-weight:700;font-size:12px;padding:0">Reset</button></div></div>' +
       '<ol class="steps">' + stepHTML + '</ol></div>' +
 
-      '<div class="callout temp"><div class="ct">Know when it is done</div><div class="cb">' + esc(r.keyTemp) + '</div></div>' +
-      '<div class="callout pair"><div class="ct">Serve it with</div><div class="cb">' + esc(r.pairing) + '</div></div>' +
+      (r.keyTemp ? '<div class="callout temp"><div class="ct">Know when it is done</div><div class="cb">' + esc(r.keyTemp) + '</div></div>' : '') +
+      (r.pairing ? '<div class="callout pair"><div class="ct">Serve it with</div><div class="cb">' + esc(r.pairing) + '</div></div>' : '') +
 
-      '<div class="section"><h3><span class="n">3</span> Chef tips</h3>' +
-      '<ul class="tips">' + r.tips.map(function (t) { return '<li><span class="tb">◆</span><span>' + esc(t) + '</span></li>'; }).join('') + '</ul></div>' +
+      (r.tips.length
+        ? '<div class="section"><h3><span class="n">3</span> Chef tips</h3>' +
+          '<ul class="tips">' + r.tips.map(function (t) { return '<li><span class="tb">◆</span><span>' + esc(t) + '</span></li>'; }).join('') + '</ul></div>'
+        : '') +
 
       '<div class="actions" style="margin-top:26px">' +
       '<a class="act primary" href="' + videoUrl(r) + '" target="_blank" rel="noopener"><span class="i">▶️</span> Watch a video</a>' +

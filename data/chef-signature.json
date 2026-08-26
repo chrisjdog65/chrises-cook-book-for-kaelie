@@ -807,5 +807,460 @@
         "Restaurant at Home"
       ]
     }
+    ,
+    {
+      "id": "crispy-pork-belly-apple-puree",
+      "title": "Crispy Pork Belly with Apple Puree",
+      "emoji": "🥓",
+      "art": "pork",
+      "blurb": "Meltingly soft pork under a sheet of crackling that shatters when your knife hits it, with a sharp green apple puree to cut through all that fat. It takes two days, and almost all of it is waiting.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "3 hr 15 min",
+      "totalTime": "15 hr 40 min",
+      "ingredients": [
+        {
+          "group": "For the pork belly",
+          "items": [
+            "2 1/2 lb (1.1 kg) skin-on pork belly, in one slab about 1 1/2 in (4 cm) thick",
+            "2 tbsp (36 g) kosher salt",
+            "1 tsp (4 g) granulated sugar",
+            "1 tsp fennel seeds, lightly crushed",
+            "1/2 tsp freshly ground black pepper",
+            "1 tsp (5 ml) distilled white vinegar, for the skin"
+          ]
+        },
+        {
+          "group": "Apple puree",
+          "items": [
+            "3 Granny Smith apples (about 1 1/4 lb / 570 g), peeled, cored, and chopped",
+            "2 tbsp (28 g) unsalted butter",
+            "2 tbsp (30 ml) apple cider vinegar",
+            "1 tbsp (12 g) granulated sugar",
+            "1/4 cup (60 ml) water",
+            "1/4 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1/2 tsp flaky sea salt",
+            "1/2 cup (120 ml) chicken stock, for the pan sauce",
+            "1 tbsp (14 g) cold unsalted butter",
+            "2 tbsp (5 g) small watercress or parsley leaves"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Score the skin",
+          "text": "Pat the belly dry and set it skin side up. With a very sharp knife or a clean box cutter, score the skin in parallel lines about 1/2 in (12 mm) apart, cutting through the skin and into the fat but stopping well short of the meat. If you cut into the meat, juices will bubble up during roasting and ruin the crackling. Chilling the belly for 30 minutes first makes the skin firmer and much easier to score cleanly."
+        },
+        {
+          "title": "Cure it overnight",
+          "text": "Mix the 2 tbsp kosher salt, 1 tsp sugar, fennel seeds, and 1/2 tsp pepper, then rub about two thirds of it into the meat side and the ends. Rub the remaining third onto the skin, working it into the score lines. Set the belly skin side up on a rack over a sheet pan and refrigerate uncovered for 12 to 24 hours. The salt seasons the meat and the dry fridge air dehydrates the skin, which is the single biggest factor in whether you get crackling or leather."
+        },
+        {
+          "title": "Dry the skin again",
+          "text": "The next day the skin should feel dry, taut, and slightly leathery to the touch. Wipe any beaded moisture and excess salt off the skin with a paper towel, then brush the skin with the 1 tsp white vinegar and blot it dry once more. The vinegar helps break down surface proteins so the skin puffs and blisters more evenly."
+        },
+        {
+          "title": "Set up the low roast",
+          "text": "Preheat the oven to 300°F (150°C) with a rack in the lower middle. Set the belly skin side up on a rack over a foil-lined sheet pan so the rendering fat drips away rather than frying the underside. If the belly is uneven, prop the thin end on a crumpled ball of foil so the skin surface sits level — flat skin crisps evenly, tilted skin burns on the high side."
+        },
+        {
+          "title": "Roast low and slow",
+          "text": "Roast at 300°F (150°C) for 2 1/2 hours. The meat should feel yielding when you press it and a skewer should slide into the center with almost no resistance, which means the collagen has turned to gelatin. Check the internal temperature: you are aiming for 190 to 200°F (88 to 93°C), well past the 145°F (63°C) food-safety minimum for pork, because tenderness in a fatty cut comes from time and heat, not just safety."
+        },
+        {
+          "title": "Rest and dry before the blast",
+          "text": "Take the pan out and let the belly sit at room temperature for 20 minutes. Blot the skin thoroughly with paper towels — there will be rendered fat sitting in the score lines and it must go. This pause also lets the meat relax so the crackling stage does not squeeze juice out through the skin."
+        },
+        {
+          "title": "Blast for crackling",
+          "text": "Crank the oven to 475°F (245°C) and return the belly, skin side up, for 20 to 30 minutes. Watch it closely from minute 15: the skin will bubble, puff, and turn deep amber, and it will crackle audibly. Rotate the pan halfway through, and if one corner is racing ahead, shield it with a small piece of foil."
+        },
+        {
+          "title": "Make the apple puree",
+          "text": "While the pork roasts, melt the 2 tbsp butter in a saucepan over medium heat, add the chopped apples, 1 tbsp sugar, 1/4 cup water, and 1/4 tsp salt, and cover. Cook 12 to 15 minutes, stirring occasionally, until the apples completely collapse when pressed with a spoon. Blend until glass smooth, then stir in the 2 tbsp cider vinegar off the heat — the acid is what keeps the puree tasting bright against all that pork fat."
+        },
+        {
+          "title": "Rest the pork",
+          "text": "Move the belly to a cutting board, skin side up, and rest it for 15 minutes uncovered. Never tent pork belly with foil; the trapped steam will soften crackling that took two days to earn. If the skin has any soft patches, you can hit them directly with a kitchen torch or slide the belly back under the broiler for 60 seconds."
+        },
+        {
+          "title": "Build a quick pan sauce",
+          "text": "Pour off all but 1 tbsp of fat from the sheet pan, set it over a burner on medium, and add the 1/2 cup chicken stock. Scrape up every browned bit with a wooden spoon and simmer 2 to 3 minutes until reduced by half. Take it off the heat and swirl in the 1 tbsp cold butter until glossy."
+        },
+        {
+          "title": "Cut with the right knife",
+          "text": "Flip the belly skin side up and cut it with a heavy serrated bread knife, using a firm sawing stroke to get through the crackling before you press down through the meat. A chef knife will crush the layers and shatter the skin sideways. Cut into 4 thick rectangles or 8 batons, following your score lines."
+        },
+        {
+          "title": "Plate the pork",
+          "text": "Spoon a wide swoosh of apple puree across each warm plate and set the pork on top, skin side up and clearly proud of the sauce so it stays crisp. Spoon a little pan sauce around the base but never over the crackling, then finish with the 1/2 tsp flaky salt on the skin and a few watercress leaves leaning against the pork for height. Serve immediately, while the skin is still loud."
+        }
+      ],
+      "tips": [
+        "Ask the butcher for a center-cut, evenly thick slab with the skin on. An uneven belly cooks unevenly, and no technique fixes that.",
+        "For an even more restaurant look, press the cooked belly: after the low roast, cool it, sandwich it between two sheet pans with cans on top, chill overnight, then cut squares and crisp them skin down in a hot pan.",
+        "Both the apple puree and the low-roasted belly can be done 2 days ahead. Do the 475°F (245°C) crackling blast right before serving; reheated crackling is never the same.",
+        "If the skin stays chewy instead of puffing, it was still damp. Next time cure a full 24 hours and blot the skin twice before the high-heat stage.",
+        "Pour the rendered fat through a sieve into a jar. Pork fat keeps 3 months in the fridge and makes the best roast potatoes and refried beans you will ever eat."
+      ],
+      "keyTemp": "Cook the belly to 190 to 200°F (88 to 93°C) so the fat and collagen fully render — far past the 145°F (63°C) plus 3 minute rest minimum for whole cuts of pork, which applies to lean cuts like loin.",
+      "pairing": "An off-dry Riesling or hard cider, with a sharp shaved fennel and apple salad to keep things lively.",
+      "videoQuery": "crispy pork belly crackling apple puree",
+      "photoQuery": "crispy pork belly apple puree plate",
+      "tags": [
+        "Weekend Project",
+        "Restaurant at Home",
+        "Make Ahead"
+      ]
+    },
+    {
+      "id": "duck-confit",
+      "title": "Duck Confit with Crackling Skin",
+      "emoji": "🦆",
+      "art": "chicken",
+      "blurb": "Duck legs cured in salt and herbs, then cooked slowly submerged in their own fat until the meat gives way at the touch of a fork. Crisp the skin at the last minute and it is one of the great dishes of southwest France.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "3 hr",
+      "totalTime": "27 hr 20 min",
+      "ingredients": [
+        {
+          "group": "The cure",
+          "items": [
+            "4 duck leg quarters (about 2 1/2 lb / 1.1 kg total)",
+            "3 tbsp (54 g) kosher salt",
+            "1 tsp (4 g) granulated sugar",
+            "6 thyme sprigs, plus 2 more for cooking",
+            "4 garlic cloves, smashed",
+            "2 bay leaves, torn",
+            "1 tsp black peppercorns, cracked"
+          ]
+        },
+        {
+          "group": "For cooking and serving",
+          "items": [
+            "4 cups (about 800 g) rendered duck fat, or 3 cups duck fat plus 1 cup (240 ml) mild olive oil",
+            "1/2 tsp flaky sea salt",
+            "1 tbsp (15 ml) red wine vinegar",
+            "2 cups (60 g) frisee or bitter greens, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Trim the legs",
+          "text": "Pat the duck legs dry and trim off any loose flaps of skin and fat that hang past the meat, saving them in a bowl. Leave the skin covering the leg itself completely intact, since it is what protects the meat and later becomes the crisp part. Those trimmings can be rendered in a low pan for 30 minutes to give you extra duck fat for free."
+        },
+        {
+          "title": "Mix and apply the cure",
+          "text": "Combine the 3 tbsp kosher salt, 1 tsp sugar, cracked peppercorns, torn bay leaves, and the leaves stripped from 6 thyme sprigs, then rub the mixture evenly over every surface of the legs. Tuck the smashed garlic underneath and around them in a dish or zip-top bag. Do not overdo the salt or add more than the recipe says — with only 24 hours the cure penetrates deeply and extra salt makes the duck inedible."
+        },
+        {
+          "title": "Cure for 24 hours",
+          "text": "Cover and refrigerate for 24 hours, turning the legs once at about the halfway point. Liquid will pool in the dish as the salt draws water out of the meat, which is exactly right. Curing longer than 36 hours starts to make the duck too salty and firm, so keep an eye on the clock."
+        },
+        {
+          "title": "Rinse and dry thoroughly",
+          "text": "Rinse the legs well under cold running water to wash off every trace of the salt cure, including from the crevices around the joint. Pat them absolutely dry with paper towels, then leave them uncovered on a rack for 20 minutes to air-dry. Any surface water will spit and sputter in the hot fat and can make it bubble over."
+        },
+        {
+          "title": "Set up the confit",
+          "text": "Preheat the oven to 225°F (107°C). Warm the duck fat in a saucepan until just melted and pourable, then arrange the legs snugly skin side down in a Dutch oven or deep baking dish where they fit in one layer without much extra room. Pour the melted fat over until the legs are completely submerged, adding a little more fat or oil if any part of the meat is poking out."
+        },
+        {
+          "title": "Cook it low and long",
+          "text": "Add the 2 remaining thyme sprigs, cover, and cook in the 225°F (107°C) oven for 2 1/2 to 3 hours. Check at the 30 minute mark: the fat should be barely moving, with a lazy bubble rising every few seconds. If it is simmering actively, drop the oven 25 degrees — confit is poaching, not frying, and a real simmer will make the meat stringy."
+        },
+        {
+          "title": "Test for doneness",
+          "text": "The duck is ready when a thin knife or skewer slides into the thickest part of the thigh with no resistance and the meat has pulled back about 1/2 in (12 mm) from the end of the drumstick bone. Internally that lands around 195 to 205°F (90 to 96°C), well past the 165°F (74°C) safety minimum for poultry, because the point here is dissolving collagen. If it still grips the skewer, give it another 30 minutes."
+        },
+        {
+          "title": "Cool and store in the fat",
+          "text": "Let the legs cool in the fat for at least 1 hour. You can serve them the same day, but confit genuinely improves after 3 to 7 days: transfer the legs to a container, strain the fat over them until fully covered, and refrigerate. Sealed under fat this way, they keep for a month and the texture and flavor deepen the whole time."
+        },
+        {
+          "title": "Bring them out to crisp",
+          "text": "Scrape most of the solidified fat off the legs and let them sit at room temperature for 20 minutes, or gently warm the container in a low oven until the fat melts enough to lift them out cleanly. Blot the skin dry with paper towels. Wet skin will not crisp, and warm legs are far less likely to tear apart when you handle them."
+        },
+        {
+          "title": "Crisp the skin in a skillet",
+          "text": "Heat a dry 12 in (30 cm) skillet over medium heat and lay the legs skin side down with nothing added — there is plenty of fat clinging to them already. Press them flat with a spatula for the first 20 seconds and cook 6 to 10 minutes without moving them. Listen for a steady moderate sizzle and lift a corner at 6 minutes; you want deep mahogany and rigid, not scorched."
+        },
+        {
+          "title": "Warm through and dress the greens",
+          "text": "Flip the legs and cook 2 to 3 minutes on the meat side just to heat them through, or finish them in a 400°F (205°C) oven for 5 minutes if your skillet is crowded. Meanwhile toss the frisee with the 1 tbsp red wine vinegar, 1 tbsp of the warm duck fat from the pan, and a pinch of salt. The sharp greens exist to cut the richness, so do not skip them."
+        },
+        {
+          "title": "Plate and serve",
+          "text": "Set each leg skin side up on a warm plate, angled with the drumstick bone pointing to the upper right so the shape reads clearly. Pile a small handful of dressed frisee against the thigh rather than under it, so the skin never touches anything wet. Finish with the 1/2 tsp flaky salt directly on the skin and serve immediately — confit skin softens within a few minutes of leaving the pan."
+        }
+      ],
+      "tips": [
+        "Duck fat is reusable. Strain it after each confit, discard the meat juices that settle at the bottom, and it will serve you for several rounds and a year of potatoes.",
+        "If you cannot source enough duck fat, a mix of duck fat and mild olive oil or even all lard works fine. The fat is a cooking medium, not a flavoring.",
+        "Confit legs are the best make-ahead main there is. Cure and cook them a week ahead, keep them submerged in the fridge, and dinner is a ten minute skillet job.",
+        "Shred any leftover confit meat and fold it into white bean cassoulet, hash, or a tart with caramelized onions — it is far too good to waste.",
+        "If the meat comes out too salty, you cured too long or used table salt instead of kosher. Table salt is nearly twice as dense by volume, so always weigh it if you substitute."
+      ],
+      "keyTemp": "Cook the legs to 195 to 205°F (90 to 96°C) so the connective tissue melts; poultry is safe at 165°F (74°C), but confit needs the higher temperature for that fall-apart texture.",
+      "pairing": "A rustic red from southwest France like Cahors or Madiran, with garlicky sauteed potatoes and bitter greens.",
+      "videoQuery": "duck confit recipe cure and slow cook",
+      "photoQuery": "duck confit leg crispy skin frisee",
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "French Classic"
+      ]
+    },
+    {
+      "id": "coq-au-vin",
+      "title": "Coq au Vin",
+      "emoji": "🍗",
+      "art": "stew",
+      "blurb": "Chicken braised slowly in a whole bottle of red wine with bacon, mushrooms, and pearl onions until the sauce turns dark and velvety. It is the Sunday dish that made French home cooking famous, and it is better the next day.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "1 hr 45 min",
+      "totalTime": "6 hr 15 min",
+      "ingredients": [
+        {
+          "group": "Chicken and marinade",
+          "items": [
+            "4 lb (1.8 kg) bone-in skin-on chicken thighs and drumsticks (about 8 pieces)",
+            "1 bottle (750 ml) dry red wine, ideally Burgundy or Pinot Noir",
+            "1 medium onion, quartered",
+            "2 carrots, cut into 2 in (5 cm) lengths",
+            "4 garlic cloves, smashed",
+            "1 bouquet garni: 4 parsley stems, 3 thyme sprigs, 1 bay leaf, tied with twine"
+          ]
+        },
+        {
+          "group": "The braise",
+          "items": [
+            "6 oz (170 g) thick-cut bacon or slab pancetta, cut into 1/4 in (6 mm) lardons",
+            "2 tsp kosher salt and 1 tsp freshly ground black pepper",
+            "3 tbsp (24 g) all-purpose flour, for dredging",
+            "1/4 cup (60 ml) cognac or brandy",
+            "2 tbsp (32 g) tomato paste",
+            "2 cups (480 ml) low-sodium chicken stock"
+          ]
+        },
+        {
+          "group": "Garnish and finish",
+          "items": [
+            "10 oz (280 g) pearl onions, peeled (frozen are fine)",
+            "10 oz (280 g) cremini mushrooms, halved or quartered",
+            "3 tbsp (42 g) unsalted butter",
+            "2 tbsp (16 g) all-purpose flour, for the beurre manie",
+            "2 tbsp (8 g) chopped flat-leaf parsley",
+            "1/2 tsp kosher salt, to finish"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Marinate in the wine",
+          "text": "Put the chicken pieces in a large nonreactive bowl with the quartered onion, carrots, smashed garlic, and bouquet garni, then pour the entire bottle of wine over the top. Cover and refrigerate for at least 4 hours and ideally overnight. The wine seasons the meat all the way to the bone and gives the finished sauce its depth — a rushed coq au vin always tastes thinner."
+        },
+        {
+          "title": "Separate and dry everything",
+          "text": "Strain the marinade into a bowl, reserving the wine, and pick out the vegetables and bouquet garni into a separate pile. Lay the chicken on a rack and pat every piece completely dry with paper towels, then let it sit 15 minutes. Wine-soaked chicken will steam rather than brown, and the browning is where half the flavor of this dish comes from."
+        },
+        {
+          "title": "Render the lardons",
+          "text": "Cook the bacon lardons in a cold 6 qt (6 L) Dutch oven over medium heat for 8 to 10 minutes, stirring, until they are golden and crisp at the edges but still tender in the middle. Lift them out with a slotted spoon and set them aside, leaving the fat in the pot. Starting cold coaxes the fat out gradually instead of scorching the outside."
+        },
+        {
+          "title": "Brown the chicken hard",
+          "text": "Season the chicken with the 2 tsp salt and 1 tsp pepper and dust it lightly with the 3 tbsp flour, shaking off the excess. Brown the pieces skin side down in the bacon fat over medium-high heat, in two batches so nothing touches, for 5 to 6 minutes per side. You want a genuine deep brown, not tan — this is where the sauce gets its color and body. Set the browned chicken aside."
+        },
+        {
+          "title": "Cook the vegetables and tomato paste",
+          "text": "Pour off all but 2 tbsp of fat, add the reserved marinade vegetables, and cook over medium heat for 6 to 8 minutes until they take on some color. Stir in the 2 tbsp tomato paste and cook 1 minute more until it darkens from red to brick and smells sweet rather than raw. Cooking out the tomato paste removes its tinny edge."
+        },
+        {
+          "title": "Flame the cognac",
+          "text": "Pull the pot off the burner, pour in the 1/4 cup cognac, and either light it carefully with a long match and let the flames burn out, or simply simmer it for 60 to 90 seconds until the sharp alcohol smell fades. Keep a lid within reach and your face well back if you flame it. Either method works; you only need the alcohol gone."
+        },
+        {
+          "title": "Reduce the wine",
+          "text": "Pour in the reserved wine, bring it to a boil, and cook uncovered for 8 to 10 minutes until it has reduced by about a third. This concentrates the wine and, more importantly, cooks off its raw harshness. Skim off any purple foam that rises to the surface with a spoon."
+        },
+        {
+          "title": "Braise low and covered",
+          "text": "Preheat the oven to 325°F (165°C). Return the chicken to the pot along with any juices, add the 2 cups chicken stock so the liquid comes about three quarters of the way up the pieces, and tuck in the bouquet garni. Bring it to a bare simmer on the stove, cover, and braise in the oven for 60 to 75 minutes."
+        },
+        {
+          "title": "Glaze the pearl onions",
+          "text": "While the pot is in the oven, melt 1 tbsp of the butter in a skillet over medium heat, add the pearl onions and a pinch of salt with 1/4 cup (60 ml) water, cover, and cook 8 minutes. Uncover and cook another 4 to 5 minutes, shaking the pan, until the water is gone and the onions are golden and just tender. Cooking them separately keeps them whole and sweet instead of dissolving into the braise."
+        },
+        {
+          "title": "Brown the mushrooms",
+          "text": "In the same skillet, melt another 1 tbsp butter over medium-high, add the mushrooms in a single layer, and leave them undisturbed for 3 minutes before stirring. Cook 6 to 8 minutes total until deeply browned and squeaky-dry, seasoning with a pinch of salt only at the end. Salting early pulls out water and you will end up steaming them gray."
+        },
+        {
+          "title": "Check the chicken and strain",
+          "text": "The chicken is ready when the meat pulls back from the drumstick bone and a thermometer in the thickest thigh reads 175 to 185°F (79 to 85°C) — well above the 165°F (74°C) safety minimum, because dark meat needs the extra heat to become tender. Lift the chicken out to a plate, strain the sauce through a sieve into a clean saucepan, and discard the spent vegetables and bouquet garni. Skim the fat off the top with a wide spoon."
+        },
+        {
+          "title": "Thicken with beurre manie",
+          "text": "Mash the remaining 1 tbsp butter with the 2 tbsp flour into a smooth paste. Bring the strained sauce to a simmer and whisk in the paste in small pieces, then simmer 4 to 5 minutes until the sauce coats the back of a spoon and holds a clean line when you drag a finger through it. Return the chicken, lardons, onions, and mushrooms to the sauce and simmer gently 5 minutes to bring everything together. Taste and add the 1/2 tsp salt."
+        },
+        {
+          "title": "Serve it family style",
+          "text": "Spoon a bed of buttered egg noodles or potato puree into wide warm bowls and set two pieces of chicken on top, then ladle the sauce over so the garnish lands visibly around the meat. Arrange a few glazed onions, mushrooms, and lardons on top rather than letting them sink, and scatter the parsley last for a flash of green against the dark sauce. Bring the pot to the table so people can go back for more."
+        }
+      ],
+      "tips": [
+        "Coq au vin is genuinely better on day two. Cool it, refrigerate overnight, lift off the solid fat cap, and rewarm gently on the stove.",
+        "Use thighs and drumsticks only. Breast meat dries out long before dark meat becomes tender, and traditional coq au vin used an old rooster for exactly this reason.",
+        "Do not use so-called cooking wine. Whatever red you would pour into a glass is what belongs in the pot, since an hour of simmering concentrates every flaw.",
+        "Frozen peeled pearl onions save you twenty minutes of fiddly work and taste no different once glazed.",
+        "If the sauce is thin at the end, simply simmer it uncovered for another 5 to 10 minutes before adding the beurre manie. Reduction always beats extra flour."
+      ],
+      "keyTemp": "Braise the dark meat to 175 to 185°F (79 to 85°C) for tenderness; the food-safety minimum for all poultry is 165°F (74°C).",
+      "pairing": "The same Burgundy or Pinot Noir you cooked with, plus buttered egg noodles and a crusty baguette.",
+      "videoQuery": "classic coq au vin french braised chicken",
+      "photoQuery": "coq au vin bowl chicken red wine",
+      "tags": [
+        "Weekend Project",
+        "One Pot",
+        "French Classic"
+      ]
+    },
+    {
+      "id": "bouillabaisse-with-rouille",
+      "title": "Bouillabaisse with Saffron Rouille",
+      "emoji": "🍲",
+      "art": "soup",
+      "blurb": "The great fisherman stew of Marseille: a saffron and fennel broth perfumed with orange and anise, loaded with fish and shellfish, and served with garlicky rouille on toast. It smells like a harbor town from the moment the fennel hits the pot.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "1 hr 5 min",
+      "totalTime": "1 hr 35 min",
+      "ingredients": [
+        {
+          "group": "The broth",
+          "items": [
+            "1/4 cup (60 ml) olive oil",
+            "1 large fennel bulb, thinly sliced (about 2 cups / 250 g), fronds reserved",
+            "1 large onion and 1 leek, white parts only, thinly sliced (about 2 cups / 250 g)",
+            "6 garlic cloves, thinly sliced",
+            "1 can (14.5 oz / 411 g) diced tomatoes with their juice",
+            "4 cups (960 ml) fish stock plus 2 cups (480 ml) bottled clam juice or water",
+            "1/2 tsp saffron threads (about 40 threads)",
+            "2 wide strips orange zest, 1 bay leaf, and 1 tsp fennel seeds",
+            "1/4 cup (60 ml) Pernod or other pastis",
+            "2 tsp kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "The seafood",
+          "items": [
+            "1 1/2 lb (680 g) firm white fish such as monkfish, snapper, or halibut, cut into 2 in (5 cm) chunks",
+            "1 lb (450 g) mussels, scrubbed and debearded",
+            "12 oz (340 g) large shrimp (16/20), peeled and deveined",
+            "1 tsp kosher salt, for seasoning the fish"
+          ]
+        },
+        {
+          "group": "Saffron rouille",
+          "items": [
+            "1 large egg yolk, at room temperature",
+            "2 garlic cloves, grated to a paste",
+            "1 pinch saffron threads soaked in 1 tbsp (15 ml) hot broth",
+            "1/4 tsp cayenne pepper",
+            "1/2 cup (120 ml) extra-virgin olive oil",
+            "1 tbsp (15 ml) fresh lemon juice",
+            "1/2 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 thin slices baguette (about 1/2 in / 12 mm thick)",
+            "1 garlic clove, halved, for rubbing the toasts",
+            "1/2 cup (50 g) grated Gruyere",
+            "2 tbsp (8 g) chopped parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Sweat the aromatics slowly",
+          "text": "Warm the 1/4 cup olive oil in an 8 qt (8 L) pot over medium-low heat and add the sliced fennel, onion, and leek with 1 tsp of the salt. Cook 12 to 15 minutes, stirring often, until everything is completely soft and sweet but has taken on no color at all. This slow sweat builds the sweet vegetal base that saffron needs to sit on; rushing it with high heat gives you a harsh, oniony broth."
+        },
+        {
+          "title": "Bloom the garlic and spices",
+          "text": "Add the sliced garlic, the 1 tsp fennel seeds, the bay leaf, and the orange zest strips and cook 2 minutes until fragrant. Crumble in the 1/2 tsp saffron and stir it through the hot oil for 30 seconds — the heat and fat release far more color and aroma than dropping it into liquid would. The pot should smell like licorice and warm honey at this point."
+        },
+        {
+          "title": "Add tomatoes and reduce",
+          "text": "Stir in the canned tomatoes with their juice and cook 8 to 10 minutes over medium heat, mashing them against the side of the pot with a spoon. Cook until the mixture thickens and the liquid mostly disappears, leaving a jammy base. This concentration step is what keeps the finished broth from tasting watery and thin."
+        },
+        {
+          "title": "Build and simmer the broth",
+          "text": "Pour in the 4 cups fish stock and 2 cups clam juice, add the remaining 1 tsp salt, and bring it to a simmer. Cook uncovered at a gentle bubble for 25 to 30 minutes to marry the flavors and reduce slightly. Taste it — it should already be delicious on its own, well-salted and clearly saffrony, because the seafood will only add to it, not fix it."
+        },
+        {
+          "title": "Make the rouille base",
+          "text": "In a medium bowl, whisk the egg yolk with the grated garlic, the soaked saffron and its liquid, the 1/4 tsp cayenne, and the 1/2 tsp salt until smooth and slightly thickened. Set the bowl on a damp folded towel so it cannot spin while you whisk. Room temperature yolk emulsifies far more reliably than a cold one."
+        },
+        {
+          "title": "Emulsify the rouille",
+          "text": "Add the 1/2 cup olive oil drop by drop at first, whisking constantly, until the mixture visibly thickens and turns pale gold, then pour the rest in a very thin steady stream. If it looks like it is separating, stop adding oil and whisk hard until it comes back together. Finish with the 1 tbsp lemon juice; the rouille should be thick enough to hold a soft peak on the whisk."
+        },
+        {
+          "title": "Toast the bread",
+          "text": "Arrange the baguette slices on a sheet pan and toast at 375°F (190°C) for 8 to 10 minutes, flipping once, until dry and crisp all the way through. Rub one side of each hot toast with the cut garlic clove, which melts into the rough surface. These need to be genuinely crisp so they hold up when they hit the broth."
+        },
+        {
+          "title": "Strain or leave it rustic",
+          "text": "For a refined restaurant broth, pass the soup through a food mill or press it through a coarse sieve, pushing hard on the solids, and return the liquid to the pot. For a rustic Marseille version, leave the vegetables in. Either way, stir in the 1/4 cup Pernod now and simmer 2 minutes so the alcohol cooks off but the anise perfume stays."
+        },
+        {
+          "title": "Cook the fish first",
+          "text": "Season the fish chunks with the 1 tsp salt. Bring the broth to a bare simmer — never a rolling boil, which shreds delicate fish — and slide in the thickest pieces first. Poach 4 minutes, then add the shrimp and the mussels, cover, and cook 3 to 4 minutes more."
+        },
+        {
+          "title": "Judge the seafood by sight",
+          "text": "The mussels are done the moment they open wide; discard any that stay firmly shut after 5 minutes. The shrimp should be opaque and curled into a loose C, and the fish should flake into big petals when nudged with a spoon at around 130 to 135°F (54 to 57°C), with 145°F (63°C) being the USDA guideline for fully cooked fish and shellfish. Everything cooks in under 8 minutes, so stand at the pot."
+        },
+        {
+          "title": "Finish and taste",
+          "text": "Take the pot off the heat immediately and taste the broth one last time, adding salt or a squeeze of lemon if it tastes flat. Seafood releases its own salty liquid as it cooks, so the seasoning always shifts at the end. Stir a spoonful of the hot broth into the rouille to loosen it into a pourable sauce if you like."
+        },
+        {
+          "title": "Serve the traditional way",
+          "text": "Ladle broth into wide warm bowls first, then arrange the seafood on top so the mussels, shrimp, and fish are all visible rather than buried, with the mussel shells angled upward. Spread a thick spoonful of rouille on each toast, top with a pinch of Gruyere, and float two on each bowl. Scatter the parsley and reserved fennel fronds over everything and put the extra rouille on the table."
+        }
+      ],
+      "tips": [
+        "Use at least two kinds of fish and buy whatever is freshest rather than chasing a list. Firm fish that holds its shape matters far more than the specific species.",
+        "The broth can be made through the simmering step up to 3 days ahead or frozen for 3 months. Cook the seafood only in the last 8 minutes before serving.",
+        "Never boil the pot once the seafood is in. A hard boil turns fish to cotton and shrimp to rubber within a minute.",
+        "If your rouille breaks, start a fresh yolk in a clean bowl and whisk the broken mixture into it drop by drop; it will come back every time.",
+        "Ask the fish counter for the bones and heads from whatever they filleted that morning. Simmered 25 minutes with an onion, they make a fish stock no carton can touch."
+      ],
+      "keyTemp": "Poach the broth at a bare simmer, around 190°F (88°C). Fish is done at 130 to 135°F (54 to 57°C) for large moist flakes; 145°F (63°C) is the USDA guideline for fully cooked fish and shellfish, and mussels are done when they open.",
+      "pairing": "A chilled rose from Provence or a dry white like Picpoul, with plenty of bread for the broth.",
+      "videoQuery": "bouillabaisse marseille fish stew rouille",
+      "photoQuery": "bouillabaisse bowl rouille toast",
+      "tags": [
+        "Weekend Project",
+        "One Pot",
+        "French Classic"
+      ]
+    }
   ]
 }

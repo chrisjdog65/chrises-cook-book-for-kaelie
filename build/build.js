@@ -7,8 +7,14 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const DATA = path.join(ROOT, 'data');
-const OUT = path.join(ROOT, 'Kaelies-Recipe-Book.html');
+
+// node build/build.js [--data <dir>] [--out <file>]
+function arg(name, dflt) {
+  const i = process.argv.indexOf('--' + name);
+  return i >= 0 && process.argv[i + 1] ? path.resolve(process.argv[i + 1]) : dflt;
+}
+const DATA = arg('data', path.join(ROOT, 'data'));
+const OUT = arg('out', path.join(ROOT, 'Kaelies-Recipe-Book.html'));
 
 /* chapter order in the finished book */
 const ORDER = [
