@@ -86,16 +86,21 @@
   function photoUrl(r) { return 'https://www.google.com/search?tbm=isch&q=' + encodeURIComponent(r.photoQuery); }
 
   /* ---------- card ---------- */
+  // The favourite control is a sibling of the open-recipe button, never nested inside
+  // it — a control inside a control confuses assistive tech and taps alike.
   function cardHTML(r) {
-    return '<button class="rcard" data-go="#/r/' + r.id + '">' +
-      '<div class="art">' + window.ART.art(r.art, r.id) +
-      '<span class="fav" data-fav="' + r.id + '" role="button" aria-label="Save to favorites">' + (isFav(r.id) ? '❤️' : '🤍') + '</span></div>' +
+    return '<div class="rcard">' +
+      '<button class="rcard-open" data-go="#/r/' + r.id + '">' +
+      '<div class="art">' + window.ART.art(r.art, r.id) + '</div>' +
       '<div class="body"><div class="t">' + esc(r.title) + '</div>' +
       '<div class="b">' + esc(r.blurb) + '</div>' +
       '<div class="m"><span>⏱ ' + esc(r.totalTime) + '</span><span class="dot"></span>' +
       '<span>🍽 ' + esc(r.servings) + '</span><span class="dot"></span>' +
       '<span class="diff ' + esc(r.difficulty) + '">' + esc(r.difficulty) + '</span></div>' +
-      '</div></button>';
+      '</div></button>' +
+      '<button class="fav" data-fav="' + r.id + '" aria-pressed="' + (isFav(r.id) ? 'true' : 'false') +
+      '" aria-label="Save ' + esc(r.title) + ' to favorites">' + (isFav(r.id) ? '❤️' : '🤍') + '</button>' +
+      '</div>';
   }
   function grid(list) {
     if (!list.length) return '';
@@ -434,6 +439,7 @@
       e.preventDefault(); e.stopPropagation();
       var on = toggleFav(fav.getAttribute('data-fav'));
       fav.textContent = on ? '❤️' : '🤍';
+      fav.setAttribute('aria-pressed', on ? 'true' : 'false');
       toast(on ? 'Saved to favorites ❤️' : 'Removed from favorites');
       return;
     }
