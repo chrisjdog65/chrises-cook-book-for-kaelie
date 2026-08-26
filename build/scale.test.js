@@ -35,6 +35,24 @@ const cases = [
   ['1 bottle (750 ml) dry white wine', 2, '2 bottle (750 ml) dry white wine'],
   // ...but a plain unit restatement still scales
   ['1 cup (240 ml) whole milk', 2, '2 cups (480 ml) whole milk'.replace('cups','cup')],
+  // container AFTER the parenthetical — same per-can rule
+  ['1 (14.5 oz / 411 g) can diced tomatoes', 2, '2 (14.5 oz / 411 g) can diced tomatoes'],
+  ['1 (28 oz / 794 g) can whole peeled tomatoes', 3, '3 (28 oz / 794 g) can whole peeled tomatoes'],
+  // MULTIPLE containers restate the TOTAL, which must scale with them
+  ['2 sticks (8 oz / 225 g) unsalted butter, softened', 2, '4 sticks (16 oz / 450 g) unsalted butter, softened'],
+  ['2 cans (13.5 oz / 400 ml each) coconut milk', 2, '4 cans (13.5 oz / 400 ml each) coconut milk'],
+  // fractions inside a restatement scale as whole tokens, never digit-by-digit
+  ['400 g (about 3 1/4 cups) bread flour', 0.5, '200 g (about 1 ⅝ cups) bread flour'],
+  ['15 g (2 1/2 tsp) fine sea salt', 2, '30 g (5 tsp) fine sea salt'],
+  ['325 g (1 1/3 cups plus 1 tbsp / 325 ml) lukewarm water', 2,
+   '650 g (2 ⅔ cups plus 2 tbsp / 650 ml) lukewarm water'],
+  // volume-only restatements scale too (tsp/tbsp/cups are measures)
+  ['9 g (1 1/2 tsp) fine sea salt', 2, '18 g (3 tsp) fine sea salt'],
+  // ½ × ⅓ cup is ⅙ cup — not ⅛
+  ['1/3 cup (80 ml) fresh lime juice', 0.5, '⅙ cup (40 ml) fresh lime juice'],
+  // range upper bound may be a mixed number
+  ['1 to 1 1/2 cups chicken stock', 2, '2–3 cups chicken stock'],
+  ['1–1½ tsp red pepper flakes', 2, '2–3 tsp red pepper flakes'],
 ];
 
 let pass = 0, fail = 0;

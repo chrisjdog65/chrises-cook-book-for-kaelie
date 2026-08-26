@@ -96,7 +96,11 @@
       "pairing": "Crisp bacon, hot black coffee, and cold orange juice — the salt and acid keep all that sweetness from getting heavy.",
       "videoQuery": "fluffy buttermilk pancakes from scratch",
       "photoQuery": "stack of buttermilk pancakes",
-      "tags": ["Weekend", "30 Minutes", "Kid Friendly"]
+      "tags": [
+        "Weekend",
+        "30 Minutes",
+        "Kid Friendly"
+      ]
     },
     {
       "id": "belgian-waffles",
@@ -196,7 +200,11 @@
       "pairing": "Strawberries macerated with a spoonful of sugar and a mound of lightly whipped cream, plus strong coffee.",
       "videoQuery": "crispy belgian waffles homemade batter",
       "photoQuery": "golden belgian waffle berries",
-      "tags": ["Weekend", "Brunch", "Make Ahead"]
+      "tags": [
+        "Weekend",
+        "Brunch",
+        "Make Ahead"
+      ]
     },
     {
       "id": "brioche-french-toast",
@@ -293,7 +301,11 @@
       "pairing": "Crisp bacon or breakfast sausage on the side, and a mimosa or a very strong latte to cut the sweetness.",
       "videoQuery": "brioche french toast custard recipe",
       "photoQuery": "thick french toast powdered sugar",
-      "tags": ["30 Minutes", "Brunch", "Kid Friendly"]
+      "tags": [
+        "30 Minutes",
+        "Brunch",
+        "Kid Friendly"
+      ]
     },
     {
       "id": "eggs-benedict-hollandaise",
@@ -399,7 +411,11 @@
       "pairing": "A cold mimosa or a dry sparkling wine, with roasted asparagus or simple dressed greens to cut the richness.",
       "videoQuery": "eggs benedict hollandaise from scratch",
       "photoQuery": "eggs benedict hollandaise plate",
-      "tags": ["Special Occasion", "Brunch", "Date Night"]
+      "tags": [
+        "Special Occasion",
+        "Brunch",
+        "Date Night"
+      ]
     },
     {
       "id": "classic-french-omelette",
@@ -478,7 +494,11 @@
       "pairing": "A green salad with a sharp mustard vinaigrette and a torn baguette — the classic Parisian lunch plate.",
       "videoQuery": "classic french omelette technique rolled",
       "photoQuery": "french omelette chives plate",
-      "tags": ["30 Minutes", "Technique", "One Pan"]
+      "tags": [
+        "30 Minutes",
+        "Technique",
+        "One Pan"
+      ]
     },
     {
       "id": "soft-scrambled-eggs",
@@ -554,7 +574,11 @@
       "pairing": "Thick buttered sourdough toast, sliced avocado, and hot black coffee.",
       "videoQuery": "soft scrambled eggs low and slow",
       "photoQuery": "creamy soft scrambled eggs toast",
-      "tags": ["30 Minutes", "Technique", "One Pan"]
+      "tags": [
+        "30 Minutes",
+        "Technique",
+        "One Pan"
+      ]
     },
     {
       "id": "shakshuka",
@@ -648,7 +672,11 @@
       "pairing": "Warm pita or crusty sourdough for scooping, plus a cucumber and tomato salad dressed with lemon and olive oil.",
       "videoQuery": "shakshuka recipe skillet eggs tomato",
       "photoQuery": "shakshuka skillet feta cilantro",
-      "tags": ["One Pan", "Vegetarian", "Brunch"]
+      "tags": [
+        "One Pan",
+        "Vegetarian",
+        "Brunch"
+      ]
     },
     {
       "id": "breakfast-burrito",
@@ -750,7 +778,11 @@
       "pairing": "Hot sauce, extra salsa, and cold horchata or a strong black coffee.",
       "videoQuery": "breakfast burrito recipe freezer meal",
       "photoQuery": "breakfast burrito cut in half",
-      "tags": ["Make Ahead", "Meal Prep", "Freezer Friendly"]
+      "tags": [
+        "Make Ahead",
+        "Meal Prep",
+        "Freezer Friendly"
+      ]
     },
     {
       "id": "biscuits-and-sausage-gravy",
@@ -854,7 +886,11 @@
       "pairing": "Fried eggs on the side, a few dashes of hot sauce, and coffee with cream.",
       "videoQuery": "biscuits and sausage gravy from scratch",
       "photoQuery": "biscuits and gravy plate",
-      "tags": ["Comfort Food", "Weekend", "Southern"]
+      "tags": [
+        "Comfort Food",
+        "Weekend",
+        "Southern"
+      ]
     },
     {
       "id": "cinnamon-rolls",
@@ -866,7 +902,7 @@
       "servings": "Makes 12 rolls",
       "prepTime": "40 min",
       "cookTime": "28 min",
-      "totalTime": "3 hr 45 min including rising",
+      "totalTime": "About 14 hr with the overnight rise (3 hr 45 min same-day)",
       "ingredients": [
         {
           "group": "Dough",
@@ -971,7 +1007,11 @@
       "pairing": "Strong black coffee or a cold glass of milk, and something salty like bacon to balance the sweetness.",
       "videoQuery": "overnight cinnamon rolls cream cheese frosting",
       "photoQuery": "cinnamon rolls pan frosting",
-      "tags": ["Weekend Project", "Make Ahead", "Baking"]
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "Baking"
+      ]
     },
     {
       "id": "crepes",
@@ -1064,7 +1104,11 @@
       "pairing": "Sugar and lemon, or Nutella and sliced banana, with a bowl of café au lait.",
       "videoQuery": "how to make french crepes thin",
       "photoQuery": "french crepes lemon powdered sugar",
-      "tags": ["Make Ahead", "Brunch", "French"]
+      "tags": [
+        "Make Ahead",
+        "Brunch",
+        "French"
+      ]
     },
     {
       "id": "huevos-rancheros",
@@ -1166,7 +1210,11 @@
       "pairing": "Cold Mexican lager or hibiscus agua fresca, with extra lime and a hot sauce you like.",
       "videoQuery": "huevos rancheros authentic recipe salsa",
       "photoQuery": "huevos rancheros plate eggs salsa",
-      "tags": ["One Pan", "Spicy", "Brunch"]
+      "tags": [
+        "One Pan",
+        "Spicy",
+        "Brunch"
+      ]
     },
     {
       "id": "quiche-lorraine",
@@ -1274,7 +1322,11 @@
       "pairing": "A sharply dressed green salad and a glass of dry white wine, or coffee if it is still morning.",
       "videoQuery": "quiche lorraine recipe classic custard",
       "photoQuery": "quiche lorraine slice bacon gruyere",
-      "tags": ["Make Ahead", "Brunch", "French"]
+      "tags": [
+        "Make Ahead",
+        "Brunch",
+        "French"
+      ]
     },
     {
       "id": "crispy-hash-browns",
@@ -1353,7 +1405,11 @@
       "pairing": "Fried eggs, thick bacon, and hot sauce — the classic diner plate.",
       "videoQuery": "crispy hash browns cast iron skillet",
       "photoQuery": "crispy golden hash browns skillet",
-      "tags": ["Diner Classic", "One Pan", "Vegetarian"]
+      "tags": [
+        "Diner Classic",
+        "One Pan",
+        "Vegetarian"
+      ]
     },
     {
       "id": "diner-breakfast-sandwich",
@@ -1430,7 +1486,11 @@
       "pairing": "A big cup of black coffee and a handful of crispy hash browns.",
       "videoQuery": "bacon egg and cheese english muffin",
       "photoQuery": "bacon egg cheese breakfast sandwich",
-      "tags": ["30 Minutes", "One Pan", "Weeknight"]
+      "tags": [
+        "30 Minutes",
+        "One Pan",
+        "Weeknight"
+      ]
     },
     {
       "id": "dutch-baby",
@@ -1519,7 +1579,11 @@
       "pairing": "Fresh berries and cream, or crisp bacon and hot coffee if you want to balance the sweetness.",
       "videoQuery": "dutch baby pancake cast iron recipe",
       "photoQuery": "dutch baby pancake skillet lemon",
-      "tags": ["Showstopper", "Brunch", "Cast Iron"]
+      "tags": [
+        "Showstopper",
+        "Brunch",
+        "Cast Iron"
+      ]
     }
   ]
 }
