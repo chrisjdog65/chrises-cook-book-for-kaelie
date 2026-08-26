@@ -1,0 +1,1603 @@
+{
+  "category": "Steaks & Beef",
+  "categoryEmoji": "🥩",
+  "categoryBlurb": "Everything here is built on the same two skills: get the meat properly dry and properly salted, then cook it to a number instead of to a guess.",
+  "recipes": [
+    {
+      "id": "reverse-seared-ribeye",
+      "title": "Reverse-Seared Ribeye with Herb Butter",
+      "emoji": "🥩",
+      "art": "steak",
+      "blurb": "A thick ribeye brought up slowly in a low oven, then blasted in a screaming skillet for 60 seconds a side. You get wall-to-wall pink and a crust like a steakhouse, with almost no way to overshoot.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "1 hr",
+      "totalTime": "1 hr 25 min",
+      "ingredients": [
+        {
+          "group": "For the steaks",
+          "items": [
+            "2 boneless ribeye steaks (14 oz / 400 g each, 1½ to 2 in / 4 to 5 cm thick)",
+            "2 tsp (10 g) kosher salt, about ½ tsp per side per steak",
+            "1½ tsp coarsely ground black pepper",
+            "1 tbsp (15 ml) grapeseed, avocado, or other neutral high-smoke-point oil"
+          ]
+        },
+        {
+          "group": "Herb butter and basting",
+          "items": [
+            "4 tbsp (55 g) unsalted butter, softened",
+            "2 garlic cloves, minced (about 2 tsp)",
+            "1 tbsp finely chopped fresh parsley",
+            "1 tsp finely chopped fresh thyme leaves, plus 4 whole sprigs for basting",
+            "½ tsp (2 g) flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Pick the right thickness",
+          "text": "This method only works on steaks at least 1½ inches (4 cm) thick, so ask the butcher to cut them for you rather than buying two thin ones. A thin steak will race past medium-rare in the oven before you ever get to sear it. Look for ribeyes with fine white marbling threaded through the muscle, not just a fat cap on the edge, because that intramuscular fat is what bastes the meat from the inside."
+        },
+        {
+          "title": "Dry brine the steaks",
+          "text": "Pat both steaks completely dry with paper towels, then season all over with the 2 tsp kosher salt, including the edges. Set them on a wire rack over a sheet pan and refrigerate uncovered for at least 45 minutes, or up to 24 hours if you are planning ahead. The salt first pulls moisture to the surface, then that seasoned liquid gets reabsorbed, and the surface dries out — which is exactly what you want for a crust."
+        },
+        {
+          "title": "Make the herb butter",
+          "text": "Mash the softened butter with the minced garlic, parsley, and chopped thyme in a small bowl until it is evenly streaked green. Scrape it onto a piece of plastic wrap, roll it into a log about 1 inch (2.5 cm) thick, and chill it in the fridge while the steaks cook. Cold, firm butter melts slowly over hot meat instead of instantly turning to a greasy puddle."
+        },
+        {
+          "title": "Set up a low oven",
+          "text": "Heat the oven to 250°F (120°C) with a rack in the middle. Leave the steaks on their wire rack over the sheet pan — elevating them lets hot air circulate underneath so they cook evenly instead of steaming on one side. Season them now with the black pepper; adding it before the low bake, rather than before a hard sear, keeps it from scorching and turning bitter."
+        },
+        {
+          "title": "Slow-roast to 115°F",
+          "text": "Slide the pan into the oven and cook until the center of the thickest steak reads 115°F (46°C) on an instant-read thermometer, usually 40 to 55 minutes for 1½-inch steaks. Start checking at 35 minutes and probe from the side, aiming for the true center and avoiding bone or a fat seam. For medium instead of medium-rare, pull at 125°F (52°C); the searing step will add another 10 to 15°F (6 to 8°C)."
+        },
+        {
+          "title": "Rest while the pan heats",
+          "text": "Take the steaks out and let them sit on the counter while you heat the skillet, about 8 to 10 minutes. Pat the surfaces dry one more time with paper towels — the oven will have drawn out a little more moisture and any wetness costs you crust. This pause is not a real rest; it is just efficient use of the time it takes to get cast iron truly hot."
+        },
+        {
+          "title": "Get the skillet ripping hot",
+          "text": "Set a 12-inch (30 cm) cast-iron skillet over high heat and let it preheat for a full 5 minutes, then add the tablespoon of neutral oil. You want the oil shimmering with the first wisps of smoke curling off it, around 450 to 500°F (230 to 260°C). Turn on the exhaust fan and open a window now, not after the smoke alarm has an opinion about it."
+        },
+        {
+          "title": "Sear the first side",
+          "text": "Lay the steaks away from you into the pan and press down gently for the first 5 seconds so the whole surface makes contact. Do not touch them again for 45 to 60 seconds — it should roar with a loud, steady sizzle. If the pan is silent, it was not hot enough; if the oil is billowing black smoke, pull the pan off the burner for 20 seconds before continuing."
+        },
+        {
+          "title": "Flip and sear the second side",
+          "text": "Flip with tongs and sear the second side for another 45 to 60 seconds. Then stand each steak on its fat edge, holding it upright with tongs for 20 to 30 seconds, until that strip of fat turns golden and renders. Rendered fat edge is the difference between a steak that tastes finished and one that leaves a waxy ribbon on your plate."
+        },
+        {
+          "title": "Butter baste with aromatics",
+          "text": "Drop the heat to medium, add 2 tbsp of the herb butter and the 4 thyme sprigs, and tilt the pan so the butter pools at the low edge. Spoon that foaming butter over the steaks continuously for 45 to 60 seconds. The butter should be tan and nutty smelling, not dark brown and acrid — if it darkens fast, pull the pan off the heat and keep spooning."
+        },
+        {
+          "title": "Check the final temperature",
+          "text": "Probe the center again: 128 to 130°F (53 to 54°C) means a perfect medium-rare after resting. If you are 5°F short, give the steaks another 20 seconds per side rather than leaving them sitting in the pan, where the bottom will overcook. Trust the thermometer over the clock every single time — thickness varies more than recipes admit."
+        },
+        {
+          "title": "Rest, slice, and top",
+          "text": "Move the steaks to a warm plate or cutting board and rest for 8 to 10 minutes; because they came up slowly, they need far less resting than a hard-seared steak. Slice against the grain into ½-inch (1 cm) strips, or serve whole. Lay a ¼-inch coin of the cold herb butter on top of each steak and finish with the flaky salt just before it hits the table."
+        }
+      ],
+      "tips": [
+        "The uncovered overnight dry brine is the single biggest upgrade here — 24 hours in the fridge on a rack gives you a noticeably better crust than 45 minutes.",
+        "No cast iron? A heavy stainless steel skillet works. Nonstick does not — it cannot safely take the 450°F+ (230°C+) heat a real crust needs.",
+        "Leftover herb butter keeps 2 weeks in the fridge or 3 months in the freezer; slice coins off the frozen log for vegetables, fish, or toast.",
+        "If your kitchen fills with smoke, you can finish the sear on a grill or outdoor burner — the technique is identical, just hotter and better ventilated.",
+        "Save the rendered beef fat left in the skillet, strain it into a jar, and use it to roast potatoes; it is the best fat in your kitchen."
+      ],
+      "keyTemp": "Pull from the oven at 115°F (46°C), sear, and serve at 130 to 135°F (54 to 57°C) for medium-rare. Medium is 140°F (60°C); past 150°F (66°C) a ribeye goes gray and dry.",
+      "pairing": "Creamy mashed potatoes and a wedge salad, with a big Cabernet Sauvignon or a cold dark beer.",
+      "videoQuery": "reverse sear ribeye steak cast iron",
+      "photoQuery": "reverse seared ribeye herb butter",
+      "tags": ["Date Night", "Cast Iron", "Steakhouse"]
+    },
+    {
+      "id": "cast-iron-ny-strip-garlic-butter",
+      "title": "Cast-Iron New York Strip with Garlic Butter",
+      "emoji": "🧈",
+      "art": "steak",
+      "blurb": "The 30-minute steak dinner worth knowing by heart. One pan, one flip, a shower of foaming garlic-thyme butter, and you are eating in less time than delivery takes.",
+      "difficulty": "Easy",
+      "servings": "2 servings",
+      "prepTime": "10 min",
+      "cookTime": "12 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "For the steaks",
+          "items": [
+            "2 New York strip steaks (12 oz / 340 g each, about 1¼ in / 3 cm thick)",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as canola, grapeseed, or avocado"
+          ]
+        },
+        {
+          "group": "Garlic butter baste",
+          "items": [
+            "3 tbsp (42 g) unsalted butter",
+            "4 garlic cloves, lightly smashed but left whole",
+            "5 sprigs fresh thyme (or 3 sprigs rosemary)",
+            "½ tsp (2 g) flaky sea salt, for finishing"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Temper and dry the steaks",
+          "text": "Take the steaks out of the fridge 20 to 30 minutes before cooking and set them on a plate lined with paper towels. A steak straight from the fridge cooks unevenly, giving you a gray band around a cold center. While they sit, pat the surfaces bone dry — every drop of surface moisture has to boil off before browning can even start."
+        },
+        {
+          "title": "Season generously",
+          "text": "Sprinkle the kosher salt and black pepper over both sides and the edges, holding your hand about 10 inches (25 cm) above so it lands evenly. It will look like more salt than you would put on anything else, and that is correct: a thick steak is mostly interior, and only the surface gets seasoned. Press the seasoning in gently with your palm so it sticks."
+        },
+        {
+          "title": "Preheat the skillet properly",
+          "text": "Set a 10- or 12-inch (25 to 30 cm) cast-iron skillet over medium-high heat and leave it alone for 4 to 5 minutes. Test it by flicking in a few drops of water — they should skitter and evaporate in about 2 seconds. Cast iron heats slowly and unevenly at first, so this preheat is doing real work, not wasting your time."
+        },
+        {
+          "title": "Add oil and lay in the steaks",
+          "text": "Pour in the tablespoon of oil and swirl to coat; it should shimmer and thin out within 15 seconds. Lay the steaks in the pan pointing away from you so any splatter goes toward the back, and leave 1 inch (2.5 cm) of space between them. Crowding drops the pan temperature and traps steam, which is how you end up with gray, sad steak."
+        },
+        {
+          "title": "Sear the first side undisturbed",
+          "text": "Cook for 3½ to 4 minutes without moving, nudging, or peeking more than once. You are listening for a steady, aggressive sizzle — if it goes quiet the pan is too cool, and if the oil throws black smoke turn the burner down one notch. Lift a corner at 3 minutes: the crust should be deep brown and evenly colored, not spotty."
+        },
+        {
+          "title": "Flip once and sear",
+          "text": "Flip with tongs, never a fork, and cook the second side for 3 minutes. Resist the urge to flip repeatedly; each flip resets the surface temperature and slows crust development on a pan this size. The second side always takes slightly less time because the pan and the meat are both hotter now."
+        },
+        {
+          "title": "Render the fat cap",
+          "text": "Grab the steaks with tongs and stand them on their fat edge, leaning them against each other or the side of the pan. Hold for 30 to 45 seconds until the fat turns golden and translucent and you can smell it toasting. This step takes almost no time and completely changes how the strip eats — unrendered fat is chewy and cold-tasting."
+        },
+        {
+          "title": "Butter baste with garlic and thyme",
+          "text": "Lower the heat to medium and add the butter, smashed garlic cloves, and thyme sprigs to the pan. Once the butter foams, tilt the skillet toward you and spoon it over the steaks nonstop for 60 to 90 seconds, aiming for the thickest part. The butter should smell nutty and look tan; if it turns dark brown and smells sharp, take the pan off the burner and keep basting off heat."
+        },
+        {
+          "title": "Check with a thermometer",
+          "text": "Slide an instant-read thermometer into the side of a steak toward the center: 125°F (52°C) is your pull temperature for medium-rare, 135°F (57°C) for medium. If you are under, keep basting in 30-second bursts and re-check rather than searing harder. Carryover cooking will add 5 to 8°F (3 to 4°C) while the steak rests."
+        },
+        {
+          "title": "Rest before you cut",
+          "text": "Move the steaks to a cutting board or warm plate and let them rest 8 minutes, loosely tented with foil if your kitchen is cold. Cutting immediately dumps the juices onto the board because the muscle fibers are still contracted and pressurized. Spoon the pan butter and softened garlic cloves over the top and finish with flaky salt."
+        },
+        {
+          "title": "Slice against the grain",
+          "text": "Find the direction the muscle fibers run — on a strip they run the length of the steak — and cut across them at a slight angle into ½-inch (1 cm) slices. Cutting against the grain shortens those fibers so each bite is tender instead of stringy. Serve right away, and pour any board juices back over the slices."
+        }
+      ],
+      "tips": [
+        "If your steaks are thicker than 1½ inches (4 cm), sear both sides then finish in a 400°F (205°C) oven for 4 to 6 minutes so the center catches up without burning the crust.",
+        "Cook one steak at a time in a 10-inch skillet. Two crowded steaks steam; the first one stays perfectly warm resting while the second cooks.",
+        "Do not throw away the garlic cloves — they turn sweet and jammy in the butter and are fantastic smashed onto bread.",
+        "No fresh thyme? Rosemary works, or skip the herbs entirely; the garlic and butter carry the dish on their own."
+      ],
+      "keyTemp": "Pull at 125°F (52°C) for medium-rare, 135°F (57°C) for medium; after a 8-minute rest they land at 130 to 140°F (54 to 60°C).",
+      "pairing": "Crispy roasted potatoes and blistered green beans, with a glass of Malbec.",
+      "videoQuery": "cast iron new york strip butter basted",
+      "photoQuery": "cast iron new york strip steak",
+      "tags": ["Weeknight", "30 Minutes", "Cast Iron"]
+    },
+    {
+      "id": "filet-mignon-red-wine-pan-sauce",
+      "title": "Filet Mignon with Red Wine Pan Sauce",
+      "emoji": "🍷",
+      "art": "steak",
+      "blurb": "The most tender cut on the animal, seared hard and served under a glossy red wine sauce built from the browned bits in the pan. It looks like a special occasion and takes under an hour.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "25 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "For the steaks",
+          "items": [
+            "2 center-cut filet mignon steaks (7 oz / 200 g each, about 2 in / 5 cm thick)",
+            "1 tsp (5 g) kosher salt",
+            "¾ tsp (2 g) freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as grapeseed or canola",
+            "1 tbsp (14 g) unsalted butter"
+          ]
+        },
+        {
+          "group": "Red wine pan sauce",
+          "items": [
+            "1 large shallot, finely minced (about ¼ cup / 40 g)",
+            "1 garlic clove, minced (1 tsp)",
+            "¾ cup (180 ml) dry red wine such as Cabernet Sauvignon or Merlot",
+            "¾ cup (180 ml) low-sodium beef stock",
+            "1 tsp fresh thyme leaves",
+            "3 tbsp (42 g) cold unsalted butter, cut into cubes",
+            "¼ tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Prep and tie the filets",
+          "text": "Take the filets out of the fridge 30 minutes ahead and pat them completely dry. If they look uneven or floppy, tie a loop of kitchen twine around the equator of each one so it holds a tall, round shape. A tied filet cooks evenly and gives you a taller cylinder with more surface area to brown."
+        },
+        {
+          "title": "Season on all surfaces",
+          "text": "Season the filets with the kosher salt and black pepper on the top, the bottom, and all the way around the sides. Filet is lean and mild, so it needs more seasoning than a fatty cut like ribeye to taste like anything. Let them sit at room temperature while you mince the shallot and garlic and heat the oven."
+        },
+        {
+          "title": "Heat the oven and the pan",
+          "text": "Set the oven to 400°F (205°C) with a rack in the center. Put a 10-inch (25 cm) oven-safe skillet — cast iron or heavy stainless — over medium-high heat for 4 minutes, then add the tablespoon of oil. When the oil shimmers and moves like water in the pan, you are ready."
+        },
+        {
+          "title": "Sear the flat sides",
+          "text": "Lay the filets flat-side down and sear for 3 minutes without moving them, until a deep brown crust forms. Flip and sear the second flat side another 3 minutes. The pan should sizzle loudly and steadily the entire time; if the sound dies down, your heat is too low and you are stewing the meat."
+        },
+        {
+          "title": "Roll the sides",
+          "text": "Using tongs, stand each filet on its edge and roll it slowly around the circumference, giving each section about 30 seconds, for 1½ to 2 minutes total. That band around the outside is a third of the steak's surface and skipping it leaves a pale, bland ring. Add the tablespoon of butter in the last 30 seconds and spoon it over the tops."
+        },
+        {
+          "title": "Finish in the oven",
+          "text": "Transfer the whole skillet to the 400°F (205°C) oven and roast 5 to 8 minutes, depending on thickness. Start checking at 5 minutes with an instant-read thermometer pushed into the center from the side. Pull at 125°F (52°C) for medium-rare or 135°F (57°C) for medium; filet is so lean that even 10 extra degrees turns it chalky."
+        },
+        {
+          "title": "Rest the steaks",
+          "text": "Move the filets to a plate, tent loosely with foil, and rest for 10 minutes while you build the sauce. Do not skip this — filet holds a lot of water in a tight muscle and cutting early will flood your board. Snip off the twine before serving if you tied them."
+        },
+        {
+          "title": "Sweat the shallot",
+          "text": "Set the skillet back over medium heat, pouring off all but about 1 tablespoon of fat but leaving every brown speck stuck to the bottom. Add the minced shallot and cook 90 seconds until soft and translucent, then add the garlic and thyme for 30 seconds more. Keep it moving so the garlic perfumes the fat without burning and turning bitter."
+        },
+        {
+          "title": "Deglaze with red wine",
+          "text": "Pour in the ¾ cup red wine and immediately scrape the bottom of the pan with a wooden spoon; those stuck-on brown bits, called fond, are the entire flavor of the sauce. Let it bubble and reduce by about half, 3 to 4 minutes, until it coats the back of the spoon thinly. If it smells sharply of alcohol, it needs another minute."
+        },
+        {
+          "title": "Add stock and reduce",
+          "text": "Pour in the ¾ cup beef stock along with any juices that have collected under the resting steaks. Simmer briskly for 5 to 7 minutes until the liquid has reduced to about ⅓ cup and looks syrupy. Drag your spoon through it — the sauce should leave a clear path across the pan bottom for a full second."
+        },
+        {
+          "title": "Mount with cold butter",
+          "text": "Take the pan off the heat and let it cool for 20 seconds, then whisk in the cold butter cubes one or two at a time until each melts before adding more. This is called mounting, and cold butter is essential — it emulsifies into a glossy sauce instead of separating into an oil slick. Taste and add the ¼ tsp salt, adjusting if your stock was already salty."
+        },
+        {
+          "title": "Plate and serve",
+          "text": "Spoon 2 to 3 tablespoons of sauce onto each warm plate and set the filet on top rather than drowning it, so the crust stays crisp. Pour any remaining sauce into a small pitcher for the table. Serve immediately, while the sauce is still glossy and warm — it will tighten as it cools."
+        }
+      ],
+      "tips": [
+        "Use a wine you would actually drink. Cooking wine is salted and harsh, and in a sauce reduced this far, every flaw gets concentrated.",
+        "The pan sauce can be made up to 2 days ahead through the stock reduction; reheat gently and whisk in the cold butter right before serving.",
+        "If the sauce breaks and looks oily, pull it off the heat and whisk in 1 tablespoon of cold stock or water to bring it back together.",
+        "Filet has almost no fat, so it is the one steak worth wrapping in bacon if you like — secure it with the twine and render the bacon in the pan first.",
+        "Do not use nonstick for this recipe. You need fond stuck to the pan, and nonstick is specifically designed to prevent it."
+      ],
+      "keyTemp": "Pull at 125°F (52°C) for medium-rare; after resting, the center will read 130 to 135°F (54 to 57°C). Medium is 140°F (60°C) and is as far as filet should ever go.",
+      "pairing": "Roasted asparagus and a potato gratin, with the same red wine you used in the sauce.",
+      "videoQuery": "filet mignon red wine pan sauce",
+      "photoQuery": "filet mignon red wine sauce plated",
+      "tags": ["Date Night", "Pan Sauce", "Special Occasion"]
+    },
+    {
+      "id": "steak-au-poivre",
+      "title": "Steak au Poivre with Cognac Cream",
+      "emoji": "🌶️",
+      "art": "steak",
+      "blurb": "A French bistro classic: steak pressed into cracked peppercorns and finished with a cognac cream sauce. The pepper crust goes floral and warm instead of harsh once it hits the hot pan.",
+      "difficulty": "Medium",
+      "servings": "2 servings",
+      "prepTime": "15 min",
+      "cookTime": "20 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "For the steaks",
+          "items": [
+            "2 steaks, filet mignon or New York strip (8 oz / 225 g each, 1½ in / 4 cm thick)",
+            "3 tbsp (25 g) whole black peppercorns",
+            "1¼ tsp (6 g) kosher salt",
+            "1 tbsp (15 ml) neutral oil",
+            "1 tbsp (14 g) unsalted butter"
+          ]
+        },
+        {
+          "group": "Cognac cream sauce",
+          "items": [
+            "1 large shallot, finely minced (about ¼ cup / 40 g)",
+            "⅓ cup (80 ml) cognac or brandy",
+            "½ cup (120 ml) low-sodium beef stock",
+            "¾ cup (180 ml) heavy cream",
+            "1 tsp Dijon mustard",
+            "¼ tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Crack the peppercorns coarsely",
+          "text": "Put the whole peppercorns in a zip-top bag or on a cutting board and crush them with the bottom of a heavy skillet until they are cracked into rough halves and quarters. You want coarse, uneven pieces — not powder, which turns acrid and burns. If you use a grinder, set it to the coarsest possible setting and accept that hand-cracking is genuinely better here."
+        },
+        {
+          "title": "Sift out the dust",
+          "text": "Shake the cracked pepper in a fine-mesh sieve over the sink for a few seconds to lose the finest powder. That dust is what makes a badly made au poivre taste harsh and dusty rather than warm and aromatic. What stays behind in the sieve is exactly what you want pressed into the meat."
+        },
+        {
+          "title": "Salt and crust the steaks",
+          "text": "Pat the steaks completely dry and season both sides with the 1¼ tsp kosher salt. Spread the cracked pepper on a plate and press each steak firmly into it, coating both flat sides but leaving the edges mostly bare. Press hard with your palm so the pepper embeds and does not fall off in the pan."
+        },
+        {
+          "title": "Let them sit 15 minutes",
+          "text": "Leave the crusted steaks on a rack at room temperature for 15 minutes before cooking. The salt begins to dissolve and draw into the meat, and the steaks lose the deep chill that causes uneven cooking. Meanwhile, mince the shallot and measure out the cognac, stock, and cream so everything is within arm's reach — this sauce moves fast."
+        },
+        {
+          "title": "Heat the skillet",
+          "text": "Set a 10- or 12-inch (25 to 30 cm) heavy skillet over medium-high heat for 4 minutes, then add the oil. Wait for a shimmer with just the barest wisp of smoke, around 425°F (220°C). A stainless or cast-iron pan is required; you need the fond for the sauce."
+        },
+        {
+          "title": "Sear the first side",
+          "text": "Lay the steaks in and cook undisturbed for 3½ to 4 minutes. You will smell the pepper toasting almost immediately, which is the whole point — heat mellows piperine into something floral. If the pepper starts smelling scorched rather than fragrant, lower the heat one notch."
+        },
+        {
+          "title": "Flip and add butter",
+          "text": "Flip and cook the second side 3 to 4 minutes, adding the tablespoon of butter in the last minute and spooning the foam over the tops. Check the center with a thermometer: pull at 125°F (52°C) for medium-rare. For steaks thicker than 1½ inches, finish them in a 400°F (205°C) oven for 4 to 5 minutes instead of pushing the sear longer."
+        },
+        {
+          "title": "Rest the steaks",
+          "text": "Move the steaks to a plate and tent loosely with foil while you make the sauce, about 8 minutes. Any juices that pool go straight into the sauce later, so keep the plate handy. Pour off all but about 1 tablespoon of fat from the pan but leave every browned speck."
+        },
+        {
+          "title": "Cook the shallot and add cognac",
+          "text": "Lower the heat to medium, add the shallot, and cook 90 seconds until soft. Pull the pan off the burner completely, then pour in the ⅓ cup cognac — off-heat is how you avoid a flare-up, and no, you do not need to flambé anything. Return to the heat and simmer 2 to 3 minutes, scraping up the fond, until the liquid has reduced by about two-thirds."
+        },
+        {
+          "title": "Build the cream sauce",
+          "text": "Add the beef stock and simmer 2 minutes, then stir in the heavy cream and Dijon. Let it bubble gently for 4 to 5 minutes until it thickens enough to coat the back of a spoon and a finger swiped through leaves a clean line. Stir in any resting juices from the steak plate and taste for salt."
+        },
+        {
+          "title": "Serve immediately",
+          "text": "Spoon a generous puddle of sauce onto each warm plate, set the steak on top or slightly off center, and pour a little extra over one end so the pepper crust stays exposed. This sauce thickens noticeably as it cools, so plate the second it looks right. A few extra cracked peppercorns on top make it look like the bistro version."
+        }
+      ],
+      "tips": [
+        "If cognac is not in the house, use brandy, bourbon, or even dry sherry. For an alcohol-free version, use ½ cup extra beef stock plus 1 tsp red wine vinegar for brightness.",
+        "Always add the spirit off the heat and away from the flame. Alcohol vapor ignites easily, and this is the number one way people get scared out of making pan sauces.",
+        "Crack the peppercorns up to a week ahead and keep them in a jar; it makes this a genuinely fast weeknight dish.",
+        "Heavy cream is required — half-and-half and milk will break and curdle when reduced this hard."
+      ],
+      "keyTemp": "Pull the steaks at 125°F (52°C) for medium-rare, resting to 130 to 135°F (54 to 57°C). The sauce should simmer gently around 190°F (88°C), never at a hard boil.",
+      "pairing": "Thin French fries or buttered haricots verts, with a Côtes du Rhône.",
+      "videoQuery": "steak au poivre cognac cream sauce",
+      "photoQuery": "steak au poivre peppercorn sauce",
+      "tags": ["Date Night", "French", "Pan Sauce"]
+    },
+    {
+      "id": "carne-asada-skirt-steak",
+      "title": "Citrus-Marinated Carne Asada Skirt Steak",
+      "emoji": "🌮",
+      "art": "steak",
+      "blurb": "Skirt steak soaked in orange, lime, garlic, and cumin, then grilled fast over the hottest fire you can build. Charred edges, juicy middle, and it slices into the best taco filling there is.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "10 min",
+      "totalTime": "4 hr 30 min",
+      "ingredients": [
+        {
+          "group": "For the steak",
+          "items": [
+            "2 lb (900 g) outside skirt steak, cut into 3 or 4 manageable lengths",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Citrus marinade",
+          "items": [
+            "½ cup (120 ml) fresh orange juice, from about 2 oranges",
+            "⅓ cup (80 ml) fresh lime juice, from about 3 limes",
+            "⅓ cup (80 ml) olive oil",
+            "6 garlic cloves, minced (about 2 tbsp)",
+            "1 cup (25 g) loosely packed cilantro leaves and stems, chopped",
+            "1 jalapeño, seeded and minced (about 2 tbsp)",
+            "1½ tsp ground cumin",
+            "1 tsp dried Mexican oregano",
+            "1 tsp (5 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 corn tortillas (6 in / 15 cm), warmed",
+            "½ cup (60 g) finely diced white onion",
+            "2 limes, cut into wedges"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Buy outside skirt if you can",
+          "text": "Outside skirt is thicker, more tender, and more evenly shaped than inside skirt, which is the one most supermarkets sell. Either works, but inside skirt is thinner and needs about 30 seconds less per side. Ask the butcher to peel off the tough membrane if it is still attached; you can also pull it off yourself with a paper towel for grip."
+        },
+        {
+          "title": "Whisk the marinade",
+          "text": "In a large bowl, whisk together the orange juice, lime juice, olive oil, garlic, cilantro, jalapeño, cumin, oregano, and 1 tsp salt. The oil will not fully emulsify and that is fine — just whisk it again before pouring. Taste it: it should be bright and aggressively garlicky, because most of that flavor stays behind in the bag."
+        },
+        {
+          "title": "Marinate 2 to 8 hours",
+          "text": "Put the steak pieces in a large zip-top bag or a shallow dish, pour the marinade over, press out the air, and refrigerate for at least 2 hours and no more than 8. Citrus acid tenderizes at first and then starts to break the surface down into mush, so 8 hours is a real ceiling, not a suggestion. Flip the bag once halfway through so every surface gets contact."
+        },
+        {
+          "title": "Build a screaming hot fire",
+          "text": "For charcoal, light a full chimney and dump the coals into one dense layer; for gas, run all burners on high with the lid closed for 12 to 15 minutes. You want a grate around 550 to 600°F (290 to 315°C) — you should only be able to hold your hand 5 inches above it for about 2 seconds. Skirt steak is thin, so heat is the only thing standing between you and a gray, boiled result."
+        },
+        {
+          "title": "Dry the steak thoroughly",
+          "text": "Pull the steak out of the marinade and scrape off the clinging bits of garlic and cilantro, which will only burn on the grate. Then pat both sides very dry with paper towels — this is the step people skip and then wonder why they have no char. Discard the used marinade; it has held raw meat and is not safe to reuse as a sauce."
+        },
+        {
+          "title": "Season and oil the grate",
+          "text": "Season the dried steak with the 1½ tsp kosher salt and 1 tsp black pepper right before it goes on. Wipe the hot grate with an oil-soaked paper towel held in long tongs so the meat releases cleanly. Have your platter and tongs ready by the grill, because from here the cooking takes under 6 minutes."
+        },
+        {
+          "title": "Grill the first side",
+          "text": "Lay the pieces directly over the coals and grill 2½ to 3 minutes without moving them. You want dark char across roughly 70 percent of the surface with the rest deep brown. Flare-ups will happen when fat drips; move the meat to a cooler patch for a few seconds rather than dousing the fire with water."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Flip once and grill 2 to 3 minutes more. Check with an instant-read thermometer inserted sideways into the thickest piece: 125 to 130°F (52 to 54°C) is where skirt eats best. Past 140°F (60°C) the muscle fibers seize and skirt turns tough and dry very quickly, so pull early if you are unsure."
+        },
+        {
+          "title": "Rest on a board",
+          "text": "Move everything to a cutting board and rest for 8 to 10 minutes, uncovered or very loosely tented. Foil wrapped tight will steam the char you just worked for. The juices redistribute in this window, and the internal temperature will drift up another 5°F (3°C)."
+        },
+        {
+          "title": "Find the grain and cut",
+          "text": "Skirt steak has very long, obvious muscle fibers running the length of the strip. First cut the steak crosswise into 3- to 4-inch (8 to 10 cm) sections, then slice each section thinly against those fibers at a slight angle. Cutting with the grain instead of against it is the single most common way people ruin an otherwise perfect skirt steak."
+        },
+        {
+          "title": "Warm the tortillas and serve",
+          "text": "Lay the corn tortillas directly on the grill grate for 20 to 30 seconds a side until they puff slightly and smell toasty. Pile the sliced steak onto a platter with the diced white onion, extra cilantro, and lime wedges. Serve immediately while the meat is hot and the tortillas are still pliable."
+        }
+      ],
+      "tips": [
+        "No grill? A cast-iron skillet or a ridged grill pan over high heat works, but open a window and run the fan — the smoke is real.",
+        "Marinate in the morning for dinner that night. Anything longer than 8 hours and the citrus turns the surface pale and mealy.",
+        "Flank steak is the best substitute; it is thicker, so grill it 4 to 5 minutes per side to the same 125 to 130°F (52 to 54°C).",
+        "Leftovers make outstanding quesadillas and steak-and-egg breakfasts; slice only what you need and keep the rest in a whole piece so it stays juicy.",
+        "Save a few tablespoons of the marinade in a separate container before it touches the meat, then brush it on after grilling for a fresh citrus hit."
+      ],
+      "keyTemp": "Pull skirt steak at 125 to 130°F (52 to 54°C) and rest to 130 to 135°F (54 to 57°C). Do not take it past 140°F (60°C) or it will turn tough.",
+      "pairing": "Charred scallions, refried beans, and a cold Mexican lager with lime.",
+      "videoQuery": "carne asada skirt steak marinade grill",
+      "photoQuery": "carne asada skirt steak sliced tacos",
+      "tags": ["Grilling", "Marinade", "Crowd Pleaser"]
+    },
+    {
+      "id": "grilled-tomahawk-ribeye",
+      "title": "Grilled Tomahawk Ribeye",
+      "emoji": "🍖",
+      "art": "steak",
+      "blurb": "A two-pound ribeye on a long rib bone, cooked low over indirect heat and then finished over the coals. It is a showpiece, and the reverse-sear method makes it far easier than it looks.",
+      "difficulty": "Medium",
+      "servings": "2 to 3 servings",
+      "prepTime": "20 min",
+      "cookTime": "1 hr 15 min",
+      "totalTime": "1 hr 50 min",
+      "ingredients": [
+        {
+          "group": "For the steak",
+          "items": [
+            "1 tomahawk ribeye (2 to 2½ lb / 900 g to 1.1 kg, 2 to 2½ in / 5 to 6 cm thick)",
+            "1 tbsp (15 g) kosher salt",
+            "2 tsp coarsely ground black pepper",
+            "1 tsp garlic powder",
+            "2 tsp (10 ml) neutral oil, for the sear"
+          ]
+        },
+        {
+          "group": "Finishing",
+          "items": [
+            "3 tbsp (42 g) unsalted butter, softened",
+            "2 sprigs fresh rosemary",
+            "1 tsp flaky sea salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry brine the day before",
+          "text": "Pat the tomahawk dry, season it all over with the tablespoon of kosher salt, and set it on a rack over a sheet pan in the fridge, uncovered, for 12 to 24 hours. On a steak this thick, a long dry brine is the only way to get seasoning past the surface. The exterior will look dark and slightly leathery when it is ready, which is exactly right."
+        },
+        {
+          "title": "Temper and season",
+          "text": "Pull the steak out 45 minutes before cooking and let it sit at room temperature; a 2½-inch steak straight from the fridge takes forever to come up and cooks unevenly. Season with the black pepper and garlic powder just before it goes on the grill. Do not add more salt — the dry brine has already handled that."
+        },
+        {
+          "title": "Set up two heat zones",
+          "text": "For charcoal, bank a full chimney of lit coals against one side of the kettle, leaving the other half empty. For gas, light only the burners on one side and leave the rest off. Close the lid and let the grill stabilize at 250°F (120°C) on the cool side, adjusting the vents until the temperature holds steady for 5 minutes."
+        },
+        {
+          "title": "Cook indirect, bone toward the fire",
+          "text": "Set the steak on the cool side with the exposed rib bone pointing toward the coals, since the bone can take direct heat and the meat cannot. Close the lid and leave it alone for 40 minutes before checking anything. Every time you lift the lid you lose 5 to 10 minutes of cooking time, so be patient."
+        },
+        {
+          "title": "Probe toward 115°F",
+          "text": "Start checking at 40 minutes with an instant-read thermometer pushed into the thickest part of the eye, staying at least 1 inch (2.5 cm) away from the bone, which reads falsely cool. Continue until the center hits 115°F (46°C) for medium-rare, typically 50 to 75 minutes total. If your grill drifted hotter than 250°F, it will get there considerably faster — go by temperature, never by the clock."
+        },
+        {
+          "title": "Rest while you build the sear fire",
+          "text": "Take the steak off and set it on a board while you open all the vents and, for charcoal, add half a chimney of fresh lit coals. You want the direct side blazing at 550°F or hotter (290°C+). This 10-minute pause is free — the steak's temperature evens out while the fire builds."
+        },
+        {
+          "title": "Oil the steak, not the grate",
+          "text": "Brush the steak lightly on both sides with the 2 tsp of neutral oil and pat off any surface moisture that has beaded up. Oiling the meat instead of the grate puts the fat exactly where the browning happens and reduces flare-ups. Have long tongs and a heatproof glove ready, because you are about to stand over a very hot fire."
+        },
+        {
+          "title": "Sear over direct heat",
+          "text": "Lay the steak directly over the coals and sear 60 to 90 seconds per side, moving it to a fresh hot spot if the flames get out of control. Flip it two or three times if needed to build even color without burning. You are chasing a deep mahogany crust with dark grill marks, not a black shell."
+        },
+        {
+          "title": "Sear the fat cap",
+          "text": "Stand the steak on its fat edge using the bone as a handle and hold it there for 30 to 45 seconds until the fat is golden and bubbling. Expect flare-ups here and be ready to lift it away for a second. Rendering that thick ribeye fat cap is what makes the outer edge delicious instead of chewy."
+        },
+        {
+          "title": "Check the final temperature",
+          "text": "Probe the center again: 130 to 132°F (54 to 56°C) is a finished medium-rare, and 138°F (59°C) is medium. If it is still under 125°F, move it back to the cool side with the lid closed for 3 to 5 minutes rather than searing longer and burning the crust. Remember the temperature will climb another 3 to 5°F (2 to 3°C) as it rests."
+        },
+        {
+          "title": "Rest, butter, and hold",
+          "text": "Move the steak to a cutting board with a groove, smear the softened butter over the top, and lay the rosemary sprigs across it. Rest 12 to 15 minutes uncovered — a steak this big holds heat easily and will still be hot when you cut it. The butter will melt down into the crust and pick up the rosemary as it goes."
+        },
+        {
+          "title": "Carve off the bone and slice",
+          "text": "Run a sharp knife along the rib bone to release the entire eye of the steak in one piece, then turn it and slice across the grain into ½-inch (1 cm) strips. Fan the slices back along the bone for presentation and pour the board juices over the top. Finish with the flaky salt right before serving — it should crunch."
+        }
+      ],
+      "tips": [
+        "This same reverse-sear works in the oven: 250°F (120°C) until 115°F (46°C) internal, then sear in a ripping-hot cast-iron skillet 90 seconds a side.",
+        "One tomahawk feeds 2 hungry people or 3 normal ones — a lot of that dramatic weight is bone, so plan on 12 to 14 oz of actual meat per person.",
+        "Buy a leave-in probe thermometer if you cook big cuts often; opening the grill to check costs you far more than the thermometer does.",
+        "Do not trim the fat cap before cooking. Render it on the grill and trim any leftover heavy pieces after slicing.",
+        "Reheat leftovers gently in a 250°F (120°C) oven to 110°F (43°C), then flash them in a hot pan — microwaving turns great steak into gray rubber."
+      ],
+      "keyTemp": "Pull off indirect heat at 115°F (46°C), sear, and serve at 130 to 135°F (54 to 57°C) for medium-rare. Keep the probe 1 inch away from the bone or it will read low.",
+      "pairing": "Grilled asparagus and a loaf of garlic bread, with a bold Zinfandel or Syrah.",
+      "videoQuery": "grilled tomahawk steak reverse sear charcoal",
+      "photoQuery": "grilled tomahawk ribeye sliced board",
+      "tags": ["Grilling", "Showstopper", "Weekend"]
+    },
+    {
+      "id": "beef-wellington",
+      "title": "Classic Beef Wellington",
+      "emoji": "🥧",
+      "art": "roast",
+      "blurb": "Tenderloin wrapped in mushroom duxelles, prosciutto, and golden puff pastry. It is the most impressive thing in this book, and the trick is simply chilling it hard at every stage.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "1 hr",
+      "cookTime": "45 min",
+      "totalTime": "3 hr 30 min",
+      "ingredients": [
+        {
+          "group": "For the beef",
+          "items": [
+            "2 lb (900 g) center-cut beef tenderloin, trimmed, in one even log",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil",
+            "2 tbsp (30 g) Dijon mustard"
+          ]
+        },
+        {
+          "group": "Mushroom duxelles",
+          "items": [
+            "1½ lb (680 g) cremini mushrooms, quartered",
+            "2 shallots, roughly chopped (about ½ cup / 80 g)",
+            "3 tbsp (42 g) unsalted butter",
+            "3 sprigs fresh thyme, leaves picked",
+            "¼ cup (60 ml) dry sherry or dry white wine",
+            "1 tsp (5 g) kosher salt",
+            "½ tsp (1 g) black pepper"
+          ]
+        },
+        {
+          "group": "Wrapping and finishing",
+          "items": [
+            "10 to 12 thin slices prosciutto (about 6 oz / 170 g)",
+            "1 lb (450 g) all-butter puff pastry, thawed but cold",
+            "2 large egg yolks beaten with 1 tbsp (15 ml) heavy cream",
+            "1 tsp flaky sea salt, for the crust"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Shape and tie the tenderloin",
+          "text": "Trim any silverskin off the tenderloin with a thin knife and tie it with kitchen twine at 1½-inch (4 cm) intervals so it forms an even cylinder. An even log cooks evenly and wraps neatly; a tapered one will be overcooked at the thin end. Season all over with the 1½ tsp salt and 1 tsp pepper and let it sit 20 minutes."
+        },
+        {
+          "title": "Sear hard and fast",
+          "text": "Heat the oil in a large skillet over high heat until it just smokes, then sear the tenderloin on all sides, about 90 seconds per side, 6 minutes total. You are only building color and flavor here — the inside should still be completely raw. Move it to a plate, snip off the twine, and let it cool for 10 minutes."
+        },
+        {
+          "title": "Paint it with mustard",
+          "text": "While the beef is still warm but no longer hot, brush the entire surface with the 2 tbsp Dijon mustard in a thin, even coat. The mustard adds a sharp backbone that cuts the richness of the pastry and prosciutto. Refrigerate the beef uncovered while you make the duxelles."
+        },
+        {
+          "title": "Chop the mushrooms fine",
+          "text": "Pulse the mushrooms and shallots in a food processor in two batches, about 10 short pulses each, until they look like coarse crumbs. Do not run it continuously or you will get mushroom purée that never dries out. If you have no processor, chop by hand as finely as you have patience for — it takes about 15 minutes."
+        },
+        {
+          "title": "Cook the duxelles completely dry",
+          "text": "Melt the butter in a wide skillet over medium heat, add the mushroom mixture, thyme, 1 tsp salt, and ½ tsp pepper, and cook 20 to 25 minutes, stirring often. The mushrooms will release a shocking amount of liquid, then that liquid must fully evaporate — keep going until the pan is dry and the mixture pulls away from the sides. Any remaining moisture will turn your pastry into paste, so this is the most important step in the recipe."
+        },
+        {
+          "title": "Deglaze and cool the duxelles",
+          "text": "Pour in the ¼ cup sherry and cook 2 to 3 minutes more, scraping the pan, until it too has evaporated completely. Spread the duxelles on a plate or sheet pan and refrigerate until fully cold, at least 20 minutes. Warm duxelles will melt the pastry butter and soften the prosciutto, so it must be cold before it touches anything."
+        },
+        {
+          "title": "Build the prosciutto blanket",
+          "text": "Lay a large sheet of plastic wrap on the counter and arrange the prosciutto slices in two overlapping rows, forming a rectangle roughly 12 by 14 inches (30 by 36 cm) — big enough to wrap the beef with a small overlap. Spread the cold duxelles over the prosciutto in an even ¼-inch (6 mm) layer, leaving a ½-inch border on the long sides. Press it down gently so it sticks."
+        },
+        {
+          "title": "Roll and chill the log",
+          "text": "Set the mustard-coated beef along one long edge and use the plastic wrap to roll it up tightly, pulling the wrap taut like you are rolling sushi. Twist the ends of the plastic in opposite directions to compact it into a tight, even cylinder. Refrigerate for at least 30 minutes — this chill sets the shape and is what keeps the finished slices round instead of collapsed."
+        },
+        {
+          "title": "Wrap in puff pastry",
+          "text": "Roll the cold puff pastry on a lightly floured counter into a rectangle about 14 by 16 inches (36 by 40 cm) and ⅛ inch (3 mm) thick. Unwrap the chilled log, set it on the pastry, brush the pastry borders with egg wash, and roll it up, trimming any excess so the seam overlaps by only 1 inch. Press the seam and both ends closed, tuck the ends underneath, and set it seam-side down on a parchment-lined sheet pan."
+        },
+        {
+          "title": "Chill again, then decorate",
+          "text": "Refrigerate the wrapped Wellington for 30 minutes, uncovered, so the pastry firms up completely. Brush the whole surface with egg wash, then score a shallow crosshatch or herringbone pattern with the back of a paring knife, cutting no more than 1 mm deep so you do not pierce through. Sprinkle with the flaky salt and put it back in the fridge until the oven is ready."
+        },
+        {
+          "title": "Bake hot",
+          "text": "Heat the oven to 425°F (220°C) with a rack in the lower third. Bake the Wellington for 40 to 45 minutes, rotating the pan once at the 20-minute mark, until the pastry is deep golden brown and firm. Start checking the internal temperature at 35 minutes with a thermometer pushed through the end into the center of the beef."
+        },
+        {
+          "title": "Pull at the right temperature",
+          "text": "Remove the Wellington when the beef center reads 125 to 128°F (52 to 53°C) for medium-rare, or 135°F (57°C) for medium. Carryover in a wrapped roast this insulated is significant — expect it to climb 8 to 10°F (4 to 6°C) while it rests. If the pastry is browning too fast before the beef is ready, tent it loosely with foil."
+        },
+        {
+          "title": "Rest 15 minutes, then slice",
+          "text": "Let the Wellington rest on a cutting board for a full 15 minutes; slicing early will send pink juices flooding through the pastry. Use a long serrated knife and cut with a gentle sawing motion rather than pressing down, so the crust shatters cleanly instead of crushing. Cut into 1½-inch (4 cm) slices and serve two per person."
+        }
+      ],
+      "tips": [
+        "You can build the entire Wellington through the pastry wrap up to 24 hours ahead. Keep it uncovered in the fridge, egg wash and score just before baking, and add 5 minutes to the bake time.",
+        "Soggy bottom is the classic failure and it always traces back to wet duxelles. Cook them until the pan is genuinely dry — if you are unsure, cook 5 minutes more.",
+        "All-butter puff pastry is worth the extra few dollars here; shortening-based pastry bakes up pale and tastes waxy under all that beef.",
+        "A leave-in probe thermometer, inserted through the end of the log before baking, removes all the guesswork on the one dish where guessing is most expensive.",
+        "Serve with a simple red wine sauce or a spoonful of horseradish cream — the Wellington itself is rich enough that it does not need a heavy gravy."
+      ],
+      "keyTemp": "Pull at 125 to 128°F (52 to 53°C) for medium-rare; it rises to 133 to 138°F (56 to 59°C) during the 15-minute rest. Bake at 425°F (220°C).",
+      "pairing": "Buttered green beans and a glass of Bordeaux or a good Pinot Noir.",
+      "videoQuery": "beef wellington duxelles puff pastry technique",
+      "photoQuery": "beef wellington sliced pink center",
+      "tags": ["Showstopper", "Holiday", "Advanced"]
+    },
+    {
+      "id": "classic-pot-roast",
+      "title": "Classic Sunday Pot Roast",
+      "emoji": "🥘",
+      "art": "roast",
+      "blurb": "Chuck roast braised until a spoon goes through it, with carrots, potatoes, and gravy made right in the pot. It takes three hours and about twenty minutes of actual work.",
+      "difficulty": "Easy",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "3 hr 30 min",
+      "totalTime": "3 hr 55 min",
+      "ingredients": [
+        {
+          "group": "For the roast",
+          "items": [
+            "1 boneless beef chuck roast (3½ to 4 lb / 1.6 to 1.8 kg)",
+            "1 tbsp (15 g) kosher salt",
+            "1½ tsp freshly ground black pepper",
+            "2 tbsp (30 ml) vegetable oil",
+            "2 tbsp (32 g) tomato paste",
+            "1 cup (240 ml) dry red wine such as Merlot or Cabernet",
+            "3 cups (720 ml) low-sodium beef broth",
+            "4 sprigs fresh thyme and 2 bay leaves"
+          ]
+        },
+        {
+          "group": "Vegetables",
+          "items": [
+            "2 yellow onions, cut into 1-inch (2.5 cm) wedges",
+            "6 garlic cloves, peeled and smashed",
+            "3 celery stalks, cut into 2-inch (5 cm) pieces",
+            "1½ lb (680 g) carrots, peeled and cut into 2-inch (5 cm) chunks",
+            "1½ lb (680 g) baby Yukon gold potatoes, halved if large"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "2 tbsp (16 g) all-purpose flour mixed with 3 tbsp (45 ml) cold water",
+            "2 tbsp chopped fresh parsley",
+            "½ tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Salt the roast early",
+          "text": "Pat the chuck roast completely dry and season it all over with the tablespoon of kosher salt and the black pepper. If you have time, do this the night before and leave it uncovered on a rack in the fridge; even 45 minutes on the counter helps. Chuck is a thick, dense cut and salt needs time to move past the surface."
+        },
+        {
+          "title": "Heat the oven and the pot",
+          "text": "Set the oven to 325°F (165°C) with a rack in the lower third. Heat the 2 tbsp oil in a 6- to 7-quart Dutch oven over medium-high heat until it shimmers and just begins to smoke. A heavy pot with a tight lid is important here — thin pots scorch and loose lids let all your braising liquid escape."
+        },
+        {
+          "title": "Sear all six sides",
+          "text": "Lower the roast into the pot and sear 4 to 5 minutes per side, including the ends, until every surface is deeply browned — 15 to 20 minutes total. Do not rush this; browning is where the deep, roasty flavor of pot roast actually comes from, and pale meat makes pale, thin gravy. If the pot starts smoking hard or the bits on the bottom look black rather than brown, drop the heat a notch."
+        },
+        {
+          "title": "Brown the aromatics",
+          "text": "Move the roast to a plate and pour off all but about 2 tablespoons of fat. Add the onion wedges, celery, and smashed garlic and cook 5 to 6 minutes over medium heat, stirring and scraping, until the onions have soft brown edges. The vegetables will release moisture that helps lift the fond off the bottom of the pot."
+        },
+        {
+          "title": "Cook the tomato paste",
+          "text": "Push the vegetables aside, add the tomato paste to the bare spot, and cook it for 90 seconds, stirring, until it darkens from bright red to brick. Raw tomato paste tastes tinny; cooked paste tastes deep and savory. Stir it through the vegetables once it has darkened."
+        },
+        {
+          "title": "Deglaze with wine",
+          "text": "Pour in the cup of red wine and scrape the bottom of the pot hard with a wooden spoon until nothing is stuck. Let it bubble and reduce by half, about 4 minutes, so the raw alcohol edge cooks off. Everything you scrape up now becomes gravy later."
+        },
+        {
+          "title": "Add broth and braise",
+          "text": "Return the roast and any accumulated juices to the pot, add the 3 cups beef broth, and tuck in the thyme sprigs and bay leaves. The liquid should come about two-thirds of the way up the roast, not cover it — pot roast is a braise, not a boil. Bring it to a bare simmer on the stove, then cover and move it to the oven."
+        },
+        {
+          "title": "Cook low for 2½ hours",
+          "text": "Braise for 2½ hours, flipping the roast once at the halfway point so both halves spend time submerged. Keep the lid on the whole time otherwise; every peek drops the pot temperature. The kitchen will start smelling right after about an hour, which is a good sign but not a doneness cue."
+        },
+        {
+          "title": "Add the root vegetables",
+          "text": "After 2½ hours, add the carrots and potatoes, nestling them into the liquid around the roast. Cover and return to the oven for 45 to 60 minutes more, until the vegetables are tender when pierced with a paring knife. Adding them late is the difference between vegetables with texture and vegetables that have dissolved into the sauce."
+        },
+        {
+          "title": "Test for fork-tender",
+          "text": "The roast is done when a fork slides in and twists with almost no resistance and the internal temperature reads 200 to 205°F (93 to 96°C). This is far above any steak temperature and that is the point — at this heat the collagen has melted into gelatin. If it still fights the fork, give it another 30 minutes; undercooked chuck is tough, not rare."
+        },
+        {
+          "title": "Rest and make the gravy",
+          "text": "Move the roast and vegetables to a platter and tent with foil. Skim the fat off the top of the braising liquid with a wide spoon, bring it to a simmer on the stove, and whisk in the flour-and-water slurry. Simmer 3 to 5 minutes until it thickens enough to coat a spoon, then taste and add the ½ tsp salt as needed."
+        },
+        {
+          "title": "Pull apart and serve",
+          "text": "Pull the roast into large chunks with two forks, following the natural seams, and discard any big pockets of hard fat. Arrange the meat and vegetables on the platter, ladle the gravy generously over everything, and scatter the parsley on top. Serve straight from the platter with the rest of the gravy on the side."
+        }
+      ],
+      "tips": [
+        "Pot roast is better on day two. Cool it in its liquid, refrigerate overnight, lift off the solid fat cap, and reheat gently at 300°F (150°C) for 45 minutes.",
+        "Chuck roast is the right cut — it has the connective tissue that melts into richness. Round or sirloin roasts will come out dry and stringy no matter how long you cook them.",
+        "No wine? Use an extra cup of beef broth plus 1 tbsp balsamic vinegar or Worcestershire for depth.",
+        "If it is tough after 3 hours, it is undercooked, not overcooked. Put the lid back on and keep going — chuck needs to pass 200°F (93°C) to give up.",
+        "This works in a slow cooker too: sear on the stove first, then 8 hours on low, adding the potatoes and carrots in the last 2 hours."
+      ],
+      "keyTemp": "Braise at 325°F (165°C) until the roast reads 200 to 205°F (93 to 96°C) and shreds with a fork. Anything under 195°F (90°C) will still be tough.",
+      "pairing": "Crusty bread for the gravy and a simple green salad, with a glass of Merlot.",
+      "videoQuery": "classic pot roast dutch oven recipe",
+      "photoQuery": "pot roast carrots potatoes gravy",
+      "tags": ["Comfort Food", "Sunday Dinner", "One Pot"]
+    },
+    {
+      "id": "red-wine-braised-short-ribs",
+      "title": "Red Wine Braised Short Ribs",
+      "emoji": "🍲",
+      "art": "ribs",
+      "blurb": "Bone-in short ribs braised in a whole bottle of red until the meat slumps off the bone. The sauce reduces down into something dark and glossy that tastes like a restaurant made it.",
+      "difficulty": "Medium",
+      "servings": "4 to 6 servings",
+      "prepTime": "30 min",
+      "cookTime": "3 hr 15 min",
+      "totalTime": "3 hr 45 min",
+      "ingredients": [
+        {
+          "group": "For the ribs",
+          "items": [
+            "5 lb (2.3 kg) bone-in English-cut beef short ribs, cut into 3-inch (8 cm) pieces",
+            "1 tbsp (15 g) kosher salt",
+            "1½ tsp freshly ground black pepper",
+            "3 tbsp (45 ml) vegetable oil",
+            "¼ cup (32 g) all-purpose flour, for dredging"
+          ]
+        },
+        {
+          "group": "Braising liquid",
+          "items": [
+            "2 yellow onions, diced (about 3 cups / 400 g)",
+            "3 carrots, diced (about 1½ cups / 200 g)",
+            "3 celery stalks, diced (about 1 cup / 130 g)",
+            "6 garlic cloves, smashed",
+            "3 tbsp (48 g) tomato paste",
+            "1 bottle (750 ml) dry red wine such as Cabernet Sauvignon or Syrah",
+            "3 cups (720 ml) low-sodium beef stock",
+            "6 sprigs fresh thyme, 2 bay leaves, and 4 sprigs parsley, tied together"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "1 tbsp (15 ml) red wine vinegar",
+            "2 tbsp (28 g) cold unsalted butter",
+            "½ tsp flaky sea salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Salt the ribs ahead",
+          "text": "Pat the short ribs dry and season them all over with the tablespoon of kosher salt and the black pepper. Refrigerate uncovered on a rack for 8 to 24 hours if you can, or at minimum leave them at room temperature for 45 minutes. Short ribs are thick and heavily marbled, and early salting is what gets seasoning into the middle."
+        },
+        {
+          "title": "Dredge lightly in flour",
+          "text": "Just before searing, roll each rib in the ¼ cup flour and shake off the excess so only a thin dusting remains. The flour helps build a deeper crust and slightly thickens the finished sauce. Do not do this ahead — sitting flour turns gummy and will not brown properly."
+        },
+        {
+          "title": "Sear in batches",
+          "text": "Heat the oil in a 7-quart Dutch oven over medium-high until shimmering, then sear the ribs in two or three batches, 2 to 3 minutes per side, until every side is deep brown. Never crowd the pot; ribs packed together drop the temperature and steam instead of searing. Move each finished batch to a plate and expect the whole process to take 20 minutes."
+        },
+        {
+          "title": "Heat the oven and cook the vegetables",
+          "text": "Set the oven to 325°F (165°C). Pour off all but 3 tablespoons of fat, add the onions, carrots, celery, and garlic to the pot, and cook over medium heat for 8 to 10 minutes until softened and lightly browned at the edges. Scrape the bottom as they release moisture — the fond lifting off is exactly what you want."
+        },
+        {
+          "title": "Darken the tomato paste",
+          "text": "Stir in the 3 tbsp tomato paste and cook for 2 minutes, spreading it across the bottom of the pot so it toasts. It should go from bright red to a deep brick color and smell sweet rather than raw. This small step adds a surprising amount of body to the finished sauce."
+        },
+        {
+          "title": "Reduce the wine hard",
+          "text": "Pour in the entire bottle of red wine and bring it to a strong simmer, scraping the bottom clean. Reduce it by about half, 12 to 15 minutes, until the harsh alcohol smell is gone and the liquid smells like fruit and wood. Skipping this reduction is the reason home braises sometimes taste sour and thin."
+        },
+        {
+          "title": "Add the ribs and stock",
+          "text": "Return the ribs and any juices to the pot, bone-side up, and add the 3 cups beef stock and the tied herb bundle. The liquid should come about three-quarters of the way up the meat; add a splash more stock if needed but do not submerge them. Bring everything to a bare simmer on the stovetop."
+        },
+        {
+          "title": "Braise covered for 2½ hours",
+          "text": "Cover with a tight lid and transfer to the 325°F (165°C) oven for 2½ to 3 hours. Check once at the 2-hour mark and add a little water if the level has dropped below halfway up the ribs. The liquid should be barely burbling when you peek, not boiling — if it is boiling, lower the oven by 25°F."
+        },
+        {
+          "title": "Test for doneness",
+          "text": "The ribs are ready when the meat has pulled back from the bone by about ½ inch (1 cm) and a fork twists in it with no resistance, around 200 to 205°F (93 to 96°C) internal. If they are still firm, they need more time, not more heat. Fully done short ribs will almost slide off the bone when lifted with tongs."
+        },
+        {
+          "title": "Rest and defat the sauce",
+          "text": "Carefully lift the ribs out onto a platter and tent with foil. Strain the braising liquid through a fine-mesh sieve into a wide saucepan, pressing gently on the vegetables to extract flavor, then discard the solids and herb bundle. Let it settle 5 minutes and skim the fat off the top with a wide spoon or a fat separator — there will be a lot."
+        },
+        {
+          "title": "Reduce and finish the sauce",
+          "text": "Simmer the strained liquid over medium-high heat for 10 to 15 minutes until it has reduced to about 2 cups and coats the back of a spoon. Take it off the heat, whisk in the red wine vinegar and the cold butter until glossy, and taste for salt. The vinegar is not optional — it lifts a sauce this rich out of heaviness."
+        },
+        {
+          "title": "Serve over something soft",
+          "text": "Spoon the ribs over creamy polenta, mashed potatoes, or buttered egg noodles and ladle the sauce generously over the top. Finish with the flaky salt and a little chopped parsley if you have it. Serve in shallow bowls so nobody loses any of the sauce."
+        }
+      ],
+      "tips": [
+        "Make this a day ahead. Cool the ribs in their strained liquid, refrigerate overnight, lift off the solid fat cap, and reheat covered at 325°F (165°C) for 30 minutes — the flavor is noticeably better.",
+        "Ask for English-cut short ribs, thick blocks with one bone each, not flanken-cut cross-sections, which are meant for grilling.",
+        "Use a dry, full-bodied red you would drink. It reduces to a quarter of its volume, so anything unpleasant becomes four times as unpleasant.",
+        "If the finished sauce tastes flat, it needs acid or salt, not more cooking. Add vinegar ½ teaspoon at a time until it snaps into focus.",
+        "The strained braising vegetables can be blended with a ladle of sauce into a thick purée if you would rather not waste them."
+      ],
+      "keyTemp": "Braise at 325°F (165°C) until the meat reads 200 to 205°F (93 to 96°C) and a fork twists freely. Bring the finished sauce to a simmer of about 200°F (93°C) to reduce.",
+      "pairing": "Creamy parmesan polenta and a glass of the same Cabernet you braised with.",
+      "videoQuery": "red wine braised short ribs dutch oven",
+      "photoQuery": "braised short ribs polenta sauce",
+      "tags": ["Comfort Food", "Make Ahead", "Braise"]
+    },
+    {
+      "id": "beef-stroganoff",
+      "title": "Beef Stroganoff over Egg Noodles",
+      "emoji": "🍜",
+      "art": "noodles",
+      "blurb": "Quick-seared strips of sirloin in a sour cream and mushroom sauce, spooned over buttered egg noodles. The whole thing comes together in under an hour and tastes like it took all day.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "30 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "For the beef",
+          "items": [
+            "1½ lb (680 g) beef sirloin or tenderloin tips, sliced ¼ in (6 mm) thick against the grain",
+            "1 tsp (5 g) kosher salt",
+            "½ tsp (1 g) freshly ground black pepper",
+            "2 tbsp (30 ml) vegetable oil"
+          ]
+        },
+        {
+          "group": "Sauce",
+          "items": [
+            "4 tbsp (55 g) unsalted butter, divided",
+            "1 lb (450 g) cremini mushrooms, sliced ¼ in (6 mm) thick",
+            "1 large yellow onion, thinly sliced (about 2 cups / 250 g)",
+            "3 garlic cloves, minced (1 tbsp)",
+            "3 tbsp (24 g) all-purpose flour",
+            "2 cups (480 ml) low-sodium beef stock",
+            "1 tbsp (15 g) Dijon mustard",
+            "1½ tsp (7 ml) Worcestershire sauce",
+            "¾ cup (180 g) full-fat sour cream, at room temperature",
+            "½ tsp kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12 oz (340 g) wide egg noodles",
+            "2 tbsp (28 g) butter, for the noodles",
+            "3 tbsp chopped fresh dill or parsley"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Slice the beef properly",
+          "text": "Firm the beef in the freezer for 15 minutes, which makes thin slicing far easier, then cut it across the grain into strips about ¼ inch (6 mm) thick and 2 inches (5 cm) long. Cutting against the grain shortens the muscle fibers so quick-cooked beef stays tender. Pat the strips very dry and season with the 1 tsp salt and ½ tsp pepper."
+        },
+        {
+          "title": "Get the pan very hot",
+          "text": "Heat the 2 tbsp oil in a large 12-inch (30 cm) skillet over high heat until it shimmers and just wisps smoke. A large pan matters here — you need surface area so the beef browns instead of steaming. Set a plate next to the stove because the beef comes out fast."
+        },
+        {
+          "title": "Sear the beef in two batches",
+          "text": "Add half the beef in a single layer with space between the pieces and sear 45 to 60 seconds per side, just until browned. Do not cook it through; it will finish in the sauce at the end and overcooked sirloin turns to leather. Move it to the plate and repeat with the second batch, adding a little more oil if the pan is dry."
+        },
+        {
+          "title": "Brown the mushrooms",
+          "text": "Lower the heat to medium-high, add 2 tbsp of the butter, and add the sliced mushrooms in as close to a single layer as you can. Let them sit undisturbed for 3 minutes so they brown, then stir and cook 5 to 6 minutes more until they have released their liquid and it has cooked away. Mushrooms that are pale and swimming will make a watery, gray sauce."
+        },
+        {
+          "title": "Soften the onion and garlic",
+          "text": "Add the remaining 2 tbsp butter and the sliced onion and cook 5 to 6 minutes over medium heat until soft and golden at the edges. Stir in the minced garlic for the last 45 seconds, just until it smells sweet. Scrape the bottom of the pan as you go to lift up the browned beef fond."
+        },
+        {
+          "title": "Boil the noodles",
+          "text": "Around now, start a large pot of well-salted water — about 1 tablespoon of salt per 4 quarts — and cook the egg noodles according to the package, usually 7 to 9 minutes. Drain them and toss with the 2 tbsp butter so they do not clump. Timing the noodles to finish with the sauce keeps them from turning gluey."
+        },
+        {
+          "title": "Make the roux",
+          "text": "Sprinkle the 3 tbsp flour over the mushrooms and onions and stir constantly for 90 seconds so the raw flour taste cooks out. The mixture will look dry and pasty and cling to the vegetables, which is exactly right. This is what will give the sauce its body."
+        },
+        {
+          "title": "Add the stock gradually",
+          "text": "Pour in about a third of the beef stock and stir hard until it thickens into a smooth paste, then add the rest in two more additions, stirring between each. Adding liquid in stages is how you avoid lumps — dumping it all in at once almost guarantees them. Bring it to a gentle simmer and cook 4 to 5 minutes until it thickly coats a spoon."
+        },
+        {
+          "title": "Season the sauce",
+          "text": "Stir in the Dijon mustard and Worcestershire sauce and taste. It should taste savory and slightly sharp; add the ½ tsp salt as needed, remembering that sour cream will mute it slightly. If the sauce is thicker than heavy cream, loosen it with a splash of stock."
+        },
+        {
+          "title": "Temper in the sour cream",
+          "text": "Take the pan completely off the heat and let it cool for 60 seconds. Whisk a ladle of the hot sauce into the room-temperature sour cream in a small bowl, then stir that mixture back into the pan. Sour cream curdles above about 180°F (82°C), and tempering it like this is the only reliable way to keep the sauce smooth."
+        },
+        {
+          "title": "Return the beef and warm through",
+          "text": "Add the seared beef and all its resting juices back to the pan and set it over low heat for 2 to 3 minutes, just until everything is hot. Do not let it boil again or the sour cream will break and the beef will toughen. The beef should be barely pink in the center when you serve it."
+        },
+        {
+          "title": "Serve over the noodles",
+          "text": "Spoon the stroganoff over the buttered egg noodles in wide shallow bowls and scatter the dill or parsley on top. Serve immediately — the sauce is at its best right off the heat and will tighten as it sits. A crack of black pepper at the table finishes it."
+        }
+      ],
+      "tips": [
+        "Full-fat sour cream only. Low-fat and nonfat versions have less fat to stabilize them and will split the moment they meet the hot sauce.",
+        "Take the sour cream out of the fridge when you start cooking. Cold dairy hitting a hot pan is the other main cause of a broken sauce.",
+        "Ground beef makes a fine weeknight shortcut version: brown 1½ lb (680 g), drain the fat, and continue from the mushroom step.",
+        "Leftovers reheat best on the stove over low heat with a splash of stock. Microwaving on high will break the sauce every time.",
+        "A splash of brandy or dry sherry, about 3 tbsp, added to the mushrooms before the flour is a traditional and very good addition."
+      ],
+      "keyTemp": "Keep the sauce below 180°F (82°C) once the sour cream goes in or it will curdle. The beef should reach 130 to 135°F (54 to 57°C) and no more.",
+      "pairing": "A crisp cucumber and dill salad, with a dry Riesling or a light Pinot Noir.",
+      "videoQuery": "beef stroganoff sour cream egg noodles",
+      "photoQuery": "beef stroganoff egg noodles bowl",
+      "tags": ["Weeknight", "Comfort Food", "Skillet"]
+    },
+    {
+      "id": "salisbury-steak-mushroom-gravy",
+      "title": "Salisbury Steak with Mushroom Gravy",
+      "emoji": "🍄",
+      "art": "steak",
+      "blurb": "Seasoned beef patties simmered in a deep onion-mushroom gravy. This is old-school American diner food done properly, and it is genuinely one of the best cheap dinners going.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "For the patties",
+          "items": [
+            "1½ lb (680 g) ground chuck, 80/20",
+            "⅓ cup (35 g) panko breadcrumbs",
+            "¼ cup (60 ml) whole milk",
+            "1 large egg yolk",
+            "½ small yellow onion, grated on a box grater (about ¼ cup / 45 g)",
+            "1 tbsp (15 g) ketchup",
+            "2 tsp (10 ml) Worcestershire sauce",
+            "1¼ tsp (6 g) kosher salt",
+            "½ tsp (1 g) freshly ground black pepper",
+            "1 tbsp (15 ml) vegetable oil"
+          ]
+        },
+        {
+          "group": "Mushroom onion gravy",
+          "items": [
+            "3 tbsp (42 g) unsalted butter",
+            "8 oz (225 g) cremini or white mushrooms, sliced",
+            "1 large yellow onion, thinly sliced (about 2 cups / 250 g)",
+            "3 tbsp (24 g) all-purpose flour",
+            "2½ cups (600 ml) low-sodium beef broth",
+            "1 tbsp (15 ml) Worcestershire sauce",
+            "1 tsp Dijon mustard",
+            "½ tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make a panade",
+          "text": "Stir the panko and milk together in a large bowl and let it sit for 5 minutes until the crumbs have swelled into a thick paste. This is called a panade, and it is what keeps ground beef patties tender and juicy even after simmering in gravy. Without it, the patties turn dense and springy."
+        },
+        {
+          "title": "Mix the patty base",
+          "text": "Add the egg yolk, grated onion, ketchup, 2 tsp Worcestershire, 1¼ tsp salt, and ½ tsp pepper to the panade and whisk until smooth. Grating the onion instead of chopping it releases juice and eliminates raw crunchy bits in the finished patty. Having everything combined before the beef goes in means less handling of the meat."
+        },
+        {
+          "title": "Combine gently",
+          "text": "Add the ground chuck and mix with your hands or a fork just until no dry streaks remain, about 30 seconds. Overworking ground beef develops the proteins and gives you a bouncy, sausage-like texture. Stop while the mixture still looks a little rough."
+        },
+        {
+          "title": "Shape four ovals",
+          "text": "Divide the mixture into 4 equal portions, roughly 7 oz (200 g) each, and shape each into an oval about 5 inches long and ¾ inch (2 cm) thick. Press a shallow dimple into the center of each with your thumb so they do not dome up as they cook. Set them on a plate and chill for 10 minutes if your kitchen is warm."
+        },
+        {
+          "title": "Sear the patties",
+          "text": "Heat the tablespoon of oil in a 12-inch (30 cm) skillet over medium-high heat until shimmering, then add the patties without crowding. Sear 3 to 4 minutes per side until a solid brown crust forms, flipping only once. They will not be cooked through and should not be — they finish in the gravy."
+        },
+        {
+          "title": "Set the patties aside",
+          "text": "Move the seared patties to a plate and pour off all but about 1 tablespoon of fat, leaving the browned bits behind. Those bits are the flavor base of the gravy, so do not wipe the pan out. Lower the heat to medium."
+        },
+        {
+          "title": "Brown the mushrooms",
+          "text": "Add the 3 tbsp butter and the sliced mushrooms and cook 6 to 7 minutes, stirring occasionally, until they have given up their water and started to brown. They will look sad and shrunken halfway through, which is normal — keep going until the pan is dry again. Browned mushrooms taste meaty, boiled ones taste like nothing."
+        },
+        {
+          "title": "Soften the onions",
+          "text": "Add the sliced onion and cook 6 to 8 minutes more, scraping the fond off the bottom as the onions release moisture. You are looking for limp, golden onions with browned edges, not translucent ones. This is where a diner-style gravy gets its sweetness."
+        },
+        {
+          "title": "Make the roux",
+          "text": "Sprinkle the 3 tbsp flour over the vegetables and stir constantly for 90 seconds, coating everything evenly. The mixture will look dry and clumpy, which is exactly what you want before liquid goes in. Cooking the flour now prevents the pasty raw-flour taste that ruins a lot of homemade gravy."
+        },
+        {
+          "title": "Build the gravy",
+          "text": "Pour in the beef broth in three additions, stirring smooth after each one, then add the 1 tbsp Worcestershire and the Dijon. Bring it to a simmer and cook 3 to 4 minutes until it thickens to the consistency of heavy cream. Taste and add the ½ tsp salt if it needs it."
+        },
+        {
+          "title": "Simmer the patties through",
+          "text": "Nestle the patties and any juices from the plate back into the gravy, spooning some over the tops. Cover and simmer gently on low for 10 to 12 minutes, flipping once at the halfway point. Ground beef must reach 160°F (71°C) in the center for safety — check with an instant-read thermometer rather than guessing."
+        },
+        {
+          "title": "Rest briefly and serve",
+          "text": "Take the pan off the heat and let it sit 3 to 4 minutes so the gravy thickens slightly and the patties settle. Serve over mashed potatoes or buttered egg noodles with plenty of gravy spooned over the top. A little chopped parsley brightens the whole plate if you have some."
+        }
+      ],
+      "tips": [
+        "80/20 ground chuck is the right choice. Leaner beef, 90/10 or above, makes dry, crumbly patties no matter how good your panade is.",
+        "The patties can be shaped up to a day ahead and kept covered in the fridge, which actually helps them hold together in the pan.",
+        "This freezes beautifully. Cool completely, freeze patties and gravy together in a container for up to 3 months, and reheat covered at 325°F (165°C).",
+        "If the gravy gets too thick while simmering, thin it with a splash of broth; if it is thin, uncover and simmer 3 minutes longer.",
+        "For a richer version, swap 1 cup of the beef broth for a dark beer or ½ cup dry red wine plus ½ cup broth."
+      ],
+      "keyTemp": "Ground beef must reach 160°F (71°C) in the center — this is a food-safety temperature, not a preference. The gravy should simmer gently, around 190°F (88°C).",
+      "pairing": "Buttery mashed potatoes and steamed peas, with a cold amber ale.",
+      "videoQuery": "salisbury steak mushroom onion gravy",
+      "photoQuery": "salisbury steak mushroom gravy mashed potatoes",
+      "tags": ["Weeknight", "Comfort Food", "Budget"]
+    },
+    {
+      "id": "marinated-london-broil",
+      "title": "Marinated London Broil",
+      "emoji": "🥩",
+      "art": "steak",
+      "blurb": "A lean top round soaked overnight in soy, balsamic, and garlic, then broiled hard and sliced paper-thin. It feeds a crowd for very little money and makes outstanding sandwiches the next day.",
+      "difficulty": "Easy",
+      "servings": "4 to 6 servings",
+      "prepTime": "15 min",
+      "cookTime": "20 min",
+      "totalTime": "6 hr 45 min",
+      "ingredients": [
+        {
+          "group": "For the beef",
+          "items": [
+            "2 lb (900 g) top round or flank steak, 1½ to 2 in (4 to 5 cm) thick",
+            "1 tsp (5 g) kosher salt",
+            "1 tsp freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Marinade",
+          "items": [
+            "⅓ cup (80 ml) soy sauce",
+            "¼ cup (60 ml) balsamic vinegar",
+            "¼ cup (60 ml) olive oil",
+            "2 tbsp (30 ml) fresh lemon juice",
+            "1 tbsp (15 ml) Worcestershire sauce",
+            "1 tbsp (21 g) honey",
+            "5 garlic cloves, minced (about 1½ tbsp)",
+            "1 tsp dried oregano",
+            "1 tsp coarsely ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Understand the cut",
+          "text": "London broil is a cooking method, not a cut — most stores sell top round or sometimes flank under that name. It is very lean and has almost no marbling, which means two rules are absolute: do not cook past medium-rare, and slice it as thin as you possibly can. Everything else in this recipe exists to support those two rules."
+        },
+        {
+          "title": "Score the surface",
+          "text": "Using a sharp knife, cut a shallow diamond crosshatch about ⅛ inch (3 mm) deep into both sides of the meat, spacing the cuts 1 inch (2.5 cm) apart. Scoring gives the marinade more surface to work on and helps the lean muscle stay flat under high heat instead of curling. Keep the cuts shallow so you do not create channels for juice to escape."
+        },
+        {
+          "title": "Whisk the marinade",
+          "text": "In a bowl, whisk together the soy sauce, balsamic vinegar, olive oil, lemon juice, Worcestershire, honey, garlic, oregano, and 1 tsp pepper until the honey has dissolved. The soy provides salt, the acid tenderizes the surface, and the honey helps it brown under the broiler. Taste it — it should be salty and tangy, almost too strong on its own."
+        },
+        {
+          "title": "Marinate 6 to 24 hours",
+          "text": "Put the beef in a zip-top bag, pour in the marinade, press out the air, and refrigerate for at least 6 hours and up to 24. Flip the bag two or three times so both sides get equal contact. This cut genuinely needs the full time — 30 minutes will do almost nothing to a piece of meat this dense."
+        },
+        {
+          "title": "Bring it to room temperature",
+          "text": "Pull the beef out of the fridge 45 minutes before cooking and leave it in the marinade on the counter. A cold, dense roast under a broiler will burn on the outside before the center gets anywhere near done. Meanwhile, set an oven rack so the top of the meat will sit about 4 inches (10 cm) below the broiler element."
+        },
+        {
+          "title": "Preheat the broiler fully",
+          "text": "Turn the broiler to high and let it preheat for a full 10 minutes with the pan you will use already inside. A screaming-hot pan means the underside starts browning immediately instead of steaming. Use a heavy sheet pan or a cast-iron skillet, never glass, which can shatter under a broiler."
+        },
+        {
+          "title": "Dry and season the meat",
+          "text": "Lift the beef out of the marinade and pat it thoroughly dry with paper towels, wiping away any garlic bits that would burn. Season both sides with the 1 tsp kosher salt and 1 tsp black pepper. Discard the used marinade — it has held raw meat and should not be reused."
+        },
+        {
+          "title": "Broil the first side",
+          "text": "Set the meat on the preheated pan and broil for 6 to 7 minutes without opening the door. You are looking for a dark, well-browned surface with some charred spots at the edges. If your broiler is weak, this may take 8 or 9 minutes; watch through the window rather than trusting the clock."
+        },
+        {
+          "title": "Flip and finish",
+          "text": "Turn the meat with tongs and broil the second side 5 to 7 minutes more, then start checking the internal temperature. Pull it at 125 to 128°F (52 to 53°C) for medium-rare. This cut has no fat to protect it, so 140°F (60°C) is already dry and 150°F (66°C) is beyond saving."
+        },
+        {
+          "title": "Rest a full 10 minutes",
+          "text": "Move the beef to a cutting board and rest it for 10 minutes, tented loosely with foil. Lean meat holds its juices precariously, and cutting into it early will leave a puddle on the board and a dry steak on the plate. The temperature will drift up about 5°F (3°C) during the rest."
+        },
+        {
+          "title": "Slice paper-thin against the grain",
+          "text": "Find the direction the muscle fibers run, then hold your knife at a 45-degree angle and slice across them as thinly as you can manage, ⅛ to ¼ inch (3 to 6 mm). Thin slicing across the grain is what turns an inexpensive, chewy cut into something tender. Thick slices of top round will feel like leather no matter how perfectly you cooked it."
+        },
+        {
+          "title": "Dress with the board juices",
+          "text": "Tilt the cutting board and spoon the collected juices back over the sliced meat, which reseasons it and keeps the surface glossy. Serve immediately on a warm platter. If you want a sauce, a spoonful of chimichurri or a simple horseradish cream is perfect here."
+        }
+      ],
+      "tips": [
+        "A sharp, long knife matters more here than in any other recipe in this chapter. A dull knife tears lean beef into shreds instead of slicing it.",
+        "No broiler you trust? Grill it over high direct heat for the same times, or sear in a cast-iron skillet and finish in a 425°F (220°C) oven.",
+        "Leftovers make the best steak sandwiches — pile the cold thin slices on a roll with horseradish mayo, arugula, and red onion.",
+        "Do not marinate past 24 hours. The acid will start breaking down the surface into a soft, mushy layer that never browns properly."
+      ],
+      "keyTemp": "Pull at 125 to 128°F (52 to 53°C) for medium-rare, resting to 130 to 133°F (54 to 56°C). Lean top round is unpleasantly dry above 140°F (60°C).",
+      "pairing": "Roasted potatoes and a sharp arugula salad, with a Chianti or a dry rosé.",
+      "videoQuery": "london broil marinade broiler top round",
+      "photoQuery": "london broil sliced thin platter",
+      "tags": ["Budget", "Make Ahead", "Crowd Pleaser"]
+    },
+    {
+      "id": "santa-maria-tri-tip",
+      "title": "Santa Maria Grilled Tri-Tip",
+      "emoji": "🧂",
+      "art": "roast",
+      "blurb": "Central California barbecue at its simplest: salt, pepper, garlic, and a hot fire. Tri-tip has a beefy, almost mineral flavor and slices into thin, juicy fans if you read the grain right.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "15 min",
+      "cookTime": "45 min",
+      "totalTime": "2 hr 15 min",
+      "ingredients": [
+        {
+          "group": "For the roast",
+          "items": [
+            "1 tri-tip roast (2½ to 3 lb / 1.1 to 1.4 kg), fat cap trimmed to ¼ in (6 mm)",
+            "2 tsp (10 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Santa Maria rub",
+          "items": [
+            "1 tbsp (15 g) kosher salt",
+            "1 tbsp coarsely ground black pepper",
+            "2 tsp garlic powder",
+            "1 tsp onion powder",
+            "1 tsp sweet paprika",
+            "1 tsp dried rosemary, crumbled",
+            "½ tsp (1 g) cayenne pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Trim and inspect the roast",
+          "text": "Trim the fat cap down to about ¼ inch (6 mm) and remove any silverskin, which is the thin, shiny membrane that never renders and turns rubbery. Notice the shape: a tri-tip is a triangle with a thick end and a thin tail, which is why the tail always cooks faster. Pat it completely dry before seasoning."
+        },
+        {
+          "title": "Mix the Santa Maria rub",
+          "text": "Stir together the kosher salt, black pepper, garlic powder, onion powder, paprika, crumbled rosemary, and cayenne in a small bowl. Traditional Santa Maria rub is nothing but salt, pepper, and garlic, and the rest here is a light modern touch. Coarse pepper is important — it forms a crust rather than dissolving in."
+        },
+        {
+          "title": "Season and let it rest",
+          "text": "Coat the tri-tip on all sides with the rub, pressing it in firmly with your hands so it adheres. Let it sit on a rack at room temperature for 1 hour, or refrigerate uncovered for up to 24 hours for a deeper dry brine. You will see the surface go from dry to wet to tacky as the salt does its work — tacky is when it is ready."
+        },
+        {
+          "title": "Build a two-zone fire",
+          "text": "For charcoal, bank a full chimney of lit coals to one side; for gas, light half the burners on high and leave the other half off. Close the lid and let the grill settle so the indirect side reads about 350°F (175°C). Red oak is the traditional Santa Maria wood, and a couple of chunks on the coals is a genuine upgrade if you can find it."
+        },
+        {
+          "title": "Start on the cool side",
+          "text": "Brush the tri-tip with the 2 tsp oil and set it on the indirect side, fat cap up, with the thin tail pointed away from the fire. Close the lid and cook for 20 to 30 minutes without opening it. Keeping the thin end away from the heat is how you avoid a well-done tail attached to a rare center."
+        },
+        {
+          "title": "Cook to 115°F",
+          "text": "Start checking at 20 minutes with an instant-read thermometer in the thickest part of the roast. Continue until it reads 115°F (46°C), which usually takes 25 to 35 minutes total at 350°F. Grill temperatures vary a lot, so the thermometer decides when to move on, not the clock."
+        },
+        {
+          "title": "Sear over direct heat",
+          "text": "Move the roast directly over the coals and sear 2 to 3 minutes per side, rotating as needed to build an even dark crust. Expect flare-ups from the rendering fat cap — slide the meat to a cooler spot for a few seconds rather than fighting the flames. The rub will darken noticeably, which is exactly what you want."
+        },
+        {
+          "title": "Check the final temperature",
+          "text": "Pull the tri-tip when the thickest part reads 130°F (54°C) for medium-rare or 138°F (59°C) for medium. Remember that the thin tail will already be 10 to 15 degrees hotter, which is convenient if you are feeding people who like different doneness. Anything past 145°F (63°C) makes this cut noticeably chewy."
+        },
+        {
+          "title": "Rest 15 minutes",
+          "text": "Move the roast to a cutting board and rest it uncovered for 15 minutes. This is a big, dense piece of meat and needs the full time for the juices to settle back into the fibers. Do not tent it tightly with foil, which will steam the crust you just built."
+        },
+        {
+          "title": "Find where the grain changes",
+          "text": "Look closely at the surface: a tri-tip has two muscle groups whose fibers run in different directions, meeting roughly at the middle of the triangle. Cut the roast in half along that line first, separating the two sections. This one step is what separates good tri-tip from tough tri-tip, and almost everybody gets it wrong the first time."
+        },
+        {
+          "title": "Slice each half against its grain",
+          "text": "Turn each half so its fibers run left to right, then slice across them at a slight angle, about ¼ inch (6 mm) thick. You will notice the two halves need to be turned differently, which is the whole point of separating them. Fan the slices out on a warm platter and pour the board juices over the top."
+        },
+        {
+          "title": "Serve family style",
+          "text": "Santa Maria style means the meat goes on the table with pinquito or pinto beans, grilled garlic bread, and a simple fresh salsa. Serve immediately while the slices are hot and the crust is still crisp. Any leftovers should be kept in a whole piece and sliced to order so they stay juicy."
+        }
+      ],
+      "tips": [
+        "This works in the oven too: 350°F (175°C) until 115°F (46°C) internal, roughly 30 to 40 minutes, then sear in a screaming-hot cast-iron skillet for 90 seconds a side.",
+        "Tri-tip is common in the western United States and harder to find elsewhere; ask the butcher for a bottom sirloin triangle roast and they will know what you mean.",
+        "The dry rub can be mixed in a big batch and stored in a jar for 6 months — it is excellent on steaks, chicken, and potatoes.",
+        "Do not slice the whole roast at once if you are not serving it all. Sliced beef dries out within minutes on a platter.",
+        "If you cannot find red oak, a chunk of hickory or a couple of soaked oak chips in a foil packet will get you close."
+      ],
+      "keyTemp": "Move to the sear at 115°F (46°C) and pull at 130°F (54°C) for medium-rare, resting to 133 to 135°F (56 to 57°C). Above 145°F (63°C) tri-tip gets tough.",
+      "pairing": "Pinquito beans, grilled garlic bread, and a big Zinfandel.",
+      "videoQuery": "santa maria tri tip grill slicing grain",
+      "photoQuery": "santa maria tri tip sliced platter",
+      "tags": ["Grilling", "Barbecue", "Crowd Pleaser"]
+    },
+    {
+      "id": "hanger-steak-chimichurri",
+      "title": "Hanger Steak with Chimichurri",
+      "emoji": "🌿",
+      "art": "steak",
+      "blurb": "The butcher's cut, seared hard and drowned in a sharp green herb sauce. Hanger has more flavor than almost anything on the animal, and chimichurri cuts straight through the richness.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "12 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "For the steak",
+          "items": [
+            "1¾ lb (800 g) hanger steak, center sinew removed, in 2 lobes",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil such as grapeseed"
+          ]
+        },
+        {
+          "group": "Chimichurri",
+          "items": [
+            "1 cup (30 g) finely chopped flat-leaf parsley, packed",
+            "2 tbsp finely chopped fresh oregano (or 2 tsp dried)",
+            "4 garlic cloves, very finely minced (about 1½ tbsp)",
+            "1 small shallot, minced (about 3 tbsp / 30 g)",
+            "½ tsp (1 g) red pepper flakes",
+            "¼ cup (60 ml) red wine vinegar",
+            "⅔ cup (160 ml) extra-virgin olive oil",
+            "1 tsp (5 g) kosher salt",
+            "½ tsp (1 g) freshly ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the chimichurri first",
+          "text": "Combine the parsley, oregano, garlic, shallot, and red pepper flakes in a bowl, then stir in the red wine vinegar and the 1 tsp salt. Let that sit for 10 minutes before adding the oil — the vinegar takes the raw bite off the garlic and shallot in that time. Chop everything by hand rather than using a food processor, which bruises the herbs into a dark paste."
+        },
+        {
+          "title": "Finish and rest the sauce",
+          "text": "Whisk in the ⅔ cup olive oil and the ½ tsp black pepper. It should be loose and spoonable, more herbs than liquid, not a smooth emulsion. Let it sit at room temperature for at least 20 minutes while you cook, and taste it again before serving — chimichurri changes noticeably as it sits."
+        },
+        {
+          "title": "Trim the hanger steak",
+          "text": "A hanger steak is two lobes joined by a thick line of sinew down the middle. If your butcher has not already done it, run a boning knife down each side of that sinew to release two long, roughly cylindrical pieces. That center line is inedible and will not soften with cooking, so it has to come out."
+        },
+        {
+          "title": "Season and temper",
+          "text": "Pat the lobes completely dry and season them all over with the 1½ tsp kosher salt and 1 tsp black pepper. Let them sit at room temperature for 20 minutes; hanger is thick and irregular, so tempering matters. Dry them one more time right before they hit the pan."
+        },
+        {
+          "title": "Heat the skillet hard",
+          "text": "Set a 12-inch (30 cm) cast-iron skillet over high heat for 4 to 5 minutes, then add the tablespoon of oil and swirl it. Wait for the first wisp of smoke, around 450°F (230°C). Hanger is coarse-grained and needs an aggressive sear to develop the crust that balances its very beefy flavor."
+        },
+        {
+          "title": "Sear the first side",
+          "text": "Lay the lobes in the pan with space between them and sear undisturbed for 3 minutes. It should sizzle loudly and steadily, not sputter quietly. If your pan is not big enough for both pieces with room to spare, cook them one at a time — crowding is the fastest way to lose your crust."
+        },
+        {
+          "title": "Turn and build color all around",
+          "text": "Because hanger is roughly cylindrical, turn the lobes a quarter turn every 90 seconds to brown all four sides, 5 to 7 minutes total after the first side. Use tongs and lean the pieces against the pan wall if they will not stay put. The goal is even brown color all the way around, not a crust on two sides only."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Slide a thermometer lengthwise into the thickest lobe and pull the steak at 125 to 128°F (52 to 53°C) for medium-rare. Hanger is one cut you genuinely should not take past medium — the coarse grain that makes it so flavorful also makes it tough and livery when overcooked. If a piece is thinner, pull it earlier and let it rest longer."
+        },
+        {
+          "title": "Rest on a board",
+          "text": "Move the steaks to a cutting board and rest 8 to 10 minutes uncovered. Hanger has a loose grain and releases juice readily, so this rest does real work. Do not wrap it in foil, which will steam away the crust you just built."
+        },
+        {
+          "title": "Slice against the very obvious grain",
+          "text": "Hanger has the most visible grain of any steak — long, coarse fibers running the length of each lobe. Slice across them at a sharp angle into ¼-inch (6 mm) pieces so each slice shows a wide, marbled face. Cutting with the grain here produces something genuinely difficult to chew."
+        },
+        {
+          "title": "Sauce and serve",
+          "text": "Fan the slices on a warm platter, spoon about half the chimichurri over the top, and put the rest in a bowl on the table. The sauce should pool a little and run into the meat, so do not be shy with it. Serve immediately, while the steak is still warm enough to melt slightly into the oil."
+        }
+      ],
+      "tips": [
+        "Chimichurri keeps in the fridge for up to 5 days and is better after a few hours. Bring it back to room temperature before serving or the olive oil will be cloudy and thick.",
+        "Skirt, flank, or flat iron all substitute directly for hanger; adjust the searing time to their thickness and use the same pull temperature.",
+        "If your butcher does not carry hanger, ask ahead — there is only one per animal, which is why it used to be the cut butchers took home.",
+        "Do not skip the 10-minute vinegar soak for the garlic and shallot. Raw garlic straight into oil stays harsh and can overwhelm the herbs.",
+        "Leftover chimichurri is excellent on eggs, roasted potatoes, grilled chicken, and crusty bread."
+      ],
+      "keyTemp": "Pull at 125 to 128°F (52 to 53°C) for medium-rare, resting to 130 to 133°F (54 to 56°C). Hanger becomes tough and livery past 140°F (60°C).",
+      "pairing": "Blistered shishito peppers and roasted potatoes, with a Malbec.",
+      "videoQuery": "hanger steak chimichurri cast iron sear",
+      "photoQuery": "hanger steak sliced chimichurri sauce",
+      "tags": ["Weeknight", "Cast Iron", "Sauce"]
+    },
+    {
+      "id": "steak-frites",
+      "title": "Steak Frites with Herb Butter",
+      "emoji": "🍟",
+      "art": "steak",
+      "blurb": "Twice-fried French fries and a seared steak under a melting disc of maitre d'hotel butter. The double fry is the whole secret, and once you have done it you will never bake a fry again.",
+      "difficulty": "Advanced",
+      "servings": "2 servings",
+      "prepTime": "25 min",
+      "cookTime": "40 min",
+      "totalTime": "1 hr 50 min",
+      "ingredients": [
+        {
+          "group": "For the frites",
+          "items": [
+            "2 lb (900 g) russet potatoes, about 3 large",
+            "2 qt (2 L) peanut or canola oil, for frying",
+            "1½ tsp (7 g) fine sea salt, for finishing"
+          ]
+        },
+        {
+          "group": "For the steaks",
+          "items": [
+            "2 New York strip or sirloin steaks (10 oz / 285 g each, 1¼ in / 3 cm thick)",
+            "1½ tsp (7 g) kosher salt",
+            "1 tsp freshly ground black pepper",
+            "1 tbsp (15 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Maitre d'hotel butter",
+          "items": [
+            "5 tbsp (70 g) unsalted butter, softened",
+            "2 tbsp finely chopped flat-leaf parsley",
+            "1 tsp (5 ml) fresh lemon juice",
+            "½ tsp (2 g) kosher salt",
+            "¼ tsp (1 g) freshly ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Make the herb butter",
+          "text": "Mash the softened butter with the parsley, lemon juice, ½ tsp salt, and ¼ tsp pepper until evenly combined. Roll it into a log in plastic wrap about 1¼ inches (3 cm) across and refrigerate at least 30 minutes until firm. Cold butter melts slowly over the hot steak instead of instantly flooding the plate."
+        },
+        {
+          "title": "Cut the potatoes evenly",
+          "text": "Peel the russets and square off the sides, then cut them into batons about ⅜ inch (1 cm) thick and as close to the same size as you can manage. Uneven fries cook unevenly, so the thin ones burn while the thick ones stay raw inside. Russets are essential here — their high starch and low moisture is what makes a fluffy interior possible."
+        },
+        {
+          "title": "Soak away the surface starch",
+          "text": "Put the cut potatoes in a bowl of cold water and let them soak for 30 minutes, changing the water once if it clouds heavily. This rinses off loose surface starch that would otherwise make the fries stick together and turn gummy. Drain them and dry them thoroughly on kitchen towels — water and hot oil is a dangerous combination."
+        },
+        {
+          "title": "Set up the fryer safely",
+          "text": "Pour the oil into a heavy 6-quart pot until it comes no more than a third of the way up the sides, and clip on a deep-fry thermometer. Never fill past a third; oil expands and foams violently when wet potatoes go in. Keep a lid and a box of baking soda nearby, and never use water on an oil fire."
+        },
+        {
+          "title": "First fry at 325°F",
+          "text": "Heat the oil to 325°F (163°C) and fry the potatoes in three batches for 5 to 6 minutes each, until they are soft and pale blond but not browned. Move them with a spider to a paper-towel-lined rack. The first fry is about cooking the inside through, not color, so resist the urge to leave them longer."
+        },
+        {
+          "title": "Rest the fries",
+          "text": "Let the blanched fries rest at room temperature for at least 20 minutes, or refrigerate them for up to 4 hours. This rest lets the surface dry and the interior set, which is why twice-fried fries stay crisp far longer than single-fried ones. Meanwhile, let the oil come back to temperature and season your steaks."
+        },
+        {
+          "title": "Season and temper the steaks",
+          "text": "Pat the steaks completely dry and season on both sides and the edges with the 1½ tsp kosher salt and 1 tsp black pepper. Leave them at room temperature for 20 to 30 minutes so the centers are not fridge-cold. Get a cast-iron skillet heating on a second burner over medium-high for 4 to 5 minutes."
+        },
+        {
+          "title": "Sear the steaks",
+          "text": "Add the tablespoon of oil to the hot skillet, wait for the shimmer, and lay the steaks in away from you. Sear 3½ to 4 minutes on the first side and 3 minutes on the second, then stand them on their fat edge for 30 seconds. You want an aggressive, steady sizzle the whole time and a deep brown crust when you flip."
+        },
+        {
+          "title": "Pull and rest the steaks",
+          "text": "Check the center with an instant-read thermometer and pull at 125°F (52°C) for medium-rare or 135°F (57°C) for medium. Move them to a cutting board and rest 8 to 10 minutes while you finish the fries. Steak reheats badly, so the timing here matters: the steak rests exactly as long as the second fry takes."
+        },
+        {
+          "title": "Second fry at 375°F",
+          "text": "Raise the oil to 375°F (190°C) and fry the rested potatoes in batches for 2 to 3 minutes each, until deep golden and audibly crisp when you stir them. Do not crowd the pot — too many at once drops the temperature and gives you greasy, limp fries. Let the oil come back to 375°F between batches."
+        },
+        {
+          "title": "Salt the fries immediately",
+          "text": "Drain each batch onto a rack or paper towels and season right away with the fine sea salt while the surface is still glistening with oil. Salt only sticks in that first 20 seconds; add it later and it slides straight off. Toss them in a bowl so they season evenly."
+        },
+        {
+          "title": "Plate and serve at once",
+          "text": "Set each steak on a warm plate, top with a ½-inch (1 cm) coin of the herb butter, and pile the frites alongside in a tall heap. Pour any board juices over the meat. This is a dish that waits for nobody — get it to the table while the fries are still crackling and the butter is only half melted."
+        }
+      ],
+      "tips": [
+        "Do the first fry up to 4 hours ahead and refrigerate the blanched fries. That turns this from a juggling act into a very manageable dinner.",
+        "A deep-fry or instant-read thermometer is genuinely required. Oil that is too cool gives you greasy fries; too hot and they brown before the inside cooks.",
+        "Peanut oil has the highest smoke point and the cleanest flavor, but canola works fine. Strain and reuse the cooled oil two or three times.",
+        "If you only have one burner free, fry first and keep the fries warm on a rack in a 200°F (95°C) oven, then sear the steaks last.",
+        "Maitre d'hotel butter freezes for 3 months; slice coins off the frozen log straight onto hot steak, fish, or vegetables."
+      ],
+      "keyTemp": "Steak: pull at 125°F (52°C) for medium-rare, resting to 130 to 135°F (54 to 57°C). Oil: 325°F (163°C) for the first fry, 375°F (190°C) for the second.",
+      "pairing": "A simple butter-lettuce salad with mustard vinaigrette, and a cold Belgian-style beer or a Côtes du Rhône.",
+      "videoQuery": "steak frites double fried french fries",
+      "photoQuery": "steak frites herb butter plate",
+      "tags": ["Date Night", "French", "Bistro"]
+    },
+    {
+      "id": "prime-rib-roast-au-jus",
+      "title": "Prime Rib Roast with Au Jus",
+      "emoji": "🍖",
+      "art": "roast",
+      "blurb": "A standing rib roast cooked low and slow, then blasted at the end for a crackling crust. This is the holiday centerpiece, and the low-oven method makes it almost impossible to overcook.",
+      "difficulty": "Advanced",
+      "servings": "8 servings",
+      "prepTime": "25 min",
+      "cookTime": "3 hr 15 min",
+      "totalTime": "4 hr 10 min",
+      "ingredients": [
+        {
+          "group": "For the roast",
+          "items": [
+            "1 bone-in standing rib roast, 3 to 4 ribs (7 to 8 lb / 3.2 to 3.6 kg)",
+            "4 tsp (20 g) kosher salt, about 1 tsp per 2 lb of meat",
+            "1 tbsp coarsely ground black pepper",
+            "2 tsp garlic powder",
+            "2 tbsp (28 g) unsalted butter, softened",
+            "1 tbsp chopped fresh rosemary and 1 tbsp chopped fresh thyme"
+          ]
+        },
+        {
+          "group": "Au jus",
+          "items": [
+            "1 yellow onion, quartered",
+            "2 carrots, cut into 2-inch (5 cm) pieces",
+            "½ cup (120 ml) dry red wine or dry sherry",
+            "3 cups (720 ml) low-sodium beef stock",
+            "3 sprigs fresh thyme and 1 bay leaf",
+            "1 tbsp (14 g) cold unsalted butter",
+            "½ tsp kosher salt, plus more to taste"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Dry brine 24 to 48 hours ahead",
+          "text": "Pat the roast completely dry and rub it all over with the 4 tsp kosher salt, including the ends and between the bones. Set it on a rack over a sheet pan and refrigerate uncovered for 24 to 48 hours. This is the most important step in the recipe: it seasons the interior, dries the surface for a better crust, and there is no shortcut that gets you the same result."
+        },
+        {
+          "title": "Temper the roast",
+          "text": "Take the roast out of the fridge 2 to 3 hours before it goes in the oven and leave it on the counter. A cold 8-pound roast can add well over an hour of cooking time and will cook far less evenly. It is safe: the surface stays well below any danger zone concern for this window, and the interior barely climbs."
+        },
+        {
+          "title": "Make the herb paste",
+          "text": "Mash the softened butter with the chopped rosemary, thyme, black pepper, and garlic powder into a rough paste. Smear it over the fat cap and the exposed meat ends, but not the bones. The butter helps the herbs adhere and browns into the crust during the final blast."
+        },
+        {
+          "title": "Set the roasting pan",
+          "text": "Scatter the quartered onion and carrot pieces across the bottom of a roasting pan and set the roast on top, bone-side down, so the bones act as a natural rack. If you have a wire rack, use it and put the vegetables underneath. Insert a leave-in probe thermometer into the very center of the eye, avoiding bone and fat seams."
+        },
+        {
+          "title": "Roast low at 250°F",
+          "text": "Heat the oven to 250°F (120°C) and roast, uncovered, until the center hits 118 to 120°F (48 to 49°C) for medium-rare. Plan on roughly 25 to 30 minutes per pound, so about 3 to 3½ hours for an 8-pound roast, but check early. A low oven cooks the meat evenly edge to edge instead of leaving a thick gray band under the crust."
+        },
+        {
+          "title": "Trust the thermometer, not the clock",
+          "text": "Start checking at the 2½-hour mark, and every 20 minutes after that. Roast weight, bone-in versus boneless, oven calibration, and starting temperature all swing the timing by an hour or more. For medium, take it to 128°F (53°C); the final crust blast will add about 5 to 10°F (3 to 6°C) on top of whatever it reads now."
+        },
+        {
+          "title": "Rest the roast, uncovered",
+          "text": "Pull the roast out, transfer it to a carving board, and let it rest 30 to 45 minutes while the oven heats up. It will hold its heat easily — a roast this size loses only a few degrees in that window. Leave it uncovered so the surface stays dry for the crust step."
+        },
+        {
+          "title": "Build the jus base",
+          "text": "Set the roasting pan with its vegetables over two burners on medium heat, skim off all but 2 tablespoons of fat, and pour in the ½ cup wine. Scrape the pan hard with a wooden spoon to lift every browned bit and let it reduce by half, about 3 minutes. Add the 3 cups beef stock, thyme sprigs, and bay leaf and simmer 12 to 15 minutes."
+        },
+        {
+          "title": "Blast the oven for the crust",
+          "text": "Crank the oven to 500°F (260°C) and let it fully preheat, which takes 15 to 20 minutes. Return the rested roast on a clean sheet pan and roast for 6 to 10 minutes, watching closely, until the exterior is deeply browned and crackling. Pull it the moment it looks right; at this temperature it goes from perfect to burnt in about 3 minutes."
+        },
+        {
+          "title": "Finish the au jus",
+          "text": "Strain the jus through a fine-mesh sieve into a small saucepan, pressing the vegetables gently, and discard the solids. Skim any remaining fat off the surface, bring it to a simmer, and whisk in the cold tablespoon of butter until glossy. Taste and add the ½ tsp salt as needed — jus should be intensely beefy and thin, not thick like gravy."
+        },
+        {
+          "title": "Carve off the bones",
+          "text": "Stand the roast on end and run a long knife down between the meat and the rib bones, following the curve, to release the whole eye in one piece. Cut the bone rack into individual ribs for anyone at the table who wants one, because they are the best part. Set the boneless roast flat on the board."
+        },
+        {
+          "title": "Slice and serve",
+          "text": "Slice the roast across the grain into ½- to ¾-inch (1 to 2 cm) thick pieces, keeping the crust attached to each slice. Serve on warm plates with the au jus in a pitcher alongside and any board juices poured over. Prime rib cools fast, so warm the plates and get everyone seated before you start carving."
+        }
+      ],
+      "tips": [
+        "Buy the roast a few days early so you have time for the 24- to 48-hour dry brine. It is the difference between good prime rib and great prime rib.",
+        "Ask the butcher to cut the bones free and tie them back on. You get the flavor and insulation of bone-in, and carving becomes trivially easy.",
+        "A leave-in probe thermometer is not optional on a roast this expensive. Opening the oven to check repeatedly costs you both heat and accuracy.",
+        "Plan on about 1 pound of bone-in roast per person, or two people per rib. An 8-pound, 4-rib roast comfortably serves 8.",
+        "Serve horseradish cream alongside: stir ¼ cup prepared horseradish, ½ cup sour cream, 1 tsp lemon juice, and ¼ tsp salt together and chill for an hour."
+      ],
+      "keyTemp": "Roast at 250°F (120°C) to 118 to 120°F (48 to 49°C) for medium-rare, then blast at 500°F (260°C); final temperature after the crust step is 128 to 132°F (53 to 56°C). Medium is 140°F (60°C).",
+      "pairing": "Yorkshire puddings, creamed spinach, and a serious Cabernet Sauvignon or Bordeaux.",
+      "videoQuery": "prime rib roast low temperature au jus",
+      "photoQuery": "prime rib roast sliced au jus",
+      "tags": ["Holiday", "Showstopper", "Weekend"]
+    }
+  ]
+}
