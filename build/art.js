@@ -212,7 +212,40 @@ D.burger = r => `${board()}
     <path d="M108,184 C112,198 288,198 292,184 z" fill="#e8ad55"/>
   </g>`;
 
-D.sandwich = r => `${board()}
+D.sandwich = (r, v) => {
+  if (v === 1) {                                   // a sub roll, split and loaded
+    return `${board()}
+      <g transform="translate(0,-2) rotate(-3 200 150)">
+        <path d="M60,152 h280 a25,25 0 0 1 0,42 h-280 a25,25 0 0 1 0,-42 z" fill="#c9903f"/>
+        <path d="M64,154 h272 a19,19 0 0 1 0,32 h-272 a19,19 0 0 1 0,-32 z" fill="#f0d5a0"/>
+        <path d="M64,154 q34,-16 68,0 q34,-16 68,0 q34,-16 68,0 q30,-14 68,2 v10 h-272 z" fill="#5fa84c"/>
+        <path d="M76,146 q28,-12 54,2 q28,-12 54,2 q28,-12 54,2 q26,-10 52,2 l-4,10 q-26,-10 -52,-2 q-26,8 -54,-2 q-28,-10 -54,-2 q-26,8 -54,-2 z" fill="#c8574c"/>
+        <path d="M84,140 q30,-10 58,2 q30,-10 58,2 q30,-10 58,2 l-2,9 q-28,-9 -56,1 q-28,10 -58,-2 q-30,-10 -58,-1 z" fill="#f2c84c"/>
+        <path d="M60,128 a140,32 0 0 1 280,0 z" fill="#d9a05a"/>
+        <path d="M66,130 a134,26 0 0 1 268,0 z" fill="#eec27a"/>
+        ${scatter(r, 16, 92, 112, 216, 16, ['#fdf3d6'], 2.2)}
+      </g>`;
+  }
+  if (v === 2) {                                   // a tall deli stack, held with a pick
+    var y = 176, L = '';
+    var layers = [
+      ['#e6b96e', 16], ['#c8574c', 11], ['#f2c84c', 9], ['#fbf0d2', 13],
+      ['#a8442f', 11], ['#5fa84c', 9], ['#f2c84c', 9], ['#e6b96e', 18],
+    ];
+    for (var i = 0; i < layers.length; i++) {
+      var w = 178 - Math.abs(i - 3.5) * 5;
+      L += `<rect x="${200 - w / 2}" y="${y - layers[i][1]}" width="${w}" height="${layers[i][1]}" rx="5" fill="${layers[i][0]}"/>`;
+      y -= layers[i][1] + 1;
+    }
+    return `${plate(200, 186, 128, 38)}
+      <g transform="rotate(-2 200 140)">${L}</g>
+      <g transform="rotate(6 208 96)">
+        <rect x="204" y="34" width="7" height="120" rx="3.5" fill="#c9975f"/>
+        <circle cx="207" cy="32" r="10" fill="#4f9c43"/>
+      </g>
+      ${scatter(r, 10, 130, 190, 140, 10, ['#f0e3c0'], 2.2)}`;
+  }
+  return `${board()}
   <g transform="translate(-6,4)">
     <g transform="rotate(-8 170 150)">
       <path d="M96,178 L170,88 L244,178 z" fill="#e6b96e"/>
@@ -230,6 +263,7 @@ D.sandwich = r => `${board()}
       <path d="M232,164 C250,158 286,158 304,164 L298,172 C282,166 254,166 238,172 z" fill="#c8574c"/>
     </g>
   </g>`;
+};
 
 D.wrap = r => `${board()}
   <g transform="translate(0,-2)">
@@ -744,7 +778,37 @@ D.wings = r => {
   ${scatter(r, 12, 110, 122, 180, 60, ['#3f8b4a', '#f6f0dc'], 2.6)}`;
 };
 
-D.pork = r => `${skillet()}
+D.pork = (r, v) => {
+  if (v === 1) {                                   // tenderloin medallions, fanned
+    let med = '';
+    for (let i = 0; i < 6; i++) {
+      const x = 124 + i * 28, a = -10 + i * 4;
+      med += `<g transform="translate(${x},150) rotate(${a})">
+        <ellipse cx="0" cy="0" rx="26" ry="34" fill="#7d4420"/>
+        <ellipse cx="0" cy="0" rx="23" ry="31" fill="#c08a54"/>
+        <ellipse cx="0" cy="0" rx="15" ry="22" fill="#e0b48a"/>
+      </g>`;
+    }
+    return `${plate(200, 172, 134, 48)}
+      <path d="M96,168 C126,144 182,138 238,148 C274,154 298,166 304,176 C266,186 122,186 96,168 z" fill="#6b3a18" opacity=".45"/>
+      ${med}${herb(318, 142, 0.6)}
+      ${scatter(r, 10, 124, 182, 156, 12, ['#f0e3c0'], 2.2)}`;
+  }
+  if (v === 2) {                                   // pulled, heaped on the board
+    let sh = '';
+    for (let i = 0; i < 30; i++) {
+      const x = 108 + r() * 184, y = 124 + r() * 46, w = 22 + r() * 26, a = -30 + r() * 60;
+      sh += `<rect x="${R(x)}" y="${R(y)}" width="${R(w)}" height="9" rx="4.5"
+        transform="rotate(${R(a)} ${R(x + w / 2)} ${R(y + 4)})"
+        fill="${['#8f5320', '#a8672c', '#6b3a18', '#c07f3c'][Math.floor(r() * 4)]}"/>`;
+    }
+    return `${board()}
+      <ellipse cx="200" cy="164" rx="106" ry="40" fill="#7d4820"/>
+      ${sh}
+      <path d="M126,150 q34,-16 74,-4 q40,12 76,-6" fill="none" stroke="#5c2a12" stroke-width="7" opacity=".35" stroke-linecap="round"/>
+      ${herb(316, 132, 0.55)}`;
+  }
+  return `${skillet()}
   <g transform="translate(0,-4)">
     <path d="M106,148 C106,112 146,96 200,96 C256,96 296,114 296,150 C296,178 254,190 200,190 C146,190 106,178 106,148 z" fill="#8f5a2a"/>
     <path d="M110,144 C110,110 148,96 200,96 C252,96 292,112 292,146 C292,172 250,182 200,182 C148,182 110,170 110,144 z" fill="#b47a3c"/>
@@ -755,6 +819,7 @@ D.pork = r => `${skillet()}
     ${herb(140, 116, 0.6)}
     ${scatter(r, 10, 130, 160, 140, 20, ['#f0e3c0'], 2.2)}
   </g>`;
+};
 
 D.ribs = r => `${board()}
   <g transform="translate(0,-4) rotate(-6 200 148)">
