@@ -105,7 +105,7 @@ function artSvg(r) {
   const st = r._st;
   // both href and xlink:href: older WebKit only understands the xlink form, and a
   // <use> that fails to resolve means the picture silently disappears.
-  return `<svg class="dishArt" viewBox="0 0 400 260" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid slice" xmlns:xlink="http://www.w3.org/1999/xlink">` +
+  return `<svg viewBox="0 0 400 260" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid slice" xmlns:xlink="http://www.w3.org/1999/xlink">` +
     `<rect width="400" height="260" fill="url(#${st.bg})"/>` +
     `<circle cx="${40 + st.tilt * 46}" cy="${34 + st.tilt * 14}" r="86" fill="#fff" opacity=".22"/>` +
     `<circle cx="${368 - st.tilt * 26}" cy="${24 + st.tilt * 20}" r="52" fill="#fff" opacity=".16"/>` +

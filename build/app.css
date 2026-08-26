@@ -4,7 +4,7 @@
 :root {
   --bg:#fbf6ee; --bg2:#ffffff; --bg3:#f4ece0;
   --ink:#2e2722; --ink2:#544a42; --muted:#87796d;
-  --accent:#b8452f; --accent-ink:#fff; --accent2:#c9852f; --rose:#bf4f68;
+  --accent:#b8452f; --accent-ink:#fff; --accent2:#c9852f;
   --line:#e9dfd1; --line2:#f2ebe0;
   --ok:#3f8b4a; --shadow:0 2px 10px rgba(70,50,32,.07), 0 12px 30px rgba(70,50,32,.06);
   --shadow-lg:0 6px 20px rgba(70,50,32,.12), 0 24px 60px rgba(70,50,32,.10);
@@ -16,7 +16,7 @@
 html[data-theme="dark"] {
   --bg:#16130f; --bg2:#211c17; --bg3:#2a231c;
   --ink:#f4ede2; --ink2:#d8cdbe; --muted:#a2937f;
-  --accent:#e2765a; --accent-ink:#1a120d; --accent2:#e9b862; --rose:#e07a92;
+  --accent:#e2765a; --accent-ink:#1a120d; --accent2:#e9b862;
   --line:#332b22; --line2:#2a231c;
   --shadow:0 2px 10px rgba(0,0,0,.35); --shadow-lg:0 10px 40px rgba(0,0,0,.5);
 }
@@ -44,7 +44,6 @@ summary::marker { content:''; }
 
 /* anything we scroll to programmatically must clear the sticky topbar (~119px) */
 html.js #book, html.js .chap, html.js .rec { scroll-margin-top:128px; }
-html.js.cook .rec { scroll-margin-top:8px; }
 
 /* ---- chapter ---- */
 .chap {
@@ -120,12 +119,11 @@ body {
   font-family:var(--sans); font-size:16px; line-height:1.6;
   -webkit-font-smoothing:antialiased; overscroll-behavior-y:none;
 }
-img,svg { max-width:100%; }
+svg { max-width:100%; }
 button { font:inherit; color:inherit; cursor:pointer; }
 a { color:var(--accent); }
 :focus-visible { outline:3px solid var(--accent2); outline-offset:2px; border-radius:6px; }
 .hidden { display:none !important; }
-.sr { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; }
 
 /* ============ COVER ============ */
 /* NO z-index here: the cover is ordinary flow content now, and its old overlay-era
@@ -139,7 +137,6 @@ a { color:var(--accent); }
     radial-gradient(90% 60% at 12% 105%, #f3b7a4 0%, rgba(243,183,164,0) 62%),
     linear-gradient(168deg,#fff6e9 0%,#fde4cf 42%,#f6c6ae 100%);
   text-align:center; overflow:hidden;
-  transition:opacity .55s ease, visibility .55s;
 }
 html[data-theme="dark"] #cover {
   background:
@@ -201,7 +198,6 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
   transition:background .15s, transform .1s;
 }
 .iconbtn:active { transform:scale(.93); }
-.brand { text-decoration:none; color:inherit; }
 
 .search { position:relative; margin-top:10px; }
 /* the topbar 'search box' is a button that opens the panel — the REAL input lives
@@ -261,10 +257,6 @@ html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
 }
 
 /* ============ GENERIC ============ */
-.h {
-  font-family:var(--display); font-size:25px; font-weight:400; margin:26px 0 4px; line-height:1.2;
-}
-.h.first { margin-top:18px; }
 .sub { color:var(--muted); font-size:14.5px; margin:0 0 16px; }
 .empty { text-align:center; padding:52px 22px; color:var(--muted); }
 .empty .big { font-size:46px; display:block; margin-bottom:12px; }
@@ -391,6 +383,9 @@ html[data-theme="dark"] .diff.Advanced { background:#3d1e17; color:#f0a08c; }
 .progwrap { background:var(--bg2); padding:9px 0 11px; margin:0 -12px;
   padding-left:12px; padding-right:12px; border-bottom:1px solid var(--line); }
 html.cook .progwrap { position:sticky; top:0; z-index:30; }
+/* sticky is inert inside an overflow:hidden ancestor, so cook mode relaxes the
+   accordion clipping (the rounded-corner clip matters less than a visible bar) */
+html.cook .chap, html.cook .rec { overflow:visible; }
 .progbar { height:6px; background:var(--bg3); border-radius:999px; overflow:hidden; }
 .progbar i { display:block; height:100%; background:linear-gradient(90deg,var(--accent2),var(--accent)); width:0; transition:width .3s ease; }
 .progtxt { font-size:12px; color:var(--muted); margin-top:5px; display:flex; justify-content:space-between; }
@@ -400,6 +395,7 @@ html.cook .progwrap { position:sticky; top:0; z-index:30; }
 .slgroup > header { display:flex; align-items:center; gap:10px; padding:12px 14px; border-bottom:1px solid var(--line2); }
 .slgroup > header .t { font-family:var(--display); font-size:16.5px; flex:1; }
 .slgroup > header button { border:0; background:none; color:var(--muted); font-size:19px; padding:2px 4px; }
+.slgroup .ilist { border:0; border-radius:0; box-shadow:none; }
 
 .toast {
   position:fixed; left:50%; bottom:calc(var(--tabh) + 18px + env(safe-area-inset-bottom));
