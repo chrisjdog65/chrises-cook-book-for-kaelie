@@ -66,7 +66,7 @@
         },
         {
           "title": "Slice and use it",
-          "text": "Unwrap and cut ⅜-inch (1 cm) coins with a warm knife, wiping the blade between cuts for clean edges. Put one on a rested steak, a piece of grilled fish, or a split baked potato right before serving, or melt two coins into a pan of green beans with a splash of water for an instant sauce. It is also excellent pushed under chicken skin before roasting, where it bastes the breast from the inside as it renders."
+          "text": "Unwrap and cut ⅜-inch (1 cm) coins with a warm knife, wiping the blade between cuts for clean edges. Put one on a rested steak, a piece of grilled fish, or a split baked potato right before serving, or melt two coins into a pan of green beans with a splash of water for an instant sauce. It is also excellent pushed under chicken skin before roasting, where it bastes the breast from the inside as it renders — roast the bird until the thickest part of the thigh reads 165°F (74°C)."
         },
         {
           "title": "Store it right",
@@ -138,7 +138,7 @@
         },
         {
           "title": "Add stock and thyme",
-          "text": "Pour in the ¾ cup stock, add the thyme sprig, and let it simmer briskly until reduced by half, another 4 to 5 minutes. You are looking for about ⅓ cup (80 ml) of liquid that leaves a clear trail when you drag a spoon across the pan bottom. Any juices that have pooled under the resting steaks go in now too — that is free flavor most people pour down the drain."
+          "text": "Pour in the ¾ cup stock, add the thyme sprig, and let it simmer briskly until reduced by about two-thirds, another 4 to 5 minutes. You are looking for about ⅓ cup (80 ml) of liquid that leaves a clear trail when you drag a spoon across the pan bottom. Any juices that have pooled under the resting steaks go in now too — that is free flavor most people pour down the drain."
         },
         {
           "title": "Whisk in the Dijon",
@@ -164,12 +164,12 @@
       "tips": [
         "Have every ingredient measured and next to the stove before the steaks come out. The whole sauce happens in about 8 minutes and there is no time to go hunting for the Dijon.",
         "No wine in the house? Use ½ cup (120 ml) extra stock plus 2 tsp (10 ml) balsamic vinegar and reduce the same way.",
-        "This exact method works for pork chops and chicken thighs — just swap in chicken stock and use white wine or dry vermouth.",
+        "This exact method works for pork chops and chicken thighs — just swap in chicken stock and use white wine or dry vermouth. Cook pork chops to 145°F (63°C) with a 3-minute rest, and chicken thighs all the way to 165°F (74°C).",
         "A splash of brandy or cognac (2 tbsp / 30 ml) added with the wine gives it a steakhouse depth. Add it off the heat first if you cook on gas."
       ],
-      "keyTemp": "Finish the sauce off the burner, below 190°F (88°C). Butter whisked into liquid hotter than that will split into oily droplets instead of emulsifying.",
+      "keyTemp": "Finish the sauce off the burner, below 190°F (88°C). Butter whisked into liquid hotter than that will split into oily droplets instead of emulsifying. Pull the steaks that made the fond at 130°F (54°C) for medium-rare — carryover adds about 5°F (3°C) while they rest, finishing them near 135°F (57°C).",
       "pairing": "Made for a rested ribeye or strip steak with mashed potatoes; drink the rest of the bottle you deglazed with.",
-      "videoQuery": "how to make a red wine pan sauce for steak",
+      "videoQuery": "how to make red wine pan sauce",
       "photoQuery": "red wine pan sauce steak",
       "tags": ["30 Minutes", "Date Night", "Cast Iron"]
     },
@@ -180,7 +180,7 @@
       "art": "sauce",
       "blurb": "Hollandaise's sharper, more interesting cousin — egg yolks and butter carried by a tarragon and vinegar reduction. It is the single best thing that has ever happened to a steak.",
       "difficulty": "Advanced",
-      "servings": "Makes about 1 cup (240 ml), serves 4",
+      "servings": "Makes about ¾ cup (180 ml), serves 4",
       "prepTime": "10 min",
       "cookTime": "20 min",
       "totalTime": "30 min",
@@ -200,11 +200,18 @@
           "items": [
             "3 large egg yolks, at room temperature",
             "1 tbsp (15 ml) cold water",
-            "8 tbsp (115 g) unsalted butter, melted and held warm at about 130°F (54°C)",
+            "8 tbsp / 1 stick (113 g) unsalted butter, melted and held warm at about 130°F (54°C)",
             "½ tsp (3 g) fine sea salt",
             "1 tbsp chopped fresh chervil or flat-leaf parsley",
             "⅛ tsp (0.3 g) cayenne pepper",
             "1 tsp (5 ml) fresh lemon juice, only if needed"
+          ]
+        },
+        {
+          "group": "In reserve, in case it breaks",
+          "items": [
+            "2 tbsp (30 ml) warm water, for loosening the finished sauce or reviving a broken one",
+            "1 extra large egg yolk, used only if the sauce breaks badly"
           ]
         }
       ],
@@ -255,7 +262,7 @@
         },
         {
           "title": "Serve it right away",
-          "text": "Spoon 2 to 3 tbsp over sliced steak, roasted asparagus, or a piece of poached fish just before it goes to the table. Warn anyone eating it that this sauce is genuinely rich — a quarter cup per person is plenty. Leftovers cannot be reheated, but they are wonderful cold, spread on a steak sandwich the next day."
+          "text": "Spoon 2 to 3 tbsp over sliced steak, roasted asparagus, or a piece of poached fish just before it goes to the table. Warn anyone eating it that this sauce is genuinely rich — 3 tbsp per person is plenty. Leftovers cannot be reheated, but they are wonderful cold, spread on a steak sandwich the next day."
         }
       ],
       "tips": [
@@ -265,7 +272,7 @@
         "A wide bowl over a narrow pot gives you more surface area and more control than a deep bowl. Sauces break in the corners you cannot reach with a whisk.",
         "For choron sauce, whisk 2 tbsp (30 g) tomato paste into the finished béarnaise — it is the classic pairing for filet mignon."
       ],
-      "keyTemp": "Cook the yolk base to 160°F (71°C) so the eggs are safe, then keep the finished sauce between 130°F and 140°F (54°C and 60°C). Past 145°F (63°C) it scrambles.",
+      "keyTemp": "Cook the yolk base to 160°F (71°C) so the eggs are safe, then keep the finished sauce between 130°F and 140°F (54°C and 60°C). Past 145°F (63°C) it scrambles. The steak underneath should be pulled at 130°F (54°C) for medium-rare, where carryover during the rest carries it to about 135°F (57°C).",
       "pairing": "The classic partner for a grilled strip steak and frites; a crisp Sancerre or a chalky Chablis cuts the butter beautifully.",
       "videoQuery": "how to make bearnaise sauce from scratch",
       "photoQuery": "bearnaise sauce over steak",
@@ -278,7 +285,7 @@
       "art": "sauce",
       "blurb": "Warm lemon and butter held together by egg yolks — the mother sauce that makes eggs Benedict worth getting out of bed for. It sounds intimidating and takes about twelve minutes.",
       "difficulty": "Advanced",
-      "servings": "Makes about 1¼ cups (300 ml), serves 4",
+      "servings": "Makes about 1 cup (240 ml), serves 4",
       "prepTime": "10 min",
       "cookTime": "15 min",
       "totalTime": "25 min",
@@ -292,8 +299,9 @@
             "10 tbsp (140 g) unsalted butter, melted and held warm at about 130°F (54°C)",
             "½ tsp (3 g) fine sea salt",
             "⅛ tsp cayenne pepper, or 2 dashes hot sauce",
-            "1 to 2 tsp (5 to 10 ml) warm water, for thinning",
-            "1 pinch (about ⅛ tsp) freshly ground white pepper"
+            "2 tbsp (30 ml) warm water — 1 tsp at a time for thinning, the rest held in reserve to rescue a broken sauce",
+            "1 pinch (about ⅛ tsp) freshly ground white pepper",
+            "1 extra large egg yolk plus 1 tsp (5 ml) cold water, in reserve, only if the sauce breaks"
           ]
         }
       ],
@@ -399,7 +407,7 @@
         },
         {
           "title": "Reduce to a glaze",
-          "text": "Keep going until only about 2 tbsp (30 ml) of syrupy liquid remains and the shallots look like a wet mound rather than sitting in a puddle. Tilt the pan and drag a spoon across the bottom — the liquid should be slow to fill the gap. This concentrated acid is what keeps a pound of butter from tasting like nothing but fat."
+          "text": "Keep going until only about 2 tbsp (30 ml) of syrupy liquid remains and the shallots look like a wet mound rather than sitting in a puddle. Tilt the pan and drag a spoon across the bottom — the liquid should be slow to fill the gap. This concentrated acid is what keeps a stick and a half of butter from tasting like nothing but fat."
         },
         {
           "title": "Add the cream insurance",
@@ -441,7 +449,7 @@
         "Do not salt the reduction. Reducing concentrates salt, and you can always correct at the end when you know exactly how much sauce you have.",
         "If your stove will not go low enough, build the whole sauce in a metal bowl set over a pan of hot-but-not-simmering water. Slower, but far harder to break."
       ],
-      "keyTemp": "Hold the pan between 120°F and 135°F (49°C and 57°C) the entire time you add butter. Above 136°F (58°C) the emulsion breaks and the sauce turns to oil.",
+      "keyTemp": "Hold the pan between 120°F and 135°F (49°C and 57°C) the entire time you add butter. Above 136°F (58°C) the emulsion breaks and the sauce turns to oil. The fish going under it is done at 145°F (63°C) in the thickest part, when it flakes with gentle pressure.",
       "pairing": "Spoon it under roasted halibut, cod, or scallops with steamed potatoes; pour the same crisp white you used in the reduction.",
       "videoQuery": "how to make beurre blanc butter sauce",
       "photoQuery": "beurre blanc sauce white fish",
@@ -597,11 +605,11 @@
       ],
       "tips": [
         "Do not use a food processor. If you truly must, pulse only 4 or 5 times and expect a darker, less lively sauce.",
-        "Chimichurri also works as a marinade — toss flank or skirt steak in half the batch for 2 to 4 hours, then serve the untouched half at the table.",
+        "Chimichurri also works as a marinade — toss flank or skirt steak in half the batch for 2 to 4 hours in the fridge, then serve the untouched half at the table. Throw the used marinade out rather than spooning it over cooked meat, and grill the steak to a 130°F (54°C) pull for medium-rare.",
         "Freeze it in an ice cube tray, then bag the cubes. One cube dropped into a hot pan of vegetables or a bowl of soup is a small miracle in February.",
         "Cilantro-heavy versions exist, but the Argentinian original is parsley and oregano. If you swap in cilantro, add 1 tsp ground cumin to keep it balanced."
       ],
-      "keyTemp": "No cooking involved. Serve at room temperature, around 68°F (20°C) — straight from the fridge the olive oil is cloudy and the flavors read muted.",
+      "keyTemp": "No cooking involved. Serve at room temperature, around 68°F (20°C) — straight from the fridge the olive oil is cloudy and the flavors read muted. Pull the steak it goes on at 130°F (54°C) for medium-rare and rest it 5 minutes; carryover finishes it at about 135°F (57°C).",
       "pairing": "Made for grilled skirt steak and charred bread; a big juicy Malbec is the traditional and correct answer.",
       "videoQuery": "authentic argentinian chimichurri recipe hand chopped",
       "photoQuery": "chimichurri sauce bowl steak",
@@ -614,10 +622,10 @@
       "art": "sauce",
       "blurb": "Roasted peppers, toasted almonds, and fried bread blitzed with smoked paprika and sherry vinegar into a thick, smoky, faintly sweet sauce. It makes grilled vegetables and plain chicken taste like a holiday.",
       "difficulty": "Medium",
-      "servings": "Makes about 2 cups (475 ml)",
+      "servings": "Makes about 2½ cups (600 ml)",
       "prepTime": "20 min",
       "cookTime": "25 min",
-      "totalTime": "45 min",
+      "totalTime": "1 hr 15 min",
       "ingredients": [
         {
           "group": "For roasting",
@@ -635,6 +643,7 @@
             "¼ cup (30 g) blanched hazelnuts",
             "1 thick slice rustic white bread (about 1 oz / 30 g), crust on, torn into pieces",
             "2 dried ñora or ancho chiles (about ½ oz / 14 g total)",
+            "1 cup (240 ml) just-boiled water, for soaking the chiles",
             "½ cup (120 ml) extra-virgin olive oil",
             "2 tbsp (30 ml) sherry vinegar",
             "1½ tsp (3 g) sweet smoked paprika",
@@ -690,7 +699,7 @@
         },
         {
           "title": "Serve and store",
-          "text": "Serve it at room temperature, around 70°F (21°C), spooned over grilled spring onions, charred asparagus, roasted potatoes, seared fish, or a simple chicken breast. Stored in a jar with a thin layer of oil on top, it keeps 1 week in the fridge at or below 40°F (4°C) and 3 months in the freezer. The flavor is genuinely better on day two."
+          "text": "Serve it at room temperature, around 70°F (21°C), spooned over grilled spring onions, charred asparagus, roasted potatoes, seared fish cooked to 145°F (63°C), or a chicken breast cooked to 165°F (74°C). Stored in a jar with a thin layer of oil on top, it keeps 1 week in the fridge at or below 40°F (4°C) and 3 months in the freezer. The flavor is genuinely better on day two."
         }
       ],
       "tips": [

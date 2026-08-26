@@ -1291,7 +1291,7 @@
         },
         {
           "title": "Shred and return",
-          "text": "Lift the chicken onto a board, let it rest 5 minutes, then shred it into bite-sized pieces with two forks. Return the meat to the pot along with any juices. Resting first keeps the juices in the meat instead of on the cutting board."
+          "text": "Lift the chicken thighs onto a board with tongs, let them rest 5 minutes, then pull them apart into bite-sized shreds with two forks. Resting first lets the muscle fibers relax and reabsorb their juices, so they end up in the soup instead of running out onto the cutting board. Return the meat and every drop of collected juice to the pot. Shredding rather than chopping also gives the broth more surface to cling to, so each spoonful tastes seasoned."
         },
         {
           "title": "Fry the tortilla strips",
@@ -1299,7 +1299,7 @@
         },
         {
           "title": "Season the soup",
-          "text": "Remove the epazote sprig, stir in the 2 tbsp lime juice, and taste. Add salt 1/4 tsp at a time until the chile flavor comes forward — this soup takes more salt than people expect because the chiles and tomatoes are both mild. It should taste smoky, tangy, and just a little spicy."
+          "text": "Remove the epazote sprig, stir in the 2 tbsp lime juice and the remaining 1/2 tsp of the salt, and taste. Add more salt 1/4 tsp at a time until the chile flavor comes forward — this soup takes more salt than people expect because the chiles and tomatoes are both mild. It should taste smoky, tangy, and just a little spicy."
         },
         {
           "title": "Build the bowls",
@@ -1328,14 +1328,14 @@
       "difficulty": "Easy",
       "servings": "6 servings",
       "prepTime": "15 min",
-      "cookTime": "1 hr 45 min",
-      "totalTime": "2 hr",
+      "cookTime": "2 hr",
+      "totalTime": "2 hr 15 min",
       "ingredients": [
         {
           "group": "Ingredients",
           "items": [
             "1 lb (450 g) dried green split peas",
-            "2 tbsp (28 g) unsalted butter",
+            "3 tbsp (42 g) unsalted butter, divided (2 tbsp for the pot, 1 tbsp for the croutons)",
             "1 tbsp (15 ml) olive oil",
             "1 large yellow onion (about 10 oz / 280 g), diced",
             "2 carrots (about 6 oz / 170 g), diced",
@@ -1387,11 +1387,11 @@
         },
         {
           "title": "Return the meat and adjust",
-          "text": "Stir the chopped ham back in and warm it through for 5 minutes. Split pea soup thickens dramatically as it sits, so thin it with hot water or broth until it flows off a spoon in a thick ribbon. Remember it will be noticeably thicker again by tomorrow."
+          "text": "Stir the chopped ham back in and warm it through over low heat for 5 minutes so the meat picks up the soup and the soup picks up the smoke. Split pea soup thickens dramatically as it sits, so thin it with hot water or broth, 1/2 cup (120 ml) at a time, until it flows off a spoon in a thick ribbon rather than plopping. Aim slightly looser than you actually want it in the bowl. Remember it will be noticeably thicker again by tomorrow, and thicker still the day after."
         },
         {
           "title": "Season and serve",
-          "text": "Add the 1 tsp black pepper and the 2 tsp cider vinegar, then taste before salting — smoked hocks vary wildly and some are salty enough that you need none at all. The vinegar cuts the starchy heaviness and makes the smoke taste sharper. Serve with croutons toasted in butter and a grind of extra pepper."
+          "text": "Add the 1 tsp black pepper and the 2 tsp cider vinegar, then taste before salting — smoked hocks vary wildly and some are salty enough that you need none at all. The vinegar cuts the starchy heaviness and makes the smoke taste sharper. Toss the 2 cups bread cubes in a skillet with the reserved 1 tbsp butter over medium heat for 4 to 5 minutes until golden, and scatter them over each bowl with a grind of extra pepper."
         }
       ],
       "tips": [
@@ -1416,8 +1416,8 @@
       "difficulty": "Advanced",
       "servings": "8 servings",
       "prepTime": "30 min",
-      "cookTime": "2 hr 30 min",
-      "totalTime": "3 hr",
+      "cookTime": "3 hr",
+      "totalTime": "3 hr 45 min",
       "ingredients": [
         {
           "group": "Meat",
@@ -1433,7 +1433,7 @@
           "group": "The roux and trinity",
           "items": [
             "1 cup (240 ml) neutral oil such as canola or peanut",
-            "1 cup (125 g) all-purpose flour",
+            "1 cup (120 g) all-purpose flour",
             "2 large onions (about 20 oz / 570 g), finely diced",
             "2 green bell peppers (about 14 oz / 400 g), finely diced",
             "4 celery ribs, finely diced",
@@ -1472,7 +1472,7 @@
         },
         {
           "title": "Start the roux",
-          "text": "Add the 1 cup (240 ml) oil to the pot over medium heat until it shimmers, then whisk in the 1 cup (125 g) flour all at once until completely smooth with no dry pockets. Switch to a flat wooden spoon or heatproof spatula so you can scrape the corners. From this moment forward, stir constantly and never stop. Hot roux is called Cajun napalm for a reason; keep children and pets out of the kitchen and wear long sleeves."
+          "text": "Add the 1 cup (240 ml) oil to the pot over medium heat until it shimmers, then whisk in the 1 cup (120 g) flour all at once until completely smooth with no dry pockets. Switch to a flat wooden spoon or heatproof spatula so you can scrape the corners. From this moment forward, stir constantly and never stop. Hot roux is called Cajun napalm for a reason; keep children and pets out of the kitchen and wear long sleeves."
         },
         {
           "title": "Work through the color stages",
@@ -1537,7 +1537,7 @@
           "items": [
             "3 lb (1.4 kg) chicken backs, wings, and feet if you can get them",
             "1 lb (450 g) pork neck bones or trotter, split",
-            "16 cups (3.8 L) cold water, plus more for parboiling",
+            "16 cups (3.8 L) cold water for the broth, plus 3 cups (720 ml) for the kombu dashi, 1/2 cup (120 ml) for the egg marinade, and more for parboiling",
             "1 piece kombu (about 0.35 oz / 10 g)",
             "6 dried shiitake mushrooms (about 0.5 oz / 15 g)",
             "1 large onion (about 10 oz / 280 g), halved",
@@ -1549,8 +1549,8 @@
         {
           "group": "Shoyu tare and aroma oil",
           "items": [
-            "3/4 cup (180 ml) Japanese soy sauce",
-            "1/4 cup (60 ml) mirin",
+            "1 cup (240 ml) Japanese soy sauce",
+            "1/3 cup (80 ml) mirin",
             "2 tbsp (30 ml) sake",
             "1 tbsp (12 g) granulated sugar",
             "1/4 cup (5 g) katsuobushi (bonito flakes)",

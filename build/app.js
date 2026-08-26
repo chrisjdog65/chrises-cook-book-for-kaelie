@@ -420,22 +420,29 @@
   /* ---------- routing ---------- */
   function currentQuery() { var i = $('#q'); return i ? i.value.trim() : ''; }
 
+  function unesc(s) { try { return decodeURIComponent(s); } catch (e) { return s; } }
+
   function route() {
     var h = location.hash || '#/';
     cookOff();
     shown = PAGE;
-    var m;
-    if ((m = h.match(/^#\/r\/(.+)$/))) { setTab(null); viewRecipe(decodeURIComponent(m[1])); }
-    else if ((m = h.match(/^#\/c\/(.+)$/))) { setTab('home'); viewCat(decodeURIComponent(m[1])); }
-    else if (h === '#/fav') { setTab('fav'); viewFav(); }
-    else if (h === '#/list') { setTab('list'); viewList(); }
-    else if ((m = h.match(/^#\/search(?:\?q=(.*))?$/))) {
-      setTab('search');
-      var q = m[1] ? decodeURIComponent(m[1]) : '';
-      var inp = $('#q'); if (inp && inp.value !== q) inp.value = q;
-      viewSearch(q);
+    try {
+      var m;
+      if ((m = h.match(/^#\/r\/(.+)$/))) { setTab(null); viewRecipe(unesc(m[1])); }
+      else if ((m = h.match(/^#\/c\/(.+)$/))) { setTab('home'); viewCat(unesc(m[1])); }
+      else if (h === '#/fav') { setTab('fav'); viewFav(); }
+      else if (h === '#/list') { setTab('list'); viewList(); }
+      else if ((m = h.match(/^#\/search(?:\?q=(.*))?$/))) {
+        setTab('search');
+        var q = m[1] ? unesc(m[1]) : '';
+        var inp = $('#q'); if (inp && inp.value !== q) inp.value = q;
+        viewSearch(q);
+      }
+      else { setTab('home'); viewHome(); }
+    } catch (e) {
+      // never leave her staring at a blank page
+      setTab('home'); viewHome();
     }
-    else { setTab('home'); viewHome(); }
   }
   function setTab(name) {
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === name); });

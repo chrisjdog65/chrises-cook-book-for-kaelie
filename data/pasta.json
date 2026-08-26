@@ -1427,7 +1427,7 @@
             "1/2 cup (120 ml) low-sodium chicken stock",
             "1 1/2 cups (360 ml) heavy cream",
             "1 cup (150 g) cherry tomatoes, halved",
-            "3 oz (85 g) Parmigiano-Reggiano, finely grated",
+            "3 oz (85 g) Parmigiano-Reggiano, finely grated, plus more for serving",
             "3 scallions, thinly sliced"
           ]
         },
@@ -1455,11 +1455,11 @@
         },
         {
           "title": "Blacken the chicken",
-          "text": "Lay the cutlets in the pan without crowding, working in two batches if needed, and cook 3-4 minutes per side without moving them. You want a dark mahogany crust and an internal temperature of 165°F (74°C) at the thickest point. Move them to a cutting board and let them rest 5 minutes so the juices redistribute instead of running out when you slice."
+          "text": "Lay the cutlets in the pan without crowding, working in two batches if needed, and cook 3-4 minutes per side without moving them. You want a dark mahogany crust and, more importantly, an instant-read thermometer reading of 165°F (74°C) at the thickest point of every cutlet — poultry is not safe below that, and a 1/2 in cutlet carries over only a degree or two off the heat, so do not pull it early and hope. If a piece is browned but reads low, give it another 30-60 seconds a side rather than turning the heat up. Move them to a cutting board and let them rest 5 minutes so the juices redistribute instead of running out when you slice."
         },
         {
           "title": "Start the pasta",
-          "text": "Bring 5 qt (4.7 L) of water to a boil with 2 tbsp (30 g) kosher salt and add the pasta. Cook it 1 to 2 minutes less than the package time so it is firmly al dente. It finishes in the cream sauce, where it will pick up the seasoning."
+          "text": "Bring 5 qt (4.7 L) of water to a boil with 2 tbsp (30 g) kosher salt and add the 12 oz (340 g) of penne. Cook it 1 to 2 minutes less than the package time, usually about 9 minutes, so it is firmly al dente with a chalky center. Time it to come out while the chicken is resting, so nothing sits around going cold. It finishes in the cream sauce, where it will drink up a good part of the liquid and the Cajun seasoning along with it."
         },
         {
           "title": "Cook the peppers",
@@ -1487,7 +1487,7 @@
         },
         {
           "title": "Slice, top, and serve",
-          "text": "Slice the rested chicken against the grain into 1/2 in (1 cm) strips and lay them over the pasta rather than stirring them in, so the crust stays crisp. Scatter the sliced scallions over the top. Serve immediately with extra Parmigiano and a lemon wedge if you like."
+          "text": "Slice the rested chicken against the grain into 1/2 in (1 cm) strips and lay them over the pasta rather than stirring them in, so the crust stays crisp. Scatter the sliced scallions over the top. Serve immediately with extra Parmigiano at the table."
         }
       ],
       "tips": [
@@ -1497,7 +1497,7 @@
         "Let the chicken rest the full 5 minutes before slicing. Cut it straight out of the pan and you will lose a puddle of juice to the cutting board.",
         "Leftovers reheat surprisingly well in a skillet over low heat with a splash of milk or stock to loosen the sauce."
       ],
-      "keyTemp": "Chicken is safe and juicy at 165°F (74°C) measured at the thickest part of the cutlet; pull it at 160°F (71°C) and let carryover heat finish the job during the 5-minute rest.",
+      "keyTemp": "Chicken must reach 165°F (74°C) on an instant-read thermometer at the thickest part of the cutlet — check every piece, since thin cutlets vary and carryover in a 1/2 in cutlet is only a degree or two, not enough to close a gap. Rest the cooked cutlets 5 minutes before slicing so the juices redistribute.",
       "pairing": "A cold lager or a lightly oaked Chardonnay, with cornbread or a simple slaw on the side.",
       "videoQuery": "cajun chicken pasta cream sauce skillet",
       "photoQuery": "cajun chicken pasta peppers cream",
@@ -1525,7 +1525,8 @@
             "1 lb (450 g) fresh cheese or butternut squash ravioli",
             "4 qt (3.8 L) water",
             "1 tbsp (18 g) fine sea salt, for the pasta water",
-            "8 tbsp (115 g) unsalted butter, cut into 8 even pieces",
+            "8 tbsp (113 g / 1 stick) unsalted butter, cut into 8 even pieces",
+            "1 tbsp (14 g) cold unsalted butter, held back to stop the browning if it races ahead",
             "20 fresh sage leaves",
             "1/3 cup (40 g) walnuts, roughly chopped, optional",
             "2 tsp (10 ml) fresh lemon juice",
@@ -1546,7 +1547,7 @@
         },
         {
           "title": "Melt the butter",
-          "text": "Set the skillet over medium heat and add all 8 tbsp (115 g) of butter at once, swirling the pan as it melts. Cutting it into even pieces means it melts at the same rate rather than some browning before the rest has liquefied. Once melted it will foam up loudly as the water in the butter boils off."
+          "text": "Set the skillet over medium heat and add all 8 tbsp (113 g) of butter at once, swirling the pan as it melts. Cutting it into even pieces means it melts at the same rate rather than some browning before the rest has liquefied. Once melted it will foam up loudly as the water in the butter boils off."
         },
         {
           "title": "Cook through the foam",
@@ -1562,7 +1563,7 @@
         },
         {
           "title": "Stop the butter cooking",
-          "text": "Immediately pull the skillet off the heat and set it on a cool burner or a folded towel. The pan holds enough heat to keep browning the butter well past where you want it. If it looks like it is racing ahead, add 1 tbsp (14 g) of cold butter to drop the temperature fast."
+          "text": "Immediately pull the skillet off the heat and set it on a cool burner or a folded towel. The pan holds enough heat to keep browning the butter well past where you want it. If it looks like it is racing ahead, drop in the reserved 1 tbsp (14 g) of cold butter to bring the temperature down fast."
         },
         {
           "title": "Cook the ravioli gently",
