@@ -300,11 +300,23 @@
     }
     activeTimer.btn.textContent = '⏱ ' + fmtClock(left) + ' — tap to stop';
   }
+  /* iOS only lets audio play from a context that was created or resumed during a
+     user tap. Starting a timer IS a tap, so the shared context gets unlocked there —
+     otherwise the done-chime minutes later would be silently blocked. */
+  var audioCtx = null;
+  function unlockAudio() {
+    try {
+      var C = window.AudioContext || window.webkitAudioContext; if (!C) return;
+      if (!audioCtx) audioCtx = new C();
+      if (audioCtx.state === 'suspended') audioCtx.resume();
+    } catch (e) { }
+  }
   function startTimer(btn, secs) {
     var same = activeTimer && activeTimer.btn === btn;
     var replacing = activeTimer && !same;
     stopTimer();
     if (same) return;
+    unlockAudio();
     btn.classList.add('running');
     activeTimer = { btn: btn, secs: secs, endsAt: Date.now() + secs * 1000, iv: 0 };
     activeTimer.iv = setInterval(paintTimer, 500);
@@ -314,8 +326,8 @@
   function alarm() {
     try { if (navigator.vibrate) navigator.vibrate([300, 120, 300, 120, 500]); } catch (e) { }
     try {
-      var C = window.AudioContext || window.webkitAudioContext; if (!C) return;
-      var ctx = new C();
+      var ctx = audioCtx;
+      if (!ctx) { var C = window.AudioContext || window.webkitAudioContext; if (!C) return; ctx = new C(); }
       [0, .35, .7].forEach(function (t) {
         var o = ctx.createOscillator(), g = ctx.createGain();
         o.type = 'sine'; o.frequency.value = 880;
@@ -325,7 +337,8 @@
         o.connect(g); g.connect(ctx.destination);
         o.start(ctx.currentTime + t); o.stop(ctx.currentTime + t + .3);
       });
-      setTimeout(function () { try { ctx.close(); } catch (e) { } }, 1600);
+      // never close the shared, gesture-unlocked context — the NEXT timer needs it
+      if (ctx !== audioCtx) setTimeout(function () { try { ctx.close(); } catch (e) { } }, 1600);
     } catch (e) { }
   }
 

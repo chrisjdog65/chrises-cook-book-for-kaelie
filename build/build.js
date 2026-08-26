@@ -190,7 +190,7 @@ function recipeHTML(r) {
     `</div>` +
 
     `<div class="section"><h3><span class="n">2</span> How to make it</h3>` +
-    `<p class="hint">Tap a step when it is done.</p>` +
+    `<p class="hint jsonly">Tap a step when it is done.</p>` +
     `<div class="progwrap jsonly"><div class="progbar"><i data-prog></i></div>` +
     `<div class="progtxt"><span data-progtxt></span>` +
     `<button data-resetsteps style="border:0;background:none;color:var(--accent);font-weight:700;font-size:12px;padding:0">Reset</button></div></div>` +
@@ -211,7 +211,7 @@ function recipeHTML(r) {
 function chapterHTML(c) {
   const list = recipes.filter(r => r.catSlug === c.slug);
   return `<details class="chap" data-cat="${esc(c.slug)}">` +
-    `<summary class="chapsum"><span class="row"><span class="ce">${c.emoji}</span>` +
+    `<summary class="chapsum"><span class="row"><span class="ce">${esc(c.emoji)}</span>` +
     `<span class="cx"><span class="cn">${esc(c.name)}</span>` +
     `<span class="cc">${list.length} recipes</span></span>` +
     `<span class="chev" aria-hidden="true">▾</span></span></summary>` +
@@ -247,7 +247,7 @@ const html = `<!doctype html>
 (function(){var d=document.documentElement;d.className+=' js';
 try{var t=localStorage.getItem('krb:theme');if(t)d.setAttribute('data-theme',JSON.parse(t));
 else if(window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)d.setAttribute('data-theme','dark');}catch(e){}
-if(!location.hash)d.className+=' nohash';})();
+})();
 </script>
 <style>
 ${appCss}
