@@ -359,6 +359,10 @@ if (!/html:not\(\.js\) \.jsonly \{ display:none !important; \}/.test(html)) {
   problems.push('the .jsonly hiding rule is missing — dead controls would show without scripts');
 }
 
+// 7. the book promised 200+ recipes — never quietly ship fewer (a bad data dir
+//    or a mass JSON-parse failure would otherwise slip through)
+if (recipes.length < 200) problems.push(`only ${recipes.length} recipes made it into the build (need 200+)`);
+
 if (problems.length) {
   console.error('\nBUILD REFUSED — the book would break on her phone:');
   problems.forEach(p => console.error('  ✗ ' + p));
