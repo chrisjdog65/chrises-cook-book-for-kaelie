@@ -55,12 +55,17 @@ html { -webkit-text-size-adjust:100%; }
 html:not(.js) .jsonly { display:none !important; }
 html.js .nojsonly { display:none !important; }
 
-summary { list-style:none; cursor:pointer; display:block; }
+summary { list-style:none; cursor:pointer; display:block;
+  -webkit-tap-highlight-color:transparent; -webkit-user-select:none; user-select:none; }
 summary::-webkit-details-marker { display:none; }
 summary::marker { content:''; }
 
 #book { margin-top:6px; }
 .booklead { color:var(--muted); font-size:14px; margin:2px 0 16px; text-align:center; }
+
+/* anything we scroll to programmatically must clear the sticky topbar (~119px) */
+html.js #book, html.js .chap, html.js .rec { scroll-margin-top:128px; }
+html.js.cook .rec { scroll-margin-top:8px; }
 
 /* ---- chapter ---- */
 .chap {
@@ -113,8 +118,17 @@ details[open] > summary .chev { transform:rotate(180deg); }
 }
 .panelttl { flex:1; font-family:var(--display); font-size:19px; }
 .panelbody {
-  flex:1; overflow-y:auto; -webkit-overflow-scrolling:touch;
+  flex:1; overflow-y:auto; -webkit-overflow-scrolling:touch; overscroll-behavior:contain;
   padding:14px 15px calc(var(--tabh) + 26px + env(safe-area-inset-bottom));
+}
+
+/* printing a recipe: just the content, none of the app chrome */
+@media print {
+  .topbar, .tabbar, #panel, .cookexit, .toast, .scrollhint, .cover-deco, #openBtn { display:none !important; }
+  #cover { min-height:auto; padding:20px; }
+  .chap, .rec { box-shadow:none; break-inside:avoid; }
+  .actions { display:none; }
+  body { background:#fff; }
 }
 
 .scrollhint { margin-top:30px; font-size:15px; color:#a9603f; letter-spacing:.04em; line-height:1.7; }
@@ -205,9 +219,6 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
   transition:background .15s, transform .1s;
 }
 .iconbtn:active { transform:scale(.93); }
-.backbtn { border:1px solid var(--line); background:var(--bg2); border-radius:999px;
-  padding:8px 15px 8px 11px; font-size:14px; font-weight:600; display:inline-flex; gap:6px;
-  align-items:center; text-decoration:none; color:inherit; margin-top:14px; }
 .brand { text-decoration:none; color:inherit; }
 
 .search { position:relative; margin-top:10px; }
@@ -231,14 +242,14 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
   padding-bottom:env(safe-area-inset-bottom); box-shadow:0 -3px 18px rgba(60,40,25,.07);
 }
 html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
-.tabbar a {
+.tabbar button {
   flex:1; border:0; background:none; padding:9px 2px 8px; height:var(--tabh);
   display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px;
   font-size:11px; font-weight:600; color:var(--muted); letter-spacing:.01em;
-  text-decoration:none; position:relative;
+  text-decoration:none; position:relative; -webkit-appearance:none; appearance:none;
 }
-.tabbar a .ti { font-size:21px; line-height:1; }
-.tabbar a.on { color:var(--accent); }
+.tabbar button .ti { font-size:21px; line-height:1; }
+.tabbar button.on { color:var(--accent); }
 .tabbar .badge {
   position:absolute; transform:translate(15px,-13px); background:var(--accent); color:var(--accent-ink);
   border-radius:999px; font-size:10px; min-width:17px; height:17px; padding:0 5px;
@@ -264,47 +275,9 @@ html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
 .chip.on { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
 
 /* ============ CATEGORY TILES ============ */
-.catgrid { display:grid; grid-template-columns:repeat(2,1fr); gap:11px; }
-@media (min-width:620px){ .catgrid{grid-template-columns:repeat(3,1fr)} }
-.catcard {
-  border:1px solid var(--line); background:var(--bg2); border-radius:var(--r);
-  padding:15px 13px; text-align:left; display:block; box-shadow:var(--shadow);
-  transition:transform .14s ease; width:100%; text-decoration:none; color:inherit;
-}
-.catcard:active { transform:scale(.975); }
-.catcard .ce, .catcard .cn, .catcard .cc { display:block; }
-.catcard .ce { font-size:29px; line-height:1; }
-.catcard .cn { font-family:var(--display); font-size:17px; margin-top:9px; line-height:1.25; }
-.catcard .cc { color:var(--muted); font-size:12.5px; margin-top:3px; }
 
 /* ============ RECIPE CARDS ============ */
-.rgrid { display:grid; gap:14px; }
-@media (min-width:560px){ .rgrid{grid-template-columns:repeat(2,1fr)} }
-.rcard {
-  border:1px solid var(--line); background:var(--bg2); border-radius:var(--r);
-  overflow:hidden; box-shadow:var(--shadow); position:relative;
-  transition:transform .14s ease, box-shadow .14s ease;
-}
-.rcard:active { transform:scale(.985); }
 /* cards are anchors so they navigate without script; their parts are spans */
-.rcard-open {
-  display:block; width:100%; text-align:left; padding:0; border:0; background:none;
-  color:inherit; font:inherit; text-decoration:none;
-}
-.rcard .art, .rcard .body, .rcard .t, .rcard .b { display:block; }
-.rcard .art { aspect-ratio:400/260; background:var(--bg3); }
-.rcard .art svg { display:block; width:100%; height:100%; }
-.rcard .fav {
-  position:absolute; top:9px; right:9px; z-index:2; width:35px; height:35px; border-radius:50%;
-  border:0; background:rgba(255,255,255,.9); font-size:17px; display:grid; place-items:center;
-  box-shadow:0 2px 7px rgba(0,0,0,.16); line-height:1; padding:0;
-}
-.rcard .body { padding:13px 14px 15px; }
-.rcard .t { font-family:var(--display); font-size:18px; line-height:1.28; }
-.rcard .b { color:var(--muted); font-size:13.5px; margin-top:5px;
-  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
-.rcard .m { display:flex; gap:9px; flex-wrap:wrap; margin-top:10px; font-size:12.5px; color:var(--ink2); align-items:center; }
-.rcard .m span { display:inline-flex; align-items:center; gap:4px; }
 .dot { width:4px; height:4px; border-radius:50%; background:var(--line); align-self:center; }
 
 .diff { font-size:11px; font-weight:700; letter-spacing:.05em; text-transform:uppercase;
@@ -319,7 +292,6 @@ html[data-theme="dark"] .diff.Advanced { background:#3d1e17; color:#f0a08c; }
 /* ============ RECIPE DETAIL ============ */
 .hero { border-radius:var(--r); overflow:hidden; box-shadow:var(--shadow-lg); margin-top:14px; position:relative; }
 .hero svg { display:block; width:100%; height:auto; }
-.rtitle { font-family:var(--display); font-size:clamp(26px,7vw,34px); line-height:1.14; margin:18px 0 0; }
 .rblurb { color:var(--ink2); margin:9px 0 0; font-size:15.5px; }
 .rtags { display:flex; gap:7px; flex-wrap:wrap; margin-top:13px; }
 .rtag { background:var(--bg3); border-radius:999px; padding:4px 11px; font-size:12.5px; color:var(--ink2); font-weight:600; }
@@ -388,7 +360,6 @@ html[data-theme="dark"] .diff.Advanced { background:#3d1e17; color:#f0a08c; }
 .steps li.done .st, .steps li.done .sx { opacity:.5; }
 .steps .st { font-weight:700; font-size:16px; margin-bottom:3px; }
 .steps .sx { color:var(--ink2); font-size:15.5px; }
-.steps .tapme { position:absolute; inset:0; background:none; border:0; padding:0; }
 .timerbtn {
   margin-top:9px; border:1px solid var(--line); background:var(--bg2); border-radius:999px;
   padding:6px 14px; font-size:13px; font-weight:700; color:var(--accent);
@@ -410,9 +381,12 @@ html[data-theme="dark"] .diff.Advanced { background:#3d1e17; color:#f0a08c; }
 .tips .tb { color:var(--accent2); flex:none; font-size:15px; }
 
 /* sits just under the sticky topbar (63px); in cook mode the topbar is gone, so it goes to 0 */
-.progwrap { position:sticky; top:63px; z-index:30; background:var(--bg); padding:9px 0 11px; margin:0 -15px;
-  padding-left:15px; padding-right:15px; border-bottom:1px solid var(--line); }
-html.cook .progwrap { top:0; }
+/* The topbar's height varies with the search box, so the progress bar doesn't try
+   to stick beneath it. In cook mode the topbar is gone and sticking is safe —
+   and that's when hands are messy and it matters. */
+.progwrap { background:var(--bg2); padding:9px 0 11px; margin:0 -12px;
+  padding-left:12px; padding-right:12px; border-bottom:1px solid var(--line); }
+html.cook .progwrap { position:sticky; top:0; z-index:30; }
 .progbar { height:6px; background:var(--bg3); border-radius:999px; overflow:hidden; }
 .progbar i { display:block; height:100%; background:linear-gradient(90deg,var(--accent2),var(--accent)); width:0; transition:width .3s ease; }
 .progtxt { font-size:12px; color:var(--muted); margin-top:5px; display:flex; justify-content:space-between; }
@@ -5271,7 +5245,8 @@ html:not(.js) #app { padding-bottom:40px; }
         title: t ? t.textContent.trim() : '',
         mins: mins, diff: df ? df.textContent.trim() : '',
         hay: ((t ? t.textContent : '') + ' ' + (tags ? tags.textContent : '') + ' ' +
-          (blurb ? blurb.textContent : '') + ' ' + ing).toLowerCase()
+          (blurb ? blurb.textContent : '') + ' ' +
+          (d.getAttribute('data-cat') || '').replace(/-/g, ' ') + ' ' + ing).toLowerCase()
       };
     });
     return RECS;
@@ -5332,12 +5307,14 @@ html:not(.js) #app { padding-bottom:40px; }
   function closePanel() {
     if (!panel) return;
     panel.hidden = true; mode = null;
+    document.body.style.overflow = '';
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === 'book'); });
   }
   function openPanel(kind) {
     if (!panel) return;
     mode = kind; shown = 40;
     panel.hidden = false;
+    document.body.style.overflow = 'hidden';   // the book must not scroll underneath
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === kind); });
     renderPanel();
     panelBody.scrollTop = 0;
@@ -5584,6 +5561,11 @@ html:not(.js) #app { padding-bottom:40px; }
     if (t.closest('#openBtn')) {
       var bk = $('#book');
       if (bk) bk.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      return;
+    }
+    if (t.closest('.brand')) {
+      closePanel();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       return;
     }
     var open = t.closest('[data-open]');

@@ -52,7 +52,8 @@
         title: t ? t.textContent.trim() : '',
         mins: mins, diff: df ? df.textContent.trim() : '',
         hay: ((t ? t.textContent : '') + ' ' + (tags ? tags.textContent : '') + ' ' +
-          (blurb ? blurb.textContent : '') + ' ' + ing).toLowerCase()
+          (blurb ? blurb.textContent : '') + ' ' +
+          (d.getAttribute('data-cat') || '').replace(/-/g, ' ') + ' ' + ing).toLowerCase()
       };
     });
     return RECS;
@@ -113,12 +114,14 @@
   function closePanel() {
     if (!panel) return;
     panel.hidden = true; mode = null;
+    document.body.style.overflow = '';
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === 'book'); });
   }
   function openPanel(kind) {
     if (!panel) return;
     mode = kind; shown = 40;
     panel.hidden = false;
+    document.body.style.overflow = 'hidden';   // the book must not scroll underneath
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === kind); });
     renderPanel();
     panelBody.scrollTop = 0;
@@ -365,6 +368,11 @@
     if (t.closest('#openBtn')) {
       var bk = $('#book');
       if (bk) bk.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      return;
+    }
+    if (t.closest('.brand')) {
+      closePanel();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       return;
     }
     var open = t.closest('[data-open]');

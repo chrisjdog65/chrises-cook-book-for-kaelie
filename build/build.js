@@ -319,6 +319,52 @@ ${appJs}
 </html>
 `;
 
+/* ---------- self-checks: refuse to ship a book that breaks the iPhone rules ---------- */
+const problems = [];
+
+// Comments inside the inlined CSS/JS legitimately mention tags like <details>,
+// so structural checks run on the markup only, with script/style bodies removed.
+const dom = html.replace(/<script[\s\S]*?<\/script>/g, '<script></script>')
+  .replace(/<style[\s\S]*?<\/style>/g, '<style></style>');
+
+// 1. zero internal links — the iOS attachment previewer forwards #links to a search engine
+const internalLinks = dom.match(/<a [^>]*href="#/g) || [];
+if (internalLinks.length) problems.push(`${internalLinks.length} internal <a href="#..."> link(s) — these break on iPhone`);
+
+// 2. only YouTube / Google image-search links are allowed out
+const badLinks = (dom.match(/<a [^>]*href="https?:\/\/[^"]*"/g) || [])
+  .filter(a => !/href="https:\/\/www\.(youtube|google)\.com\//.test(a));
+if (badLinks.length) problems.push(`unexpected outbound link(s): ${badLinks.slice(0, 3).join(' | ')}`);
+
+// 3. every <use> must resolve to a symbol actually in the sprite, or art silently vanishes
+const usedIds = new Set([...dom.matchAll(/<use href="#([^"]+)"/g)].map(m => m[1]));
+const definedIds = new Set([...dom.matchAll(/<symbol id="([^"]+)"/g)].map(m => m[1]));
+for (const id of usedIds) if (!definedIds.has(id)) problems.push(`<use> references missing symbol "${id}"`);
+
+// 4. details/summary must balance — a miscount means misnested accordions
+const dOpen = (dom.match(/<details/g) || []).length, dClose = (dom.match(/<\/details>/g) || []).length;
+const sOpen = (dom.match(/<summary/g) || []).length;
+if (dOpen !== dClose) problems.push(`<details> open/close mismatch: ${dOpen} vs ${dClose}`);
+if (dOpen !== sOpen) problems.push(`${dOpen} <details> but ${sOpen} <summary>`);
+
+// 5. the cover must read exactly as asked
+const cm = html.match(/<h1 id="coverTitle">([\s\S]*?)<\/h1>[\s\S]*?<p id="coverFrom">([\s\S]*?)<\/p>/);
+const strip = s => String(s || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+if (!cm || strip(cm[1]) + ' ' + strip(cm[2]) !== 'Kaelies recipe book sent from your amazing boyfriend Chris Jensen') {
+  problems.push('cover wording is no longer the exact requested text');
+}
+
+// 6. nothing readable may hide behind scripts: script-only controls carry .jsonly
+if (!/html:not\(\.js\) \.jsonly \{ display:none !important; \}/.test(html)) {
+  problems.push('the .jsonly hiding rule is missing — dead controls would show without scripts');
+}
+
+if (problems.length) {
+  console.error('\nBUILD REFUSED — the book would break on her phone:');
+  problems.forEach(p => console.error('  ✗ ' + p));
+  process.exit(1);
+}
+
 fs.writeFileSync(OUT, html);
 const kb = (Buffer.byteLength(html) / 1024).toFixed(0);
 console.log(`\nBuilt ${path.relative(ROOT, OUT)}`);
