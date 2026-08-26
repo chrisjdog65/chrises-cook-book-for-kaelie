@@ -130,9 +130,25 @@
     window.scrollTo(0, 0);
   }
 
+  /* Pull a spread across different chapters, shifted by the day, so the home page
+     shows something different tomorrow instead of the same four steaks forever. */
+  function spread(pool, n) {
+    if (!pool.length) return [];
+    var day = Math.floor(Date.now() / 86400000);
+    var byCat = {};
+    pool.forEach(function (r) { (byCat[r.catSlug] = byCat[r.catSlug] || []).push(r); });
+    var cats = Object.keys(byCat).sort(), out = [], seen = {};
+    for (var i = 0; out.length < n && i < cats.length * 3; i++) {
+      var list = byCat[cats[(day + i) % cats.length]];
+      var r = list[(day + Math.floor(i / cats.length)) % list.length];
+      if (!seen[r.id]) { seen[r.id] = 1; out.push(r); }
+    }
+    return out;
+  }
+
   function viewHome() {
     var quick = RECIPES.filter(function (r) { return r._mins > 0 && r._mins <= 30; });
-    var pick = quick.length ? quick.slice(0, 4) : RECIPES.slice(0, 4);
+    var pick = spread(quick.length ? quick : RECIPES, 4);
     setMain(
       '<h2 class="h first">Hi Kaelie 👋</h2>' +
       '<p class="sub">' + RECIPES.length + ' recipes, ' + CATS.length + ' chapters. Tap anything and start cooking.</p>' +
