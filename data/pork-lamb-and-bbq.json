@@ -102,7 +102,11 @@
       "pairing": "Vinegary coleslaw, buttered corn, and a cold lager or a glass of dry cider.",
       "videoQuery": "oven baked baby back ribs then grilled",
       "photoQuery": "glazed baby back ribs sliced",
-      "tags": ["BBQ", "Oven", "Weekend"]
+      "tags": [
+        "BBQ",
+        "Oven",
+        "Weekend"
+      ]
     },
     {
       "id": "smoked-st-louis-ribs",
@@ -219,7 +223,12 @@
       "pairing": "White bread, pickles, sliced raw onion, and a very cold pilsner.",
       "videoQuery": "smoked st louis style spare ribs 250 degrees",
       "photoQuery": "smoked spare ribs sliced bark",
-      "tags": ["BBQ", "Smoker", "Weekend", "Project"]
+      "tags": [
+        "BBQ",
+        "Smoker",
+        "Weekend",
+        "Project"
+      ]
     },
     {
       "id": "pulled-pork-shoulder",
@@ -328,7 +337,11 @@
       "pairing": "Soft potato buns, sharp coleslaw, dill pickles, and sweet tea or a light amber ale.",
       "videoQuery": "oven pulled pork shoulder boston butt 275",
       "photoQuery": "pulled pork shoulder shredded bark",
-      "tags": ["BBQ", "Feeds a Crowd", "Weekend"]
+      "tags": [
+        "BBQ",
+        "Feeds a Crowd",
+        "Weekend"
+      ]
     },
     {
       "id": "thick-cut-pork-chops-pan-sauce",
@@ -419,7 +432,11 @@
       "pairing": "Buttered mashed potatoes or soft polenta, a pile of sautéed greens, and the rest of the cider.",
       "videoQuery": "thick cut bone in pork chops pan sauce",
       "photoQuery": "seared thick pork chop pan sauce",
-      "tags": ["30 Minutes", "Cast Iron", "Date Night"]
+      "tags": [
+        "30 Minutes",
+        "Cast Iron",
+        "Date Night"
+      ]
     },
     {
       "id": "cider-brined-grilled-pork-chops",
@@ -511,7 +528,11 @@
       "pairing": "Grilled peaches or apple sauce, a shaved fennel salad, and a chilled off-dry Riesling.",
       "videoQuery": "brined grilled pork chops two zone fire",
       "photoQuery": "grilled pork chop grill marks",
-      "tags": ["Grill", "Make Ahead", "Easy"]
+      "tags": [
+        "Grill",
+        "Make Ahead",
+        "Easy"
+      ]
     },
     {
       "id": "herb-stuffed-porchetta",
@@ -615,7 +636,12 @@
       "pairing": "Roasted potatoes in the pork fat, bitter greens with lemon, and a bright Chianti or Barbera.",
       "videoQuery": "porchetta pork belly wrapped loin crackling",
       "photoQuery": "sliced porchetta crackling spiral",
-      "tags": ["Project", "Feeds a Crowd", "Roast", "Weekend"]
+      "tags": [
+        "Project",
+        "Feeds a Crowd",
+        "Roast",
+        "Weekend"
+      ]
     },
     {
       "id": "bacon-wrapped-pork-tenderloin",
@@ -704,7 +730,11 @@
       "pairing": "Roasted brussels sprouts, a wild rice pilaf, and a light Pinot Noir.",
       "videoQuery": "bacon wrapped pork tenderloin oven roasted",
       "photoQuery": "bacon wrapped pork tenderloin sliced",
-      "tags": ["Easy", "Weeknight", "Oven"]
+      "tags": [
+        "Easy",
+        "Weeknight",
+        "Oven"
+      ]
     },
     {
       "id": "honey-glazed-ham",
@@ -792,7 +822,11 @@
       "pairing": "Scalloped potatoes, buttery green beans, and a sparkling wine or a crisp lager.",
       "videoQuery": "honey glazed spiral ham oven baked",
       "photoQuery": "honey glazed spiral ham platter",
-      "tags": ["Holiday", "Feeds a Crowd", "Easy"]
+      "tags": [
+        "Holiday",
+        "Feeds a Crowd",
+        "Easy"
+      ]
     },
     {
       "id": "rack-of-lamb-herb-crust",
@@ -888,7 +922,11 @@
       "pairing": "Potato gratin, blistered green beans, and a Bordeaux or a Rioja Reserva.",
       "videoQuery": "herb crusted rack of lamb dijon panko",
       "photoQuery": "herb crusted rack of lamb chops",
-      "tags": ["Date Night", "Roast", "Special Occasion"]
+      "tags": [
+        "Date Night",
+        "Roast",
+        "Special Occasion"
+      ]
     },
     {
       "id": "braised-lamb-shanks",
@@ -999,7 +1037,11 @@
       "pairing": "Creamy polenta or mashed potatoes to catch the sauce, and a big Syrah or Cabernet.",
       "videoQuery": "red wine braised lamb shanks dutch oven",
       "photoQuery": "braised lamb shank polenta sauce",
-      "tags": ["Braise", "Comfort Food", "Sunday Dinner"]
+      "tags": [
+        "Braise",
+        "Comfort Food",
+        "Sunday Dinner"
+      ]
     },
     {
       "id": "lamb-chops-mint-chimichurri",
@@ -1086,7 +1128,11 @@
       "pairing": "Warm pita or crushed potatoes, a cucumber-tomato salad, and a glass of Malbec.",
       "videoQuery": "pan seared lamb chops chimichurri cast iron",
       "photoQuery": "lamb chops green chimichurri sauce",
-      "tags": ["30 Minutes", "Cast Iron", "Date Night"]
+      "tags": [
+        "30 Minutes",
+        "Cast Iron",
+        "Date Night"
+      ]
     },
     {
       "id": "gyro-style-lamb-with-tzatziki",
@@ -1199,7 +1245,11 @@
       "pairing": "Lemony roast potatoes or fries tucked right in the pita, and an ice-cold Greek lager.",
       "videoQuery": "homemade gyro meat loaf lamb beef tzatziki",
       "photoQuery": "gyro pita lamb tzatziki",
-      "tags": ["Make Ahead", "Family Favorite", "Greek"]
+      "tags": [
+        "Make Ahead",
+        "Family Favorite",
+        "Greek"
+      ]
     },
     {
       "id": "central-texas-smoked-brisket",
@@ -1303,13 +1353,18 @@
       "pairing": "White bread, dill pickles, raw white onion, and a very cold Shiner or Lone Star.",
       "videoQuery": "central texas brisket butcher paper post oak",
       "photoQuery": "sliced smoked brisket smoke ring",
-      "tags": ["BBQ", "Smoker", "Project", "Weekend"]
+      "tags": [
+        "BBQ",
+        "Smoker",
+        "Project",
+        "Weekend"
+      ]
     },
     {
       "id": "brisket-burnt-ends",
       "title": "Kansas City Brisket Burnt Ends",
       "emoji": "🍢",
-      "art": "steak",
+      "art": "roast",
       "blurb": "Cubes of the fatty brisket point, sauced and put back in the smoke until they tighten into sticky, candied bites. Barbecue people call them meat candy and they are not exaggerating.",
       "difficulty": "Medium",
       "servings": "8 servings",
@@ -1397,7 +1452,11 @@
       "pairing": "Creamy potato salad, baked beans, white bread, and a cold bourbon and Coke.",
       "videoQuery": "brisket burnt ends point smoker sauce",
       "photoQuery": "brisket burnt ends glossy cubes",
-      "tags": ["BBQ", "Smoker", "Party Food"]
+      "tags": [
+        "BBQ",
+        "Smoker",
+        "Party Food"
+      ]
     },
     {
       "id": "char-siu-pork",
@@ -1503,7 +1562,11 @@
       "pairing": "Steamed jasmine rice, blanched gai lan with oyster sauce, and jasmine tea or a cold pilsner.",
       "videoQuery": "chinese char siu bbq pork oven roasted",
       "photoQuery": "char siu pork sliced glazed",
-      "tags": ["Make Ahead", "Oven", "Takeout at Home"]
+      "tags": [
+        "Make Ahead",
+        "Oven",
+        "Takeout at Home"
+      ]
     },
     {
       "id": "sausage-and-peppers",
@@ -1584,7 +1647,11 @@
       "pairing": "Crusty rolls or soft polenta, a simple green salad, and a glass of Chianti or a cold Peroni.",
       "videoQuery": "italian sausage and peppers skillet recipe",
       "photoQuery": "italian sausage peppers onions skillet",
-      "tags": ["One Pan", "Weeknight", "Italian"]
+      "tags": [
+        "One Pan",
+        "Weeknight",
+        "Italian"
+      ]
     }
   ]
 }

@@ -1017,6 +1017,27 @@ D.icecream = r => {
   ${b.front}`;
 };
 
+/* Set custards in a ramekin — crème brûlée, panna cotta — which otherwise
+   ended up on the saucepan drawing. */
+D.custard = r => `${plate(200, 182, 112, 32)}
+  <path d="M116,126 h168 l-13,54 a17,17 0 0 1 -17,13 h-108 a17,17 0 0 1 -17,-13 z" fill="#efe8da"/>
+  <path d="M116,126 h168 l-3,13 h-162 z" fill="#ded5c3"/>
+  <g stroke="#e2dacb" stroke-width="3" opacity=".8">
+    <path d="M142,140 l-6,50"/><path d="M172,141 l-3,51"/><path d="M200,141 v51"/>
+    <path d="M228,141 l3,51"/><path d="M258,140 l6,50"/></g>
+  <ellipse cx="200" cy="126" rx="84" ry="25" fill="#fbf6ec"/>
+  <ellipse cx="200" cy="125" rx="75" ry="20" fill="#a8631f"/>
+  <ellipse cx="200" cy="123" rx="71" ry="17" fill="#d99a45"/>
+  <ellipse cx="184" cy="118" rx="28" ry="8" fill="#f2c884" opacity=".65"/>
+  ${scatter(r, 9, 166, 114, 68, 18, ['#8f5218', '#f2cf95'], 3)}
+  <circle cx="250" cy="114" r="9" fill="#c02c3c"/>
+  <circle cx="264" cy="121" r="7" fill="#7a2f8c"/>
+  ${herb(236, 106, 0.4)}
+  <g transform="rotate(14 316 176)">
+    <rect x="312" y="118" width="9" height="62" rx="4.5" fill="#c9cdd4"/>
+    <ellipse cx="316" cy="186" rx="16" ry="11" fill="#dfe3e9"/>
+  </g>`;
+
 D.chocolate = r => `${plate(200, 174, 128, 46)}
   <g transform="translate(0,-8)">
     <ellipse cx="200" cy="170" rx="86" ry="26" fill="#4a2a18"/>
@@ -1089,7 +1110,7 @@ const BG = {
   pancake: P.gold, chicken: P.warm, wings: P.red, pork: P.clay, ribs: P.clay, lamb: P.plum,
   fish: P.blue, salmon: P.blue, shrimp: P.blue, lobster: P.blue, crab: P.blue, scallop: P.blue,
   sauce: P.red, cake: P.plum, cookie: P.gold, pie: P.gold, icecream: P.plum, chocolate: P.clay,
-  drink: P.mint, cheese: P.gold, default: P.warm,
+  drink: P.mint, cheese: P.gold, custard: P.gold, default: P.warm,
 };
 
 /* ---------- public API ---------- */

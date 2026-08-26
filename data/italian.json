@@ -107,7 +107,11 @@
       "pairing": "A simple arugula salad with lemon and a glass of Chianti Classico, with garlic bread for the extra sauce.",
       "videoQuery": "crispy chicken parmesan cutlets from scratch",
       "photoQuery": "chicken parmesan melted mozzarella plate",
-      "tags": ["Comfort Food", "Date Night", "Fried"]
+      "tags": [
+        "Comfort Food",
+        "Date Night",
+        "Fried"
+      ]
     },
     {
       "id": "chicken-piccata",
@@ -197,7 +201,11 @@
       "pairing": "Buttered angel hair or roasted asparagus, and the rest of the Pinot Grigio you cooked with.",
       "videoQuery": "chicken piccata lemon caper pan sauce",
       "photoQuery": "chicken piccata capers lemon skillet",
-      "tags": ["30 Minutes", "Weeknight", "One Pan"]
+      "tags": [
+        "30 Minutes",
+        "Weeknight",
+        "One Pan"
+      ]
     },
     {
       "id": "chicken-marsala",
@@ -290,7 +298,11 @@
       "pairing": "Creamy polenta or mashed potatoes to catch the sauce, with a glass of Barbera or the dry Marsala itself.",
       "videoQuery": "chicken marsala mushrooms restaurant style",
       "photoQuery": "chicken marsala mushroom sauce skillet",
-      "tags": ["Date Night", "One Pan", "Weeknight"]
+      "tags": [
+        "Date Night",
+        "One Pan",
+        "Weeknight"
+      ]
     },
     {
       "id": "chicken-saltimbocca",
@@ -380,7 +392,11 @@
       "pairing": "Sauteed spinach with garlic and a crisp Frascati or Vermentino.",
       "videoQuery": "chicken saltimbocca prosciutto sage pan sauce",
       "photoQuery": "chicken saltimbocca prosciutto sage plated",
-      "tags": ["30 Minutes", "Date Night", "One Pan"]
+      "tags": [
+        "30 Minutes",
+        "Date Night",
+        "One Pan"
+      ]
     },
     {
       "id": "chicken-cacciatore",
@@ -484,7 +500,11 @@
       "pairing": "Soft polenta or crusty bread, and a glass of the same Chianti that went into the pot.",
       "videoQuery": "chicken cacciatore braised peppers tomatoes",
       "photoQuery": "chicken cacciatore dutch oven peppers",
-      "tags": ["One Pot", "Comfort Food", "Make Ahead"]
+      "tags": [
+        "One Pot",
+        "Comfort Food",
+        "Make Ahead"
+      ]
     },
     {
       "id": "eggplant-parmigiana",
@@ -584,13 +604,17 @@
       "pairing": "A bitter green salad with lemon vinaigrette and a bottle of Aglianico or Nero d'Avola.",
       "videoQuery": "eggplant parmigiana roasted layers baked",
       "photoQuery": "eggplant parmigiana baked dish slice",
-      "tags": ["Vegetarian", "Make Ahead", "Comfort Food"]
+      "tags": [
+        "Vegetarian",
+        "Make Ahead",
+        "Comfort Food"
+      ]
     },
     {
       "id": "sunday-gravy-meatballs",
       "title": "Sunday Gravy with Meatballs",
       "emoji": "🍖",
-      "art": "sauce",
+      "art": "pasta",
       "blurb": "A big pot of tomato sauce simmered all afternoon with meatballs, sausage, and pork ribs until it turns dark and glossy. Start it after breakfast and let the smell take care of the rest of the day.",
       "difficulty": "Medium",
       "servings": "8 servings",
@@ -697,7 +721,11 @@
       "pairing": "Rigatoni or a big bowl of ziti, plenty of bread, and a jug of Sangiovese.",
       "videoQuery": "italian sunday gravy meatballs sausage pork",
       "photoQuery": "sunday gravy meatballs sausage pot",
-      "tags": ["Weekend Project", "Make Ahead", "Comfort Food"]
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "Comfort Food"
+      ]
     },
     {
       "id": "osso-buco-alla-milanese",
@@ -814,7 +842,11 @@
       "pairing": "Risotto alla Milanese is the classic partner, with a Barolo or a good Nebbiolo.",
       "videoQuery": "osso buco veal shanks braised gremolata",
       "photoQuery": "osso buco veal shank gremolata plate",
-      "tags": ["Weekend Project", "Braised", "Special Occasion"]
+      "tags": [
+        "Weekend Project",
+        "Braised",
+        "Special Occasion"
+      ]
     },
     {
       "id": "risotto-alla-milanese",
@@ -908,7 +940,11 @@
       "pairing": "The traditional partner for osso buco, or eat it alone with a glass of Franciacorta.",
       "videoQuery": "risotto alla milanese saffron authentic method",
       "photoQuery": "saffron risotto milanese bowl",
-      "tags": ["Vegetarian Option", "Comfort Food", "Date Night"]
+      "tags": [
+        "Vegetarian Option",
+        "Comfort Food",
+        "Date Night"
+      ]
     },
     {
       "id": "wild-mushroom-risotto",
@@ -1018,7 +1054,11 @@
       "pairing": "A green salad with sharp vinaigrette and a glass of Barbaresco or an earthy Pinot Noir.",
       "videoQuery": "wild mushroom risotto porcini creamy technique",
       "photoQuery": "mushroom risotto bowl parmesan",
-      "tags": ["Vegetarian Option", "Date Night", "Comfort Food"]
+      "tags": [
+        "Vegetarian Option",
+        "Date Night",
+        "Comfort Food"
+      ]
     },
     {
       "id": "sicilian-arancini",
@@ -1132,7 +1172,11 @@
       "pairing": "Cold beer or a chilled glass of Grillo, with a bowl of marinara for dipping.",
       "videoQuery": "sicilian arancini rice balls ragu filling",
       "photoQuery": "arancini rice balls cut open",
-      "tags": ["Weekend Project", "Fried", "Make Ahead"]
+      "tags": [
+        "Weekend Project",
+        "Fried",
+        "Make Ahead"
+      ]
     },
     {
       "id": "neapolitan-pizza-margherita",
@@ -1233,7 +1277,11 @@
       "pairing": "Cold Peroni or a light Aglianico, and nothing else on the table.",
       "videoQuery": "neapolitan pizza dough margherita home oven",
       "photoQuery": "neapolitan margherita pizza leopard crust",
-      "tags": ["Weekend Project", "Baking", "Date Night"]
+      "tags": [
+        "Weekend Project",
+        "Baking",
+        "Date Night"
+      ]
     },
     {
       "id": "sicilian-pan-pizza",
@@ -1341,7 +1389,11 @@
       "pairing": "Cold lager and a big bowl of dressed greens to cut the richness.",
       "videoQuery": "sicilian pan pizza thick crust recipe",
       "photoQuery": "sicilian pan pizza square slice",
-      "tags": ["Baking", "Comfort Food", "Weekend Project"]
+      "tags": [
+        "Baking",
+        "Comfort Food",
+        "Weekend Project"
+      ]
     },
     {
       "id": "rosemary-focaccia",
@@ -1438,7 +1490,11 @@
       "pairing": "Good olive oil and balsamic for dipping, a plate of prosciutto, and a glass of something cold.",
       "videoQuery": "no knead rosemary focaccia sheet pan",
       "photoQuery": "rosemary focaccia dimpled golden pan",
-      "tags": ["Baking", "Vegetarian", "Make Ahead"]
+      "tags": [
+        "Baking",
+        "Vegetarian",
+        "Make Ahead"
+      ]
     },
     {
       "id": "bruschetta-al-pomodoro",
@@ -1526,7 +1582,11 @@
       "pairing": "A chilled glass of Vermentino or Prosecco, as the first thing you put on the table.",
       "videoQuery": "bruschetta al pomodoro authentic italian tomatoes",
       "photoQuery": "tomato bruschetta grilled bread basil",
-      "tags": ["30 Minutes", "Vegetarian", "Appetizer"]
+      "tags": [
+        "30 Minutes",
+        "Vegetarian",
+        "Appetizer"
+      ]
     },
     {
       "id": "caprese-with-torn-basil",
@@ -1602,7 +1662,11 @@
       "pairing": "Crusty bread for mopping the plate and a cold glass of Falanghina or a dry rosato.",
       "videoQuery": "caprese salad how to make authentic",
       "photoQuery": "caprese salad tomato mozzarella basil platter",
-      "tags": ["No Cook", "Summer", "Vegetarian"]
+      "tags": [
+        "No Cook",
+        "Summer",
+        "Vegetarian"
+      ]
     }
   ]
 }

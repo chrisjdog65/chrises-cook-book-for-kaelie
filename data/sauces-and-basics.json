@@ -84,7 +84,11 @@
       "pairing": "Melts onto everything from a ribeye to roasted carrots to a torn hunk of sourdough; open whatever red is already in the house.",
       "videoQuery": "how to make garlic herb compound butter log",
       "photoQuery": "garlic herb compound butter slices",
-      "tags": ["Make Ahead", "Freezer Friendly", "Steak Night"]
+      "tags": [
+        "Make Ahead",
+        "Freezer Friendly",
+        "Steak Night"
+      ]
     },
     {
       "id": "red-wine-pan-sauce",
@@ -171,7 +175,11 @@
       "pairing": "Made for a rested ribeye or strip steak with mashed potatoes; drink the rest of the bottle you deglazed with.",
       "videoQuery": "how to make red wine pan sauce",
       "photoQuery": "red wine pan sauce steak",
-      "tags": ["30 Minutes", "Date Night", "Cast Iron"]
+      "tags": [
+        "30 Minutes",
+        "Date Night",
+        "Cast Iron"
+      ]
     },
     {
       "id": "bearnaise-sauce",
@@ -276,7 +284,11 @@
       "pairing": "The classic partner for a grilled strip steak and frites; a crisp Sancerre or a chalky Chablis cuts the butter beautifully.",
       "videoQuery": "how to make bearnaise sauce from scratch",
       "photoQuery": "bearnaise sauce over steak",
-      "tags": ["Date Night", "Classic French", "Steak Night"]
+      "tags": [
+        "Date Night",
+        "Classic French",
+        "Steak Night"
+      ]
     },
     {
       "id": "hollandaise-sauce",
@@ -361,7 +373,11 @@
       "pairing": "Poached eggs on English muffins, roasted asparagus, or steamed new potatoes; a mimosa or a dry Prosecco is traditional for good reason.",
       "videoQuery": "how to make hollandaise sauce by hand",
       "photoQuery": "hollandaise sauce eggs benedict",
-      "tags": ["Brunch", "Classic French", "30 Minutes"]
+      "tags": [
+        "Brunch",
+        "Classic French",
+        "30 Minutes"
+      ]
     },
     {
       "id": "beurre-blanc",
@@ -453,7 +469,11 @@
       "pairing": "Spoon it under roasted halibut, cod, or scallops with steamed potatoes; pour the same crisp white you used in the reduction.",
       "videoQuery": "how to make beurre blanc butter sauce",
       "photoQuery": "beurre blanc sauce white fish",
-      "tags": ["Classic French", "Date Night", "30 Minutes"]
+      "tags": [
+        "Classic French",
+        "Date Night",
+        "30 Minutes"
+      ]
     },
     {
       "id": "brown-butter",
@@ -530,7 +550,11 @@
       "pairing": "Best on cheese ravioli, roasted squash, or seared scallops; a glass of unoaked Chardonnay handles the richness.",
       "videoQuery": "how to make brown butter beurre noisette",
       "photoQuery": "brown butter in saucepan",
-      "tags": ["15 Minutes", "One Pan", "Make Ahead"]
+      "tags": [
+        "15 Minutes",
+        "One Pan",
+        "Make Ahead"
+      ]
     },
     {
       "id": "chimichurri",
@@ -613,7 +637,11 @@
       "pairing": "Made for grilled skirt steak and charred bread; a big juicy Malbec is the traditional and correct answer.",
       "videoQuery": "authentic argentinian chimichurri recipe hand chopped",
       "photoQuery": "chimichurri sauce bowl steak",
-      "tags": ["No Cook", "Make Ahead", "Grilling"]
+      "tags": [
+        "No Cook",
+        "Make Ahead",
+        "Grilling"
+      ]
     },
     {
       "id": "romesco-sauce",
@@ -713,7 +741,11 @@
       "pairing": "Wonderful with grilled vegetables, lamb chops, or seared shrimp; a chilled Spanish rosado or a dry fino sherry is the local move.",
       "videoQuery": "how to make spanish romesco sauce from scratch",
       "photoQuery": "romesco sauce bowl almonds",
-      "tags": ["Make Ahead", "Vegetarian", "Grilling"]
+      "tags": [
+        "Make Ahead",
+        "Vegetarian",
+        "Grilling"
+      ]
     },
     {
       "id": "pesto-alla-genovese",
@@ -806,7 +838,11 @@
       "pairing": "Toss with trofie or linguine and a glass of Vermentino, or spoon it over a sliced tomato and mozzarella salad.",
       "videoQuery": "how to make authentic pesto alla genovese",
       "photoQuery": "fresh basil pesto bowl",
-      "tags": ["No Cook", "Vegetarian", "30 Minutes"]
+      "tags": [
+        "No Cook",
+        "Vegetarian",
+        "30 Minutes"
+      ]
     },
     {
       "id": "alfredo-sauce",
@@ -899,7 +935,11 @@
       "pairing": "Serve with a sharp green salad to cut the richness and a glass of crisp Frascati or Pinot Grigio.",
       "videoQuery": "authentic fettuccine alfredo roman butter parmesan",
       "photoQuery": "fettuccine alfredo creamy pasta",
-      "tags": ["30 Minutes", "Comfort Food", "Vegetarian"]
+      "tags": [
+        "30 Minutes",
+        "Comfort Food",
+        "Vegetarian"
+      ]
     },
     {
       "id": "marinara-from-scratch",
@@ -992,7 +1032,11 @@
       "pairing": "Spaghetti with a shower of Parmigiano, or as the base for pizza and baked ziti; a simple Chianti is all it needs.",
       "videoQuery": "how to make marinara sauce from canned tomatoes",
       "photoQuery": "marinara sauce pot basil",
-      "tags": ["Make Ahead", "Freezer Friendly", "Vegetarian"]
+      "tags": [
+        "Make Ahead",
+        "Freezer Friendly",
+        "Vegetarian"
+      ]
     },
     {
       "id": "kansas-city-bbq-sauce",
@@ -1091,7 +1135,11 @@
       "pairing": "Slathered on ribs, pulled pork, or grilled chicken thighs with slaw and a cold lager.",
       "videoQuery": "homemade kansas city bbq sauce recipe",
       "photoQuery": "homemade bbq sauce jar",
-      "tags": ["Make Ahead", "Grilling", "Homemade Staple"]
+      "tags": [
+        "Make Ahead",
+        "Grilling",
+        "Homemade Staple"
+      ]
     },
     {
       "id": "tzatziki",
@@ -1174,7 +1222,11 @@
       "pairing": "Warm pita and grilled lamb or chicken souvlaki; a cold Greek white like Assyrtiko or just an ice-cold beer.",
       "videoQuery": "how to make greek tzatziki sauce",
       "photoQuery": "tzatziki sauce bowl dill",
-      "tags": ["No Cook", "Make Ahead", "Vegetarian"]
+      "tags": [
+        "No Cook",
+        "Make Ahead",
+        "Vegetarian"
+      ]
     },
     {
       "id": "thai-peanut-sauce",
@@ -1258,13 +1310,17 @@
       "pairing": "Chicken satay, fresh summer rolls, or cold rice noodles; a cold Singha or a slightly sweet Riesling handles the heat.",
       "videoQuery": "thai peanut sauce recipe coconut milk curry paste",
       "photoQuery": "thai peanut sauce satay bowl",
-      "tags": ["30 Minutes", "Make Ahead", "One Pan"]
+      "tags": [
+        "30 Minutes",
+        "Make Ahead",
+        "One Pan"
+      ]
     },
     {
       "id": "all-purpose-steak-rub",
       "title": "All-Purpose Steak and Beef Rub",
       "emoji": "🧂",
-      "art": "steak",
+      "art": "sauce",
       "blurb": "Whole peppercorns and coriander toasted and cracked with salt, garlic, and paprika into a rub that makes any cut of beef taste like it was cooked by someone who knows what they are doing.",
       "difficulty": "Easy",
       "servings": "Makes about 1¼ cups (165 g), enough for 8 to 10 steaks",
@@ -1346,7 +1402,11 @@
       "pairing": "Built for ribeyes and strip steaks off a screaming cast iron pan or a hot grill, with a bold Cabernet.",
       "videoQuery": "how to make homemade steak seasoning rub",
       "photoQuery": "homemade steak rub spices jar",
-      "tags": ["Make Ahead", "Grilling", "Homemade Staple"]
+      "tags": [
+        "Make Ahead",
+        "Grilling",
+        "Homemade Staple"
+      ]
     },
     {
       "id": "pan-drippings-gravy",
@@ -1438,7 +1498,11 @@
       "pairing": "Poured over roast turkey or chicken with mashed potatoes and stuffing; a light Pinot Noir or a hard cider works with either.",
       "videoQuery": "how to make gravy from pan drippings roux",
       "photoQuery": "turkey gravy boat pouring",
-      "tags": ["Holiday", "30 Minutes", "One Pan"]
+      "tags": [
+        "Holiday",
+        "30 Minutes",
+        "One Pan"
+      ]
     }
   ]
 }

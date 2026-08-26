@@ -99,7 +99,11 @@
       "pairing": "A cold glass of whole milk, or a scoop of vanilla ice cream pressed between two of them.",
       "videoQuery": "brown butter chocolate chip cookies recipe",
       "photoQuery": "brown butter chocolate chip cookies",
-      "tags": ["Bakery Style", "Make Ahead", "Weeknight Baking"]
+      "tags": [
+        "Bakery Style",
+        "Make Ahead",
+        "Weeknight Baking"
+      ]
     },
     {
       "id": "fudgy-chocolate-brownies",
@@ -193,7 +197,11 @@
       "pairing": "Vanilla ice cream and a cold glass of milk, or a small glass of tawny port if you are feeling grown-up.",
       "videoQuery": "fudgy chocolate brownies from scratch",
       "photoQuery": "fudgy brownies cut squares",
-      "tags": ["One Bowl", "Crowd Pleaser", "Under an Hour"]
+      "tags": [
+        "One Bowl",
+        "Crowd Pleaser",
+        "Under an Hour"
+      ]
     },
     {
       "id": "new-york-cheesecake",
@@ -292,7 +300,11 @@
       "pairing": "Fresh macerated strawberries and strong black coffee, or a glass of late-harvest Riesling.",
       "videoQuery": "classic new york cheesecake water bath",
       "photoQuery": "new york cheesecake slice",
-      "tags": ["Weekend Project", "Make Ahead", "Special Occasion"]
+      "tags": [
+        "Weekend Project",
+        "Make Ahead",
+        "Special Occasion"
+      ]
     },
     {
       "id": "tiramisu",
@@ -396,13 +408,17 @@
       "pairing": "A small cup of espresso, or a glass of Vin Santo if you are making a night of it.",
       "videoQuery": "authentic tiramisu recipe cooked egg yolks",
       "photoQuery": "tiramisu slice cocoa dusted",
-      "tags": ["No Bake", "Make Ahead", "Date Night"]
+      "tags": [
+        "No Bake",
+        "Make Ahead",
+        "Date Night"
+      ]
     },
     {
       "id": "creme-brulee",
       "title": "Vanilla Creme Brulee",
       "emoji": "🍮",
-      "art": "sauce",
+      "art": "custard",
       "blurb": "A silky vanilla custard under a sheet of glass-hard caramel you get to crack with a spoon. Five ingredients, and the only real skill is knowing when to pull it from the oven.",
       "difficulty": "Medium",
       "servings": "6 servings",
@@ -485,7 +501,11 @@
       "pairing": "Fresh raspberries on the side and a small glass of Sauternes or a shot of espresso.",
       "videoQuery": "creme brulee recipe water bath torch",
       "photoQuery": "creme brulee cracked caramel top",
-      "tags": ["Date Night", "Make Ahead", "Restaurant Classic"]
+      "tags": [
+        "Date Night",
+        "Make Ahead",
+        "Restaurant Classic"
+      ]
     },
     {
       "id": "molten-chocolate-lava-cakes",
@@ -579,7 +599,11 @@
       "pairing": "Vanilla ice cream alongside and a glass of ruby port or a cup of strong coffee.",
       "videoQuery": "molten chocolate lava cake recipe ramekins",
       "photoQuery": "molten chocolate lava cake cut open",
-      "tags": ["30 Minutes", "Date Night", "Make Ahead"]
+      "tags": [
+        "30 Minutes",
+        "Date Night",
+        "Make Ahead"
+      ]
     },
     {
       "id": "lattice-top-apple-pie",
@@ -688,7 +712,11 @@
       "pairing": "A scoop of vanilla ice cream or a wedge of sharp cheddar, with hot coffee.",
       "videoQuery": "lattice apple pie from scratch butter crust",
       "photoQuery": "lattice top apple pie whole",
-      "tags": ["Weekend Project", "Holiday", "From Scratch"]
+      "tags": [
+        "Weekend Project",
+        "Holiday",
+        "From Scratch"
+      ]
     },
     {
       "id": "key-lime-pie",
@@ -784,7 +812,11 @@
       "pairing": "Strong iced tea or a cold Mexican lager on a hot afternoon.",
       "videoQuery": "key lime pie recipe graham crust",
       "photoQuery": "key lime pie slice whipped cream",
-      "tags": ["Make Ahead", "Summer", "Beginner Friendly"]
+      "tags": [
+        "Make Ahead",
+        "Summer",
+        "Beginner Friendly"
+      ]
     },
     {
       "id": "brown-sugar-banana-bread",
@@ -874,7 +906,11 @@
       "pairing": "A thick slice toasted with salted butter and a hot cup of coffee.",
       "videoQuery": "moist banana bread recipe brown sugar",
       "photoQuery": "banana bread loaf sliced",
-      "tags": ["One Bowl", "Beginner Friendly", "Freezer Friendly"]
+      "tags": [
+        "One Bowl",
+        "Beginner Friendly",
+        "Freezer Friendly"
+      ]
     },
     {
       "id": "carrot-cake-cream-cheese-frosting",
@@ -985,7 +1021,11 @@
       "pairing": "Hot black tea or coffee — the bitterness balances the sweet frosting perfectly.",
       "videoQuery": "carrot cake recipe cream cheese frosting layers",
       "photoQuery": "carrot cake slice cream cheese frosting",
-      "tags": ["Birthday", "Layer Cake", "Make Ahead"]
+      "tags": [
+        "Birthday",
+        "Layer Cake",
+        "Make Ahead"
+      ]
     },
     {
       "id": "chocolate-cake-with-ganache",
@@ -1092,13 +1132,17 @@
       "pairing": "Cold milk, or a glass of Cabernet if this is the end of a real dinner.",
       "videoQuery": "chocolate cake with chocolate ganache recipe",
       "photoQuery": "chocolate layer cake ganache slice",
-      "tags": ["Birthday", "Layer Cake", "Crowd Pleaser"]
+      "tags": [
+        "Birthday",
+        "Layer Cake",
+        "Crowd Pleaser"
+      ]
     },
     {
       "id": "vanilla-bean-panna-cotta",
       "title": "Vanilla Bean Panna Cotta with Berries",
       "emoji": "🍨",
-      "art": "icecream",
+      "art": "custard",
       "blurb": "Barely set, wobbling, pure cream and vanilla with a bright berry sauce spooned over. Fifteen minutes of work and the fridge does everything else.",
       "difficulty": "Medium",
       "servings": "6 servings",
@@ -1181,7 +1225,11 @@
       "pairing": "A glass of Prosecco or a cup of espresso, with extra berries on the side.",
       "videoQuery": "vanilla panna cotta recipe gelatin",
       "photoQuery": "panna cotta berry sauce glass",
-      "tags": ["Make Ahead", "No Bake", "Dinner Party"]
+      "tags": [
+        "Make Ahead",
+        "No Bake",
+        "Dinner Party"
+      ]
     },
     {
       "id": "churros-with-chocolate-sauce",
@@ -1288,7 +1336,11 @@
       "pairing": "Thick hot chocolate for dipping, or strong coffee with a splash of milk.",
       "videoQuery": "spanish churros recipe chocolate sauce frying",
       "photoQuery": "churros cinnamon sugar chocolate dip",
-      "tags": ["Deep Fried", "Serve Immediately", "Weekend Treat"]
+      "tags": [
+        "Deep Fried",
+        "Serve Immediately",
+        "Weekend Treat"
+      ]
     },
     {
       "id": "no-churn-vanilla-ice-cream",
@@ -1375,7 +1427,11 @@
       "pairing": "Warm brownies or a slice of peach cobbler, with hot fudge if you have it.",
       "videoQuery": "no churn ice cream condensed milk recipe",
       "photoQuery": "no churn vanilla ice cream scoop",
-      "tags": ["No Machine", "Make Ahead", "Summer"]
+      "tags": [
+        "No Machine",
+        "Make Ahead",
+        "Summer"
+      ]
     },
     {
       "id": "peach-cobbler",
@@ -1468,7 +1524,11 @@
       "pairing": "A big scoop of vanilla ice cream, and sweet iced tea on the porch.",
       "videoQuery": "peach cobbler biscuit topping recipe",
       "photoQuery": "peach cobbler biscuit topping dish",
-      "tags": ["Summer", "Crowd Pleaser", "Beginner Friendly"]
+      "tags": [
+        "Summer",
+        "Crowd Pleaser",
+        "Beginner Friendly"
+      ]
     },
     {
       "id": "lemon-bars",
@@ -1566,7 +1626,11 @@
       "pairing": "A pot of Earl Grey, or a glass of Prosecco on a warm afternoon.",
       "videoQuery": "lemon bars shortbread crust recipe",
       "photoQuery": "lemon bars powdered sugar squares",
-      "tags": ["Make Ahead", "Potluck", "Citrus"]
+      "tags": [
+        "Make Ahead",
+        "Potluck",
+        "Citrus"
+      ]
     }
   ]
 }
