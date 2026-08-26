@@ -20,11 +20,18 @@
     set: function (k, v) { try { localStorage.setItem('krb:' + k, JSON.stringify(v)); } catch (e) { } }
   };
 
+  /* Stored values can be corrupt or from an older schema; a wrong shape here would
+     throw at the top of the script and kill every enhancement while the .js class
+     keeps the no-script fallbacks hidden. Coerce, never trust. */
+  function asArray(v) { return Array.isArray(v) ? v : []; }
+  function asObject(v) { return v && typeof v === 'object' && !Array.isArray(v) ? v : {}; }
   var favSet = {};
-  (store.get('favs', []) || []).forEach(function (id) { favSet[id] = 1; });
-  var checks = store.get('checks', {});
-  var stepsDone = store.get('steps', {});
-  var listItems = store.get('list', []);
+  asArray(store.get('favs', [])).forEach(function (id) { if (typeof id === 'string') favSet[id] = 1; });
+  var checks = asObject(store.get('checks', {}));
+  var stepsDone = asObject(store.get('steps', {}));
+  var listItems = asArray(store.get('list', [])).filter(function (x) {
+    return x && typeof x.rid === 'string' && typeof x.text === 'string';
+  });
   var scaleText = (window.SCALE && window.SCALE.scaleText) || function (t) { return esc(t); };
 
   /* ---------- toast ---------- */
@@ -111,17 +118,36 @@
     { k: 'fav', label: '❤️ Favorites', fn: function (r) { return isFav(r.id); } }
   ];
 
+  /* iOS has historically ignored overflow:hidden on body for touch scrolling, so
+     the lock pins the body with position:fixed and restores the scroll position
+     on release — the one technique that holds everywhere. */
+  var lockedY = -1;
+  function lockBody() {
+    if (lockedY >= 0) return;
+    lockedY = window.pageYOffset || 0;
+    var b = document.body;
+    b.style.position = 'fixed'; b.style.top = (-lockedY) + 'px';
+    b.style.left = '0'; b.style.right = '0'; b.style.width = '100%';
+  }
+  function unlockBody() {
+    if (lockedY < 0) return;
+    var b = document.body;
+    b.style.position = ''; b.style.top = ''; b.style.left = ''; b.style.right = ''; b.style.width = '';
+    window.scrollTo(0, lockedY);
+    lockedY = -1;
+  }
   function closePanel() {
     if (!panel) return;
     panel.hidden = true; mode = null;
-    document.body.style.overflow = '';
+    unlockBody();
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === 'book'); });
   }
   function openPanel(kind) {
     if (!panel) return;
     mode = kind; shown = 40;
     panel.hidden = false;
-    document.body.style.overflow = 'hidden';   // the book must not scroll underneath
+    panel.classList.toggle('issearch', kind === 'search');
+    lockBody();
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === kind); });
     renderPanel();
     panelBody.scrollTop = 0;
@@ -270,13 +296,22 @@
   }
 
   /* ---------- timers ---------- */
+  // The timer follows the FIRST duration in the step. "1 hour and 15 minutes" is
+  // one 75-minute duration, not a 60-minute one — but only when the compound is
+  // the first thing mentioned; "simmer 20 minutes, then 1 hour and 15" stays 20.
   function timerFor(text) {
-    var m = String(text).match(/(\d+)(?:\s*(?:–|—|-|to)\s*\d+)?\s*(seconds?|secs?|minutes?|mins?|hours?|hrs?)\b/i);
-    if (!m) return 0;
-    var n = parseInt(m[1], 10), u = m[2].toLowerCase();
-    if (!n) return 0;
-    var s = /^h/.test(u) ? n * 3600 : /^m/.test(u) ? n * 60 : n;
-    return (s < 20 || s > 4 * 3600) ? 0 : s;
+    var s = String(text);
+    var c = s.match(/(\d+)\s*(?:hours?|hrs?)\s*(?:and\s*)?(\d+)\s*(?:minutes?|mins?)\b/i);
+    var m = s.match(/(\d+)(?:\s*(?:–|—|-|to)\s*\d+)?\s*(seconds?|secs?|minutes?|mins?|hours?|hrs?)\b/i);
+    var secs = 0;
+    if (c && (!m || c.index <= m.index)) {
+      secs = parseInt(c[1], 10) * 3600 + parseInt(c[2], 10) * 60;
+    } else if (m) {
+      var n = parseInt(m[1], 10), u = m[2].toLowerCase();
+      if (!n) return 0;
+      secs = /^h/.test(u) ? n * 3600 : /^m/.test(u) ? n * 60 : n;
+    }
+    return (secs < 20 || secs > 4 * 3600) ? 0 : secs;
   }
   function fmtClock(s) {
     var h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
@@ -328,6 +363,9 @@
     try {
       var ctx = audioCtx;
       if (!ctx) { var C = window.AudioContext || window.webkitAudioContext; if (!C) return; ctx = new C(); }
+      // iOS suspends the context while the page is hidden; the timer most often
+      // expires exactly then, so try to wake it before ringing (vibration is the fallback)
+      if (ctx.state === 'suspended' && ctx.resume) { try { ctx.resume(); } catch (e) { } }
       [0, .35, .7].forEach(function (t) {
         var o = ctx.createOscillator(), g = ctx.createGain();
         o.type = 'sine'; o.frequency.value = 880;
@@ -395,8 +433,14 @@
     var tab = t.closest('[data-tab]');
     if (tab) {
       var k = tab.getAttribute('data-tab');
-      if (k === 'book') { closePanel(); window.scrollTo({ top: ($('#book') || {}).offsetTop || 0, behavior: 'smooth' }); }
-      else { openPanel(k); if (k === 'search') setTimeout(function () { var i = $('#q'); if (i) i.focus(); }, 80); }
+      if (k === 'book') {
+        closePanel();
+        var bk = $('#book');
+        if (bk) bk.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      } else {
+        openPanel(k);
+        if (k === 'search') { var i = $('#q'); if (i) i.focus(); }
+      }
       return;
     }
 
@@ -479,7 +523,7 @@
       return;
     }
     if (t.closest('#themeBtn')) {
-      applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+      applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark', true);
       return;
     }
   }
@@ -507,10 +551,10 @@
     }
   }
 
-  function applyTheme(t) {
+  function applyTheme(t, save) {
     html.setAttribute('data-theme', t);
     var b = $('#themeBtn'); if (b) b.textContent = t === 'dark' ? '☀️' : '🌙';
-    store.set('theme', t);
+    if (save) store.set('theme', t);   // the auto-sniffed default is not a choice
   }
 
   /* ---------- boot ---------- */
@@ -530,19 +574,25 @@
 
     var q = $('#q'), qt;
     if (q) {
-      q.addEventListener('focus', function () { if (mode !== 'search') openPanel('search'); });
       q.addEventListener('input', function () {
         clearTimeout(qt);
-        qt = setTimeout(function () {
-          if (mode !== 'search') openPanel('search'); else { shown = 40; renderPanel(); }
-        }, 130);
+        qt = setTimeout(function () { shown = 40; renderPanel(); }, 130);
       });
     }
-    var clr = $('.search .clr');
+    var clr = $('.panelsearch .clr');
     if (clr) clr.addEventListener('click', function () {
       if (q) { q.value = ''; q.focus(); }
       shown = 40; renderPanel();
     });
+
+    // recipes can be renamed between builds; drop stored ids that no longer exist
+    var known = {};
+    $$('.rec').forEach(function (d) { known[d.getAttribute('data-id')] = 1; });
+    var pruned = false;
+    Object.keys(favSet).forEach(function (id) { if (!known[id]) { delete favSet[id]; pruned = true; } });
+    var kept = listItems.filter(function (x) { return known[x.rid]; });
+    if (kept.length !== listItems.length) { listItems = kept; pruned = true; }
+    if (pruned) { store.set('favs', Object.keys(favSet)); store.set('list', listItems); }
 
     syncFavs(); updateBadges();
     $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === 'book'); });

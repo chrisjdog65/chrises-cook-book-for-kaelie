@@ -26,6 +26,15 @@ const cases = [
   ['12 oz (340 g) pasta', 3, '36 oz (1020 g) pasta'],
   ['1 whole chicken (3½ to 4 lb / 1.6 to 1.8 kg)', 2,
    '2 whole chicken (3½ to 4 lb / 1.6 to 1.8 kg)'],
+  // container sizes are per-item and must never scale — "2 cans (56 oz)" would
+  // read as two 56-oz cans and quadruple the ingredient
+  ['1 can (28 oz / 800 g) crushed tomatoes', 2, '2 can (28 oz / 800 g) crushed tomatoes'],
+  ['1 jar (16 oz / 450 g) marinara', 3, '3 jar (16 oz / 450 g) marinara'],
+  ['1 stick (113 g) unsalted butter', 2, '2 stick (113 g) unsalted butter'],
+  ['1 package (16 oz / 450 g) spaghetti', 0.5, '½ package (16 oz / 450 g) spaghetti'],
+  ['1 bottle (750 ml) dry white wine', 2, '2 bottle (750 ml) dry white wine'],
+  // ...but a plain unit restatement still scales
+  ['1 cup (240 ml) whole milk', 2, '2 cups (480 ml) whole milk'.replace('cups','cup')],
 ];
 
 let pass = 0, fail = 0;

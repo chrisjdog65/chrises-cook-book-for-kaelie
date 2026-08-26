@@ -47,6 +47,9 @@
   var MASS = /\b(g|kg|ml|l|oz|lb|lbs|grams?|kilograms?|milliliters?|li[tv]ers?|ounces?|pounds?)\b/i;
   var DIMEN = /\b(in|inch|inches|cm|mm|degrees?)\b|°/i;
   var PERITEM = /\b(each|per|apiece)\b/i;
+  // "1 can (28 oz)" scaled 2x means TWO 28-oz cans — the parenthetical is the size
+  // of one container, not a restatement of the total, so it must never scale.
+  var CONTAINER = /^\s*(cans?|jars?|packages?|pkgs?|packets?|bottles?|bags?|boxe?s?|blocks?|sticks?|bunche?s?|heads?|ears?|links?|sheets?|tubes?|tubs?|cartons?|loa(?:f|ves))\.?\s*$/i;
 
   function highlight(escaped) {
     return escaped.replace(/^(\s*)([\d¼½¾⅓⅔⅛⅜⅝⅞][\d¼½¾⅓⅔⅛⅜⅝⅞.\/\s–-]*)/, function (a, sp, q) {
@@ -77,6 +80,7 @@
     var rest = s.slice(mm[0].length);
 
     rest = rest.replace(/^(\s*[a-zA-Z]+\.?)?(\s*)\(([^)]*)\)/, function (all, unit, sp, inner) {
+      if (unit && CONTAINER.test(unit)) return all;
       if (PERITEM.test(inner) || DIMEN.test(inner) || !MASS.test(inner)) return all;
       var scaled = inner.replace(/(\d+(?:\.\d+)?)/g, function (n) {
         var v = parseFloat(n) * m;

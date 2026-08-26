@@ -263,11 +263,9 @@ ${sprite}
     <span class="brand">Kaelies <b>recipe book</b></span>
     <button class="iconbtn" id="themeBtn" aria-label="Switch between light and dark">🌙</button>
   </div>
-  <div class="search">
-    <span class="mag">🔍</span>
-    <input id="q" type="search" placeholder="Search ${COUNT} recipes…" autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search recipes">
-    <button class="clr" aria-label="Clear search">✕</button>
-  </div>
+  <button type="button" class="search searchbtn" data-tab="search" aria-label="Search recipes">
+    <span class="mag">🔍</span><span class="ph">Search ${COUNT} recipes…</span>
+  </button>
 </div>
 
 <section id="cover">
@@ -298,6 +296,11 @@ ${categories.map(chapterHTML).join('\n')}
   <div class="panelhead">
     <span class="panelttl"></span>
     <button class="iconbtn" data-closepanel aria-label="Close">✕</button>
+  </div>
+  <div class="panelsearch">
+    <span class="mag">🔍</span>
+    <input id="q" type="search" placeholder="Search ${COUNT} recipes…" autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search recipes">
+    <button type="button" class="clr" aria-label="Clear search">✕</button>
   </div>
   <div class="panelbody"></div>
 </div>
