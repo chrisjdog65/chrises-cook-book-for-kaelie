@@ -1246,40 +1246,9 @@ function styleFor(key, seed) {
   };
 }
 
-function art(key, seed) {
-  const k = resolveKey(key);
-  const h = hash(String(seed || key));
-  const r = rng(h);
-  const fam = FAMILIES[BG[k] || BG.default] || FAMILIES.warm;
-  const [c0, c1] = fam[h % fam.length];
-  // Deterministic nudges so two cards of the same dish type don't look identical.
-  // These MUST use >>> : hash() returns a full unsigned 32-bit value, and a signed
-  // >> on anything above 2^31 goes negative, which yields a negative variant index.
-  const tilt = h % 3;
-  const spin = ((h >>> 3) % 5) - 2;                // -2..2 degrees
-  const nudge = ((h >>> 6) % 7) - 3;               // -3..3 px
-  const uid = 'a' + (h % 1000000).toString(36);
-  const body = D[k](r, (h >>> 11) % 3);  // drawings that offer variants pick one from the seed
-  const svg = `<svg class="dishArt" viewBox="0 0 400 260" role="img" aria-hidden="true" preserveAspectRatio="xMidYMid slice">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="${c0}"/><stop offset="1" stop-color="${c1}"/>
-    </linearGradient>
-    <radialGradient id="sh"><stop offset="0" stop-color="#000" stop-opacity=".22"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
-    <linearGradient id="bowlSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>
-    <linearGradient id="wrapSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient>
-    <linearGradient id="cheeseSh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".4"/><stop offset="1" stop-color="#e8a03c" stop-opacity=".3"/></linearGradient>
-    <linearGradient id="panSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity=".06"/></linearGradient>
-  </defs>
-  <rect width="400" height="260" fill="url(#bg)"/>
-  <circle cx="${40 + tilt * 46}" cy="${34 + tilt * 14}" r="86" fill="#ffffff" opacity=".22"/>
-  <circle cx="${368 - tilt * 26}" cy="${24 + tilt * 20}" r="52" fill="#ffffff" opacity=".16"/>
-  <g transform="translate(${nudge},0) rotate(${spin} 200 150)">${body}</g>
-</svg>`;
-  return namespaceIds(svg, uid);
-}
-
 module.exports = {
-  art, sharedDefs, dishBody, styleFor, resolveKey,
+  // the build pipeline: shared gradient defs, one deterministic drawing per
+  // (dish, variant) symbol, and the per-recipe style that references it
+  sharedDefs, dishBody, styleFor,
   ART_KEYS: Object.keys(D).filter(k => k !== 'default'),
 };
