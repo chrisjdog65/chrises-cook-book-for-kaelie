@@ -342,6 +342,8 @@ html.cook #app { padding-bottom:110px; }
 .cookexit { position:fixed; right:14px; bottom:calc(16px + env(safe-area-inset-bottom)); z-index:60;
   background:var(--accent); color:var(--accent-ink); border:0; border-radius:999px;
   padding:14px 22px; font-weight:700; box-shadow:var(--shadow-lg); }
+/* the tab bar is gone in cook mode, so lift the toast clear of the exit button */
+html.cook .toast { bottom:calc(84px + env(safe-area-inset-bottom)); }
 
 .foot { text-align:center; color:var(--muted); font-size:13px; padding:34px 12px 8px; }
 .foot .hr { width:44px; height:1px; background:var(--line); margin:0 auto 14px; }
