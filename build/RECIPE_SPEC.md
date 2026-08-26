@@ -68,10 +68,13 @@ It must be valid JSON, UTF-8, and match this shape EXACTLY.
 ## Allowed `art` keys — pick the closest match
 ```
 steak roast burger sandwich wrap taco burrito nachos pizza pasta lasagna risotto
-noodles dumpling rice curry soup stew chili salad veggie potato bread egg pancake
-chicken wings pork ribs lamb fish salmon shrimp lobster crab scallop sauce cake
-cookie pie icecream chocolate drink cheese
+noodles stirfry dumpling rice curry soup stew chili salad veggie potato bread egg
+pancake chicken wings pork ribs lamb fish salmon shrimp lobster crab scallop sauce
+cake cookie pie icecream chocolate drink cheese
 ```
+Use `stirfry` for anything cooked in a wok and served loose (beef and broccoli,
+kung pao, mongolian beef); `noodles` when noodles are the point; `rice` for a
+rice bowl.
 
 ## Quality bar — read this twice
 - These are **real, tested, classic recipes** a person can actually cook tonight.

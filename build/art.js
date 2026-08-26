@@ -407,6 +407,31 @@ D.noodles = r => {
   ${steam(196, 96, r)}`;
 };
 
+/* A whole chapter of wok cooking had nowhere sensible to point — beef and broccoli
+   was landing on the steak drawing — so stir-fries get their own wok. */
+D.stirfry = r => {
+  const cols = ['#8f4a22', '#a8572a', '#6b3417', '#3f8b4a', '#5aa347', '#d8463b', '#e8873a', '#f2c84c'];
+  let bits = '';
+  for (let i = 0; i < 28; i++) {
+    const x = 104 + r() * 176, y = 122 + r() * 40, s = 0.68 + r() * 0.6, a = r() * 360;
+    bits += `<g transform="translate(${R(x)},${R(y)}) rotate(${R(a)}) scale(${R(s, 2)})">
+      <rect x="-15" y="-9" width="30" height="18" rx="8" fill="${cols[Math.floor(r() * cols.length)]}"/>
+      <rect x="-11" y="-6" width="22" height="6" rx="3" fill="#ffffff" opacity=".24"/></g>`;
+  }
+  return `${shadow(190, 208, 128, 16)}
+    <g transform="rotate(-22 318 142)">
+      <rect x="312" y="134" width="98" height="16" rx="8" fill="#5c4632"/>
+      <rect x="312" y="134" width="98" height="6" rx="3" fill="#7d5f44"/>
+    </g>
+    <ellipse cx="190" cy="158" rx="142" ry="57" fill="#26262c"/>
+    <ellipse cx="190" cy="149" rx="142" ry="57" fill="#3d3d46"/>
+    <ellipse cx="190" cy="151" rx="124" ry="47" fill="#1e1e25"/>
+    <ellipse cx="190" cy="148" rx="124" ry="47" fill="#2f2f38"/>
+    ${bits}
+    <ellipse cx="146" cy="130" rx="42" ry="12" fill="#ffffff" opacity=".09"/>
+    ${steam(190, 102, r)}`;
+};
+
 D.dumpling = r => `${plate(200, 168, 132, 50, '#fff', '#efe9dd')}
   ${[[132, 158, 1], [200, 148, 1.12], [268, 158, 1]].map(([x, y, s]) => `
     <g transform="translate(${x},${y}) scale(${s})">
@@ -1059,6 +1084,7 @@ const BG = {
   steak: P.warm, roast: P.warm, burger: P.gold, sandwich: P.gold, wrap: P.gold, taco: P.clay,
   burrito: P.clay, nachos: P.gold, pizza: P.red, pasta: P.red, lasagna: P.red, risotto: P.gold,
   noodles: P.clay, dumpling: P.mint, rice: P.mint, curry: P.gold, soup: P.warm, stew: P.warm,
+  stirfry: P.clay,
   chili: P.red, salad: P.green, veggie: P.green, potato: P.gold, bread: P.gold, egg: P.warm,
   pancake: P.gold, chicken: P.warm, wings: P.red, pork: P.clay, ribs: P.clay, lamb: P.plum,
   fish: P.blue, salmon: P.blue, shrimp: P.blue, lobster: P.blue, crab: P.blue, scallop: P.blue,

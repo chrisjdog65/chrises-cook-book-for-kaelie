@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ART = new Set(('steak roast burger sandwich wrap taco burrito nachos pizza pasta lasagna risotto ' +
-  'noodles dumpling rice curry soup stew chili salad veggie potato bread egg pancake ' +
+  'noodles stirfry dumpling rice curry soup stew chili salad veggie potato bread egg pancake ' +
   'chicken wings pork ribs lamb fish salmon shrimp lobster crab scallop sauce cake ' +
   'cookie pie icecream chocolate drink cheese').split(/\s+/));
 

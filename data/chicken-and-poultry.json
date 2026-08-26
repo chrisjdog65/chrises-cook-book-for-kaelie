@@ -109,7 +109,11 @@
       "pairing": "Cold lager or sweet tea, with buttermilk slaw, dill pickles, and a hot skillet of cornbread.",
       "videoQuery": "buttermilk fried chicken dutch oven technique",
       "photoQuery": "buttermilk fried chicken platter",
-      "tags": ["Weekend Project", "Southern", "Fried"]
+      "tags": [
+        "Weekend Project",
+        "Southern",
+        "Fried"
+      ]
     },
     {
       "id": "roast-chicken-crispy-skin",
@@ -214,7 +218,11 @@
       "pairing": "A crisp unoaked Chardonnay or a light Pinot Noir, with roast potatoes and a sharp green salad to cut the fat.",
       "videoQuery": "how to roast a whole chicken crispy skin",
       "photoQuery": "whole roast chicken skillet",
-      "tags": ["Sunday Dinner", "Cast Iron", "Classic"]
+      "tags": [
+        "Sunday Dinner",
+        "Cast Iron",
+        "Classic"
+      ]
     },
     {
       "id": "spatchcock-roast-chicken",
@@ -313,7 +321,11 @@
       "pairing": "A cold, dry Riesling or Sauvignon Blanc, with roasted potatoes and blanched green beans tossed in the pan drippings.",
       "videoQuery": "how to spatchcock a chicken and roast it",
       "photoQuery": "spatchcock roast chicken lemon",
-      "tags": ["Weeknight", "One Pan", "Roasting"]
+      "tags": [
+        "Weeknight",
+        "One Pan",
+        "Roasting"
+      ]
     },
     {
       "id": "cast-iron-crispy-chicken-thighs",
@@ -400,7 +412,11 @@
       "pairing": "A glass of Beaujolais or a dry cider, with buttered rice or crusty bread to catch the pan sauce.",
       "videoQuery": "crispy skin chicken thighs cast iron skillet",
       "photoQuery": "crispy chicken thighs cast iron",
-      "tags": ["One Pan", "Cast Iron", "Weeknight"]
+      "tags": [
+        "One Pan",
+        "Cast Iron",
+        "Weeknight"
+      ]
     },
     {
       "id": "lemon-herb-grilled-chicken",
@@ -497,7 +513,11 @@
       "pairing": "Chilled rosé or a cold Greek beer, with a tomato and cucumber salad and warm pita.",
       "videoQuery": "lemon herb grilled chicken thighs marinade",
       "photoQuery": "grilled lemon herb chicken platter",
-      "tags": ["Grill", "Summer", "Easy"]
+      "tags": [
+        "Grill",
+        "Summer",
+        "Easy"
+      ]
     },
     {
       "id": "chicken-pot-pie",
@@ -616,7 +636,11 @@
       "pairing": "A buttery Chardonnay or a pint of English bitter, with a sharply dressed green salad to cut the richness.",
       "videoQuery": "chicken pot pie from scratch butter crust",
       "photoQuery": "chicken pot pie golden crust",
-      "tags": ["Weekend Project", "Comfort Food", "Baking"]
+      "tags": [
+        "Weekend Project",
+        "Comfort Food",
+        "Baking"
+      ]
     },
     {
       "id": "honey-garlic-chicken",
@@ -708,7 +732,11 @@
       "pairing": "Steamed jasmine rice and quick-blanched broccoli, with a cold lager or an off-dry Riesling.",
       "videoQuery": "honey garlic chicken thighs skillet glaze",
       "photoQuery": "honey garlic chicken skillet",
-      "tags": ["30 Minutes", "One Pan", "Weeknight"]
+      "tags": [
+        "30 Minutes",
+        "One Pan",
+        "Weeknight"
+      ]
     },
     {
       "id": "chicken-and-waffles",
@@ -829,7 +857,11 @@
       "pairing": "Strong black coffee for brunch, or a cold pilsner and pickles if you are doing this for dinner.",
       "videoQuery": "fried chicken and waffles recipe hot honey",
       "photoQuery": "chicken and waffles hot honey",
-      "tags": ["Brunch", "Fried", "Comfort Food"]
+      "tags": [
+        "Brunch",
+        "Fried",
+        "Comfort Food"
+      ]
     },
     {
       "id": "sheet-pan-chicken-and-vegetables",
@@ -927,7 +959,11 @@
       "pairing": "A simple red like Côtes du Rhône, or sparkling water with lemon, and nothing else on the table.",
       "videoQuery": "sheet pan chicken thighs potatoes broccoli roasted",
       "photoQuery": "sheet pan chicken vegetables roasted",
-      "tags": ["One Pan", "Weeknight", "Easy"]
+      "tags": [
+        "One Pan",
+        "Weeknight",
+        "Easy"
+      ]
     },
     {
       "id": "teriyaki-chicken",
@@ -1018,13 +1054,17 @@
       "pairing": "Hot short-grain rice, shredded cabbage with a squeeze of lemon, and cold barley tea or a light Japanese lager.",
       "videoQuery": "authentic japanese teriyaki chicken thigh recipe",
       "photoQuery": "teriyaki chicken rice bowl",
-      "tags": ["30 Minutes", "Japanese", "Weeknight"]
+      "tags": [
+        "30 Minutes",
+        "Japanese",
+        "Weeknight"
+      ]
     },
     {
       "id": "orange-chicken",
       "title": "Crispy Orange Chicken",
       "emoji": "🍊",
-      "art": "chicken",
+      "art": "stirfry",
       "blurb": "Cornstarch-battered chicken fried until it crackles, then tossed at the last second in a sharp orange sauce built on real zest and juice. The trick is to sauce it in the final thirty seconds so it never goes soft.",
       "difficulty": "Medium",
       "servings": "4 servings",
@@ -1128,7 +1168,11 @@
       "pairing": "Steamed jasmine rice and stir-fried snow peas, with jasmine tea or a cold, simple lager.",
       "videoQuery": "crispy orange chicken double fry recipe",
       "photoQuery": "orange chicken with rice",
-      "tags": ["Takeout at Home", "Fried", "Family Favorite"]
+      "tags": [
+        "Takeout at Home",
+        "Fried",
+        "Family Favorite"
+      ]
     },
     {
       "id": "chicken-shawarma",
@@ -1240,7 +1284,11 @@
       "pairing": "Warm pita, pickled turnips, and a cold Lebanese lager or mint lemonade over crushed ice.",
       "videoQuery": "oven roasted chicken shawarma thighs recipe",
       "photoQuery": "chicken shawarma pita wrap",
-      "tags": ["Middle Eastern", "Make Ahead", "Crowd Pleaser"]
+      "tags": [
+        "Middle Eastern",
+        "Make Ahead",
+        "Crowd Pleaser"
+      ]
     },
     {
       "id": "jerk-chicken",
@@ -1351,7 +1399,11 @@
       "pairing": "Rice and peas, fried plantain, and a cold Red Stripe with a lime wedge.",
       "videoQuery": "authentic jamaican jerk chicken grill recipe",
       "photoQuery": "jamaican jerk chicken charred",
-      "tags": ["Grill", "Make Ahead", "Spicy"]
+      "tags": [
+        "Grill",
+        "Make Ahead",
+        "Spicy"
+      ]
     },
     {
       "id": "herb-roasted-turkey-breast",
@@ -1454,7 +1506,11 @@
       "pairing": "A dry Riesling or Pinot Noir, with mashed potatoes, buttered green beans, and plenty of the pan gravy.",
       "videoQuery": "bone in turkey breast roast herb butter",
       "photoQuery": "roasted turkey breast sliced",
-      "tags": ["Holiday", "Roasting", "Feeds a Crowd"]
+      "tags": [
+        "Holiday",
+        "Roasting",
+        "Feeds a Crowd"
+      ]
     },
     {
       "id": "chicken-cordon-bleu",
@@ -1568,7 +1624,11 @@
       "pairing": "A dry white Burgundy or Alsatian Pinot Blanc, with buttered egg noodles and a bitter greens salad.",
       "videoQuery": "chicken cordon bleu rolled breaded recipe",
       "photoQuery": "chicken cordon bleu sliced",
-      "tags": ["Date Night", "Impressive", "Make Ahead"]
+      "tags": [
+        "Date Night",
+        "Impressive",
+        "Make Ahead"
+      ]
     },
     {
       "id": "chicken-satay-peanut-sauce",
@@ -1680,7 +1740,11 @@
       "pairing": "Jasmine rice or cucumber salad, with a cold Singha or an off-dry Riesling to handle the chili.",
       "videoQuery": "chicken satay skewers peanut sauce recipe",
       "photoQuery": "chicken satay skewers peanut sauce",
-      "tags": ["Grill", "Party Food", "Southeast Asian"]
+      "tags": [
+        "Grill",
+        "Party Food",
+        "Southeast Asian"
+      ]
     }
   ]
 }
