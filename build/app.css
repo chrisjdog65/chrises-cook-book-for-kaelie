@@ -23,35 +23,84 @@ html[data-theme="dark"] {
 
 html { -webkit-text-size-adjust:100%; }
 
-/* ============ NO-JAVASCRIPT CORE ============
-   The entire book is real HTML. Navigation is :target CSS, so it works in
-   readers that never run a line of script (iOS opens .html attachments in
-   Quick Look, which does exactly that). Three tiers, all usable:
-     1. scripted            -> full app, JS shows one view at a time
-     2. no JS, modern CSS   -> :has() shows one view at a time
-     3. no JS, older CSS    -> everything visible as one long scrollable book,
-                               and in-page links still jump to the right recipe */
+/* ============ WORKS WITH NOTHING BUT HTML + CSS ============
+   The book is one document built from <details>/<summary>. Those are native
+   widgets the rendering engine opens and closes by itself: no script, and no
+   URL change. That matters because iOS previews .html attachments in a reader
+   that neither runs scripts nor follows in-page #links — it hands them to a
+   search engine — so the book depends on neither to be fully readable.
+   JavaScript only adds search, favourites, list, scaling, timers, cook mode. */
 .sprite { position:absolute; width:0; height:0; overflow:hidden; }
-.view { display:block; }
 html:not(.js) .jsonly { display:none !important; }
+html.js .nojsonly { display:none !important; }
 
-/* tier 1 */
-html.js .view { display:none; }
-html.js .view:target { display:block; }
-html.js.nohash #home { display:block; }
+summary { list-style:none; cursor:pointer; display:block; }
+summary::-webkit-details-marker { display:none; }
+summary::marker { content:''; }
 
-/* tier 2 */
-@supports selector(:has(*)) {
-  html:not(.js):has(.view:target) .view { display:none; }
-  html:not(.js):has(.view:target) .view:target { display:block; }
-  html:not(.js):has(.view:target) #cover { display:none; }
+#book { margin-top:6px; }
+.booklead { color:var(--muted); font-size:14px; margin:2px 0 16px; text-align:center; }
+
+/* ---- chapter ---- */
+.chap {
+  border:1px solid var(--line); background:var(--bg2); border-radius:var(--r);
+  margin-bottom:11px; box-shadow:var(--shadow); overflow:hidden;
 }
-/* tier 3 keeps every view rendered, so skip the offscreen paint work */
-html:not(.js) .view { content-visibility:auto; contain-intrinsic-size:0 900px; }
+/* flex goes on an inner wrapper, never on <summary> itself: older WebKit stops
+   treating a summary as a disclosure control when its display is changed. */
+.chapsum { padding:15px 15px; }
+.chapsum > .row { display:flex; align-items:center; gap:13px; }
+.chapsum .ce { font-size:27px; line-height:1; flex:none; }
+.chapsum .cx { flex:1; min-width:0; }
+.chapsum .cn { font-family:var(--display); font-size:18px; display:block; line-height:1.25; }
+.chapsum .cc { color:var(--muted); font-size:12.5px; display:block; margin-top:2px; }
+.chev { flex:none; color:var(--muted); font-size:15px; transition:transform .18s ease; }
+details[open] > summary .chev { transform:rotate(180deg); }
+.chapbody { padding:0 11px 12px; border-top:1px solid var(--line2); }
+.chapbody > .sub { padding:12px 4px 4px; margin:0 0 10px; }
 
-/* jumping to a view must not park its first line under the sticky header */
-html.js .view { scroll-margin-top:74px; }
-html.js.cook .view { scroll-margin-top:0; }
+/* ---- recipe row ---- */
+.rec { border:1px solid var(--line); background:var(--bg2); border-radius:var(--r-sm);
+  margin-bottom:9px; overflow:hidden; }
+.rec[open] { box-shadow:var(--shadow); border-color:var(--accent); }
+.recsum { padding:9px 11px 9px 9px; }
+.recsum > .row { display:flex; align-items:center; gap:12px; }
+.recsum .thumb { flex:none; width:96px; border-radius:9px; overflow:hidden; background:var(--bg3); }
+.recsum .thumb svg { display:block; width:100%; height:auto; }
+.recsum .rowtext { flex:1; min-width:0; }
+.recsum .t { font-family:var(--display); font-size:16px; line-height:1.25; display:block; }
+.recsum .m { display:flex; gap:8px; flex-wrap:wrap; align-items:center;
+  margin-top:5px; font-size:12px; color:var(--ink2); }
+.recsum .diff { margin-top:6px; display:inline-block; }
+.recbody { padding:4px 12px 18px; border-top:1px solid var(--line2); }
+.recbody .hero { margin-top:12px; }
+
+@media (min-width:620px){
+  .recsum .thumb { width:132px; }
+  .recsum .t { font-size:17.5px; }
+}
+
+/* ---- script-only overlay panel (search / favourites / list) ---- */
+#panel {
+  position:fixed; inset:0; z-index:70; background:var(--bg);
+  display:flex; flex-direction:column;
+}
+#panel[hidden] { display:none; }
+.panelhead {
+  display:flex; align-items:center; gap:10px; padding:12px 15px;
+  border-bottom:1px solid var(--line); background:var(--bg2);
+}
+.panelttl { flex:1; font-family:var(--display); font-size:19px; }
+.panelbody {
+  flex:1; overflow-y:auto; -webkit-overflow-scrolling:touch;
+  padding:14px 15px calc(var(--tabh) + 26px + env(safe-area-inset-bottom));
+}
+
+.scrollhint { margin-top:30px; font-size:15px; color:#a9603f; letter-spacing:.04em; line-height:1.7; }
+.scrollhint .arrow { font-size:26px; display:inline-block; animation:bob 1.8s ease-in-out infinite; }
+@keyframes bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(7px)} }
+html[data-theme="dark"] .scrollhint { color:#d29b76; }
+@media (prefers-reduced-motion:reduce){ .scrollhint .arrow{animation:none} }
 body {
   margin:0; background:var(--bg); color:var(--ink);
   font-family:var(--sans); font-size:16px; line-height:1.6;
@@ -81,10 +130,10 @@ html[data-theme="dark"] #cover {
     radial-gradient(90% 60% at 12% 105%, #46231f 0%, rgba(70,35,31,0) 62%),
     linear-gradient(168deg,#241a14 0%,#31201a 46%,#3d2620 100%);
 }
-/* With script, the cover is an overlay that fades away on the first tap. */
-html.js #cover { position:fixed; inset:0; min-height:0; }
-html.js #cover.gone { opacity:0; visibility:hidden; pointer-events:none; }
-#cover.gone { opacity:0; visibility:hidden; pointer-events:none; }
+/* The cover is ALWAYS an ordinary section at the top of the document, never a
+   fixed overlay - an overlay that fails to dismiss is exactly the "stuck on the
+   opening screen" failure this book has to be immune to. You scroll past it, or
+   tap the button (when scripts run) to scroll for you. */
 .cover-inner { position:relative; z-index:2; width:100%; max-width:520px; }
 .cover-orn { font-size:15px; letter-spacing:.42em; text-transform:uppercase; color:#a9603f; margin-bottom:22px; }
 html[data-theme="dark"] .cover-orn { color:#e0a077; }
@@ -155,7 +204,8 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
 
 /* ============ TABBAR ============ */
 .tabbar {
-  position:fixed; left:0; right:0; bottom:0; z-index:50;
+  /* above the overlay panel (z 70) so the tabs stay tappable while it is open */
+  position:fixed; left:0; right:0; bottom:0; z-index:80;
   display:flex; background:var(--bg2); border-top:1px solid var(--line);
   padding-bottom:env(safe-area-inset-bottom); box-shadow:0 -3px 18px rgba(60,40,25,.07);
 }
@@ -366,7 +416,7 @@ html.cook .tabbar, html.cook .topbar { display:none; }
 html.cook .steps .sx { font-size:18.5px; }
 html.cook .steps .st { font-size:18px; }
 html.cook #app { padding-bottom:110px; }
-.cookexit { position:fixed; right:14px; bottom:calc(16px + env(safe-area-inset-bottom)); z-index:60;
+.cookexit { position:fixed; right:14px; bottom:calc(16px + env(safe-area-inset-bottom)); z-index:90;
   background:var(--accent); color:var(--accent-ink); border:0; border-radius:999px;
   padding:14px 22px; font-weight:700; box-shadow:var(--shadow-lg); }
 /* the tab bar is gone in cook mode, so lift the toast clear of the exit button */
@@ -374,3 +424,23 @@ html.cook .toast { bottom:calc(84px + env(safe-area-inset-bottom)); }
 
 .foot { text-align:center; color:var(--muted); font-size:13px; padding:34px 12px 8px; }
 .foot .hr { width:44px; height:1px; background:var(--line); margin:0 auto 14px; }
+
+/* ---- search / favourites result rows ---- */
+.resrow {
+  display:flex; align-items:center; gap:12px; width:100%; text-align:left;
+  border:1px solid var(--line); background:var(--bg2); border-radius:var(--r-sm);
+  padding:9px 11px 9px 9px; margin-bottom:9px; box-shadow:var(--shadow);
+}
+.resrow:active { transform:scale(.99); }
+.resrow .thumb { flex:none; width:88px; border-radius:9px; overflow:hidden; background:var(--bg3); }
+.resrow .thumb svg { display:block; width:100%; height:auto; }
+.resrow .rowtext { flex:1; min-width:0; }
+.resrow .t { font-family:var(--display); font-size:16px; line-height:1.25; display:block; }
+.resrow .m { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-top:5px; font-size:12px; color:var(--ink2); }
+.resrow .diff { margin-top:6px; display:inline-block; }
+.resrow .favmark { flex:none; font-size:15px; }
+.rec.isfav > summary .rowtext .t::after { content:' ❤️'; font-size:12px; }
+
+/* the tab bar and cover overlay only exist when scripts run */
+html.js #app { padding-bottom:calc(var(--tabh) + 34px + env(safe-area-inset-bottom)); }
+html:not(.js) #app { padding-bottom:40px; }

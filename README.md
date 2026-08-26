@@ -7,13 +7,32 @@ someone and they just open it.
 ## Getting the book to her
 
 Download `Kaelies-Recipe-Book.html` and send it however you like — text it, email it as an
-attachment, drop it in a shared folder. On her phone she taps it and it opens in the
-browser. On iPhone she can then hit **Share → Add to Home Screen** and it behaves like an
-app, with its own icon.
+attachment, drop it in a shared folder. She taps it and it opens. Scroll past the cover,
+tap a chapter, tap a recipe.
 
 Everything works offline. The only things that need a connection are the two link-out
 buttons on each recipe ("Watch it made" and "See real photos"), which open YouTube and an
 image search for that specific dish.
+
+### Why it is built the way it is
+
+iOS does not open `.html` attachments in Safari. It previews them in a reader that
+
+* **does not run JavaScript**, and
+* **does not follow in-page `#links`** — it hands them to a search engine instead.
+
+So the book depends on neither. Every recipe is real HTML in the file, and chapters and
+recipes open using native `<details>`/`<summary>` elements, which the browser toggles by
+itself — no script, and no URL change for anything to intercept. There is not a single
+internal link in the built file; the only links are the outbound YouTube and image-search
+buttons.
+
+That constraint is easy to break by accident, so if you change the renderer, keep these
+true (they are all covered by the checks below):
+
+* no `<a href="#...">` anywhere in the output
+* nothing needed to read a recipe may live behind a script
+* anything script-only is marked `.jsonly` so it hides instead of sitting there dead
 
 ## What's in it
 
@@ -44,9 +63,13 @@ And the book itself does:
 Recipes live as JSON, one file per chapter, in `data/`. The book is assembled from them:
 
 ```bash
-node build/build.js            # writes Kaelies-Recipe-Book.html
+node build/build.js                  # writes Kaelies-Recipe-Book.html
 node build/validate.js data/*.json   # check every chapter against the spec
-node build/scale.test.js       # unit tests for ingredient scaling
+node build/scale.test.js             # unit tests for ingredient scaling
+node build/audit.js                  # cross-chapter duplicates, spread, art coverage
+
+# the one that matters most — proves the book still works with scripts off
+grep -c '<a [^>]*href="#' Kaelies-Recipe-Book.html   # must print 0
 ```
 
 | path | what it is |

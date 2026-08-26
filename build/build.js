@@ -103,11 +103,14 @@ const sprite =
 /* the per-recipe picture: shared drawing + its own palette and tilt */
 function artSvg(r) {
   const st = r._st;
-  return `<svg class="dishArt" viewBox="0 0 400 260" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid slice">` +
+  // both href and xlink:href: older WebKit only understands the xlink form, and a
+  // <use> that fails to resolve means the picture silently disappears.
+  return `<svg class="dishArt" viewBox="0 0 400 260" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid slice" xmlns:xlink="http://www.w3.org/1999/xlink">` +
     `<rect width="400" height="260" fill="url(#${st.bg})"/>` +
     `<circle cx="${40 + st.tilt * 46}" cy="${34 + st.tilt * 14}" r="86" fill="#fff" opacity=".22"/>` +
     `<circle cx="${368 - st.tilt * 26}" cy="${24 + st.tilt * 20}" r="52" fill="#fff" opacity=".16"/>` +
-    `<g transform="translate(${st.nudge},0) rotate(${st.spin} 200 150)"><use href="#${st.symbol}"/></g>` +
+    `<g transform="translate(${st.nudge},0) rotate(${st.spin} 200 150)">` +
+    `<use href="#${st.symbol}" xlink:href="#${st.symbol}"/></g>` +
     `</svg>`;
 }
 
@@ -116,26 +119,18 @@ const videoUrl = r => 'https://www.youtube.com/results?search_query=' +
   encodeURIComponent(String(r.videoQuery).replace(/\s+recipe\s*$/i, '') + ' recipe');
 const photoUrl = r => 'https://www.google.com/search?tbm=isch&q=' + encodeURIComponent(r.photoQuery);
 
-/* ---------- pieces ---------- */
-function cardHTML(r) {
-  return `<div class="rcard" data-id="${esc(r.id)}">` +
-    `<a class="rcard-open" href="#r-${esc(r.id)}">` +
-    `<span class="art">${artSvg(r)}</span>` +
-    `<span class="body"><span class="t">${esc(r.title)}</span>` +
-    `<span class="b">${esc(r.blurb)}</span>` +
-    `<span class="m"><span>⏱ ${esc(r.totalTime)}</span><span class="dot"></span>` +
-    `<span>🍽 ${esc(r.servings)}</span><span class="dot"></span>` +
-    `<span class="diff ${esc(r.difficulty)}">${esc(r.difficulty)}</span></span>` +
-    `</span></a>` +
-    `<button class="fav jsonly" data-fav="${esc(r.id)}" aria-pressed="false" aria-label="Save ${esc(r.title)} to favorites">🤍</button>` +
-    `</div>`;
-}
+/* ---------- pieces ----------
+   Everything below is built from <details>/<summary>. Those are native HTML
+   widgets the rendering engine toggles itself: no script, and crucially no URL
+   change. iOS previews .html attachments in a reader that neither runs scripts
+   NOR follows in-page #links (it hands them to a search engine instead), so the
+   book must not depend on either to be readable. */
 
-function recipeHTML(r) {
-  const ing = r.ingredients.map((g, gi) => {
+function ingHTML(r) {
+  return r.ingredients.map(g => {
     const head = (r.ingredients.length > 1 || String(g.group).toLowerCase() !== 'ingredients')
       ? `<h4>${esc(g.group)}</h4>` : '';
-    const items = g.items.map((it, ii) => {
+    const items = g.items.map(it => {
       const m = String(it).match(/^(\s*)([\d¼½¾⅓⅔⅛⅜⅝⅞][\d¼½¾⅓⅔⅛⅜⅝⅞.\/\s–-]*)/);
       const shown = m
         ? `<b class="amt">${esc(m[2].replace(/\s+$/, ''))}</b> ${esc(String(it).slice(m[0].length))}`
@@ -144,18 +139,31 @@ function recipeHTML(r) {
     }).join('');
     return `<div class="igroup">${head}<ul class="ilist">${items}</ul></div>`;
   }).join('');
+}
 
+/* the compact row you scan, and tap to open */
+function recipeSummary(r) {
+  return `<summary class="recsum"><span class="row">` +
+    `<span class="thumb">${artSvg(r)}</span>` +
+    `<span class="rowtext">` +
+    `<span class="t">${esc(r.title)}</span>` +
+    `<span class="m"><span>⏱ ${esc(r.totalTime)}</span><span class="dot"></span>` +
+    `<span>🍽 ${esc(r.servings)}</span></span>` +
+    `<span class="diff ${esc(r.difficulty)}">${esc(r.difficulty)}</span>` +
+    `</span><span class="chev" aria-hidden="true">▾</span></span></summary>`;
+}
+
+function recipeHTML(r) {
   const steps = r.instructions.map((s, i) =>
     `<li data-step="${i}"><div class="st">${esc(s.title)}</div><div class="sx">${esc(s.text)}</div></li>`
   ).join('');
 
-  return `<section id="r-${esc(r.id)}" class="view recipe">` +
-    `<a class="backbtn" href="#c-${esc(r.catSlug)}">‹ ${esc(r.cat)}</a>` +
+  return `<details class="rec" data-id="${esc(r.id)}" data-cat="${esc(r.catSlug)}">` +
+    recipeSummary(r) +
+    `<div class="recbody">` +
     `<div class="hero">${artSvg(r)}</div>` +
-    `<h1 class="rtitle">${esc(r.title)}</h1>` +
     `<p class="rblurb">${esc(r.blurb)}</p>` +
-    `<div class="rtags">${r.tags.map(t => `<span class="rtag">${esc(t)}</span>`).join('')}` +
-    `<span class="rtag diff ${esc(r.difficulty)}">${esc(r.difficulty)}</span></div>` +
+    `<div class="rtags">${r.tags.map(t => `<span class="rtag">${esc(t)}</span>`).join('')}</div>` +
 
     `<div class="metagrid">` +
     `<div><div class="k">Prep</div><div class="v">${esc(r.prepTime)}</div></div>` +
@@ -176,7 +184,7 @@ function recipeHTML(r) {
     `<div class="scaler jsonly"><span class="lab">Batch</span><div class="grp">` +
     [[0.5, '½×'], [1, '1×'], [2, '2×'], [3, '3×']].map(s =>
       `<button data-scale="${s[0]}"${s[0] === 1 ? ' class="on"' : ''}>${s[1]}</button>`).join('') +
-    `</div></div>` + ing +
+    `</div></div>` + ingHTML(r) +
     `<div class="actions jsonly" style="grid-template-columns:1fr;margin-top:14px">` +
     `<button class="act" data-addlist="${esc(r.id)}"><span class="i">🧺</span> Add to shopping list</button></div>` +
     `</div>` +
@@ -194,51 +202,25 @@ function recipeHTML(r) {
     (r.tips.length ? `<div class="section"><h3><span class="n">3</span> Chef tips</h3><ul class="tips">` +
       r.tips.map(t => `<li><span class="tb">◆</span><span>${esc(t)}</span></li>`).join('') + `</ul></div>` : '') +
 
-    `<div class="actions" style="margin-top:26px">` +
+    `<div class="actions" style="margin-top:24px">` +
     `<a class="act primary" href="${videoUrl(r)}" target="_blank" rel="noopener"><span class="i">▶️</span> Watch a video</a>` +
-    `<a class="act" href="#c-${esc(r.catSlug)}"><span class="i">‹</span> Back to ${esc(r.cat)}</a></div>` +
-    foot() + `</section>`;
+    `<a class="act" href="${photoUrl(r)}" target="_blank" rel="noopener"><span class="i">📷</span> Photos</a></div>` +
+    `</div></details>`;
 }
 
 function chapterHTML(c) {
   const list = recipes.filter(r => r.catSlug === c.slug);
-  return `<section id="c-${esc(c.slug)}" class="view chapter">` +
-    `<a class="backbtn" href="#home">‹ All chapters</a>` +
-    `<h2 class="h">${c.emoji} ${esc(c.name)}</h2>` +
-    `<p class="sub">${esc(c.blurb)}</p>` +
-    `<div class="rgrid">${list.map(cardHTML).join('')}</div>` +
-    foot() + `</section>`;
+  return `<details class="chap" data-cat="${esc(c.slug)}">` +
+    `<summary class="chapsum"><span class="row"><span class="ce">${c.emoji}</span>` +
+    `<span class="cx"><span class="cn">${esc(c.name)}</span>` +
+    `<span class="cc">${list.length} recipes</span></span>` +
+    `<span class="chev" aria-hidden="true">▾</span></span></summary>` +
+    `<div class="chapbody"><p class="sub">${esc(c.blurb)}</p>` +
+    list.map(recipeHTML).join('') + `</div></details>`;
 }
 
 function foot() {
   return `<div class="foot"><div class="hr"></div>Made for Kaelie, by Chris. 🤍</div>`;
-}
-
-function homeHTML() {
-  const quick = recipes.filter(r => {
-    const s = String(r.totalTime).toLowerCase();
-    let m = 0;
-    const h = s.match(/(\d+(?:\.\d+)?)\s*(?:hr|hour)/); if (h) m += parseFloat(h[1]) * 60;
-    const mm = s.match(/(\d+)\s*min/); if (mm) m += parseInt(mm[1], 10);
-    return m > 0 && m <= 30;
-  });
-  const byCat = {};
-  quick.forEach(r => { (byCat[r.catSlug] = byCat[r.catSlug] || []).push(r); });
-  const pick = Object.keys(byCat).sort().slice(0, 4).map(k => byCat[k][0]);
-
-  return `<section id="home" class="view home">` +
-    `<h2 class="h first">Hi Kaelie 👋</h2>` +
-    `<p class="sub">${recipes.length} recipes, ${categories.length} chapters. Tap anything and start cooking.</p>` +
-    `<div class="actions jsonly"><button class="act primary" data-random><span class="i">🎲</span> Surprise me</button>` +
-    `<a class="act" href="#fav"><span class="i">❤️</span> My favorites</a></div>` +
-    `<h2 class="h">Chapters</h2>` +
-    `<div class="catgrid">` + categories.map(c =>
-      `<a class="catcard" href="#c-${esc(c.slug)}"><span class="ce">${c.emoji}</span>` +
-      `<span class="cn">${esc(c.name)}</span><span class="cc">${c.count} recipes</span></a>`).join('') +
-    `</div>` +
-    `<h2 class="h">Ready in 30 minutes</h2><p class="sub">For the nights you are hungry now.</p>` +
-    `<div class="rgrid">${pick.map(cardHTML).join('')}</div>` +
-    foot() + `</section>`;
 }
 
 /* ---------- assemble ---------- */
@@ -278,10 +260,10 @@ ${sprite}
 
 <div class="topbar jsonly">
   <div class="topbar-row">
-    <a class="brand" href="#home">Kaelies <b>recipe book</b></a>
+    <span class="brand">Kaelies <b>recipe book</b></span>
     <button class="iconbtn" id="themeBtn" aria-label="Switch between light and dark">🌙</button>
   </div>
-  <div class="search hidden">
+  <div class="search">
     <span class="mag">🔍</span>
     <input id="q" type="search" placeholder="Search ${COUNT} recipes…" autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search recipes">
     <button class="clr" aria-label="Clear search">✕</button>
@@ -299,25 +281,32 @@ ${sprite}
     <div class="cover-rule"><span>🤍</span></div>
     <p id="coverFrom">sent from your amazing boyfriend <b>Chris Jensen</b></p>
     <div class="cover-count">${COUNT} recipes &nbsp;·&nbsp; ${categories.length} chapters &nbsp;·&nbsp; every one worth making</div>
-    <a id="openBtn" href="#home">Open the book</a>
+    <button id="openBtn" class="jsonly" type="button">Open the book</button>
+    <div class="scrollhint nojsonly">Scroll down to start<br><span class="arrow">↓</span></div>
   </div>
 </section>
 
-${homeHTML()}
+<div id="book">
+  <p class="booklead">Tap a chapter, then tap a recipe to open it.</p>
 ${categories.map(chapterHTML).join('\n')}
-${recipes.map(recipeHTML).join('\n')}
-
-<section id="search" class="view jsonly"></section>
-<section id="fav" class="view jsonly"></section>
-<section id="list" class="view jsonly"></section>
+  ${foot()}
+</div>
 
 </main>
 
+<div id="panel" class="jsonly" hidden>
+  <div class="panelhead">
+    <span class="panelttl"></span>
+    <button class="iconbtn" data-closepanel aria-label="Close">✕</button>
+  </div>
+  <div class="panelbody"></div>
+</div>
+
 <nav class="tabbar jsonly">
-  <a data-tab="home" href="#home"><span class="ti">📖</span>Book</a>
-  <a data-tab="search" href="#search"><span class="ti">🔍</span>Search</a>
-  <a data-tab="fav" href="#fav"><span class="ti">❤️</span>Favorites<span class="badge hidden">0</span></a>
-  <a data-tab="list" href="#list"><span class="ti">🧺</span>List<span class="badge hidden">0</span></a>
+  <button type="button" data-tab="book"><span class="ti">📖</span>Book</button>
+  <button type="button" data-tab="search"><span class="ti">🔍</span>Search</button>
+  <button type="button" data-tab="fav"><span class="ti">❤️</span>Favorites<span class="badge hidden">0</span></button>
+  <button type="button" data-tab="list"><span class="ti">🧺</span>List<span class="badge hidden">0</span></button>
 </nav>
 
 <script>
