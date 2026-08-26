@@ -321,23 +321,37 @@
     if (h) return h + ':' + String(m).padStart(2, '0') + ':' + String(sec).padStart(2, '0');
     return m + ':' + String(sec).padStart(2, '0');
   }
+  /* Phones throttle or freeze setInterval in a backgrounded tab, so counting ticks
+     would drift badly on a 45-minute braise. Anchor to a wall-clock deadline and let
+     the interval only redraw. */
   var activeTimer = null;
+  function stopTimer() {
+    if (!activeTimer) return;
+    clearInterval(activeTimer.iv);
+    resetBtn(activeTimer.btn, activeTimer.secs);
+    activeTimer = null;
+  }
+  function paintTimer() {
+    if (!activeTimer) return;
+    var left = Math.round((activeTimer.endsAt - Date.now()) / 1000);
+    if (left <= 0) {
+      var b = activeTimer.btn, s = activeTimer.secs;
+      clearInterval(activeTimer.iv); activeTimer = null;
+      resetBtn(b, s); alarm(); toast('⏰ Timer done!');
+      return;
+    }
+    activeTimer.btn.textContent = '⏱ ' + fmtClock(left) + ' — tap to stop';
+  }
   function startTimer(btn, secs) {
-    if (activeTimer) { clearInterval(activeTimer.iv); if (activeTimer.btn !== btn) resetBtn(activeTimer.btn, activeTimer.secs); }
-    if (activeTimer && activeTimer.btn === btn) { activeTimer = null; resetBtn(btn, secs); return; }
-    var left = secs;
+    var wasSame = activeTimer && activeTimer.btn === btn;
+    var replacing = activeTimer && !wasSame;
+    stopTimer();
+    if (wasSame) return;                       // tapping a running timer stops it
     btn.classList.add('running');
-    btn.textContent = '⏱ ' + fmtClock(left) + ' — tap to stop';
-    var iv = setInterval(function () {
-      left--;
-      if (left <= 0) {
-        clearInterval(iv); activeTimer = null;
-        resetBtn(btn, secs); alarm(); toast('⏰ Timer done!');
-        return;
-      }
-      btn.textContent = '⏱ ' + fmtClock(left) + ' — tap to stop';
-    }, 1000);
-    activeTimer = { iv: iv, btn: btn, secs: secs };
+    activeTimer = { btn: btn, secs: secs, endsAt: Date.now() + secs * 1000, iv: 0 };
+    activeTimer.iv = setInterval(paintTimer, 500);
+    paintTimer();
+    if (replacing) toast('Timer replaced — one at a time');
   }
   function resetBtn(btn, secs) { btn.classList.remove('running'); btn.textContent = '⏱ Start ' + fmtClock(secs) + ' timer'; }
   function alarm() {
@@ -393,7 +407,9 @@
     } catch (e) { }
   }
   document.addEventListener('visibilitychange', function () {
-    if (document.visibilityState === 'visible' && document.documentElement.classList.contains('cook')) requestWake();
+    if (document.visibilityState !== 'visible') return;
+    if (document.documentElement.classList.contains('cook')) requestWake();
+    paintTimer();   // catch up a timer that expired while the tab was backgrounded
   });
 
   /* ---------- routing ---------- */

@@ -1515,14 +1515,14 @@
       "difficulty": "Advanced",
       "servings": "8 servings",
       "prepTime": "25 min",
-      "cookTime": "3 hr 15 min",
-      "totalTime": "4 hr 10 min",
+      "cookTime": "3 hr 40 min",
+      "totalTime": "4 hr 40 min",
       "ingredients": [
         {
           "group": "For the roast",
           "items": [
             "1 bone-in standing rib roast, 3 to 4 ribs (7 to 8 lb / 3.2 to 3.6 kg)",
-            "4 tsp (20 g) kosher salt, about 1 tsp per 2 lb of meat",
+            "2 tbsp (30 g) kosher salt, about ¾ tsp per pound of meat",
             "1 tbsp coarsely ground black pepper",
             "2 tsp garlic powder",
             "2 tbsp (28 g) unsalted butter, softened",
@@ -1545,11 +1545,11 @@
       "instructions": [
         {
           "title": "Dry brine 24 to 48 hours ahead",
-          "text": "Pat the roast completely dry and rub it all over with the 4 tsp kosher salt, including the ends and between the bones. Set it on a rack over a sheet pan and refrigerate uncovered for 24 to 48 hours. This is the most important step in the recipe: it seasons the interior, dries the surface for a better crust, and there is no shortcut that gets you the same result."
+          "text": "Pat the roast completely dry and rub it all over with the 2 tbsp kosher salt, including the ends and between the bones. Set it on a rack over a sheet pan and refrigerate uncovered for 24 to 48 hours. This is the most important step in the recipe: it seasons the interior, dries the surface for a better crust, and there is no shortcut that gets you the same result."
         },
         {
           "title": "Temper the roast",
-          "text": "Take the roast out of the fridge 2 to 3 hours before it goes in the oven and leave it on the counter. A cold 8-pound roast can add well over an hour of cooking time and will cook far less evenly. It is safe: the surface stays well below any danger zone concern for this window, and the interior barely climbs."
+          "text": "Take the roast out of the fridge exactly 2 hours before it goes in the oven and leave it on the counter, uncovered, on its rack. Two hours is the ceiling, not a suggestion — raw beef should never sit at room temperature longer than that, because the surface is where bacteria live and it warms first. A cold 8-pound roast can add well over an hour of cooking time and will cook far less evenly, so this window is worth using fully. If your kitchen runs hot, above about 80°F (27°C), cut it to 1 hour."
         },
         {
           "title": "Make the herb paste",
@@ -1561,7 +1561,7 @@
         },
         {
           "title": "Roast low at 250°F",
-          "text": "Heat the oven to 250°F (120°C) and roast, uncovered, until the center hits 118 to 120°F (48 to 49°C) for medium-rare. Plan on roughly 25 to 30 minutes per pound, so about 3 to 3½ hours for an 8-pound roast, but check early. A low oven cooks the meat evenly edge to edge instead of leaving a thick gray band under the crust."
+          "text": "Heat the oven to 250°F (120°C) and roast, uncovered, until the center hits 118 to 120°F (48 to 49°C) for medium-rare. Plan on roughly 25 to 30 minutes per pound, so about 3½ to 4 hours for an 8-pound roast, but check early. A low oven cooks the meat evenly edge to edge instead of leaving a thick gray band under the crust."
         },
         {
           "title": "Trust the thermometer, not the clock",
@@ -1599,7 +1599,7 @@
         "Plan on about 1 pound of bone-in roast per person, or two people per rib. An 8-pound, 4-rib roast comfortably serves 8.",
         "Serve horseradish cream alongside: stir ¼ cup prepared horseradish, ½ cup sour cream, 1 tsp lemon juice, and ¼ tsp salt together and chill for an hour."
       ],
-      "keyTemp": "Roast at 250°F (120°C) to 118 to 120°F (48 to 49°C) for medium-rare, then blast at 500°F (260°C); final temperature after the crust step is 128 to 132°F (53 to 56°C). Medium is 140°F (60°C).",
+      "keyTemp": "Roast at 250°F (120°C) and pull at 118 to 120°F (48 to 49°C) for medium-rare — a pull temperature, well short of where you want to eat it. The rest plus the 500°F (260°C) crust blast adds 10 to 14°F (6 to 8°C) of carryover, finishing at 128 to 132°F (53 to 56°C). Medium is 140°F (60°C).",
       "pairing": "Yorkshire puddings, creamed spinach, and a serious Cabernet Sauvignon or Bordeaux.",
       "videoQuery": "prime rib roast low temperature au jus",
       "photoQuery": "prime rib roast sliced au jus",
