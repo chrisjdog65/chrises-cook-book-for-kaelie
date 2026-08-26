@@ -22,6 +22,36 @@ html[data-theme="dark"] {
 }
 
 html { -webkit-text-size-adjust:100%; }
+
+/* ============ NO-JAVASCRIPT CORE ============
+   The entire book is real HTML. Navigation is :target CSS, so it works in
+   readers that never run a line of script (iOS opens .html attachments in
+   Quick Look, which does exactly that). Three tiers, all usable:
+     1. scripted            -> full app, JS shows one view at a time
+     2. no JS, modern CSS   -> :has() shows one view at a time
+     3. no JS, older CSS    -> everything visible as one long scrollable book,
+                               and in-page links still jump to the right recipe */
+.sprite { position:absolute; width:0; height:0; overflow:hidden; }
+.view { display:block; }
+html:not(.js) .jsonly { display:none !important; }
+
+/* tier 1 */
+html.js .view { display:none; }
+html.js .view:target { display:block; }
+html.js.nohash #home { display:block; }
+
+/* tier 2 */
+@supports selector(:has(*)) {
+  html:not(.js):has(.view:target) .view { display:none; }
+  html:not(.js):has(.view:target) .view:target { display:block; }
+  html:not(.js):has(.view:target) #cover { display:none; }
+}
+/* tier 3 keeps every view rendered, so skip the offscreen paint work */
+html:not(.js) .view { content-visibility:auto; contain-intrinsic-size:0 900px; }
+
+/* jumping to a view must not park its first line under the sticky header */
+html.js .view { scroll-margin-top:74px; }
+html.js.cook .view { scroll-margin-top:0; }
 body {
   margin:0; background:var(--bg); color:var(--ink);
   font-family:var(--sans); font-size:16px; line-height:1.6;
@@ -36,7 +66,7 @@ a { color:var(--accent); }
 
 /* ============ COVER ============ */
 #cover {
-  position:fixed; inset:0; z-index:100; display:grid; place-items:center;
+  position:relative; min-height:100vh; z-index:100; display:grid; place-items:center;
   padding:28px 22px calc(28px + env(safe-area-inset-bottom));
   background:
     radial-gradient(120% 80% at 50% -10%, #ffd9b0 0%, rgba(255,217,176,0) 60%),
@@ -51,6 +81,9 @@ html[data-theme="dark"] #cover {
     radial-gradient(90% 60% at 12% 105%, #46231f 0%, rgba(70,35,31,0) 62%),
     linear-gradient(168deg,#241a14 0%,#31201a 46%,#3d2620 100%);
 }
+/* With script, the cover is an overlay that fades away on the first tap. */
+html.js #cover { position:fixed; inset:0; min-height:0; }
+html.js #cover.gone { opacity:0; visibility:hidden; pointer-events:none; }
 #cover.gone { opacity:0; visibility:hidden; pointer-events:none; }
 .cover-inner { position:relative; z-index:2; width:100%; max-width:520px; }
 .cover-orn { font-size:15px; letter-spacing:.42em; text-transform:uppercase; color:#a9603f; margin-bottom:22px; }
@@ -73,6 +106,7 @@ html[data-theme="dark"] #coverFrom { color:#f0bd9c; }
 .cover-count { margin-top:26px; font-size:14px; color:#a9603f; letter-spacing:.06em; }
 html[data-theme="dark"] .cover-count { color:#d29b76; }
 #openBtn {
+  display:inline-block; text-decoration:none;
   margin-top:30px; border:0; background:#8f3520; color:#fff;
   padding:17px 40px; border-radius:999px; font-size:17px; font-weight:600;
   letter-spacing:.02em; box-shadow:0 10px 26px rgba(143,53,32,.34);
@@ -102,7 +136,9 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
 }
 .iconbtn:active { transform:scale(.93); }
 .backbtn { border:1px solid var(--line); background:var(--bg2); border-radius:999px;
-  padding:8px 15px 8px 11px; font-size:14px; font-weight:600; display:inline-flex; gap:6px; align-items:center; }
+  padding:8px 15px 8px 11px; font-size:14px; font-weight:600; display:inline-flex; gap:6px;
+  align-items:center; text-decoration:none; color:inherit; margin-top:14px; }
+.brand { text-decoration:none; color:inherit; }
 
 .search { position:relative; margin-top:10px; }
 .search input {
@@ -124,13 +160,14 @@ html[data-theme="dark"] #openBtn { background:#e2765a; color:#241009; }
   padding-bottom:env(safe-area-inset-bottom); box-shadow:0 -3px 18px rgba(60,40,25,.07);
 }
 html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
-.tabbar button {
+.tabbar a {
   flex:1; border:0; background:none; padding:9px 2px 8px; height:var(--tabh);
   display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px;
   font-size:11px; font-weight:600; color:var(--muted); letter-spacing:.01em;
+  text-decoration:none; position:relative;
 }
-.tabbar button .ti { font-size:21px; line-height:1; }
-.tabbar button.on { color:var(--accent); }
+.tabbar a .ti { font-size:21px; line-height:1; }
+.tabbar a.on { color:var(--accent); }
 .tabbar .badge {
   position:absolute; transform:translate(15px,-13px); background:var(--accent); color:var(--accent-ink);
   border-radius:999px; font-size:10px; min-width:17px; height:17px; padding:0 5px;
@@ -161,9 +198,10 @@ html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
 .catcard {
   border:1px solid var(--line); background:var(--bg2); border-radius:var(--r);
   padding:15px 13px; text-align:left; display:block; box-shadow:var(--shadow);
-  transition:transform .14s ease; width:100%;
+  transition:transform .14s ease; width:100%; text-decoration:none; color:inherit;
 }
 .catcard:active { transform:scale(.975); }
+.catcard .ce, .catcard .cn, .catcard .cc { display:block; }
 .catcard .ce { font-size:29px; line-height:1; }
 .catcard .cn { font-family:var(--display); font-size:17px; margin-top:9px; line-height:1.25; }
 .catcard .cc { color:var(--muted); font-size:12.5px; margin-top:3px; }
@@ -177,10 +215,12 @@ html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
   transition:transform .14s ease, box-shadow .14s ease;
 }
 .rcard:active { transform:scale(.985); }
+/* cards are anchors so they navigate without script; their parts are spans */
 .rcard-open {
   display:block; width:100%; text-align:left; padding:0; border:0; background:none;
-  color:inherit; font:inherit;
+  color:inherit; font:inherit; text-decoration:none;
 }
+.rcard .art, .rcard .body, .rcard .t, .rcard .b { display:block; }
 .rcard .art { aspect-ratio:400/260; background:var(--bg3); }
 .rcard .art svg { display:block; width:100%; height:100%; }
 .rcard .fav {
@@ -192,7 +232,7 @@ html[data-theme="dark"] .tabbar { box-shadow:0 -3px 18px rgba(0,0,0,.4); }
 .rcard .t { font-family:var(--display); font-size:18px; line-height:1.28; }
 .rcard .b { color:var(--muted); font-size:13.5px; margin-top:5px;
   display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
-.rcard .m { display:flex; gap:9px; flex-wrap:wrap; margin-top:10px; font-size:12.5px; color:var(--ink2); }
+.rcard .m { display:flex; gap:9px; flex-wrap:wrap; margin-top:10px; font-size:12.5px; color:var(--ink2); align-items:center; }
 .rcard .m span { display:inline-flex; align-items:center; gap:4px; }
 .dot { width:4px; height:4px; border-radius:50%; background:var(--line); align-self:center; }
 

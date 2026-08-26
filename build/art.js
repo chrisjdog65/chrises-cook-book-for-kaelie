@@ -1195,8 +1195,61 @@ function namespaceIds(svg, uid) {
   return out;
 }
 
+/* ---- sprite API ----
+   The book is now static HTML: no JavaScript draws anything at read time. Each
+   distinct (dish, variant) is emitted ONCE as an <symbol>, every recipe points a
+   <use> at it, and the palette/rotation that make two cards of the same dish look
+   different are applied in the per-recipe wrapper instead of baked into the drawing. */
+
+function resolveKey(key) {
+  return D[key] ? key : (ALIAS[key] && D[ALIAS[key]] ? ALIAS[key] : 'default');
+}
+
+/* Gradients every drawing shares, plus one per background palette. Defined once
+   for the whole document, so nothing needs per-card id namespacing. */
+function sharedDefs() {
+  let g = '';
+  for (const fam of Object.keys(FAMILIES)) {
+    FAMILIES[fam].forEach(([c0, c1], i) => {
+      g += `<linearGradient id="bg-${fam}-${i}" x1="0" y1="0" x2="0" y2="1">` +
+        `<stop offset="0" stop-color="${c0}"/><stop offset="1" stop-color="${c1}"/></linearGradient>`;
+    });
+  }
+  g += '<radialGradient id="sh"><stop offset="0" stop-color="#000" stop-opacity=".22"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>' +
+    '<linearGradient id="bowlSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>' +
+    '<linearGradient id="wrapSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient>' +
+    '<linearGradient id="cheeseSh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".4"/><stop offset="1" stop-color="#e8a03c" stop-opacity=".3"/></linearGradient>' +
+    '<linearGradient id="panSh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity=".06"/></linearGradient>';
+  return g;
+}
+
+/* One drawing, deterministic for a given (key, variant) so every recipe sharing
+   that pair can point at the same symbol. Inline clip-path ids get namespaced;
+   the shared gradients above are left alone because they aren't defined here. */
+function dishBody(key, variant) {
+  const k = resolveKey(key);
+  const r = rng(hash(k + '#' + variant));
+  return namespaceIds(D[k](r, variant), k + variant);
+}
+
+/* Which symbol a recipe uses, and the cheap per-recipe differences. */
+function styleFor(key, seed) {
+  const k = resolveKey(key);
+  const h = hash(String(seed || key));
+  const fam = BG[k] || BG.default;
+  return {
+    key: k,
+    variant: (h >>> 11) % 3,
+    symbol: 'a-' + k + '-' + ((h >>> 11) % 3),
+    bg: 'bg-' + fam + '-' + (h % FAMILIES[fam].length),
+    tilt: h % 3,
+    spin: ((h >>> 3) % 5) - 2,
+    nudge: ((h >>> 6) % 7) - 3,
+  };
+}
+
 function art(key, seed) {
-  const k = D[key] ? key : (ALIAS[key] && D[ALIAS[key]] ? ALIAS[key] : 'default');
+  const k = resolveKey(key);
   const h = hash(String(seed || key));
   const r = rng(h);
   const fam = FAMILIES[BG[k] || BG.default] || FAMILIES.warm;
@@ -1228,4 +1281,7 @@ function art(key, seed) {
   return namespaceIds(svg, uid);
 }
 
-module.exports = { art, ART_KEYS: Object.keys(D).filter(k => k !== 'default' && k !== 'plateDefault') };
+module.exports = {
+  art, sharedDefs, dishBody, styleFor, resolveKey,
+  ART_KEYS: Object.keys(D).filter(k => k !== 'default' && k !== 'plateDefault'),
+};

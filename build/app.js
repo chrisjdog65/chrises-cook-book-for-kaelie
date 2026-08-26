@@ -1,12 +1,10 @@
-/* ===== Kaelie's Recipe Book — app ===== */
+/* ===== Kaelie's Recipe Book — progressive enhancement =====
+   The book itself is static HTML navigated with :target CSS, so it works with no
+   JavaScript at all (iOS Quick Look renders .html attachments without scripts).
+   Nothing in here is required to read a recipe. It adds: search, favourites, a
+   shopping list, batch scaling, step timers, progress and cook mode. */
 (function () {
   'use strict';
-
-  var BOOK = window.BOOK;
-  var RECIPES = BOOK.recipes;
-  var CATS = BOOK.categories;
-  var BY_ID = {};
-  RECIPES.forEach(function (r) { BY_ID[r.id] = r; });
 
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
@@ -15,6 +13,7 @@
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
     });
   }
+  var html = document.documentElement;
 
   /* ---------- storage (must survive private mode / blocked storage) ---------- */
   var store = {
@@ -22,20 +21,14 @@
     set: function (k, v) { try { localStorage.setItem('krb:' + k, JSON.stringify(v)); } catch (e) { } }
   };
 
-  var favs = store.get('favs', []);
-  var favSet = {}; favs.forEach(function (id) { favSet[id] = 1; });
-  var checks = store.get('checks', {});       // recipeId -> [ingredient keys]
-  var stepsDone = store.get('steps', {});     // recipeId -> [step indexes]
-  var listItems = store.get('list', []);      // {rid, text}
+  var favSet = {};
+  (store.get('favs', []) || []).forEach(function (id) { favSet[id] = 1; });
+  var checks = store.get('checks', {});
+  var stepsDone = store.get('steps', {});
+  var listItems = store.get('list', []);
   var scale = 1;
 
-  function saveFavs() { store.set('favs', Object.keys(favSet)); }
-  function isFav(id) { return !!favSet[id]; }
-  function toggleFav(id) {
-    if (favSet[id]) { delete favSet[id]; } else { favSet[id] = 1; }
-    saveFavs(); updateBadges();
-    return !!favSet[id];
-  }
+  var scaleText = (window.SCALE && window.SCALE.scaleText) || function (t) { return esc(t); };
 
   /* ---------- toast ---------- */
   var toastEl, toastT;
@@ -45,312 +38,245 @@
     clearTimeout(toastT); toastT = setTimeout(function () { toastEl.classList.remove('show'); }, 2100);
   }
 
-  /* ---------- ingredient scaling (see build/scale.js + scale.test.js) ---------- */
-  var scaleText = window.SCALE.scaleText;
-
-  /* ---------- search index ---------- */
-  RECIPES.forEach(function (r) {
-    var ing = [];
-    r.ingredients.forEach(function (g) { g.items.forEach(function (i) { ing.push(i); }); });
-    r._ix = (r.title + ' ' + r.blurb + ' ' + r.cat + ' ' + r.tags.join(' ') + ' ' +
-      r.difficulty + ' ' + ing.join(' ')).toLowerCase();
-    r._mins = parseMins(r.totalTime);
-  });
-
-  function parseMins(t) {
-    var s = String(t).toLowerCase(), m = 0, h = s.match(/(\d+(?:\.\d+)?)\s*(?:hr|hour)/);
-    if (h) m += parseFloat(h[1]) * 60;
-    var mm = s.match(/(\d+)\s*(?:min)/); if (mm) m += parseInt(mm[1], 10);
-    if (!m) { var d = s.match(/(\d+)/); if (d) m = parseInt(d[1], 10); }
-    return m;
+  /* ---------- favourites ---------- */
+  function isFav(id) { return !!favSet[id]; }
+  function toggleFav(id) {
+    if (favSet[id]) delete favSet[id]; else favSet[id] = 1;
+    store.set('favs', Object.keys(favSet));
+    syncFavs(); updateBadges();
+    return isFav(id);
+  }
+  function syncFavs(root) {
+    $$('[data-fav]', root).forEach(function (b) {
+      var on = isFav(b.getAttribute('data-fav'));
+      b.textContent = on ? '❤️' : '🤍';
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    $$('[data-favbtn]', root).forEach(function (b) {
+      var on = isFav(b.getAttribute('data-favbtn'));
+      b.innerHTML = '<span class="i">' + (on ? '❤️' : '🤍') + '</span> ' + (on ? 'Saved' : 'Save');
+    });
+  }
+  function updateBadges() {
+    var fb = $('[data-tab="fav"] .badge'), n = Object.keys(favSet).length;
+    if (fb) { fb.textContent = n; fb.classList.toggle('hidden', !n); }
+    var lb = $('[data-tab="list"] .badge');
+    if (lb) { lb.textContent = listItems.length; lb.classList.toggle('hidden', !listItems.length); }
   }
 
+  /* ---------- search index, read straight out of the rendered book ---------- */
+  var INDEX = null;
+  function buildIndex() {
+    if (INDEX) return INDEX;
+    INDEX = $$('.view.recipe').map(function (s) {
+      var pick = function (sel) { var e = $(sel, s); return e ? e.textContent : ''; };
+      var ing = $$('.ilist span[data-raw]', s).map(function (x) { return x.getAttribute('data-raw'); }).join(' ');
+      var title = pick('.rtitle');
+      return {
+        id: s.id.slice(2), title: title,
+        hay: (title + ' ' + pick('.rtags') + ' ' + pick('.rblurb') + ' ' + ing).toLowerCase()
+      };
+    });
+    return INDEX;
+  }
   function search(q) {
     q = q.trim().toLowerCase();
     if (!q) return [];
     var words = q.split(/\s+/);
-    return RECIPES.map(function (r) {
-      var sc = 0, ok = true;
+    return buildIndex().map(function (r) {
+      var sc = 0;
       for (var i = 0; i < words.length; i++) {
         var w = words[i];
         if (r.title.toLowerCase().indexOf(w) >= 0) sc += 10;
-        else if (r._ix.indexOf(w) >= 0) sc += 2;
-        else { ok = false; break; }
+        else if (r.hay.indexOf(w) >= 0) sc += 2;
+        else return null;
       }
-      return ok ? { r: r, sc: sc } : null;
+      return { r: r, sc: sc };
     }).filter(Boolean).sort(function (a, b) { return b.sc - a.sc; }).map(function (x) { return x.r; });
   }
 
-  /* ---------- links out ---------- */
-  function videoUrl(r) {
-    var q = String(r.videoQuery).replace(/\s+recipe\s*$/i, '');   // don't end up with "... recipe recipe"
-    return 'https://www.youtube.com/results?search_query=' + encodeURIComponent(q + ' recipe');
-  }
-  function photoUrl(r) { return 'https://www.google.com/search?tbm=isch&q=' + encodeURIComponent(r.photoQuery); }
-
-  /* ---------- card ---------- */
-  // The favourite control is a sibling of the open-recipe button, never nested inside
-  // it — a control inside a control confuses assistive tech and taps alike.
-  function cardHTML(r) {
-    return '<div class="rcard">' +
-      '<button class="rcard-open" data-go="#/r/' + r.id + '">' +
-      '<div class="art">' + window.ART.art(r.art, r.id) + '</div>' +
-      '<div class="body"><div class="t">' + esc(r.title) + '</div>' +
-      '<div class="b">' + esc(r.blurb) + '</div>' +
-      '<div class="m"><span>⏱ ' + esc(r.totalTime) + '</span><span class="dot"></span>' +
-      '<span>🍽 ' + esc(r.servings) + '</span><span class="dot"></span>' +
-      '<span class="diff ' + esc(r.difficulty) + '">' + esc(r.difficulty) + '</span></div>' +
-      '</div></button>' +
-      '<button class="fav" data-fav="' + r.id + '" aria-pressed="' + (isFav(r.id) ? 'true' : 'false') +
-      '" aria-label="Save ' + esc(r.title) + ' to favorites">' + (isFav(r.id) ? '❤️' : '🤍') + '</button>' +
-      '</div>';
-  }
-  function grid(list) {
-    if (!list.length) return '';
-    return '<div class="rgrid">' + list.map(cardHTML).join('') + '</div>';
-  }
-
-  /* Each card carries a full inline SVG, so rendering several hundred at once
-     makes the phone chug. Page them instead. */
-  var PAGE = 40, shown = PAGE;
-  function pagedGrid(list) {
-    var slice = list.slice(0, shown);
-    return grid(slice) + (list.length > slice.length
-      ? '<div class="actions" style="grid-template-columns:1fr;margin-top:16px">' +
-        '<button class="act" data-more>Show ' + Math.min(PAGE, list.length - slice.length) +
-        ' more (' + (list.length - slice.length) + ' left)</button></div>'
-      : '');
-  }
-
-  /* ---------- views ---------- */
-  var main = null;
-  function setMain(html) {
-    main.innerHTML = html;
-    main.scrollTop = 0;
-    window.scrollTo(0, 0);
-  }
-
-  /* Pull a spread across different chapters, shifted by the day, so the home page
-     shows something different tomorrow instead of the same four steaks forever. */
-  function spread(pool, n) {
-    if (!pool.length) return [];
-    var day = Math.floor(Date.now() / 86400000);
-    var byCat = {};
-    pool.forEach(function (r) { (byCat[r.catSlug] = byCat[r.catSlug] || []).push(r); });
-    var cats = Object.keys(byCat).sort(), out = [], seen = {};
-    for (var i = 0; out.length < n && i < cats.length * 3; i++) {
-      var list = byCat[cats[(day + i) % cats.length]];
-      var r = list[(day + Math.floor(i / cats.length)) % list.length];
-      if (!seen[r.id]) { seen[r.id] = 1; out.push(r); }
+  /* ---------- build a results grid by cloning the real cards ---------- */
+  var CARDS = null;
+  function cardFor(id) {
+    if (!CARDS) {
+      CARDS = {};
+      $$('.rcard[data-id]').forEach(function (c) {
+        var k = c.getAttribute('data-id');
+        if (!CARDS[k]) CARDS[k] = c;
+      });
     }
-    return out;
+    return CARDS[id] ? CARDS[id].cloneNode(true) : null;
+  }
+  var PAGE = 40;
+  function fillGrid(host, ids, shown) {
+    host.innerHTML = '';
+    var grid = document.createElement('div');
+    grid.className = 'rgrid';
+    ids.slice(0, shown).forEach(function (id) {
+      var c = cardFor(id);
+      if (c) grid.appendChild(c);
+    });
+    host.appendChild(grid);
+    if (ids.length > shown) {
+      var wrap = document.createElement('div');
+      wrap.className = 'actions';
+      wrap.style.gridTemplateColumns = '1fr';
+      wrap.style.marginTop = '16px';
+      wrap.innerHTML = '<button class="act" data-more>Show ' +
+        Math.min(PAGE, ids.length - shown) + ' more (' + (ids.length - shown) + ' left)</button>';
+      host.appendChild(wrap);
+    }
+    syncFavs(host);
   }
 
-  function viewHome() {
-    var quick = RECIPES.filter(function (r) { return r._mins > 0 && r._mins <= 30; });
-    var pick = spread(quick.length ? quick : RECIPES, 4);
-    setMain(
-      '<h2 class="h first">Hi Kaelie 👋</h2>' +
-      '<p class="sub">' + RECIPES.length + ' recipes, ' + CATS.length + ' chapters. Tap anything and start cooking.</p>' +
-      '<div class="actions"><button class="act primary" data-random><span class="i">🎲</span> Surprise me</button>' +
-      '<button class="act" data-go="#/fav"><span class="i">❤️</span> My favorites</button></div>' +
-      '<h2 class="h">Chapters</h2>' +
-      '<div class="catgrid">' + CATS.map(function (c) {
-        return '<button class="catcard" data-go="#/c/' + c.slug + '">' +
-          '<div class="ce">' + c.emoji + '</div><div class="cn">' + esc(c.name) + '</div>' +
-          '<div class="cc">' + c.count + ' recipes</div></button>';
-      }).join('') + '</div>' +
-      '<h2 class="h">Ready in 30 minutes</h2><p class="sub">For the nights you are hungry now.</p>' +
-      grid(pick) +
-      footHTML()
-    );
+  /* ---------- the three script-only views ---------- */
+  var FILTERS = [
+    { k: 'all', label: 'Everything', fn: function () { return true; } },
+    { k: 'quick', label: '⏱ 30 min or less', fn: function (id) { return mins(id) > 0 && mins(id) <= 30; } },
+    { k: 'easy', label: '👌 Easy', fn: function (id) { return diff(id) === 'Easy'; } },
+    { k: 'fancy', label: '✨ Impressive', fn: function (id) { return diff(id) === 'Advanced'; } },
+    { k: 'fav', label: '❤️ Favorites', fn: function (id) { return isFav(id); } }
+  ];
+  var filter = 'all', shownSearch = PAGE, shownFav = PAGE;
+
+  var META = null;
+  function meta(id) {
+    if (!META) {
+      META = {};
+      $$('.view.recipe').forEach(function (s) {
+        var v = $$('.metagrid .v', s);
+        var d = $('.rtags .diff', s);
+        META[s.id.slice(2)] = {
+          total: v[2] ? v[2].textContent : '',
+          diff: d ? d.textContent.trim() : ''
+        };
+      });
+    }
+    return META[id] || {};
+  }
+  function mins(id) {
+    var t = String(meta(id).total || '').toLowerCase(), m = 0;
+    var h = t.match(/(\d+(?:\.\d+)?)\s*(?:hr|hour)/); if (h) m += parseFloat(h[1]) * 60;
+    var mm = t.match(/(\d+)\s*min/); if (mm) m += parseInt(mm[1], 10);
+    return m;
+  }
+  function diff(id) { return meta(id).diff || ''; }
+
+  function renderSearch() {
+    var host = $('#search'); if (!host) return;
+    var q = ($('#q') || {}).value || '';
+    var base = q.trim() ? search(q).map(function (r) { return r.id; })
+      : buildIndex().map(function (r) { return r.id; });
+    var f = FILTERS.filter(function (x) { return x.k === filter; })[0] || FILTERS[0];
+    var ids = base.filter(f.fn);
+
+    host.innerHTML = '<h2 class="h first">Search</h2><p class="sub">' +
+      (q.trim() ? ids.length + ' result' + (ids.length === 1 ? '' : 's') + ' for “' + esc(q.trim()) + '”'
+        : 'Type above — dish names, ingredients, anything. Or just browse:') + '</p>' +
+      '<div class="chips">' + FILTERS.map(function (x) {
+        return '<button class="chip' + (x.k === filter ? ' on' : '') + '" data-filter="' + x.k + '">' + x.label + '</button>';
+      }).join('') + '</div><div data-results></div>';
+
+    if (!ids.length) {
+      $('[data-results]', host).innerHTML =
+        '<div class="empty"><span class="big">🔍</span>' +
+        (q.trim() ? 'Nothing matched that.<br>Try “garlic”, “shrimp”, or “chicken”.' : 'Nothing here yet.') + '</div>';
+    } else {
+      fillGrid($('[data-results]', host), ids, shownSearch);
+    }
   }
 
-  function viewCat(slug) {
-    var c = null;
-    for (var i = 0; i < CATS.length; i++) if (CATS[i].slug === slug) c = CATS[i];
-    if (!c) return viewHome();
-    var list = RECIPES.filter(function (r) { return r.catSlug === slug; });
-    setMain(
-      '<button class="backbtn" data-go="#/">‹ All chapters</button>' +
-      '<h2 class="h">' + c.emoji + ' ' + esc(c.name) + '</h2>' +
-      '<p class="sub">' + esc(c.blurb) + '</p>' +
-      grid(list) + footHTML()
-    );
+  function renderFav() {
+    var host = $('#fav'); if (!host) return;
+    var ids = buildIndex().map(function (r) { return r.id; }).filter(isFav);
+    host.innerHTML = '<h2 class="h first">❤️ Favorites</h2>' +
+      (ids.length ? '<p class="sub">' + ids.length + ' saved.</p><div data-results></div>'
+        : '<div class="empty"><span class="big">🤍</span>No favorites yet.<br>Tap the heart on any recipe to save it here.</div>');
+    if (ids.length) fillGrid($('[data-results]', host), ids, shownFav);
   }
 
-  function viewFav() {
-    var list = RECIPES.filter(function (r) { return isFav(r.id); });
-    setMain('<h2 class="h first">❤️ Favorites</h2>' +
-      (list.length
-        ? '<p class="sub">' + list.length + ' saved.</p>' + pagedGrid(list)
-        : '<div class="empty"><span class="big">🤍</span>No favorites yet.<br>Tap the heart on any recipe to save it here.</div>') +
-      footHTML());
-  }
-
-  function viewList() {
+  function renderList() {
+    var host = $('#list'); if (!host) return;
     var groups = {};
     listItems.forEach(function (it) { (groups[it.rid] = groups[it.rid] || []).push(it); });
     var keys = Object.keys(groups);
-    setMain('<h2 class="h first">🧺 Shopping list</h2>' +
-      (keys.length
-        ? '<p class="sub">' + listItems.length + ' items. Tap an item to cross it off.</p>' +
-        keys.map(function (rid) {
-          var r = BY_ID[rid];
-          return '<div class="slgroup"><header><div class="t">' + esc(r ? r.title : 'Recipe') + '</div>' +
-            '<button data-rmgroup="' + esc(rid) + '" aria-label="Remove these items">✕</button></header>' +
-            '<ul class="ilist">' + groups[rid].map(function (it) {
-              return '<li><label><input type="checkbox" data-slcheck="' + esc(it.rid) + '|' + esc(it.text) + '"' +
-                (it.done ? ' checked' : '') + '><span>' + esc(it.text) + '</span></label></li>';
-            }).join('') + '</ul></div>';
-        }).join('') +
-        '<div class="actions" style="grid-template-columns:1fr"><button class="act" data-clearlist>Clear the whole list</button></div>'
-        : '<div class="empty"><span class="big">🧺</span>Your list is empty.<br>Open a recipe and tap <b>Add to shopping list</b>.</div>') +
-      footHTML());
+    if (!keys.length) {
+      host.innerHTML = '<h2 class="h first">🧺 Shopping list</h2>' +
+        '<div class="empty"><span class="big">🧺</span>Your list is empty.<br>Open a recipe and tap <b>Add to shopping list</b>.</div>';
+      return;
+    }
+    host.innerHTML = '<h2 class="h first">🧺 Shopping list</h2>' +
+      '<p class="sub">' + listItems.length + ' items. Tap an item to cross it off.</p>' +
+      keys.map(function (rid) {
+        var t = $('#r-' + rid + ' .rtitle');
+        return '<div class="slgroup"><header><div class="t">' + esc(t ? t.textContent : 'Recipe') + '</div>' +
+          '<button data-rmgroup="' + esc(rid) + '" aria-label="Remove these items">✕</button></header>' +
+          '<ul class="ilist">' + groups[rid].map(function (it) {
+            return '<li><label><input type="checkbox" data-slcheck="' + esc(it.rid) + '|' + esc(it.text) + '"' +
+              (it.done ? ' checked' : '') + '><span>' + esc(it.text) + '</span></label></li>';
+          }).join('') + '</ul></div>';
+      }).join('') +
+      '<div class="actions" style="grid-template-columns:1fr"><button class="act" data-clearlist>Clear the whole list</button></div>';
   }
 
-  var FILTERS = [
-    { k: 'all', label: 'Everything', fn: function () { return true; } },
-    { k: 'quick', label: '⏱ 30 min or less', fn: function (r) { return r._mins > 0 && r._mins <= 30; } },
-    { k: 'easy', label: '👌 Easy', fn: function (r) { return r.difficulty === 'Easy'; } },
-    { k: 'fancy', label: '✨ Impressive', fn: function (r) { return r.difficulty === 'Advanced'; } },
-    { k: 'fav', label: '❤️ Favorites', fn: function (r) { return isFav(r.id); } }
-  ];
-  var filter = 'all';
+  /* ---------- per-recipe enhancement, applied the first time it is opened ---------- */
+  function enhanceRecipe(sec) {
+    if (!sec || sec.getAttribute('data-enh')) return;
+    sec.setAttribute('data-enh', '1');
+    var id = sec.id.slice(2);
 
-  function viewSearch(q) {
-    var base = q ? search(q) : RECIPES;
-    var f = FILTERS.filter(function (x) { return x.k === filter; })[0] || FILTERS[0];
-    var res = base.filter(f.fn);
-
-    var chips = '<div class="chips">' + FILTERS.map(function (x) {
-      return '<button class="chip' + (x.k === filter ? ' on' : '') + '" data-filter="' + x.k + '">' + x.label + '</button>';
-    }).join('') + '</div>';
-
-    setMain('<h2 class="h first">Search</h2>' +
-      '<p class="sub">' +
-      (q ? res.length + ' result' + (res.length === 1 ? '' : 's') + ' for “' + esc(q) + '”'
-         : 'Type above — dish names, ingredients, anything. Or just browse:') +
-      '</p>' + chips +
-      (!res.length
-        ? '<div class="empty"><span class="big">🔍</span>' +
-          (q ? 'Nothing matched that.<br>Try “garlic”, “shrimp”, or “chicken”.'
-             : 'Nothing here yet.') + '</div>'
-        : pagedGrid(res)) + footHTML());
-  }
-
-  function viewRecipe(id) {
-    var r = BY_ID[id];
-    if (!r) return viewHome();
-    scale = 1; // a batch size set on one recipe must not silently carry into the next
-    var done = stepsDone[id] || [];
+    // restore ticked ingredients
     var ck = checks[id] || [];
+    $$('.ilist input[type=checkbox]', sec).forEach(function (input, i) {
+      input.setAttribute('data-ing', i);
+      if (ck.indexOf(String(i)) >= 0) input.checked = true;
+    });
 
-    var ingHTML = r.ingredients.map(function (g, gi) {
-      return '<div class="igroup">' +
-        (r.ingredients.length > 1 || g.group.toLowerCase() !== 'ingredients'
-          ? '<h4>' + esc(g.group) + '</h4>' : '') +
-        '<ul class="ilist">' + g.items.map(function (it, ii) {
-          var key = gi + ':' + ii;
-          return '<li><label><input type="checkbox" data-ing="' + key + '"' +
-            (ck.indexOf(key) >= 0 ? ' checked' : '') + '><span data-raw="' + esc(it) + '">' +
-            scaleText(it, scale) + '</span></label></li>';
-        }).join('') + '</ul></div>';
-    }).join('');
-
-    var stepHTML = r.instructions.map(function (s, i) {
-      var t = timerFor(s.text);
-      return '<li' + (done.indexOf(i) >= 0 ? ' class="done"' : '') + ' data-step="' + i + '">' +
-        '<button class="tapme" aria-label="Mark step ' + (i + 1) + ' done"></button>' +
-        '<div class="st">' + esc(s.title) + '</div>' +
-        '<div class="sx">' + esc(s.text) + '</div>' +
-        (t ? '<button class="timerbtn" data-timer="' + t + '">⏱ Start ' + fmtClock(t) + ' timer</button>' : '') +
-        '</li>';
-    }).join('');
-
-    setMain(
-      '<button class="backbtn" data-go="#/c/' + r.catSlug + '">‹ ' + esc(r.cat) + '</button>' +
-      '<div class="hero">' + window.ART.art(r.art, r.id) + '</div>' +
-      '<h1 class="rtitle">' + esc(r.title) + '</h1>' +
-      '<p class="rblurb">' + esc(r.blurb) + '</p>' +
-      '<div class="rtags">' + r.tags.map(function (t) { return '<span class="rtag">' + esc(t) + '</span>'; }).join('') +
-      '<span class="rtag diff ' + esc(r.difficulty) + '">' + esc(r.difficulty) + '</span></div>' +
-
-      '<div class="metagrid">' +
-      '<div><div class="k">Prep</div><div class="v">' + esc(r.prepTime) + '</div></div>' +
-      '<div><div class="k">Cook</div><div class="v">' + esc(r.cookTime) + '</div></div>' +
-      '<div><div class="k">Total</div><div class="v">' + esc(r.totalTime) + '</div></div>' +
-      '<div><div class="k">Serves</div><div class="v">' + esc(r.servings) + '</div></div>' +
-      '</div>' +
-
-      '<div class="actions">' +
-      '<a class="act primary" href="' + videoUrl(r) + '" target="_blank" rel="noopener"><span class="i">▶️</span> Watch it made</a>' +
-      '<a class="act" href="' + photoUrl(r) + '" target="_blank" rel="noopener"><span class="i">📷</span> See real photos</a>' +
-      '<button class="act" data-favbtn="' + r.id + '"><span class="i">' + (isFav(r.id) ? '❤️' : '🤍') + '</span> ' + (isFav(r.id) ? 'Saved' : 'Save') + '</button>' +
-      '<button class="act" data-cook><span class="i">👩‍🍳</span> Cook mode</button>' +
-      '</div>' +
-
-      '<div class="section"><h3><span class="n">1</span> Ingredients</h3>' +
-      '<p class="hint">Tap each one as you gather it.</p>' +
-      '<div class="scaler"><span class="lab">Batch</span><div class="grp">' +
-      [[0.5, '½×'], [1, '1×'], [2, '2×'], [3, '3×']].map(function (s) {
-        return '<button data-scale="' + s[0] + '"' + (scale === s[0] ? ' class="on"' : '') + '>' + s[1] + '</button>';
-      }).join('') + '</div></div>' +
-      ingHTML +
-      '<div class="actions" style="grid-template-columns:1fr;margin-top:14px">' +
-      '<button class="act" data-addlist="' + r.id + '"><span class="i">🧺</span> Add to shopping list</button></div>' +
-      '</div>' +
-
-      '<div class="section"><h3><span class="n">2</span> How to make it</h3>' +
-      '<p class="hint">Tap a step when it is done.</p>' +
-      '<div class="progwrap"><div class="progbar"><i data-prog></i></div>' +
-      '<div class="progtxt"><span data-progtxt></span><button data-resetsteps style="border:0;background:none;color:var(--accent);font-weight:700;font-size:12px;padding:0">Reset</button></div></div>' +
-      '<ol class="steps">' + stepHTML + '</ol></div>' +
-
-      (r.keyTemp ? '<div class="callout temp"><div class="ct">Know when it is done</div><div class="cb">' + esc(r.keyTemp) + '</div></div>' : '') +
-      (r.pairing ? '<div class="callout pair"><div class="ct">Serve it with</div><div class="cb">' + esc(r.pairing) + '</div></div>' : '') +
-
-      (r.tips.length
-        ? '<div class="section"><h3><span class="n">3</span> Chef tips</h3>' +
-          '<ul class="tips">' + r.tips.map(function (t) { return '<li><span class="tb">◆</span><span>' + esc(t) + '</span></li>'; }).join('') + '</ul></div>'
-        : '') +
-
-      '<div class="actions" style="margin-top:26px">' +
-      '<a class="act primary" href="' + videoUrl(r) + '" target="_blank" rel="noopener"><span class="i">▶️</span> Watch a video</a>' +
-      '<button class="act" data-random><span class="i">🎲</span> Another recipe</button></div>' +
-      footHTML()
-    );
-    updateProgress();
+    // timers pulled out of the step text
+    var done = stepsDone[id] || [];
+    $$('.steps li', sec).forEach(function (li, i) {
+      if (done.indexOf(i) >= 0) li.classList.add('done');
+      var tx = $('.sx', li);
+      var secs = tx ? timerFor(tx.textContent) : 0;
+      if (secs) {
+        var b = document.createElement('button');
+        b.className = 'timerbtn';
+        b.setAttribute('data-timer', secs);
+        b.textContent = '⏱ Start ' + fmtClock(secs) + ' timer';
+        li.appendChild(b);
+      }
+    });
+    syncFavs(sec);
+    updateProgress(sec);
   }
 
-  function footHTML() {
-    return '<div class="foot"><div class="hr"></div>Made for Kaelie, by Chris. 🤍</div>';
+  function updateProgress(sec) {
+    var bar = $('[data-prog]', sec), txt = $('[data-progtxt]', sec);
+    if (!bar) return;
+    var all = $$('.steps li', sec), d = $$('.steps li.done', sec).length;
+    bar.style.width = (all.length ? Math.round(d / all.length * 100) : 0) + '%';
+    if (txt) txt.textContent = d + ' of ' + all.length + ' steps done';
   }
 
-  /* ---------- timers ---------- */
+  /* ---------- timers (wall-clock, so a backgrounded tab cannot stall them) ---------- */
   function timerFor(text) {
     var m = String(text).match(/(\d+)(?:\s*(?:–|—|-|to)\s*\d+)?\s*(seconds?|secs?|minutes?|mins?|hours?|hrs?)\b/i);
     if (!m) return 0;
     var n = parseInt(m[1], 10), u = m[2].toLowerCase();
     if (!n) return 0;
-    var secs = /^h/.test(u) ? n * 3600 : /^m/.test(u) ? n * 60 : n;
-    if (secs < 20 || secs > 4 * 3600) return 0;
-    return secs;
+    var s = /^h/.test(u) ? n * 3600 : /^m/.test(u) ? n * 60 : n;
+    return (s < 20 || s > 4 * 3600) ? 0 : s;
   }
   function fmtClock(s) {
     var h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
-    if (h) return h + ':' + String(m).padStart(2, '0') + ':' + String(sec).padStart(2, '0');
-    return m + ':' + String(sec).padStart(2, '0');
+    var p = function (n) { return (n < 10 ? '0' : '') + n; };
+    return h ? h + ':' + p(m) + ':' + p(sec) : m + ':' + p(sec);
   }
-  /* Phones throttle or freeze setInterval in a backgrounded tab, so counting ticks
-     would drift badly on a 45-minute braise. Anchor to a wall-clock deadline and let
-     the interval only redraw. */
   var activeTimer = null;
+  function resetBtn(btn, secs) { btn.classList.remove('running'); btn.textContent = '⏱ Start ' + fmtClock(secs) + ' timer'; }
   function stopTimer() {
     if (!activeTimer) return;
-    clearInterval(activeTimer.iv);
-    resetBtn(activeTimer.btn, activeTimer.secs);
-    activeTimer = null;
+    clearInterval(activeTimer.iv); resetBtn(activeTimer.btn, activeTimer.secs); activeTimer = null;
   }
   function paintTimer() {
     if (!activeTimer) return;
@@ -364,17 +290,16 @@
     activeTimer.btn.textContent = '⏱ ' + fmtClock(left) + ' — tap to stop';
   }
   function startTimer(btn, secs) {
-    var wasSame = activeTimer && activeTimer.btn === btn;
-    var replacing = activeTimer && !wasSame;
+    var same = activeTimer && activeTimer.btn === btn;
+    var replacing = activeTimer && !same;
     stopTimer();
-    if (wasSame) return;                       // tapping a running timer stops it
+    if (same) return;
     btn.classList.add('running');
     activeTimer = { btn: btn, secs: secs, endsAt: Date.now() + secs * 1000, iv: 0 };
     activeTimer.iv = setInterval(paintTimer, 500);
     paintTimer();
     if (replacing) toast('Timer replaced — one at a time');
   }
-  function resetBtn(btn, secs) { btn.classList.remove('running'); btn.textContent = '⏱ Start ' + fmtClock(secs) + ' timer'; }
   function alarm() {
     try { if (navigator.vibrate) navigator.vibrate([300, 120, 300, 120, 500]); } catch (e) { }
     try {
@@ -386,26 +311,24 @@
         g.gain.setValueAtTime(.0001, ctx.currentTime + t);
         g.gain.exponentialRampToValueAtTime(.5, ctx.currentTime + t + .02);
         g.gain.exponentialRampToValueAtTime(.0001, ctx.currentTime + t + .28);
-        o.connect(g); g.connect(ctx.destination); o.start(ctx.currentTime + t); o.stop(ctx.currentTime + t + .3);
+        o.connect(g); g.connect(ctx.destination);
+        o.start(ctx.currentTime + t); o.stop(ctx.currentTime + t + .3);
       });
       setTimeout(function () { try { ctx.close(); } catch (e) { } }, 1600);
     } catch (e) { }
   }
 
-  /* ---------- progress ---------- */
-  function updateProgress() {
-    var bar = $('[data-prog]'), txt = $('[data-progtxt]');
-    if (!bar) return;
-    var all = $$('.steps li'), d = $$('.steps li.done').length;
-    var pct = all.length ? Math.round(d / all.length * 100) : 0;
-    bar.style.width = pct + '%';
-    txt.textContent = d + ' of ' + all.length + ' steps done';
-  }
-
   /* ---------- cook mode ---------- */
   var wakeLock = null;
+  function requestWake() {
+    try {
+      if (navigator.wakeLock && navigator.wakeLock.request) {
+        navigator.wakeLock.request('screen').then(function (w) { wakeLock = w; }, function () { });
+      }
+    } catch (e) { }
+  }
   function cookOn() {
-    document.documentElement.classList.add('cook');
+    html.classList.add('cook');
     if (!$('.cookexit')) {
       var b = document.createElement('button');
       b.className = 'cookexit'; b.textContent = '✓ Done cooking';
@@ -416,109 +339,96 @@
     toast('Cook mode — your screen will stay awake');
   }
   function cookOff() {
-    document.documentElement.classList.remove('cook');
+    html.classList.remove('cook');
     var b = $('.cookexit'); if (b) b.remove();
     if (wakeLock) { try { wakeLock.release(); } catch (e) { } wakeLock = null; }
   }
-  function requestWake() {
-    try {
-      if (navigator.wakeLock && navigator.wakeLock.request) {
-        navigator.wakeLock.request('screen').then(function (w) { wakeLock = w; }, function () { });
-      }
-    } catch (e) { }
-  }
   document.addEventListener('visibilitychange', function () {
     if (document.visibilityState !== 'visible') return;
-    if (document.documentElement.classList.contains('cook')) requestWake();
-    paintTimer();   // catch up a timer that expired while the tab was backgrounded
+    if (html.classList.contains('cook')) requestWake();
+    paintTimer();
   });
 
-  /* ---------- routing ---------- */
-  function currentQuery() { var i = $('#q'); return i ? i.value.trim() : ''; }
-
-  function unesc(s) { try { return decodeURIComponent(s); } catch (e) { return s; } }
-
-  function route() {
-    var h = location.hash || '#/';
-    cookOff();
-    shown = PAGE;
-    try {
-      var m;
-      if ((m = h.match(/^#\/r\/(.+)$/))) { setTab(null); viewRecipe(unesc(m[1])); }
-      else if ((m = h.match(/^#\/c\/(.+)$/))) { setTab('home'); viewCat(unesc(m[1])); }
-      else if (h === '#/fav') { setTab('fav'); viewFav(); }
-      else if (h === '#/list') { setTab('list'); viewList(); }
-      else if ((m = h.match(/^#\/search(?:\?q=(.*))?$/))) {
-        setTab('search');
-        var q = m[1] ? unesc(m[1]) : '';
-        var inp = $('#q'); if (inp && inp.value !== q) inp.value = q;
-        viewSearch(q);
-      }
-      else { setTab('home'); viewHome(); }
-    } catch (e) {
-      // never leave her staring at a blank page
-      setTab('home'); viewHome();
-    }
+  /* ---------- routing is CSS; this only keeps the chrome in step ---------- */
+  function currentView() {
+    var h = location.hash;
+    if (!h || h.length < 2) return null;
+    var el;
+    try { el = document.getElementById(h.slice(1)); } catch (e) { return null; }
+    return el && el.classList.contains('view') ? el : null;
   }
-  function setTab(name) {
-    $$('.tabbar button').forEach(function (b) { b.classList.toggle('on', b.getAttribute('data-tab') === name); });
+  function onRoute() {
+    var v = currentView();
+    html.classList.toggle('nohash', !v);
+    if (location.hash) { var c = $('#cover'); if (c) c.classList.add('gone'); }
+    cookOff();
+    stopTimer();
+
+    var name = null;
+    if (v) {
+      if (v.id === 'search') { name = 'search'; renderSearch(); }
+      else if (v.id === 'fav') { name = 'fav'; renderFav(); }
+      else if (v.id === 'list') { name = 'list'; renderList(); }
+      else if (v.classList.contains('recipe')) { enhanceRecipe(v); }
+      else { name = 'home'; }
+    } else { name = 'home'; }
+
+    $$('.tabbar a').forEach(function (a) {
+      a.classList.toggle('on', a.getAttribute('data-tab') === name);
+    });
     var sb = $('.search');
     if (sb) sb.classList.toggle('hidden', name !== 'search');
-  }
-  function go(hash) { if (location.hash === hash) route(); else location.hash = hash; }
-
-  function updateBadges() {
-    var fb = $('[data-tab="fav"] .badge'), n = Object.keys(favSet).length;
-    if (fb) { fb.textContent = n; fb.classList.toggle('hidden', !n); }
-    var lb = $('[data-tab="list"] .badge');
-    if (lb) { lb.textContent = listItems.length; lb.classList.toggle('hidden', !listItems.length); }
+    if (name === 'search') setTimeout(function () { var i = $('#q'); if (i) i.focus(); }, 60);
   }
 
   /* ---------- events ---------- */
   function onClick(e) {
     var t = e.target;
+    if (!t || !t.closest) return;
 
     var fav = t.closest('[data-fav]');
     if (fav) {
       e.preventDefault(); e.stopPropagation();
       var on = toggleFav(fav.getAttribute('data-fav'));
-      fav.textContent = on ? '❤️' : '🤍';
-      fav.setAttribute('aria-pressed', on ? 'true' : 'false');
       toast(on ? 'Saved to favorites ❤️' : 'Removed from favorites');
       return;
     }
     var fb = t.closest('[data-favbtn]');
     if (fb) {
       var on2 = toggleFav(fb.getAttribute('data-favbtn'));
-      fb.innerHTML = '<span class="i">' + (on2 ? '❤️' : '🤍') + '</span> ' + (on2 ? 'Saved' : 'Save');
       toast(on2 ? 'Saved to favorites ❤️' : 'Removed from favorites');
       return;
     }
-    var goEl = t.closest('[data-go]');
-    if (goEl) { go(goEl.getAttribute('data-go')); return; }
-
-    if (t.closest('[data-random]')) {
-      var r = RECIPES[Math.floor(Math.random() * RECIPES.length)];
-      go('#/r/' + r.id); return;
-    }
+    if (t.closest('#openBtn')) { var c = $('#cover'); if (c) c.classList.add('gone'); return; }
     if (t.closest('[data-cook]')) { cookOn(); return; }
 
+    if (t.closest('[data-random]')) {
+      var all = buildIndex();
+      if (all.length) location.hash = '#r-' + all[Math.floor(Math.random() * all.length)].id;
+      return;
+    }
+
     var fl = t.closest('[data-filter]');
-    if (fl) { filter = fl.getAttribute('data-filter'); shown = PAGE; viewSearch(currentQuery()); return; }
+    if (fl) { filter = fl.getAttribute('data-filter'); shownSearch = PAGE; renderSearch(); return; }
 
     if (t.closest('[data-more]')) {
-      shown += PAGE;
       var y = window.pageYOffset;
-      if (location.hash === '#/fav') viewFav(); else viewSearch(currentQuery());
-      window.scrollTo(0, y);   // "show more" must not throw her back to the top
+      if (location.hash === '#fav') { shownFav += PAGE; renderFav(); }
+      else { shownSearch += PAGE; renderSearch(); }
+      window.scrollTo(0, y);
       return;
     }
 
     var sc = t.closest('[data-scale]');
     if (sc) {
+      var sec = sc.closest('.view.recipe');
       scale = parseFloat(sc.getAttribute('data-scale'));
-      $$('[data-scale]').forEach(function (b) { b.classList.toggle('on', parseFloat(b.getAttribute('data-scale')) === scale); });
-      $$('.ilist span[data-raw]').forEach(function (s) { s.innerHTML = scaleText(s.getAttribute('data-raw'), scale); });
+      $$('[data-scale]', sec).forEach(function (b) {
+        b.classList.toggle('on', parseFloat(b.getAttribute('data-scale')) === scale);
+      });
+      $$('.ilist span[data-raw]', sec).forEach(function (s) {
+        s.innerHTML = scaleText(s.getAttribute('data-raw'), scale);
+      });
       return;
     }
 
@@ -527,36 +437,32 @@
 
     var step = t.closest('.steps li');
     if (step && !t.closest('[data-timer]')) {
-      var idx = parseInt(step.getAttribute('data-step'), 10);
-      var rid = (location.hash.match(/^#\/r\/(.+)$/) || [])[1];
-      if (rid != null) {
-        rid = decodeURIComponent(rid);
-        var arr = stepsDone[rid] || [];
-        var at = arr.indexOf(idx);
-        if (at >= 0) { arr.splice(at, 1); step.classList.remove('done'); }
-        else { arr.push(idx); step.classList.add('done'); }
-        stepsDone[rid] = arr; store.set('steps', stepsDone);
-        updateProgress();
-      }
+      var sect = step.closest('.view.recipe');
+      var rid = sect.id.slice(2), idx = parseInt(step.getAttribute('data-step'), 10);
+      var arr = stepsDone[rid] || [], at = arr.indexOf(idx);
+      if (at >= 0) { arr.splice(at, 1); step.classList.remove('done'); }
+      else { arr.push(idx); step.classList.add('done'); }
+      stepsDone[rid] = arr; store.set('steps', stepsDone);
+      updateProgress(sect);
       return;
     }
     if (t.closest('[data-resetsteps]')) {
-      var rid2 = decodeURIComponent((location.hash.match(/^#\/r\/(.+)$/) || [])[1] || '');
-      stepsDone[rid2] = []; store.set('steps', stepsDone);
-      $$('.steps li').forEach(function (li) { li.classList.remove('done'); });
-      updateProgress(); return;
+      var s2 = t.closest('.view.recipe');
+      stepsDone[s2.id.slice(2)] = []; store.set('steps', stepsDone);
+      $$('.steps li', s2).forEach(function (li) { li.classList.remove('done'); });
+      updateProgress(s2);
+      return;
     }
 
     var al = t.closest('[data-addlist]');
     if (al) {
-      var rec = BY_ID[al.getAttribute('data-addlist')];
+      var rid2 = al.getAttribute('data-addlist');
+      var sec2 = $('#r-' + rid2);
       var added = 0;
-      rec.ingredients.forEach(function (g, gi) {
-        g.items.forEach(function (it, ii) {
-          var txt = scale === 1 ? it : stripTags(scaleText(it, scale));
-          var dup = listItems.some(function (x) { return x.rid === rec.id && x.text === txt; });
-          if (!dup) { listItems.push({ rid: rec.id, text: txt }); added++; }
-        });
+      $$('.ilist span[data-raw]', sec2).forEach(function (sp) {
+        var txt = scale === 1 ? sp.getAttribute('data-raw') : sp.textContent.trim();
+        var dup = listItems.some(function (x) { return x.rid === rid2 && x.text === txt; });
+        if (!dup) { listItems.push({ rid: rid2, text: txt }); added++; }
       });
       store.set('list', listItems); updateBadges();
       toast(added ? added + ' items added to your list 🧺' : 'Already on your list');
@@ -564,107 +470,72 @@
     }
     var rg = t.closest('[data-rmgroup]');
     if (rg) {
-      var id = rg.getAttribute('data-rmgroup');
-      listItems = listItems.filter(function (x) { return x.rid !== id; });
-      store.set('list', listItems); updateBadges(); viewList(); return;
-    }
-    if (t.closest('[data-clearlist]')) {
-      listItems = []; store.set('list', listItems); updateBadges(); viewList(); toast('List cleared'); return;
-    }
-
-    var tab = t.closest('[data-tab]');
-    if (tab) {
-      var n = tab.getAttribute('data-tab');
-      go(n === 'home' ? '#/' : n === 'search' ? '#/search' : n === 'fav' ? '#/fav' : '#/list');
-      if (n === 'search') setTimeout(function () { var i = $('#q'); if (i) i.focus(); }, 60);
+      var g = rg.getAttribute('data-rmgroup');
+      listItems = listItems.filter(function (x) { return x.rid !== g; });
+      store.set('list', listItems); updateBadges(); renderList();
       return;
     }
-    if (t.closest('#themeBtn')) { toggleTheme(); return; }
+    if (t.closest('[data-clearlist]')) {
+      listItems = []; store.set('list', listItems); updateBadges(); renderList(); toast('List cleared');
+      return;
+    }
+    if (t.closest('#themeBtn')) {
+      applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+      return;
+    }
   }
 
-  function stripTags(h) { var d = document.createElement('div'); d.innerHTML = h; return d.textContent; }
-
   function onChange(e) {
-    var sl = e.target.closest('[data-slcheck]');
+    var t = e.target;
+    if (!t || !t.closest) return;
+
+    var sl = t.closest('[data-slcheck]');
     if (sl) {
       var parts = sl.getAttribute('data-slcheck').split('|');
-      var rid0 = parts[0], text0 = parts.slice(1).join('|');
-      listItems.forEach(function (x) { if (x.rid === rid0 && x.text === text0) x.done = sl.checked; });
+      var rid = parts[0], text = parts.slice(1).join('|');
+      listItems.forEach(function (x) { if (x.rid === rid && x.text === text) x.done = sl.checked; });
       store.set('list', listItems);
       return;
     }
-    var ing = e.target.closest('[data-ing]');
+    var ing = t.closest('[data-ing]');
     if (ing) {
-      var rid = decodeURIComponent((location.hash.match(/^#\/r\/(.+)$/) || [])[1] || '');
-      var key = ing.getAttribute('data-ing');
-      var arr = checks[rid] || [];
-      var at = arr.indexOf(key);
+      var sec = ing.closest('.view.recipe');
+      if (!sec) return;
+      var id = sec.id.slice(2), key = ing.getAttribute('data-ing');
+      var arr = checks[id] || [], at = arr.indexOf(key);
       if (ing.checked && at < 0) arr.push(key);
       if (!ing.checked && at >= 0) arr.splice(at, 1);
-      checks[rid] = arr; store.set('checks', checks);
+      checks[id] = arr; store.set('checks', checks);
     }
   }
 
-  /* ---------- theme ---------- */
   function applyTheme(t) {
-    document.documentElement.setAttribute('data-theme', t);
+    html.setAttribute('data-theme', t);
     var b = $('#themeBtn'); if (b) b.textContent = t === 'dark' ? '☀️' : '🌙';
     store.set('theme', t);
-  }
-  function toggleTheme() {
-    applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
   }
 
   /* ---------- boot ---------- */
   function boot() {
-    main = $('#main');
-    var saved = store.get('theme', null);
-    applyTheme(saved || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
-
+    applyTheme(html.getAttribute('data-theme') || 'light');
     document.addEventListener('click', onClick);
     document.addEventListener('change', onChange);
-    window.addEventListener('hashchange', route);
+    window.addEventListener('hashchange', onRoute);
 
     var q = $('#q'), qt;
     if (q) {
       q.addEventListener('input', function () {
         clearTimeout(qt);
-        qt = setTimeout(function () {
-          var v = q.value.trim();
-          var h = '#/search' + (v ? '?q=' + encodeURIComponent(v) : '');
-          if (location.hash !== h) { history.replaceState(null, '', h); }
-          shown = PAGE;
-          setTab('search'); viewSearch(v);
-        }, 130);
+        qt = setTimeout(function () { shownSearch = PAGE; renderSearch(); }, 130);
       });
     }
     var clr = $('.search .clr');
     if (clr) clr.addEventListener('click', function () {
-      q.value = ''; q.focus(); shown = PAGE; setTab('search'); viewSearch('');
-      history.replaceState(null, '', '#/search');
+      if (q) { q.value = ''; q.focus(); }
+      shownSearch = PAGE; renderSearch();
     });
 
-    updateBadges();
-    route();
-
-    // The cover carries the whole point of this book, so it greets her on every open
-    // rather than only the first time. Tapping the title in the header brings it back.
-    var cover = $('#cover'), open = $('#openBtn');
-    open.addEventListener('click', function () {
-      cover.classList.add('gone');
-      try { alarmSilentUnlock(); } catch (e) { }
-    });
-    var brand = $('.brand');
-    if (brand) brand.addEventListener('click', function () { cover.classList.remove('gone'); });
-  }
-  // Touching AudioContext during the opening tap means the timer alarm is allowed to
-  // make noise later on iOS, which blocks audio that no gesture ever unlocked.
-  function alarmSilentUnlock() {
-    var C = window.AudioContext || window.webkitAudioContext; if (!C) return;
-    var ctx = new C(); var o = ctx.createOscillator(), g = ctx.createGain();
-    g.gain.value = 0.0001; o.connect(g); g.connect(ctx.destination);
-    o.start(); o.stop(ctx.currentTime + 0.01);
-    setTimeout(function () { try { ctx.close(); } catch (e) { } }, 400);
+    syncFavs(); updateBadges(); onRoute();
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
