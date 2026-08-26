@@ -405,7 +405,7 @@
         },
         {
           "title": "Cut and dry the fish",
-          "text": "Cut the fillets into strips about 1 in (2.5 cm) wide and 4 in (10 cm) long, roughly the width of two fingers, so they cook through in the same time it takes the batter to brown. Blot every piece dry on paper towels and season them lightly with half of the 1 tsp of salt set aside for the fish, saving the rest for after they come out of the oil. Wet fish makes the batter slide right off in the oil. Keep the fish in the fridge until the oil is at temperature."
+          "text": "Cut the cod, halibut or mahi mahi fillets into strips about 1 in (2.5 cm) wide and 4 in (10 cm) long, roughly the width of two fingers, so they cook through in the same time it takes the batter to brown. Blot every piece dry on paper towels and season them lightly with half of the 1 tsp of salt set aside for the fish, saving the rest for after they come out of the oil. Wet fish makes the batter slide right off in the oil. Keep the fish in the fridge until the oil is at temperature."
         },
         {
           "title": "Heat the oil to 375°F",
@@ -551,7 +551,7 @@
         },
         {
           "title": "Serve in the caldillo",
-          "text": "Ladle about 1/2 cup of the warm tomato caldillo into each shallow bowl and set one or two chiles on top so the batter stays crisp above the sauce rather than drowning in it. Serve immediately — chiles rellenos are a dish you eat the minute they are done, not one you hold. Pass extra caldillo and warm tortillas at the table. Warn everyone that the cheese inside is molten hot."
+          "text": "Ladle about 1/2 cup of the warm tomato caldillo into each shallow bowl and set one or two chiles on top so the batter stays crisp above the sauce rather than drowning in it. Serve immediately — chiles rellenos are a dish you eat the minute they are done, not one you hold. Pass extra caldillo and the 8 warm corn tortillas at the table for mopping the bowl. Warn everyone that the cheese inside is molten hot."
         }
       ],
       "tips": [
@@ -759,7 +759,7 @@
         },
         {
           "title": "Taste and balance",
-          "text": "Taste the finished sauce and adjust: if it is flat, add salt; if it is harsh, add another 1/2 tsp vinegar; if it is bitter, a pinch of sugar or 1 tsp of honey will pull it back. It should coat a spoon like heavy cream and taste deep, faintly sweet and gently earthy. Season the shredded chicken with 1/2 cup of it and toss to coat. Keep the rest warm over low heat."
+          "text": "Taste the finished sauce and adjust: if it is flat, add salt; if it is harsh, add another 1/2 tsp of the vinegar; if it is bitter, stir in the 1 tsp of honey to pull it back. It should coat a spoon like heavy cream and taste deep, faintly sweet and gently earthy. Season the shredded chicken with 1/2 cup of it and toss to coat. Keep the rest warm over low heat."
         },
         {
           "title": "Preheat and prep the dish",
@@ -1283,6 +1283,12 @@
             "12 cups (2.8 L) hot water, for soaking husks",
             "4 cups (950 ml) water, for the steamer"
           ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "1 cup (240 ml) Mexican crema, for the table"
+          ]
         }
       ],
       "instructions": [
@@ -1336,7 +1342,7 @@
         },
         {
           "title": "Rest before eating",
-          "text": "Turn off the heat and let the tamales sit in the covered pot for 15 minutes before unwrapping. This rest lets the masa firm up, and a tamale opened straight off the steam will be gummy even when it is perfectly cooked. Serve them in their husks and let everyone unwrap their own. Pass extra red chile sauce and crema at the table."
+          "text": "Turn off the heat and let the tamales sit in the covered pot for 15 minutes before unwrapping. This rest lets the masa firm up, and a tamale opened straight off the steam will be gummy even when it is perfectly cooked. Serve them in their husks and let everyone unwrap their own. Pass any extra red chile sauce and the 1 cup of crema at the table."
         }
       ],
       "tips": [
@@ -1346,7 +1352,7 @@
         "Tamales freeze better than almost anything. Cool them completely, freeze in a bag for up to 6 months, and resteam from frozen for 20 to 25 minutes.",
         "Vegetarian version: fill with roasted poblano strips and Oaxaca cheese, and swap the lard for vegetable shortening plus vegetable broth."
       ],
-      "keyTemp": "Braise the pork to about 195°F (91°C) so it shreds easily, well past the 145°F (63°C) safety minimum. The tamales are done when the masa peels cleanly from the husk after 75 to 90 minutes of steaming.",
+      "keyTemp": "Braise the pork to about 195°F (91°C) so it shreds easily, far past the 145°F (63°C) plus 3-minute rest that pork needs for safety. The tamales are done when the masa peels cleanly from the husk after 75 to 90 minutes of steaming.",
       "pairing": "Champurrado or Mexican hot chocolate on a cold morning, or a cold lager and a bowl of pozole for a party.",
       "videoQuery": "red chile pork tamales masa recipe",
       "photoQuery": "pork tamales corn husk",

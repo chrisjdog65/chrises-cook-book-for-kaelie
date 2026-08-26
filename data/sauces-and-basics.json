@@ -722,7 +722,7 @@
       "art": "sauce",
       "blurb": "Basil, pine nuts, two cheeses, and good olive oil — no cooking, no shortcuts, and finished in twenty minutes. Done properly it stays a vivid green instead of the muddy stuff in jars.",
       "difficulty": "Medium",
-      "servings": "Makes about 1 cup (240 ml), dresses 1 lb (450 g) pasta",
+      "servings": "Makes about 1½ cups (350 ml), dresses 1 lb (450 g) pasta",
       "prepTime": "20 min",
       "cookTime": "5 min",
       "totalTime": "25 min",
@@ -784,7 +784,7 @@
         },
         {
           "title": "Taste and season",
-          "text": "Add the pinch of black pepper, then taste on a piece of bread. Both cheeses are salty, so you may need nothing more, but if it tastes flat add salt in ⅛ tsp increments. If it tastes sharp or metallic, another tablespoon of olive oil will round it out."
+          "text": "Add the pinch of black pepper, then taste the pesto on a piece of bread or a plain boiled potato rather than straight off the spoon — neat pesto always reads sharper and saltier than it will once it is coating something starchy. Both cheeses are already salty, so you may need nothing more, but if it tastes flat add salt ⅛ tsp at a time and stir well between each addition. If it tastes harsh or faintly metallic, that is usually over-worked basil or too peppery an oil, and another tablespoon of mild olive oil will round it back out. You are aiming for basil first, cheese second, and garlic sitting quietly behind both."
         },
         {
           "title": "Sauce pasta off the heat",
@@ -800,7 +800,7 @@
         "Pine nuts are expensive. Toasted walnuts or blanched almonds are traditional in parts of Liguria and work beautifully for a third of the price.",
         "The classic pasta for pesto is trofie or trenette, cooked with sliced potato and green beans in the same pot. Try it once and you will understand why.",
         "If your pesto turns brown, it is oxidation, not spoilage. It is still perfectly good to eat, and a squeeze of lemon juice will freshen the flavor.",
-        "Thin leftover pesto with a little more olive oil and lemon juice for a fast dressing on tomatoes or grilled chicken."
+        "Thin leftover pesto with a little more olive oil and lemon juice for a fast dressing on sliced tomatoes, or on grilled chicken cooked to 165°F (74°C)."
       ],
       "keyTemp": "No cooking. Keep everything below 105°F (40°C) — the basil oxidizes and blackens above that, which is why cold equipment and short pulses matter.",
       "pairing": "Toss with trofie or linguine and a glass of Vermentino, or spoon it over a sliced tomato and mozzarella salad.",
@@ -824,7 +824,7 @@
           "group": "For the sauce",
           "items": [
             "12 tbsp (170 g) high-fat unsalted butter, at room temperature and cut into pieces",
-            "6 oz (170 g) Parmigiano-Reggiano aged at least 24 months, grated on a Microplane (about 3 packed cups)",
+            "6 oz (170 g) Parmigiano-Reggiano aged at least 24 months, grated on a Microplane (about 3 cups, lightly packed)",
             "1 tsp (2 g) freshly ground black pepper",
             "½ tsp (3 g) fine sea salt, for the sauce"
           ]
@@ -833,8 +833,8 @@
           "group": "For the pasta",
           "items": [
             "1 lb (450 g) fresh egg fettuccine, or dried if that is what you have",
-            "4 quarts (3.8 L) water",
-            "2 tbsp (36 g) kosher salt, for the pasta water",
+            "3 quarts (2.8 L) water",
+            "2 tbsp (about 20 g) kosher salt, for the pasta water",
             "1 cup (240 ml) reserved starchy pasta water"
           ]
         }
@@ -858,7 +858,7 @@
         },
         {
           "title": "Salt the water properly",
-          "text": "Bring the 4 quarts of water to a rolling boil and add the 2 tbsp kosher salt — it should taste like a mild broth. Use slightly less water than you might for other pasta so the cooking water ends up more concentrated in starch, which is what carries the emulsion. Do not add oil to the water; it coats the noodles and stops the sauce from clinging."
+          "text": "Bring the 3 quarts of water to a rolling boil and add the 2 tbsp kosher salt — it should taste like a mild broth. Use slightly less water than you might for other pasta so the cooking water ends up more concentrated in starch, which is what carries the emulsion. Do not add oil to the water; it coats the noodles and stops the sauce from clinging."
         },
         {
           "title": "Cook the pasta al dente",
@@ -886,13 +886,13 @@
         },
         {
           "title": "Pepper and serve at once",
-          "text": "Grind the 1 tsp black pepper over the top, taste for salt, and serve immediately in warmed bowls. Alfredo waits for nobody; within 5 minutes the emulsion tightens and it starts to congeal. Serve smaller portions than you think you need, because this is extremely rich food."
+          "text": "Grind the 1 tsp black pepper over the top, then taste and work in the ½ tsp fine sea salt — add it in two goes, because the salted pasta water and the Parmigiano have both been seasoning the dish while you tossed. Serve immediately in warmed bowls. Alfredo waits for nobody; within 5 minutes the emulsion tightens and it starts to congeal. Serve smaller portions than you think you need, because this is extremely rich food."
         }
       ],
       "tips": [
         "For the American cream version, simmer 1½ cups (350 ml) heavy cream with 4 tbsp (55 g) butter for 5 minutes, then whisk in 1½ cups (150 g) Parmigiano off the heat. It is far more forgiving and holds better.",
         "Use the pasta water generously. Most people are too timid with it, and a dry Alfredo is a broken Alfredo waiting to happen.",
-        "Add grilled chicken or sautéed shrimp on top rather than stirring them in — extra liquid from the protein will thin the emulsion.",
+        "Add grilled chicken cooked to 165°F (74°C), or sautéed shrimp, on top rather than stirring them in — extra liquid from the protein will thin the emulsion.",
         "Leftovers do not reheat well in the microwave. Warm them in a skillet over low heat with a splash of milk or water, stirring constantly."
       ],
       "keyTemp": "Build the sauce off the heat, below 175°F (79°C). Parmigiano's proteins seize and squeeze out fat above that, which is exactly why Alfredo goes stringy.",
@@ -917,6 +917,7 @@
           "group": "Ingredients",
           "items": [
             "2 cans (28 oz / 794 g each) whole peeled tomatoes, preferably certified San Marzano",
+            "1 cup (240 ml) water, for rinsing out the tomato cans",
             "⅓ cup (80 ml) extra-virgin olive oil",
             "8 garlic cloves, thinly sliced (about 3 tbsp)",
             "1 small yellow onion, finely diced (about 1 cup / 140 g)",
@@ -949,7 +950,7 @@
         },
         {
           "title": "Add the tomatoes",
-          "text": "Pour in the crushed tomatoes along with every drop of juice, then swirl about ½ cup (120 ml) of water in each empty can and add that too. Stir in the 1 tsp kosher salt and the dried oregano — dried herbs go in early so they have time to rehydrate and release their oils. Add the Parmigiano rind now if you are using one."
+          "text": "Pour in the crushed tomatoes along with every drop of juice, then swirl about ½ cup (120 ml) of the water in each empty can to rinse out the last of the tomato and add that too — 1 cup (240 ml) between the two cans. Stir in the 1 tsp kosher salt and the dried oregano — dried herbs go in early so they have time to rehydrate and release their oils. Add the Parmigiano rind now if you are using one."
         },
         {
           "title": "Bring it to a lazy simmer",
@@ -961,7 +962,7 @@
         },
         {
           "title": "Add the basil sprig",
-          "text": "Drop the whole basil sprig into the pot for the last 15 minutes, stem and all. A whole sprig perfumes the sauce and then comes out cleanly, while chopped basil added early turns black and tastes like hay. Fish the sprig and the cheese rind out before serving."
+          "text": "Drop the whole basil sprig into the pot for the last 15 minutes of the simmer, stem and all, pushing it under the surface with a spoon so it steeps rather than scorches. A whole sprig perfumes the sauce and then comes out cleanly, while basil chopped and added early turns black and tastes like hay. Fish the sprig and the Parmigiano rind out before serving — the rind will have gone soft and gluey, which is exactly what it is supposed to do after 40 minutes of giving up its savoriness. If the rind has partly melted, chase the pieces down now rather than finding them on someone's plate."
         },
         {
           "title": "Judge the consistency",
@@ -1036,7 +1037,7 @@
       "instructions": [
         {
           "title": "Measure everything first",
-          "text": "Line up all sixteen ingredients before you turn on the stove, because once the sauce starts simmering you will not want to be digging through the spice drawer. Put the dry seasonings in one small bowl together — combining them ahead means no clumps of cayenne hiding in the finished sauce. This is a recipe where mise en place genuinely saves you."
+          "text": "Line up all seventeen ingredients before you turn on the stove, because once the sauce starts simmering you will not want to be digging through the spice drawer. Put the dry spices — paprika, garlic powder, onion powder, chili powder, black pepper, cayenne, salt, and allspice — together in one small bowl, and keep the ½ cup brown sugar separate, since it only goes in later once there is enough liquid to dissolve it. Combining the spices ahead means no clumps of cayenne hiding in the finished sauce. This is a recipe where mise en place genuinely saves you."
         },
         {
           "title": "Bloom the tomato paste",
@@ -1044,7 +1045,7 @@
         },
         {
           "title": "Toast the spices",
-          "text": "Add the whole bowl of dry seasonings to the pot and stir constantly for 30 to 45 seconds until they are fragrant. Ground spices are full of volatile oils that only wake up in hot fat, and the difference between bloomed and unbloomed paprika is dramatic. Do not go past a minute or the paprika and chili powder will scorch and turn bitter."
+          "text": "Add the bowl of dry spices — everything but the brown sugar, right down to the ½ tsp allspice — to the pot and stir constantly for 30 to 45 seconds until they are fragrant. Ground spices are full of volatile oils that only wake up in hot fat, and the difference between bloomed and unbloomed paprika is dramatic. Do not go past a minute or the paprika and chili powder will scorch and turn bitter."
         },
         {
           "title": "Add the liquids",
@@ -1072,7 +1073,7 @@
         },
         {
           "title": "Use it late on the grill",
-          "text": "Because of all that sugar, this sauce burns readily over direct heat. Brush it on ribs, chicken, or pulled pork only during the last 10 to 15 minutes of cooking, in two or three thin coats, letting each one set into a tacky glaze before adding the next. Keep a separate bowl of unused sauce for the table so nothing that touched raw meat comes back."
+          "text": "Because of all that sugar, this sauce burns readily over direct heat. Brush it on ribs, chicken, or pulled pork only during the last 10 to 15 minutes of cooking, in two or three thin coats, letting each one set into a tacky glaze before adding the next. Keep a separate bowl of unused sauce for the table so nothing that touched raw meat comes back. Sauce is a finish, not a cooking method: chicken still has to reach 165°F (74°C) in the thickest part of the thigh, pork chops 145°F (63°C) plus a 3-minute rest, and pulled pork or ribs only give up around 203°F (95°C)."
         },
         {
           "title": "Cool and store it",
@@ -1086,7 +1087,7 @@
         "Molasses varies a lot by brand. Blackstrap is bitter and mineral-heavy — if it is all you have, use half the amount and add 2 tbsp (30 ml) honey.",
         "Bottle it in a swing-top jar with a handwritten label and it is a real gift."
       ],
-      "keyTemp": "No doneness temperature for the sauce — hold it at a bare simmer, about 195°F (91°C), until a line drawn through it on a spoon holds for 2 seconds. Store it below 40°F (4°C).",
+      "keyTemp": "No doneness temperature for the sauce — hold it at a bare simmer, about 195°F (91°C), until a line drawn through it on a spoon holds for 2 seconds. Store it below 40°F (4°C). The meat under it still has to hit its own numbers: 165°F (74°C) for chicken, 145°F (63°C) plus a 3-minute rest for pork chops, about 203°F (95°C) for pulled pork and ribs.",
       "pairing": "Slathered on ribs, pulled pork, or grilled chicken thighs with slaw and a cold lager.",
       "videoQuery": "homemade kansas city bbq sauce recipe",
       "photoQuery": "homemade bbq sauce jar",
@@ -1102,7 +1103,7 @@
       "servings": "Makes about 2½ cups (600 ml)",
       "prepTime": "20 min",
       "cookTime": "0 min",
-      "totalTime": "1 hr 20 min",
+      "totalTime": "1 hr 50 min",
       "ingredients": [
         {
           "group": "Ingredients",
@@ -1167,7 +1168,7 @@
         "Make it a day ahead if you can. Tzatziki is genuinely better on day two, once the garlic has settled into the yogurt.",
         "Watery tzatziki is always a cucumber problem, never a yogurt problem. Squeeze harder than you think you should.",
         "For a Turkish cacik, thin the finished sauce with ¼ cup (60 ml) cold water and serve it as a chilled soup-like dip with extra mint.",
-        "It doubles as a salad dressing thinned with a little water, and as a marinade for chicken thighs — the yogurt's acid and enzymes tenderize the meat beautifully."
+        "It doubles as a salad dressing thinned with a little water, and as a marinade for chicken thighs, which the yogurt's acid and enzymes tenderize beautifully — grill them to 165°F (74°C) and throw the used marinade away."
       ],
       "keyTemp": "No cooking. Serve cold, 38°F to 40°F (3°C to 4°C) — warm tzatziki tastes flat and the raw garlic reads much harsher.",
       "pairing": "Warm pita and grilled lamb or chicken souvlaki; a cold Greek white like Assyrtiko or just an ice-cold beer.",
@@ -1180,9 +1181,9 @@
       "title": "Thai Peanut Dipping Sauce",
       "emoji": "🥜",
       "art": "sauce",
-      "blurb": "Coconut milk, red curry paste, and peanut butter simmered into something rich, salty, and just sweet enough. Fifteen minutes, and it turns satay, noodles, or plain rice into dinner.",
+      "blurb": "Coconut milk, red curry paste, and peanut butter simmered into something rich, salty, and just sweet enough. Twenty minutes, and it turns satay, noodles, or plain rice into dinner.",
       "difficulty": "Medium",
-      "servings": "Makes about 1½ cups (350 ml)",
+      "servings": "Makes about 3 cups (700 ml)",
       "prepTime": "10 min",
       "cookTime": "12 min",
       "totalTime": "22 min",
@@ -1219,7 +1220,7 @@
         },
         {
           "title": "Add aromatics",
-          "text": "Stir in the grated garlic and ginger and cook for just 30 seconds more. They are already fine enough to cook almost instantly, and left longer over this kind of heat they will scorch and turn acrid. Keep everything moving with a wooden spoon."
+          "text": "Stir in the grated garlic and the 1 tsp grated ginger and cook for just 30 seconds more, keeping everything moving with a wooden spoon. Grated this finely they cook almost instantly, and left any longer in fat this hot they scorch and turn acrid — a bitterness you cannot take back out of the sauce. What you want is for the raw, sharp edge to disappear and the smell to turn sweet and fragrant. If the pan looks dry or the paste starts catching, slide it off the burner for a few seconds rather than adding liquid."
         },
         {
           "title": "Whisk in the peanut butter",
@@ -1231,7 +1232,7 @@
         },
         {
           "title": "Simmer gently",
-          "text": "Let the sauce bubble gently for 3 to 4 minutes at around 190°F (88°C), stirring frequently. A hard boil will make the peanut oil split out and leave you with a grainy, greasy sauce, so keep it at a lazy blip. The sauce will thicken noticeably in this time."
+          "text": "Let the sauce bubble gently for 3 to 4 minutes at around 190°F (88°C), stirring frequently and scraping the bottom of the pan where the peanut butter likes to settle. A hard boil drives the peanut oil straight back out of the emulsion and leaves you with a grainy, greasy sauce, so keep it at a lazy blip — a bubble breaking the surface every second or two. In that time it will thicken noticeably and stop tasting like separate ingredients sitting in a pan. If it thickens in much less than 3 minutes your burner is too high, so slide the pan half off the heat."
         },
         {
           "title": "Thin to the right texture",
@@ -1253,7 +1254,7 @@
         "Thinned with an extra ¼ cup (60 ml) of water and an extra tablespoon of lime, this becomes an excellent dressing for a crunchy cabbage and carrot salad.",
         "Curry pastes vary hugely in heat. Start with 1 tbsp if you are unsure, taste after the sauce comes together, and add more from there."
       ],
-      "keyTemp": "No internal temperature applies. Keep the pan at a gentle simmer near 190°F (88°C) — a hard boil splits the peanut oil out and turns the sauce grainy.",
+      "keyTemp": "No internal temperature applies. Keep the pan at a gentle simmer near 190°F (88°C) — a hard boil splits the peanut oil out and turns the sauce grainy. Chicken satay served alongside must reach 165°F (74°C), and grilled pork 145°F (63°C) with a 3-minute rest.",
       "pairing": "Chicken satay, fresh summer rolls, or cold rice noodles; a cold Singha or a slightly sweet Riesling handles the heat.",
       "videoQuery": "thai peanut sauce recipe coconut milk curry paste",
       "photoQuery": "thai peanut sauce satay bowl",
@@ -1266,10 +1267,10 @@
       "art": "steak",
       "blurb": "Whole peppercorns and coriander toasted and cracked with salt, garlic, and paprika into a rub that makes any cut of beef taste like it was cooked by someone who knows what they are doing.",
       "difficulty": "Easy",
-      "servings": "Makes about 1 cup (150 g), enough for 8 to 10 steaks",
+      "servings": "Makes about 1¼ cups (165 g), enough for 8 to 10 steaks",
       "prepTime": "10 min",
-      "cookTime": "4 min",
-      "totalTime": "14 min",
+      "cookTime": "5 min",
+      "totalTime": "20 min",
       "ingredients": [
         {
           "group": "Whole spices to toast",
@@ -1282,7 +1283,7 @@
         {
           "group": "Ground seasonings",
           "items": [
-            "⅓ cup (60 g) coarse kosher salt (Diamond Crystal), or ¼ cup (60 g) Morton",
+            "⅓ cup (45 g) coarse kosher salt (Diamond Crystal), or 3 tbsp (45 g) Morton kosher salt",
             "2 tbsp (16 g) garlic powder",
             "1 tbsp (8 g) onion powder",
             "1 tbsp (7 g) sweet or smoked paprika",
@@ -1320,7 +1321,7 @@
         },
         {
           "title": "Know the salt ratio",
-          "text": "This rub is about 40 percent salt by volume, which means roughly 1 tbsp of rub per pound (450 g) of meat seasons it correctly. If you are salting a steak separately, use a version of this blend with the salt left out so you do not double up. Measuring by the meat's weight rather than by eye is the fastest way to stop under- or over-seasoning."
+          "text": "This rub is a little over a quarter salt by weight — about 45 g of salt in a 165 g batch — which means roughly 1½ tbsp of rub per pound (450 g) of meat lands you near the 0.7 percent salt that seasons beef properly. If you are salting a steak separately, use a version of this blend with the salt left out so you do not double up. Measuring by the meat's weight rather than by eye is the fastest way to stop under- or over-seasoning."
         },
         {
           "title": "Apply it properly",
@@ -1337,11 +1338,11 @@
       ],
       "tips": [
         "This is excellent on more than steak — try it on burgers, on a pork shoulder before a long roast, on roasted potatoes, and on thick-cut mushrooms.",
-        "Salt brands are not interchangeable by volume. Diamond Crystal is much lighter than Morton, so use ¼ cup of Morton where the recipe calls for ⅓ cup of Diamond Crystal.",
+        "Salt brands are not interchangeable by volume. Morton kosher salt is nearly twice as dense as Diamond Crystal, so use about 3 tbsp of Morton where this recipe calls for ⅓ cup of Diamond Crystal — or simply weigh out 45 g of whichever one you own.",
         "For a Montreal-style version, double the coriander and add 1 tbsp (5 g) dried dill seed.",
         "Make a salt-free version of the same blend and keep it beside the salted one. It lets you season meat by weight with salt first and add flavor separately, which is how restaurants do it."
       ],
-      "keyTemp": "The rub has no cooking temperature of its own. Use it on steaks pulled at 125°F (52°C) for medium-rare or 135°F (57°C) for medium, and on ground beef cooked through to a safe 160°F (71°C).",
+      "keyTemp": "The rub has no cooking temperature of its own. Use it on steaks and pull them off the heat early, because carryover keeps cooking them: 125°F (52°C) pull rests up to about 130°F to 135°F (54°C to 57°C) for medium-rare, and a 135°F (57°C) pull rests up to about 140°F to 145°F (60°C to 63°C) for medium. Ground beef gets no such latitude and must be cooked through to 160°F (71°C).",
       "pairing": "Built for ribeyes and strip steaks off a screaming cast iron pan or a hot grill, with a bold Cabernet.",
       "videoQuery": "how to make homemade steak seasoning rub",
       "photoQuery": "homemade steak rub spices jar",
@@ -1362,8 +1363,8 @@
         {
           "group": "Ingredients",
           "items": [
-            "¼ cup (60 ml) fat skimmed from the roasting pan drippings, topped up with butter if short",
-            "¼ cup (32 g) all-purpose flour",
+            "6 tbsp (90 ml) fat skimmed from the roasting pan drippings, topped up with butter if short",
+            "6 tbsp (45 g) all-purpose flour",
             "3 cups (700 ml) hot stock — turkey, chicken, or beef — plus the defatted pan juices",
             "½ cup (120 ml) dry white wine or dry sherry, for deglazing",
             "1 sprig fresh thyme and 1 fresh sage leaf",
@@ -1371,7 +1372,8 @@
             "½ tsp (3 g) kosher salt, plus more to taste",
             "½ tsp (1 g) freshly ground black pepper",
             "1 tsp (5 ml) fresh lemon juice or cider vinegar, to finish",
-            "1 tbsp (14 g) cold unsalted butter, optional, for gloss"
+            "1 tbsp (14 g) cold unsalted butter, optional, for gloss",
+            "1 tsp (3 g) cornstarch whisked into 1 tbsp (15 ml) cold water, in reserve, only if the gravy needs more body"
           ]
         }
       ],
@@ -1382,19 +1384,19 @@
         },
         {
           "title": "Separate the fat",
-          "text": "Pour everything in the roasting pan into a fat separator or a tall glass measuring cup and let it settle for 5 minutes. The clear fat rises to the top and the dark savory juices sink below it. Skim off ¼ cup (60 ml) of the fat for your roux and save the juices — those juices are pure concentrated flavor and go into the gravy later."
+          "text": "Pour everything in the roasting pan into a fat separator or a tall glass measuring cup and let it settle for 5 minutes. The clear fat rises to the top and the dark savory juices sink below it. Skim off 6 tbsp (90 ml) of the fat for your roux and save the juices — those juices are pure concentrated flavor and go into the gravy later."
         },
         {
           "title": "Deglaze the roasting pan",
-          "text": "Set the roasting pan across two burners over medium heat, pour in the ½ cup wine, and scrape hard with a flat wooden spatula. Every stuck brown patch should dissolve within about a minute of bubbling — that is the roasted flavor moving into your gravy. Pour this liquid in with the reserved pan juices and set it aside."
+          "text": "Set the roasting pan across two burners over medium heat, pour in the ½ cup wine, and scrape hard with a flat wooden spatula. Every stuck brown patch should dissolve within about a minute of bubbling — that is the roasted flavor moving into your gravy. Let the wine keep bubbling until it has reduced by about half, another 2 minutes, so the finished gravy tastes of roast rather than raw alcohol. Pour this liquid in with the reserved pan juices and set it aside."
         },
         {
           "title": "Start the roux",
-          "text": "Put the ¼ cup reserved fat in a 3-quart (3 L) saucepan over medium heat. If you came up short on fat, top it up with butter — you need the full ¼ cup to match the flour, because a roux is equal parts fat and flour by volume. Wait until the fat shimmers before the flour goes in."
+          "text": "Put the 6 tbsp reserved fat in a 3-quart (3 L) saucepan over medium heat. If you came up short on fat, top it up with butter — you need the full 6 tbsp to match the flour, because a roux is equal parts fat and flour by volume, and 6 tbsp of each is what it takes to thicken 3 to 4 cups of liquid into gravy rather than soup. Wait until the fat shimmers before the flour goes in."
         },
         {
           "title": "Cook the flour out",
-          "text": "Whisk in the ¼ cup flour all at once and cook, whisking constantly, for 2 to 3 minutes. The paste will foam, then smooth out, then start smelling nutty like toast rather than raw and pasty. For a darker, deeper gravy suited to beef, keep going another 2 minutes until it is the color of peanut butter, but watch it closely because roux burns quickly."
+          "text": "Whisk in the 6 tbsp flour all at once and cook, whisking constantly, for 2 to 3 minutes. The paste will foam, then smooth out, then start smelling nutty like toast rather than raw and pasty. For a darker, deeper gravy suited to beef, keep going another 2 minutes until it is the color of peanut butter, but watch it closely because roux burns quickly."
         },
         {
           "title": "Add liquid gradually",
@@ -1410,7 +1412,7 @@
         },
         {
           "title": "Fix any lumps",
-          "text": "Lumps are not a disaster. Pour the gravy through a fine-mesh sieve into a clean pan, pressing with a ladle, or hit it with a stick blender for 10 seconds. Do this before seasoning so you know exactly how much sauce you are correcting."
+          "text": "Lumps are not a disaster and they are never a reason to start over. Pour the gravy through a fine-mesh sieve into a clean pan, pressing the lumps against the mesh with the back of a ladle, or run a stick blender through it for about 10 seconds until it is smooth. Do this before you season, because straining always leaves a little volume behind in the sieve and you want to be salting the exact amount of gravy you will actually serve. Wipe out the first pan and pour the gravy back in if it is the only warm pan you have."
         },
         {
           "title": "Season carefully",

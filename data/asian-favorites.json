@@ -1,0 +1,1853 @@
+{
+  "category": "Asian Favorites",
+  "categoryEmoji": "🥡",
+  "categoryBlurb": "This is the chapter that replaces the takeout menu — get your knife work done before the pan gets hot, learn to velvet meat with a spoonful of cornstarch, and let the wok get hotter than feels sensible.",
+  "recipes": [
+    {
+      "id": "beef-and-broccoli",
+      "title": "Beef and Broccoli",
+      "emoji": "🥦",
+      "art": "steak",
+      "blurb": "Tender slices of beef in a glossy oyster sauce with broccoli that still has snap. The whole trick is velveting the meat, and once you know it you will never order this out again.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "15 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "For the velveted beef",
+          "items": [
+            "1 1/4 lb (565 g) flank steak or top sirloin, trimmed",
+            "1 tbsp (15 ml) Shaoxing wine or dry sherry",
+            "1 tbsp (15 ml) soy sauce",
+            "1 tbsp (8 g) cornstarch",
+            "1/2 tsp (3 g) baking soda",
+            "1 tbsp (15 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Stir-fry sauce",
+          "items": [
+            "1/2 cup (120 ml) low-sodium chicken broth",
+            "3 tbsp (45 ml) oyster sauce",
+            "1 tbsp (15 ml) soy sauce",
+            "2 tsp (10 ml) toasted sesame oil",
+            "2 tsp (8 g) granulated sugar",
+            "1 tbsp (8 g) cornstarch",
+            "1/4 tsp (0.5 g) ground white pepper"
+          ]
+        },
+        {
+          "group": "For the wok",
+          "items": [
+            "1 lb (450 g) broccoli crowns, cut into 1 1/2 in (4 cm) florets",
+            "3 tbsp (45 ml) peanut or canola oil, divided",
+            "4 garlic cloves, minced (about 1 tbsp / 10 g)",
+            "1 tbsp (8 g) minced fresh ginger",
+            "1/3 cup (80 ml) water, for steaming",
+            "4 cups (660 g) hot cooked jasmine rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Firm the beef in the freezer",
+          "text": "Lay the flank steak on a plate and freeze it for 15 to 20 minutes, until the outside is firm but the center still gives when you press it. Cold meat holds still under the knife, and that is the only reliable way to get thin, even slices. A soft room-temperature steak squashes and tears instead of slicing cleanly."
+        },
+        {
+          "title": "Slice against the grain",
+          "text": "Find the long parallel muscle fibers running down the steak and cut straight across them, never with them, holding the knife at a slight 45 degree angle. Aim for slices about 1/4 in (6 mm) thick and no longer than 2 in (5 cm) so they cook in seconds. Cutting across the grain shortens those fibers, which is the difference between tender beef and stringy beef. If a slice comes out thick, lay it flat and press it once with your palm."
+        },
+        {
+          "title": "Velvet the beef",
+          "text": "In a medium bowl, toss the beef with the 1 tbsp Shaoxing wine, 1 tbsp soy sauce, 1/2 tsp baking soda and 1 tbsp cornstarch until every piece is slick and evenly coated. Add the 1 tbsp neutral oil last and toss again so the slices do not glue into a single lump in the wok. Let it sit at room temperature for 20 to 30 minutes. The baking soda raises the surface pH so the proteins cannot clench up, and the cornstarch forms a thin gel that shields the meat from the pan. This is velveting, and it is the single reason takeout beef is softer than yours."
+        },
+        {
+          "title": "Whisk the stir-fry sauce",
+          "text": "In a small bowl or a liquid measuring cup, whisk together the 1/2 cup broth, 3 tbsp oyster sauce, 1 tbsp soy sauce, 2 tsp sesame oil, 2 tsp sugar, 1 tbsp cornstarch and 1/4 tsp white pepper until no lumps remain. Set it right next to the stove and plan to whisk it once more before it goes in, because cornstarch settles to the bottom within a couple of minutes. Once the wok is hot there is no time to go measuring anything."
+        },
+        {
+          "title": "Cut the broccoli evenly",
+          "text": "Cut the crowns into florets about 1 1/2 in (4 cm) across, each with a short piece of stem so they stand up in the pan. Peel the thick main stalk with a vegetable peeler and slice it into 1/4 in (6 mm) coins, because it is the sweetest part and most people throw it in the bin. Even sizing matters far more than pretty shapes, since mismatched florets mean some are mush while others are still raw."
+        },
+        {
+          "title": "Set out your mise en place",
+          "text": "Line up four small bowls beside the stove: the beef, the broccoli, the garlic and ginger together, and the sauce. Put the serving platter and a spider or slotted spoon within arm's reach, and start the rice now if it is not already done. A stir-fry takes about eight minutes from first sizzle to plate and there is no pause button, so anything not chopped by this point will not make it into dinner. Cooks call this setup mise en place, and it is honestly ninety percent of the job."
+        },
+        {
+          "title": "Steam the broccoli first",
+          "text": "Heat 1 tbsp of the oil in a 14 in (36 cm) carbon steel wok or a large heavy skillet over high heat, add the broccoli, and toss for 1 minute until the edges start to blister. Pour in the 1/3 cup water, cover immediately, and steam for 2 minutes. Uncover and check: the broccoli should be vivid green and a knife tip should slide into a stem with slight resistance, and the water should be gone. Tip it onto a plate and wipe the wok dry with a paper towel."
+        },
+        {
+          "title": "Get the wok properly hot",
+          "text": "Return the dry wok to high heat for 1 to 2 minutes, until a drop of water flicked in vanishes instantly with a hiss. Add 1 tbsp of oil and swirl it up the sides so it coats the sloped walls, not just the bottom. It should shimmer, thin out, and send up the faintest wisp of smoke. That thin film on very hot metal is what gives you wok hei, the light smoky flavor real takeout has. If your burner is weak, use a heavy cast iron skillet instead, because it stores more heat than a thin wok."
+        },
+        {
+          "title": "Sear the beef in two batches",
+          "text": "Lay half the beef in a single layer and do not touch it for 45 to 60 seconds; it should sizzle hard and steadily, not smoke black. Toss and cook another 30 to 45 seconds, until the outside is browned and the centers are just barely pink. Scrape it onto a plate, add the last 1 tbsp oil, and repeat with the second half. Crowding the pan drops the temperature and the beef will boil gray in its own juices instead of browning, which is the most common stir-fry mistake there is."
+        },
+        {
+          "title": "Bloom the aromatics",
+          "text": "Turn the heat down to medium-high, add the minced garlic and ginger to the empty wok, and stir constantly for 20 to 30 seconds. They should smell sweet and sharp and turn pale gold, no darker than that. Garlic goes from fragrant to bitter in about fifteen seconds at this temperature, so keep it moving and have the sauce ready in your other hand."
+        },
+        {
+          "title": "Bring it all together",
+          "text": "Whisk the sauce one more time and pour it into the wok all at once, scraping up the browned bits stuck to the bottom. Let it bubble hard for 45 to 60 seconds until it turns glossy and thick enough to coat the back of a spoon. Return the beef, the broccoli and any juices from the plate, then toss for 30 to 45 seconds so everything is lacquered. If the sauce tightens too much, loosen it with a tablespoon of water at a time."
+        },
+        {
+          "title": "Serve it right away",
+          "text": "Slide everything onto a warm platter or straight over the hot jasmine rice and eat immediately, while the broccoli still has snap. Stir-fries go soft and the sauce turns gluey if they sit around, so call everyone to the table before you start cooking, not after. Leftovers keep 3 days in the fridge and reheat best in a hot dry skillet rather than the microwave."
+        }
+      ],
+      "tips": [
+        "Flank, skirt, top sirloin and flat iron all work here. Avoid stew beef or chuck, which need hours of moist heat rather than ninety seconds of high heat.",
+        "No Shaoxing wine? Dry sherry is the closest substitute. Skip it entirely rather than reaching for cooking sherry, which is salted and tastes harsh.",
+        "Do not leave the baking soda on the beef longer than 30 minutes or the texture turns spongy and can pick up a faint soapy taste. If you get distracted, rinse the slices and pat them dry.",
+        "Make-ahead: slice and velvet the beef and mix the sauce up to 24 hours in advance, both covered in the fridge. Let the beef sit out 20 minutes before it hits the wok so it does not chill the pan.",
+        "For a vegetarian version, use 14 oz (400 g) extra-firm tofu, pressed and cubed, and swap the oyster sauce for vegetarian mushroom stir-fry sauce."
+      ],
+      "keyTemp": "Beef is safe at 145°F (63°C), but slices this thin blow past that in seconds, so go by looks: pull them when the outside is browned and the center has just lost its pink. Broccoli is done when it is bright green and a knife tip meets slight resistance in the stem, not olive green and floppy.",
+      "pairing": "Steamed jasmine rice and a cold lager, or an off-dry Riesling that can stand up to the oyster sauce.",
+      "videoQuery": "beef and broccoli stir fry velveting beef",
+      "photoQuery": "beef and broccoli stir fry",
+      "tags": [
+        "Takeout at Home",
+        "Wok",
+        "Weeknight"
+      ]
+    },
+    {
+      "id": "kung-pao-chicken",
+      "title": "Kung Pao Chicken",
+      "emoji": "🥜",
+      "art": "chicken",
+      "blurb": "The real Sichuan version: numbing peppercorns, toasted dried chiles, black vinegar and peanuts, with almost no sauce clinging to anything. It is sharper and more interesting than the gloopy takeout kind.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "15 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "For the velveted chicken",
+          "items": [
+            "1 1/2 lb (680 g) boneless skinless chicken thighs, cut into 3/4 in (2 cm) cubes",
+            "1 tbsp (15 ml) Shaoxing wine or dry sherry",
+            "1 tbsp (15 ml) soy sauce",
+            "1 tbsp (8 g) cornstarch",
+            "1 tsp (5 ml) neutral oil"
+          ]
+        },
+        {
+          "group": "Kung pao sauce",
+          "items": [
+            "3 tbsp (45 ml) Chinkiang black vinegar",
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) Shaoxing wine",
+            "2 tbsp (25 g) light brown sugar",
+            "1 tsp (3 g) cornstarch",
+            "3 tbsp (45 ml) low-sodium chicken broth",
+            "1 tsp (5 ml) toasted sesame oil"
+          ]
+        },
+        {
+          "group": "For the wok",
+          "items": [
+            "3 tbsp (45 ml) peanut or canola oil, divided",
+            "10 to 12 dried Tianjin or chile de arbol chiles, halved and most seeds shaken out",
+            "1 tsp (2 g) whole Sichuan peppercorns",
+            "5 garlic cloves, thinly sliced",
+            "1 tbsp (8 g) minced fresh ginger",
+            "4 scallions, cut into 1 in (2.5 cm) pieces, whites and greens separated",
+            "1/2 cup (70 g) roasted unsalted peanuts",
+            "4 cups (660 g) hot cooked jasmine rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Cut the chicken evenly",
+          "text": "Trim any big pads of fat from the thighs and cut the meat into cubes about 3/4 in (2 cm) on a side, roughly the size of the peanuts they will share the plate with. Thighs are the right choice here because they stay juicy through high heat, while breast dries out in the time it takes to brown. Even cubes mean everything finishes at the same moment instead of some pieces burning while others are raw."
+        },
+        {
+          "title": "Velvet the chicken",
+          "text": "Toss the chicken with the 1 tbsp Shaoxing wine, 1 tbsp soy sauce and 1 tbsp cornstarch until each cube is coated in a slippery film, then stir in the 1 tsp oil. Let it rest 20 minutes at room temperature while you prep everything else. The cornstarch sets into a thin protective jacket in the hot pan, sealing juices in and giving the sauce something to cling to. Skip this and the chicken will be noticeably drier and the sauce will pool at the bottom of the bowl."
+        },
+        {
+          "title": "Mix the sauce",
+          "text": "Whisk the 3 tbsp black vinegar, 2 tbsp soy sauce, 1 tbsp Shaoxing wine, 2 tbsp brown sugar, 1 tsp cornstarch, 3 tbsp broth and 1 tsp sesame oil in a small bowl until smooth. Chinkiang vinegar is the soul of kung pao, malty and slightly sweet like a Chinese balsamic, so seek it out rather than substituting white vinegar. Taste it now: it should read sour first, then sweet, then salty. Set it beside the stove."
+        },
+        {
+          "title": "Prep the chiles and peppercorns",
+          "text": "Snip the dried chiles in half with scissors and shake out most of the seeds, since the seeds carry harsh heat without much flavor. Measure the 1 tsp Sichuan peppercorns into the same little bowl. Sichuan peppercorns are not spicy at all; they deliver a tingly, citrusy numbness called ma that is the whole point of this dish. If yours smell dusty rather than lemony, they are old and worth replacing."
+        },
+        {
+          "title": "Lay out your mise en place",
+          "text": "Arrange small bowls next to the burner: chicken, chile and peppercorn mix, garlic and ginger, scallion whites, scallion greens, peanuts, and the sauce. This dish cooks in under six minutes and the aromatics burn in seconds, so there is no time to be rummaging in a drawer mid-cook. Set a warm serving platter out too. Having everything within arm's reach is what separates a clean stir-fry from a smoky, panicked one."
+        },
+        {
+          "title": "Sear the chicken in batches",
+          "text": "Heat a 14 in (36 cm) wok or heavy skillet over high heat for 2 minutes, add 1 tbsp of the oil, and swirl until it shimmers with the first wisp of smoke. Add half the chicken in one layer and leave it alone for 90 seconds so a golden crust forms, then toss for another minute. Scrape it out and repeat with 1 more tbsp of oil and the rest of the chicken. It should sizzle steadily and loudly the whole time; if the sound drops to a mutter, your pan lost its heat and the chicken is stewing."
+        },
+        {
+          "title": "Toast the chiles and peppercorns",
+          "text": "Lower the heat to medium, add the last 1 tbsp oil, then the chiles and Sichuan peppercorns, and stir for 20 to 30 seconds. You want the chiles to darken a shade and smell toasty and sweet, not acrid. Burnt chiles will make the entire wok taste bitter and there is no rescuing it, so if they go black, wash the pan and start this step again. Crack a window before you begin, because the fumes are genuinely eye-watering."
+        },
+        {
+          "title": "Add garlic, ginger and scallion whites",
+          "text": "Toss in the sliced garlic, minced ginger and scallion whites and stir constantly for 30 seconds. They should turn fragrant and just barely golden at the edges. Keeping the heat at medium here is deliberate: the aromatics need to bloom in the oil, not scorch on it, and the residual heat in the pan is already doing plenty of work."
+        },
+        {
+          "title": "Return the chicken and sauce",
+          "text": "Turn the heat back to high, return the chicken and all its juices, and pour in the whisked sauce. Stir and toss for 45 to 60 seconds, until the sauce reduces to a glaze that just coats each piece and you can see clean streaks on the bottom of the pan when you drag your spatula. Kung pao is not a saucy dish; the coating should be thin and shiny, not a puddle."
+        },
+        {
+          "title": "Finish with peanuts and greens",
+          "text": "Kill the heat, add the 1/2 cup peanuts and the scallion greens, and toss twice. Adding the peanuts at the very last second is what keeps them crunchy, because even one minute in the sauce turns them soft. Check the biggest cube of chicken with an instant-read thermometer; it should read 165°F (74°C)."
+        },
+        {
+          "title": "Serve hot with rice",
+          "text": "Spoon it onto the warm platter and serve immediately with the hot jasmine rice. Warn everyone about the whole chiles and peppercorns, which are there for flavor and are not meant to be eaten by the mouthful. The numbing tingle builds over the first few bites, which is exactly right."
+        }
+      ],
+      "tips": [
+        "Chinkiang black vinegar keeps for years and costs a few dollars at any Asian market. If you truly cannot find it, use 2 tbsp balsamic plus 1 tbsp rice vinegar, which gets you close.",
+        "Control the heat with the number of chiles, not by removing the Sichuan peppercorns. The chiles bring the burn; the peppercorns bring the tingle, and losing the tingle loses the dish.",
+        "Make-ahead: velvet the chicken and mix the sauce up to a day ahead. Chop the aromatics the morning of and keep them in covered bowls in the fridge.",
+        "Roast raw peanuts yourself at 350°F (175°C) for 10 to 12 minutes if you want the best texture. Cocktail peanuts work fine but rinse and dry them first if they are heavily salted.",
+        "If the finished dish tastes flat, it almost always needs another splash of black vinegar rather than more salt."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the center of the largest cube, with no pink and clear juices. At 3/4 in (2 cm) the pieces get there after roughly 4 minutes of total wok time, so check rather than guessing.",
+      "pairing": "Plain jasmine rice to soak up the tingle, plus a cold pilsner or jasmine tea to reset your palate.",
+      "videoQuery": "authentic sichuan kung pao chicken recipe",
+      "photoQuery": "kung pao chicken with peanuts",
+      "tags": [
+        "Spicy",
+        "Wok",
+        "Sichuan"
+      ]
+    },
+    {
+      "id": "general-tso-chicken",
+      "title": "General Tso's Chicken",
+      "emoji": "🍗",
+      "art": "chicken",
+      "blurb": "Craggy, double-fried chicken in a sweet-tart chile glaze that stays crisp all the way to the table. It is a project, but it is the single most requested thing on any takeout menu for a reason.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "20 min",
+      "totalTime": "50 min",
+      "ingredients": [
+        {
+          "group": "Chicken and marinade",
+          "items": [
+            "2 lb (900 g) boneless skinless chicken thighs, cut into 1 in (2.5 cm) pieces",
+            "1 large egg white",
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) Shaoxing wine or dry sherry",
+            "1/2 tsp (1 g) ground white pepper"
+          ]
+        },
+        {
+          "group": "Coating and frying",
+          "items": [
+            "3/4 cup (95 g) cornstarch",
+            "1/4 cup (30 g) all-purpose flour",
+            "1/2 tsp (3 g) baking powder",
+            "6 cups (1.4 L) peanut or canola oil, for frying"
+          ]
+        },
+        {
+          "group": "General Tso sauce",
+          "items": [
+            "1/4 cup (60 ml) low-sodium chicken broth",
+            "3 tbsp (45 ml) soy sauce",
+            "3 tbsp (45 ml) rice vinegar",
+            "3 tbsp (40 g) granulated sugar",
+            "1 tbsp (15 ml) hoisin sauce",
+            "2 tsp (5 g) cornstarch",
+            "1 tsp (5 ml) toasted sesame oil"
+          ]
+        },
+        {
+          "group": "Aromatics and finish",
+          "items": [
+            "2 tbsp (30 ml) neutral oil",
+            "8 to 10 dried red chiles, halved",
+            "4 garlic cloves, minced",
+            "1 tbsp (8 g) minced fresh ginger",
+            "3 scallions, thinly sliced",
+            "1 tsp (3 g) toasted sesame seeds",
+            "4 cups (660 g) hot cooked jasmine rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Marinate the chicken",
+          "text": "Toss the chicken pieces with the egg white, 2 tbsp soy sauce, 1 tbsp Shaoxing wine and 1/2 tsp white pepper until the mixture looks foamy and clings to the meat. Let it sit 20 minutes at room temperature or up to 4 hours in the fridge. The egg white does two jobs: it seasons the meat and it glues the dry coating on so the crust does not slide off in the oil."
+        },
+        {
+          "title": "Mix the dry coating",
+          "text": "In a wide shallow bowl, whisk together the 3/4 cup cornstarch, 1/4 cup flour and 1/2 tsp baking powder. Cornstarch fries up glassy and crisp where flour alone goes soft, and the baking powder puffs the coating into those craggy ridges that hold sauce. Whisk it well so the baking powder is evenly distributed rather than sitting in one bitter pocket."
+        },
+        {
+          "title": "Whisk the sauce",
+          "text": "Combine the 1/4 cup broth, 3 tbsp soy sauce, 3 tbsp rice vinegar, 3 tbsp sugar, 1 tbsp hoisin, 2 tsp cornstarch and 1 tsp sesame oil in a small bowl and whisk until no lumps remain. Taste it: it should be aggressively sweet and sour, because it will be coating a lot of plain fried chicken. Set it next to the stove along with the chiles, garlic, ginger and scallions."
+        },
+        {
+          "title": "Heat the frying oil",
+          "text": "Pour the 6 cups oil into a heavy 5 qt (4.7 L) Dutch oven; it should come no more than a third of the way up the sides. Clip on a thermometer and bring it to 350°F (175°C) over medium-high heat, which takes about 10 minutes. Have a wire rack set over a sheet pan ready beside the pot. Never fill the pot more than a third, because the oil bubbles up violently the moment wet chicken hits it."
+        },
+        {
+          "title": "Dredge the chicken",
+          "text": "Lift the chicken out of the marinade a few pieces at a time, letting the excess drip off, then drop them into the cornstarch mixture. Toss and press so every surface is packed with coating, then shake off the loose powder. Work in small handfuls and lay the coated pieces on a plate in a single layer. Dredging everything at once means the first pieces go gummy while you finish the last."
+        },
+        {
+          "title": "Fry the first round",
+          "text": "Lower 8 to 10 pieces into the oil with tongs, one at a time, and fry for 4 minutes, stirring once at the halfway mark so they do not fuse. They should be pale gold and cooked through, not deeply browned; this first fry is about cooking the meat and setting the crust. Lift them to the rack and let the oil climb back to 350°F (175°C) before the next batch, which takes about a minute."
+        },
+        {
+          "title": "Rest, then fry again",
+          "text": "Once every piece has had its first fry, raise the oil to 375°F (190°C) and let the chicken rest on the rack for at least 5 minutes. Fry each batch a second time for 60 to 90 seconds, until deep golden and audibly crisp when you tap a piece with tongs. The rest lets interior steam escape, and the hotter second fry drives off the last surface moisture, which is why double-fried chicken stays crunchy under sauce."
+        },
+        {
+          "title": "Drain and season",
+          "text": "Return the chicken to the rack, not to paper towels, so air circulates underneath and the bottoms do not steam soft. Season with a small pinch of salt while it is still glistening. Keep it uncovered and near the stove; you have about ten minutes of peak crunch to work with, so make the sauce now."
+        },
+        {
+          "title": "Toast the chiles and aromatics",
+          "text": "Set a large skillet or wok over medium heat, add the 2 tbsp neutral oil, then the halved dried chiles, and stir for 30 seconds until they darken slightly and smell toasty. Add the garlic and ginger and stir 30 seconds more, until fragrant and pale gold. Do not walk away here; garlic scorches in about fifteen seconds at this heat and burnt garlic will ruin the sauce."
+        },
+        {
+          "title": "Reduce the sauce",
+          "text": "Whisk the sauce once more and pour it in all at once. Turn the heat to medium-high and let it bubble for 60 to 90 seconds, stirring, until it thickens to the consistency of warm honey and coats the back of a spoon in a sheet. If it goes past that and turns tacky, whisk in a tablespoon of water to bring it back."
+        },
+        {
+          "title": "Toss and serve immediately",
+          "text": "Kill the heat, add all the fried chicken at once, and toss for no more than 20 to 30 seconds, just until every piece is glazed. The longer the chicken sits in sauce the softer it gets, so this is a fast, decisive move. Scatter the scallions and 1 tsp sesame seeds over the top and take it straight to the table with the hot rice."
+        },
+        {
+          "title": "Deal with the oil",
+          "text": "Let the frying oil cool completely in the pot, which takes a couple of hours, then strain it through a coffee filter or fine mesh sieve into a jar. Stored in a cool dark cupboard it is good for three or four more fries. Never pour hot oil down the drain, and never leave a hot pot unattended on the stove."
+        }
+      ],
+      "tips": [
+        "Thighs beat breast here by a mile. They hold up to two rounds of frying without drying out, and the darker meat stands up to a sauce this sweet.",
+        "No thermometer? Drop in a pinch of the coating: at 350°F (175°C) it sizzles steadily and floats within two seconds. If it browns instantly the oil is too hot.",
+        "Make-ahead: fry the chicken through the first fry up to 3 hours in advance and leave it on the rack at room temperature. Do the second fry and the saucing right before serving.",
+        "For a lighter version, toss the coated chicken with 3 tbsp oil and air-fry at 400°F (205°C) for 14 to 16 minutes, shaking twice. It will not be quite as craggy but it is genuinely good.",
+        "The sauce is easy to scale down if you like less glaze. Halve it and toss with a lighter hand for a drier, more restaurant-style plate."
+      ],
+      "keyTemp": "Fry at 350°F (175°C) for the first round and 375°F (190°C) for the second. Chicken is safe at 165°F (74°C); thigh pieces this size reach it during the first 4-minute fry, so the second fry is purely for crunch.",
+      "pairing": "Steamed jasmine rice, a plate of garlicky bok choy, and something cold and simple like a lager or an iced oolong.",
+      "videoQuery": "general tso chicken double fry crispy recipe",
+      "photoQuery": "general tso chicken crispy glazed",
+      "tags": [
+        "Takeout at Home",
+        "Deep Fried",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "chicken-and-shrimp-pad-thai",
+      "title": "Chicken and Shrimp Pad Thai",
+      "emoji": "🍜",
+      "art": "noodles",
+      "blurb": "Sweet, sour and salty in equal measure, with tamarind doing the heavy lifting and a squeeze of lime at the end. Get the noodles soaked properly and the rest is a five minute sprint.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "30 min",
+      "cookTime": "15 min",
+      "totalTime": "45 min",
+      "ingredients": [
+        {
+          "group": "Noodles and protein",
+          "items": [
+            "8 oz (225 g) dried flat rice noodles, 1/4 in (5 mm) wide",
+            "8 oz (225 g) boneless skinless chicken thighs, sliced 1/4 in (6 mm) thick",
+            "8 oz (225 g) large shrimp (26 to 30 count), peeled and deveined",
+            "3 tbsp (45 ml) neutral oil, divided"
+          ]
+        },
+        {
+          "group": "Pad thai sauce",
+          "items": [
+            "3 tbsp (45 ml) fish sauce",
+            "3 tbsp (55 g) palm sugar, chopped, or light brown sugar",
+            "3 tbsp (45 ml) tamarind concentrate",
+            "2 tbsp (30 ml) water"
+          ]
+        },
+        {
+          "group": "For the wok",
+          "items": [
+            "3 large eggs, beaten",
+            "4 garlic cloves, minced",
+            "1/4 cup (35 g) chopped preserved sweet radish, optional",
+            "3 cups (150 g) fresh bean sprouts, divided",
+            "4 scallions, cut into 1 1/2 in (4 cm) pieces"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "1/2 cup (70 g) roasted peanuts, coarsely chopped",
+            "1 lime, cut into 6 wedges",
+            "1 tsp (2 g) Thai chile flakes, plus more to taste",
+            "1/4 cup (10 g) fresh cilantro leaves"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Soak the noodles cold",
+          "text": "Put the dried rice noodles in a large bowl, cover them with room-temperature water by 2 in (5 cm), and leave them for 45 to 60 minutes while you prep everything else. They should turn pliable and white but still snap when you bend one, roughly like al dente pasta. Boiling them is the number one pad thai mistake: they keep cooking in the wok and you end up with porridge. Drain them well and toss with 1 tsp of the oil so they do not clump."
+        },
+        {
+          "title": "Make the sauce",
+          "text": "In a small saucepan over low heat, warm the 3 tbsp fish sauce, 3 tbsp palm sugar, 3 tbsp tamarind concentrate and 2 tbsp water, stirring until the sugar fully dissolves, about 2 minutes. Take it off the heat and taste it on a spoon. It should hit sour first, then sweet, then salty, and it should taste slightly too strong on its own because it will season a pound of noodles. Adjust with a little more tamarind for sourness or sugar for balance."
+        },
+        {
+          "title": "Prep the protein",
+          "text": "Pat the chicken and shrimp dry with paper towels and keep them in separate bowls, because they go into the pan at different times. Surface water turns to steam and stops browning cold. Devein the shrimp if the shop has not, and leave the tails on or off as you prefer, though tails off is easier to eat with noodles."
+        },
+        {
+          "title": "Set the table before you cook",
+          "text": "Line up bowls of noodles, chicken, shrimp, beaten eggs, garlic, preserved radish, 2 cups of the bean sprouts, scallions, and the sauce in the order you will use them. Put the peanuts, lime wedges, chile flakes, cilantro and remaining 1 cup sprouts on the table already. From the moment the pan gets hot, this dish takes about six minutes and never pauses, so everything must be within arm's reach."
+        },
+        {
+          "title": "Sear the chicken",
+          "text": "Heat a 14 in (36 cm) wok or your largest skillet over high heat for 2 minutes, add 1 tbsp oil, and swirl. Add the chicken in one layer and cook without stirring for 90 seconds, then toss for another minute until browned and cooked through to 165°F (74°C). Scrape it into a bowl. It should sizzle hard the whole time; a quiet pan means the heat is too low."
+        },
+        {
+          "title": "Cook the shrimp fast",
+          "text": "Add 1 tbsp oil and lay the shrimp in a single layer. Cook 60 to 90 seconds per side, just until they turn opaque pink and curl into a loose C. Move them to the bowl with the chicken. A shrimp that has curled into a tight O is already overcooked and will be rubbery, so pull them a moment before you think you should."
+        },
+        {
+          "title": "Scramble the eggs",
+          "text": "Add the last 1 tbsp oil, then the garlic and preserved radish, and stir for 15 seconds until fragrant. Pour in the beaten eggs and let them sit undisturbed for 20 seconds until the bottom sets, then scramble them into large soft curds. Do not cook them dry; they will finish in the residual heat with the noodles."
+        },
+        {
+          "title": "Add the noodles and sauce",
+          "text": "Tip in the drained noodles and pour the sauce over them, then toss constantly with tongs for 2 to 3 minutes. The noodles will drink the sauce, soften, and turn a glossy brown-orange. If they still feel stiff, splash in 2 tbsp of water at a time and keep tossing; the residual starch plus water is what finishes cooking them without turning them to mush."
+        },
+        {
+          "title": "Return everything and finish",
+          "text": "Add the chicken, shrimp, scallions and 2 cups bean sprouts and toss for 60 to 90 seconds, until the sprouts are barely wilted and everything is evenly coated. The sprouts should still have crunch, since their whole job is textural contrast. Taste a noodle and adjust with a splash more sauce or fish sauce if it needs it."
+        },
+        {
+          "title": "Plate and garnish",
+          "text": "Divide among four warm plates and top each with a generous spoonful of chopped peanuts, a scattering of cilantro and a pinch of chile flakes. Tuck a lime wedge and a small pile of the reserved raw bean sprouts alongside each portion. In Thailand these condiments arrive on the table so each person tunes their own plate, and that is genuinely how it tastes best."
+        },
+        {
+          "title": "Squeeze and eat immediately",
+          "text": "Squeeze the lime over the noodles right before the first bite, not in the wok, because the fresh acidity fades fast once it hits heat. Pad thai has a short window where the noodles are chewy and the peanuts are crunchy, maybe five minutes. Serve it the second it hits the plate and do not make anyone wait."
+        }
+      ],
+      "tips": [
+        "Tamarind concentrate and tamarind paste are not the same. Concentrate is dark, thick and ready to use; if you only have block tamarind pulp, soak 2 tbsp in 1/4 cup hot water, mash and strain.",
+        "Cook no more than two portions at a time in a home pan. Doubling the batch drops the temperature and you will steam the noodles rather than fry them.",
+        "Make-ahead: the sauce keeps 2 weeks refrigerated and the noodles can be soaked and drained up to 4 hours in advance if you toss them with a little oil.",
+        "Ketchup and sriracha are not pad thai. If the color looks pale, that is normal; tamarind gives a muted brown-orange, not the neon red of bad restaurant versions.",
+        "For a vegetarian version, use 14 oz (400 g) pressed extra-firm tofu, swap the fish sauce for light soy sauce plus 1 tsp mushroom seasoning, and add extra sprouts."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) and shrimp 145°F (63°C), which for shrimp means opaque pink flesh curled into a loose C shape. Noodles are done when they are chewy and springy rather than soft, so bite one before you plate.",
+      "pairing": "Thai iced tea or a very cold light lager, with extra lime wedges and chile flakes on the table.",
+      "videoQuery": "authentic pad thai tamarind sauce recipe",
+      "photoQuery": "pad thai noodles peanuts lime",
+      "tags": [
+        "Thai",
+        "Noodles",
+        "Date Night"
+      ]
+    },
+    {
+      "id": "thai-drunken-noodles",
+      "title": "Thai Drunken Noodles with Chicken",
+      "emoji": "🌶️",
+      "art": "noodles",
+      "blurb": "Wide rice noodles charred in a screaming hot pan with garlic, bird chiles and a mountain of holy basil. Pad kee mao is loud, spicy food that comes together in about ten minutes.",
+      "difficulty": "Medium",
+      "servings": "4 servings",
+      "prepTime": "25 min",
+      "cookTime": "15 min",
+      "totalTime": "40 min",
+      "ingredients": [
+        {
+          "group": "Noodles and chicken",
+          "items": [
+            "1 lb (450 g) fresh wide rice noodles, or 8 oz (225 g) dried wide rice noodles",
+            "1 lb (450 g) boneless skinless chicken thighs, sliced 1/4 in (6 mm) thick",
+            "1 tbsp (8 g) cornstarch",
+            "1 tbsp (15 ml) soy sauce"
+          ]
+        },
+        {
+          "group": "Drunken noodle sauce",
+          "items": [
+            "3 tbsp (45 ml) oyster sauce",
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) dark soy sauce",
+            "1 tbsp (15 ml) fish sauce",
+            "2 tsp (8 g) granulated sugar",
+            "2 tbsp (30 ml) water"
+          ]
+        },
+        {
+          "group": "For the wok",
+          "items": [
+            "3 tbsp (45 ml) neutral oil, divided",
+            "6 garlic cloves, roughly chopped",
+            "4 to 6 Thai bird chiles, thinly sliced",
+            "1 medium yellow onion (6 oz / 170 g), sliced 1/2 in (1 cm) thick",
+            "1 red bell pepper (6 oz / 170 g), sliced 1/2 in (1 cm) thick",
+            "2 cups (60 g) loosely packed Thai holy basil or Italian basil leaves",
+            "1 lime, cut into wedges, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Loosen the noodles",
+          "text": "If you bought fresh wide rice noodles they will arrive as a cold solid brick. Microwave the unopened package for 60 to 90 seconds or steam it for 3 minutes, then gently peel the sheets apart into 1 in (2.5 cm) wide ribbons with your fingers. Cold noodles shatter into fragments when you try to separate them, so warming them first is not optional. If you are using dried noodles, soak them in room-temperature water for 45 minutes, then drain."
+        },
+        {
+          "title": "Coat the chicken",
+          "text": "Toss the sliced chicken with the 1 tbsp cornstarch and 1 tbsp soy sauce until every piece is slick and there is no dry powder left. Let it sit 15 minutes at room temperature while you chop everything else. The cornstarch is a light velvet that keeps the thin slices juicy through very high heat and helps the sauce grip the meat later."
+        },
+        {
+          "title": "Mix the sauce",
+          "text": "Stir together the 3 tbsp oyster sauce, 2 tbsp soy sauce, 1 tbsp dark soy sauce, 1 tbsp fish sauce, 2 tsp sugar and 2 tbsp water in a small bowl. Dark soy sauce is thicker, sweeter and mostly there for color, and it is what gives drunken noodles their deep mahogany look. Set the bowl right next to the burner."
+        },
+        {
+          "title": "Prep the aromatics and basil",
+          "text": "Roughly chop the garlic rather than mincing it, so the pieces survive the heat and stay sweet instead of burning to dust. Slice the chiles thin, seeds and all, and start with four if you are unsure. Pick the basil leaves off the stems and keep them in a big bowl; two cups looks absurd but it wilts down to almost nothing. Holy basil tastes peppery and clove-like, while Italian basil is sweeter but works fine."
+        },
+        {
+          "title": "Get everything within reach",
+          "text": "Line up the noodles, chicken, garlic and chiles, onion and bell pepper, sauce, and basil in cooking order beside the stove, plus a warm serving platter. This whole dish takes about seven minutes and the noodles need constant attention once they hit the pan. There is no stopping to slice an onion halfway through, and a burnt clove of garlic can flavor the entire wok."
+        },
+        {
+          "title": "Heat the pan until it smokes",
+          "text": "Set a 14 in (36 cm) carbon steel wok or your heaviest skillet over the highest heat you have for 2 to 3 minutes, until a bead of water flicked in disappears on contact. Add 1 tbsp of the oil and swirl it up the sides; it should shimmer and send up a thin wisp of smoke. Drunken noodles depend on real char, so if you have an outdoor burner or a gas hob, use it and open a window."
+        },
+        {
+          "title": "Sear the chicken",
+          "text": "Add the chicken in a single layer and leave it completely alone for 90 seconds so it browns, then toss for another 60 seconds until cooked through. It should sizzle violently and steadily. Scrape it out onto a plate. Cook in two batches if your pan is smaller than 12 in (30 cm), because crowding turns searing into steaming."
+        },
+        {
+          "title": "Fry the aromatics and vegetables",
+          "text": "Add 1 tbsp oil, then the garlic and chiles, and stir for 15 to 20 seconds until fragrant and just barely golden. Add the onion and bell pepper and stir-fry for 90 seconds; they should soften slightly at the edges but stay crunchy in the middle. Vegetables in this dish are meant to be crisp, not stewed, so resist the urge to keep going."
+        },
+        {
+          "title": "Char the noodles",
+          "text": "Push everything to one side, add the last 1 tbsp oil to the empty half, and lay the noodles in a flat layer. Let them sit untouched for 45 to 60 seconds so the bottoms blister and pick up brown spots, then fold everything together gently. Toss with a spatula rather than tongs and use a folding motion, because wide rice noodles tear easily once they are hot."
+        },
+        {
+          "title": "Add the sauce and chicken",
+          "text": "Pour the sauce around the edge of the pan rather than into the middle, so it hits hot metal and caramelizes on the way in. Return the chicken and any juices and fold everything for 60 to 90 seconds until the noodles are evenly dark and glossy. If the pan looks dry, add a tablespoon of water; if it looks wet, let it cook 30 seconds longer."
+        },
+        {
+          "title": "Fold in the basil and serve",
+          "text": "Kill the heat, dump in all 2 cups of basil, and fold two or three times until the leaves just collapse. The residual heat is enough, and cooking basil any longer turns it black and bitter. Pile it onto the warm platter, serve with lime wedges, and eat immediately while the charred edges are still crisp."
+        }
+      ],
+      "tips": [
+        "Fresh wide rice noodles are worth the trip to an Asian market and are usually in a refrigerated case. Never refrigerate them at home before use; the cold makes them brittle and they will shatter.",
+        "Thai holy basil is the traditional leaf and tastes peppery with a hint of clove. Thai sweet basil is the next best, and Italian basil is a fine last resort.",
+        "If your stove is weak, cook in two half batches. One crowded pan of noodles will steam and go gummy, and you cannot get char back once you have lost it.",
+        "Make-ahead: mix the sauce and slice everything up to a day ahead. The cooking itself is too fast and too texture-dependent to do in advance.",
+        "Four bird chiles is genuinely spicy and six is fiery. For a milder version use one chile plus 1/2 tsp red pepper flakes so you keep the flavor without the burn."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C), which thin slices hit after about 2 1/2 minutes in a properly hot pan. The noodles are right when the edges are charred and chewy and the whole pan smells faintly smoky rather than steamy.",
+      "pairing": "An ice-cold lager and a plate of cucumber slices to cool your mouth between bites.",
+      "videoQuery": "pad kee mao thai drunken noodles recipe",
+      "photoQuery": "thai drunken noodles basil",
+      "tags": [
+        "Thai",
+        "Spicy",
+        "30 Minutes"
+      ]
+    },
+    {
+      "id": "chicken-fried-rice",
+      "title": "Chicken Fried Rice",
+      "emoji": "🍚",
+      "art": "rice",
+      "blurb": "The whole secret is cold day-old rice and a pan that is far hotter than feels reasonable. Twenty-five minutes from fridge to table, and it is better than any container you have paid for.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "10 min",
+      "totalTime": "25 min",
+      "ingredients": [
+        {
+          "group": "Rice and chicken",
+          "items": [
+            "4 cups (600 g) cold day-old cooked jasmine rice",
+            "12 oz (340 g) boneless skinless chicken thighs, cut into 1/2 in (1 cm) pieces",
+            "1 tbsp (15 ml) soy sauce",
+            "2 tsp (5 g) cornstarch"
+          ]
+        },
+        {
+          "group": "Seasoning",
+          "items": [
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) oyster sauce",
+            "1 tsp (5 ml) toasted sesame oil",
+            "1/2 tsp (1 g) ground white pepper",
+            "1/2 tsp (3 g) kosher salt"
+          ]
+        },
+        {
+          "group": "For the wok",
+          "items": [
+            "3 tbsp (45 ml) neutral oil, divided",
+            "3 large eggs, beaten with a pinch of salt",
+            "1 cup (140 g) frozen peas and carrots, thawed and patted dry",
+            "4 garlic cloves, minced",
+            "5 scallions, thinly sliced, whites and greens separated"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Understand the day-old rice",
+          "text": "Fried rice needs rice that was cooked at least 12 hours ago and chilled uncovered or loosely covered in the fridge. As cooked rice cools, the starch retrogrades and the grains firm up and dry out, so they fry into separate fluffy kernels instead of collapsing into paste. Fresh hot rice is full of surface moisture and will steam itself into a sticky lump no matter how hot your pan is. If you must use same-day rice, spread it on a sheet pan and chill it uncovered for 45 minutes."
+        },
+        {
+          "title": "Break up the cold rice",
+          "text": "Tip the rice into a wide bowl and work through it with wet fingers or a fork, crushing every clump until the grains are loose and individual. Cold rice compacts into a solid brick in the container, and any clump that goes into the pan intact will still be a clump on your plate. This takes two minutes and it is the difference between good fried rice and a rice cake."
+        },
+        {
+          "title": "Coat the chicken",
+          "text": "Toss the chicken pieces with the 1 tbsp soy sauce and 2 tsp cornstarch until slick and evenly coated, then let them sit 10 minutes. This light velvet keeps the small pieces from drying out in a very hot pan and gives them a slightly glossy surface. Cut the pieces small, about 1/2 in (1 cm), so they cook through in the same time everything else needs."
+        },
+        {
+          "title": "Mix the seasoning",
+          "text": "Stir the 2 tbsp soy sauce, 1 tbsp oyster sauce, 1 tsp sesame oil, 1/2 tsp white pepper and 1/2 tsp salt together in a small bowl. Mixing the liquids in advance means you add them in one quick pour instead of shaking bottles over a smoking pan. White pepper is the flavor most people cannot place in restaurant fried rice, so do not leave it out."
+        },
+        {
+          "title": "Line up your mise en place",
+          "text": "Put the rice, chicken, eggs, peas and carrots, garlic, scallion whites, scallion greens and the seasoning bowl in a row next to the stove. The entire cook is under eight minutes and every step runs into the next. Once the pan is hot you will not have a free hand or a spare thirty seconds to go looking for anything."
+        },
+        {
+          "title": "Scramble the eggs first",
+          "text": "Heat a 14 in (36 cm) wok or large nonstick skillet over medium-high, add 1 tbsp of the oil, and pour in the beaten eggs. Let them set for 20 seconds, then scramble into large soft curds and slide them onto a plate while they still look slightly underdone. They will finish cooking later in the residual heat, and eggs that are fully cooked now will be rubbery by the time you eat."
+        },
+        {
+          "title": "Sear the chicken",
+          "text": "Add 1 tbsp oil, turn the heat to high, and spread the chicken in a single layer. Leave it undisturbed for 90 seconds so it browns, then toss for 60 to 90 seconds more until cooked through to 165°F (74°C). Move it to the plate with the eggs. The pan should sizzle sharply the whole time, not hiss quietly."
+        },
+        {
+          "title": "Bloom the garlic and scallion whites",
+          "text": "Add the last 1 tbsp oil to the empty pan along with the garlic and scallion whites, and stir for 20 to 30 seconds. They should smell sweet and turn barely golden. This is a fast window because garlic burns in about fifteen seconds over high heat, so have the rice ready to go in immediately."
+        },
+        {
+          "title": "Fry the rice hard",
+          "text": "Add all the rice at once and press it into a flat layer with your spatula. Let it sit for 45 seconds to toast against the metal, then toss and press again, repeating for about 3 minutes total. You are listening for a dry crackling sound like light rain, which means moisture is leaving and the grains are frying rather than steaming. Individual grains should start dancing and separating in the pan."
+        },
+        {
+          "title": "Season and combine",
+          "text": "Pour the seasoning mixture around the edge of the pan rather than into the middle, so it hits hot metal and caramelizes on contact. Toss hard for 60 seconds until the color is even and no wet patches remain. Add the peas and carrots and toss another 30 seconds just to heat them through."
+        },
+        {
+          "title": "Fold in the eggs and finish",
+          "text": "Return the chicken and eggs, breaking the egg curds into smaller pieces with the edge of your spatula as you fold. Toss for 30 to 45 seconds until everything is hot and evenly distributed. Kill the heat, scatter the scallion greens over the top, and taste for salt. Serve straight from the pan while the bottom grains are still crisp."
+        }
+      ],
+      "tips": [
+        "Cool leftover rice within one hour of cooking and refrigerate it. Rice left at room temperature for hours can grow Bacillus cereus, which reheating will not fix, so this is a real food safety rule and not fussiness.",
+        "Long-grain jasmine is ideal because it dries out well. Short-grain sushi rice is too sticky and basmati is fine but tastes noticeably different.",
+        "The classic upgrade is 4 oz (115 g) diced Chinese barbecue pork or leftover roast chicken instead of raw chicken. Add it with the peas so it just warms through.",
+        "Make-ahead: cook the rice up to 3 days in advance. Fried rice is one of the few dishes where planning ahead makes the result genuinely better.",
+        "If your pan is smaller than 12 in (30 cm), cook the rice in two batches. Overloading it drops the heat and you will get steamed rice with soy sauce on it."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the center of the largest piece. Leftover rice needs to be reheated to at least 165°F (74°C) too, which in a hot wok means the grains are steaming and too hot to hold in your fingers.",
+      "pairing": "A fried egg on top with a runny yolk, a dash of chile oil, and hot jasmine tea.",
+      "videoQuery": "chicken fried rice day old rice wok",
+      "photoQuery": "chicken fried rice scallions egg",
+      "tags": [
+        "Weeknight",
+        "30 Minutes",
+        "Leftovers"
+      ]
+    },
+    {
+      "id": "korean-beef-bulgogi",
+      "title": "Korean Beef Bulgogi",
+      "emoji": "🥩",
+      "art": "steak",
+      "blurb": "Paper-thin ribeye in a sweet-savory pear and soy marinade, seared until the edges caramelize. Wrap it in lettuce with rice and a smear of ssamjang and you will understand why Koreans eat it at every celebration.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "10 min",
+      "totalTime": "1 hr",
+      "ingredients": [
+        {
+          "group": "Beef",
+          "items": [
+            "1 1/2 lb (680 g) boneless ribeye or sirloin, sliced 1/8 in (3 mm) thick"
+          ]
+        },
+        {
+          "group": "Bulgogi marinade",
+          "items": [
+            "1/2 Asian pear (about 5 oz / 140 g), peeled and grated",
+            "1/4 cup (60 ml) soy sauce",
+            "2 tbsp (30 ml) toasted sesame oil",
+            "2 tbsp (25 g) light brown sugar",
+            "1 tbsp (15 ml) mirin",
+            "6 garlic cloves, minced",
+            "1 tbsp (8 g) grated fresh ginger",
+            "1/2 medium yellow onion (4 oz / 115 g), thinly sliced",
+            "1/2 tsp (1 g) freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "To cook and serve",
+          "items": [
+            "2 tbsp (30 ml) neutral oil, divided",
+            "4 scallions, cut into 2 in (5 cm) lengths",
+            "1 tbsp (9 g) toasted sesame seeds",
+            "4 cups (660 g) hot cooked short-grain rice",
+            "8 large red or green lettuce leaves, for wrapping"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Slice the beef paper thin",
+          "text": "Freeze the ribeye for 30 to 45 minutes until firm at the edges but not solid, then slice it across the grain as thinly as you can manage, ideally 1/8 in (3 mm). If that sounds like a fight, ask the butcher for beef sliced for bulgogi or shabu shabu, or buy a frozen pre-sliced pack from a Korean market. Thin slices are the entire point: they take on marinade fast and cook in about ninety seconds."
+        },
+        {
+          "title": "Grate the pear",
+          "text": "Peel and grate the Asian pear on the large holes of a box grater, juice and all, straight into a large bowl. Asian pear contains enzymes that gently break down muscle protein, which is the traditional Korean tenderizer and adds a clean floral sweetness. A ripe Bosc pear or 1/4 cup unsweetened applesauce will stand in, but not a hard supermarket Bartlett."
+        },
+        {
+          "title": "Mix the marinade",
+          "text": "Add the 1/4 cup soy sauce, 2 tbsp sesame oil, 2 tbsp brown sugar, 1 tbsp mirin, minced garlic, grated ginger, sliced onion and 1/2 tsp black pepper to the pear and whisk until the sugar dissolves. Taste it: it should be salty and sweet in near equal measure with a strong garlic backbone. This is a marinade, so it should taste a shade too intense on its own."
+        },
+        {
+          "title": "Marinate the beef",
+          "text": "Add the sliced beef and use your hands to separate every slice and coat it, since stacked slices marinate unevenly. Cover and refrigerate for at least 30 minutes and up to 8 hours. Going much past that makes the surface mushy from the pear enzymes, so overnight is not better here. Pull it out 20 minutes before cooking so it is not fridge-cold going into the pan."
+        },
+        {
+          "title": "Set up before you cook",
+          "text": "Wash and dry the lettuce leaves, cut the scallions, and get the rice steaming so it is ready when the beef is. Set a warm platter beside the stove along with tongs. Bulgogi cooks in batches of about ninety seconds each, so there is no time to be assembling side dishes once the pan is hot."
+        },
+        {
+          "title": "Drain the beef",
+          "text": "Lift the beef out of the marinade with tongs and let the excess drip off, leaving most of the liquid behind in the bowl. Do not dump the whole bowl into the pan. Excess marinade floods the pan, drops the temperature, and boils the beef gray instead of letting it caramelize, which is the single most common bulgogi mistake."
+        },
+        {
+          "title": "Heat the pan properly",
+          "text": "Set a 12 in (30 cm) cast iron skillet or grill pan over high heat for 3 minutes, until it is genuinely hot and a drop of water skitters and evaporates in a second or two. Add 1 tbsp of the oil and swirl. You want an aggressive sizzle the instant the meat lands, because the sugars in the marinade need high heat to caramelize before the thin beef overcooks."
+        },
+        {
+          "title": "Sear in batches",
+          "text": "Lay one-third of the beef in a single layer with a little space between the slices and cook without touching for 60 seconds. Flip and cook 30 to 45 seconds more, until the edges are deeply browned and slightly charred. Move it to the platter and repeat with the remaining beef, adding the last 1 tbsp oil partway through. Crowding the pan is what turns bulgogi into a puddle of gray beef soup."
+        },
+        {
+          "title": "Finish with scallions",
+          "text": "On the last batch, toss the scallion pieces into the pan for the final 30 seconds so they wilt and pick up some of the caramelized fond. Scrape everything, including the browned bits, onto the platter. Those crusty bits stuck to the pan are the best flavor in the whole dish."
+        },
+        {
+          "title": "Rest and season",
+          "text": "Let the beef sit for 2 to 3 minutes on the platter so the juices redistribute, then scatter the 1 tbsp sesame seeds over the top. Taste a slice; if it needs anything it will be a small pinch of salt, though the marinade usually has it covered. It should taste sweet, savory and faintly smoky all at once."
+        },
+        {
+          "title": "Serve as ssam",
+          "text": "Bring the platter to the table with the hot rice and the lettuce leaves. The Korean way is ssam: lay a leaf in your palm, add a spoonful of rice, a few slices of beef, a dab of ssamjang or gochujang, then fold it into a parcel and eat it in one bite. Kimchi, pickled radish and a bowl of soup round it out if you want the full spread."
+        }
+      ],
+      "tips": [
+        "Ribeye is traditional because the fat marbling melts and bastes the meat in seconds. Sirloin, top round and even chuck eye all work if sliced thin enough.",
+        "No Asian pear? Use 1/4 cup unsweetened applesauce or half a ripe kiwi, but with kiwi cut the marinating time to 20 minutes because it tenderizes very aggressively.",
+        "Make-ahead: the marinated beef freezes beautifully. Portion it flat in zip bags, freeze up to 3 months, and thaw overnight in the fridge so it marinates as it defrosts.",
+        "Cook this on a grill or an outdoor burner if you can. Bulgogi puts out real smoke, and the extra char is exactly what you want.",
+        "Leftovers make an excellent bibimbap or a bulgogi sandwich on a soft roll with mayo and quick-pickled cucumber."
+      ],
+      "keyTemp": "Beef is safe at 145°F (63°C), but slices this thin race past it in under a minute, so cook by sight: pull them the moment the edges caramelize and the surface loses its raw red. Anything beyond about 90 seconds per batch turns leathery.",
+      "pairing": "Short-grain rice, kimchi, and a cold Korean lager or a chilled soju with soda.",
+      "videoQuery": "korean beef bulgogi marinade recipe",
+      "photoQuery": "korean bulgogi beef lettuce wrap",
+      "tags": [
+        "Korean",
+        "Grill",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "japchae-glass-noodles",
+      "title": "Japchae Korean Glass Noodles",
+      "emoji": "🍝",
+      "art": "noodles",
+      "blurb": "Bouncy sweet potato noodles tossed with sesame, beef and a rainbow of vegetables cooked one at a time. It takes patience and it is worth every minute, warm or at room temperature.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "30 min",
+      "cookTime": "25 min",
+      "totalTime": "55 min",
+      "ingredients": [
+        {
+          "group": "Noodles",
+          "items": [
+            "8 oz (225 g) Korean sweet potato starch noodles (dangmyeon)",
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) toasted sesame oil",
+            "1 tbsp (13 g) granulated sugar"
+          ]
+        },
+        {
+          "group": "Beef and marinade",
+          "items": [
+            "8 oz (225 g) beef sirloin or ribeye, cut into thin 2 in (5 cm) strips",
+            "1 tbsp (15 ml) soy sauce",
+            "1 tsp (5 ml) toasted sesame oil",
+            "1 tsp (4 g) granulated sugar",
+            "2 garlic cloves, minced"
+          ]
+        },
+        {
+          "group": "Vegetables",
+          "items": [
+            "3 tbsp (45 ml) neutral oil, divided",
+            "1 medium yellow onion (6 oz / 170 g), thinly sliced",
+            "1 medium carrot (3 oz / 85 g), cut into matchsticks",
+            "5 oz (140 g) fresh spinach",
+            "5 oz (140 g) shiitake mushrooms, stemmed and sliced",
+            "1 tsp (6 g) kosher salt, divided"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "2 tbsp (18 g) toasted sesame seeds",
+            "1 tbsp (15 ml) toasted sesame oil",
+            "3 scallions, thinly sliced",
+            "1/2 tsp (1 g) freshly ground black pepper"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Marinate the beef",
+          "text": "Toss the beef strips with the 1 tbsp soy sauce, 1 tsp sesame oil, 1 tsp sugar and minced garlic, then set aside for 20 minutes while you prep the vegetables. The sugar helps the beef brown quickly and the sesame oil carries the flavor everywhere. Cut the strips no thicker than 1/4 in (6 mm) so they cook in about two minutes."
+        },
+        {
+          "title": "Prep every vegetable first",
+          "text": "Slice the onion thin, cut the carrot into matchsticks about the size of the noodles, slice the mushrooms 1/4 in (6 mm) thick, and wash the spinach. Japchae is cooked component by component, so having each one in its own bowl before you turn on a burner keeps the whole process calm. Match the vegetable shapes to the noodle shape; long thin strands tangle together properly, while chunks fall to the bottom of the bowl."
+        },
+        {
+          "title": "Blanch and squeeze the spinach",
+          "text": "Bring a medium pot of salted water to a boil, drop in the spinach for 30 seconds, then scoop it into a bowl of ice water. Once cool, gather it into a ball and squeeze out as much water as you physically can, then chop it roughly and season with 1/4 tsp of the salt and a few drops of sesame oil. Wet spinach will dilute the sauce and make the noodles slippery, so squeeze harder than feels polite. Keep that pot of water boiling for the noodles."
+        },
+        {
+          "title": "Cook the noodles precisely",
+          "text": "Boil the dangmyeon for 6 to 7 minutes, stirring often, until they are translucent and springy with no chalky white core. Taste one at 6 minutes; they should be chewy and bouncy, never soft. Drain and rinse briefly under cold water to stop the cooking, then cut through the pile two or three times with kitchen shears so they are manageable with chopsticks."
+        },
+        {
+          "title": "Season the noodles while hot",
+          "text": "Return the drained noodles to the warm pot and toss immediately with the 2 tbsp soy sauce, 1 tbsp sesame oil and 1 tbsp sugar. Hot noodles absorb seasoning the way a sponge does; cold ones just get coated on the outside. They should turn glossy and light amber. Set them aside, uncovered, so they do not steam themselves sticky."
+        },
+        {
+          "title": "Cook the onion",
+          "text": "Heat 1 tsp of the neutral oil in a large skillet over medium-high heat, add the onion and a pinch of the salt, and cook for 2 to 3 minutes until softened and translucent at the edges. Tip it into the noodle bowl. Cooking each vegetable separately sounds fussy, but it is the entire technique: every ingredient needs a different amount of time, and cooking them together means mushy carrots and raw mushrooms."
+        },
+        {
+          "title": "Cook the carrots",
+          "text": "Add another 1 tsp oil and the carrot matchsticks with a pinch of salt, and stir-fry for 2 minutes until they brighten in color and just start to bend. They should still have a little snap when you bite one. Add them to the bowl with the onions."
+        },
+        {
+          "title": "Cook the mushrooms",
+          "text": "Add 1 tbsp oil, then the shiitakes and a pinch of salt, and cook for 3 to 4 minutes without stirring much, until they release their water, it evaporates, and the edges brown. Mushrooms need a hot dry pan and patience; stirring constantly makes them steam in their own liquid and stay pale and squeaky. Add them to the bowl."
+        },
+        {
+          "title": "Sear the beef",
+          "text": "Turn the heat to high, add the last of the oil, and spread the marinated beef in a single layer. Cook 60 seconds without moving it, then toss for another 60 to 90 seconds until browned and cooked through. Scrape the beef and any pan juices into the bowl with everything else."
+        },
+        {
+          "title": "Toss it all together",
+          "text": "Add the noodles, spinach, the 1 tbsp sesame oil, 2 tbsp sesame seeds, sliced scallions and 1/2 tsp black pepper to the big bowl. Toss with clean hands or two large spoons for a full minute, lifting from the bottom, until the color is uniform amber-brown and no clumps of plain noodles remain. Hands genuinely work better than tongs here because you can feel the clumps."
+        },
+        {
+          "title": "Taste and adjust",
+          "text": "Try a strand with a bit of everything on it. It should be sweet, savory and unmistakably sesame, with the noodles seasoned all the way through rather than just on the surface. Add soy sauce a teaspoon at a time if it is flat, or a pinch of sugar if it tastes sharp. Japchae is one of those dishes where the final seasoning check really matters."
+        },
+        {
+          "title": "Serve warm or cool",
+          "text": "Pile it into a wide shallow bowl and serve warm, at room temperature, or cold from the fridge, all of which are traditional. Korean home cooks often make it hours ahead for parties, and it holds up better than almost any other noodle dish. It keeps 4 days refrigerated; loosen it with a splash of water and a few drops of sesame oil before reheating."
+        }
+      ],
+      "tips": [
+        "Sweet potato starch noodles are not the same as mung bean vermicelli or rice vermicelli. Look for dangmyeon, which are thick, grayish and translucent when cooked, and do not substitute.",
+        "Do not overcook the noodles. Six minutes is usually right and eight will leave you with mush; they keep softening as they sit in the seasoning.",
+        "Make-ahead: japchae is genuinely better an hour after it is made, once the noodles have absorbed everything. It is the ideal potluck dish for exactly that reason.",
+        "For a vegetarian version, skip the beef and add 8 oz (225 g) more mushrooms plus a thin egg omelet sliced into ribbons. Nobody will miss it.",
+        "If the noodles clump in the fridge, run them briefly under warm water and toss with a teaspoon of sesame oil to bring them back."
+      ],
+      "keyTemp": "Beef strips are safe at 145°F (63°C) and get there in roughly 2 minutes over high heat; pull them when browned outside and just cooked through. The noodles are ready when they are fully translucent with no white core and spring back against your teeth.",
+      "pairing": "Serve alongside bulgogi or grilled fish with a side of kimchi, or eat it on its own with a cold barley tea.",
+      "videoQuery": "korean japchae glass noodles recipe",
+      "photoQuery": "japchae korean glass noodles",
+      "tags": [
+        "Korean",
+        "Potluck",
+        "Make Ahead"
+      ]
+    },
+    {
+      "id": "chicken-katsu-tonkatsu-sauce",
+      "title": "Chicken Katsu with Tonkatsu Sauce",
+      "emoji": "🍱",
+      "art": "chicken",
+      "blurb": "Panko-crusted chicken cutlets fried until they shatter, sliced into strips and served with a tangy brown sauce you stir together in one bowl. It is the easiest way to make someone very happy on a Tuesday.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "20 min",
+      "cookTime": "15 min",
+      "totalTime": "35 min",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "4 boneless skinless chicken breasts (6 oz / 170 g each)",
+            "1 1/2 tsp (9 g) kosher salt",
+            "1/2 tsp (1 g) freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Breading and frying",
+          "items": [
+            "1/2 cup (60 g) all-purpose flour",
+            "2 large eggs, beaten with 1 tbsp (15 ml) water",
+            "2 cups (100 g) panko breadcrumbs",
+            "3 cups (700 ml) neutral oil, for frying"
+          ]
+        },
+        {
+          "group": "Tonkatsu sauce",
+          "items": [
+            "1/2 cup (120 ml) ketchup",
+            "3 tbsp (45 ml) Worcestershire sauce",
+            "2 tbsp (30 ml) oyster sauce",
+            "1 tbsp (15 ml) soy sauce",
+            "1 tbsp (13 g) granulated sugar",
+            "1 tsp (5 ml) Dijon mustard"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "3 cups (200 g) finely shredded green cabbage",
+            "1 lemon, cut into wedges",
+            "4 cups (660 g) hot cooked short-grain rice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Butterfly and pound the chicken",
+          "text": "Lay each breast flat and slice it horizontally almost all the way through, then open it like a book. Cover with plastic wrap and pound with a mallet or the flat of a heavy pan until it is an even 1/2 in (1 cm) thick all over. Even thickness is the whole ballgame: a cutlet that is thick at one end will either be raw in the middle or burnt at the thin edge."
+        },
+        {
+          "title": "Season and rest",
+          "text": "Season both sides of each cutlet with the 1 1/2 tsp kosher salt and 1/2 tsp pepper and let them sit for 10 minutes at room temperature. The salt has time to penetrate rather than just sitting on the surface, and the chicken takes the chill off so it cooks evenly. Pat the surface dry with a paper towel right before breading."
+        },
+        {
+          "title": "Stir the tonkatsu sauce",
+          "text": "Whisk the 1/2 cup ketchup, 3 tbsp Worcestershire, 2 tbsp oyster sauce, 1 tbsp soy sauce, 1 tbsp sugar and 1 tsp Dijon in a bowl until smooth. Taste it: it should be tangy, sweet and deeply savory, somewhere between barbecue sauce and steak sauce. Refrigerate it while you cook, and know that it keeps for a month in a jar."
+        },
+        {
+          "title": "Set up the breading station",
+          "text": "Put the flour in one shallow dish, the beaten eggs in a second, and the panko in a third, arranged left to right in that order. Season the flour with a pinch of salt. Designate one hand for dry and one for wet, which sounds fussy until you realize the alternative is breading your own fingers into clubs."
+        },
+        {
+          "title": "Shred the cabbage now",
+          "text": "Slice the cabbage as thinly as you can, ideally on a mandoline, and drop it into a bowl of ice water for 10 minutes to crisp up. Drain and spin or pat it very dry. That mound of raw cabbage next to katsu is not garnish; the cold crunch cuts through the fried richness and it is genuinely part of the dish."
+        },
+        {
+          "title": "Bread the cutlets",
+          "text": "Dredge a cutlet in flour and shake off all the excess, dip it in the egg and let it drip for a second, then press it firmly into the panko on both sides. Press hard enough that the crumbs stay put but do not crush them flat. Lay the breaded cutlets on a rack and let them sit 10 minutes so the coating hydrates and sets, which stops it sliding off in the oil."
+        },
+        {
+          "title": "Heat the oil to 340°F",
+          "text": "Pour the oil into a 12 in (30 cm) heavy skillet or Dutch oven to a depth of about 3/4 in (2 cm) and heat over medium-high to 340 to 350°F (170 to 175°C). Test it by dropping in a few panko crumbs: they should sizzle steadily and turn golden in about 15 seconds. Too hot and the crust browns before the chicken cooks; too cool and the coating drinks oil and goes greasy."
+        },
+        {
+          "title": "Fry two at a time",
+          "text": "Slide two cutlets in away from you and fry for 3 to 4 minutes on the first side, until deep golden. Flip once with tongs and fry 2 to 3 minutes more. Do not crowd the pan or flip repeatedly; each flip knocks crumbs loose and drops the oil temperature. The sizzle should stay lively and steady the whole time, not fade to a whisper."
+        },
+        {
+          "title": "Check the temperature",
+          "text": "Pull a cutlet and push an instant-read thermometer into the thickest part; it must read 165°F (74°C). At 1/2 in (1 cm) thick that usually lands right around 6 minutes of total frying. If it is under, return it to the oil for another minute rather than guessing."
+        },
+        {
+          "title": "Drain on a rack",
+          "text": "Transfer the finished cutlets to a wire rack set over a sheet pan, never onto paper towels. A rack lets air circulate so the underside stays crisp, while paper towels trap steam and turn the bottom crust soggy within a minute. Sprinkle with a small pinch of salt while they are still hot and let the oil come back to temperature before the next pair."
+        },
+        {
+          "title": "Slice and plate",
+          "text": "Let each cutlet rest 2 minutes, then slice crosswise into 3/4 in (2 cm) strips with a sharp knife, keeping the strips together so the cutlet holds its shape as you move it. Slicing before serving is the katsu way and it makes the whole thing eatable with chopsticks. Fan a cutlet on each plate with a mound of cold cabbage, a scoop of hot rice and a lemon wedge."
+        },
+        {
+          "title": "Sauce at the table",
+          "text": "Pour a puddle of tonkatsu sauce beside the chicken or spoon it over the top just before eating, never earlier. Sauce sitting on panko softens it within a couple of minutes, and the contrast between the crunchy crust and the tangy sauce is the entire pleasure of the dish. Squeeze the lemon over the cabbage."
+        }
+      ],
+      "tips": [
+        "Panko is not optional. Regular breadcrumbs are dense and go soft, while panko flakes are large, airy and stay crisp much longer.",
+        "Boneless pork loin chops pounded to the same thickness make classic tonkatsu. Cook them to 145°F (63°C) with a 3 minute rest instead of 165°F.",
+        "Make-ahead: bread the cutlets up to 4 hours in advance and keep them on a rack in the fridge, uncovered. The drier surface actually fries up crisper.",
+        "For katsu curry, serve the sliced cutlet over rice with Japanese curry sauce instead of tonkatsu sauce. It is one of the best comfort meals there is.",
+        "Air fryer version: spray the breaded cutlets generously with oil and cook at 400°F (205°C) for 12 to 14 minutes, flipping once. Less shattering, still very good."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the thickest point, which takes about 6 minutes of total frying for a 1/2 in (1 cm) cutlet. Keep the oil between 340 and 350°F (170 to 175°C) so the panko browns at the same rate the chicken cooks.",
+      "pairing": "Short-grain rice, a mound of icy shredded cabbage, and a cold Japanese lager or barley tea.",
+      "videoQuery": "chicken katsu panko tonkatsu sauce recipe",
+      "photoQuery": "chicken katsu sliced cabbage rice",
+      "tags": [
+        "Japanese",
+        "Weeknight",
+        "Crowd Pleaser"
+      ]
+    },
+    {
+      "id": "pork-and-cabbage-gyoza",
+      "title": "Pork and Cabbage Gyoza",
+      "emoji": "🥟",
+      "art": "dumpling",
+      "blurb": "Juicy pork dumplings with lacy crisp bottoms and tender pleated tops, fried and steamed in the same pan. Make a big batch, freeze most of them, and you have dinner on standby forever.",
+      "difficulty": "Advanced",
+      "servings": "Makes about 50 gyoza",
+      "prepTime": "1 hr 15 min",
+      "cookTime": "25 min",
+      "totalTime": "1 hr 40 min",
+      "ingredients": [
+        {
+          "group": "Filling",
+          "items": [
+            "1 lb (450 g) ground pork, about 20 percent fat",
+            "12 oz (340 g) napa cabbage, finely chopped",
+            "1 tsp (6 g) kosher salt, for drawing water from the cabbage",
+            "3 scallions, finely minced",
+            "2 tbsp (16 g) minced fresh ginger",
+            "3 garlic cloves, minced",
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) toasted sesame oil",
+            "1 tbsp (15 ml) Shaoxing wine",
+            "1 tsp (4 g) granulated sugar",
+            "1/4 tsp (0.5 g) ground white pepper"
+          ]
+        },
+        {
+          "group": "Wrappers and sealing",
+          "items": [
+            "50 round gyoza wrappers (3 1/2 in / 9 cm)",
+            "1/2 cup (120 ml) water, in a small bowl for sealing",
+            "2 tsp (5 g) all-purpose flour whisked into 1/2 cup (120 ml) water, for the crispy skirt"
+          ]
+        },
+        {
+          "group": "To cook",
+          "items": [
+            "4 tbsp (60 ml) neutral oil, about 1 tbsp per batch"
+          ]
+        },
+        {
+          "group": "Dipping sauce",
+          "items": [
+            "1/4 cup (60 ml) soy sauce",
+            "3 tbsp (45 ml) rice vinegar",
+            "1 tsp (5 ml) chile oil",
+            "1 tsp (5 ml) toasted sesame oil"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Salt and drain the cabbage",
+          "text": "Chop the napa cabbage as finely as you can, toss it with the 1 tsp kosher salt in a colander, and let it sit for 20 minutes. Then gather it in a clean kitchen towel and wring it out hard over the sink; you should squeeze out something like 1/2 cup of water. Cabbage is over 90 percent water, and any of it left behind will burst your dumplings open in the pan or turn the filling into slop."
+        },
+        {
+          "title": "Mix the filling in one direction",
+          "text": "Combine the pork, squeezed cabbage, scallions, ginger, garlic, 2 tbsp soy sauce, 1 tbsp sesame oil, 1 tbsp Shaoxing wine, 1 tsp sugar and 1/4 tsp white pepper in a bowl. Stir vigorously with chopsticks or a spatula in one direction only for 2 to 3 minutes, until the mixture turns sticky and tacky and starts to hold its shape. Mixing in a single direction aligns the meat proteins into a springy paste that stays juicy instead of crumbling."
+        },
+        {
+          "title": "Test-fry a spoonful",
+          "text": "Take a teaspoon of the filling, flatten it into a small patty, and cook it in a skillet for 90 seconds per side until cooked through to 160°F (71°C). Taste it and adjust the whole batch with more salt, soy sauce or white pepper as needed. Nobody wants to discover a bland filling after folding fifty dumplings, and this thirty second test saves the entire batch."
+        },
+        {
+          "title": "Chill the filling",
+          "text": "Cover the bowl and refrigerate the filling for at least 20 minutes while you set up. Cold fat is firm fat, which means the filling holds together as you fold and does not smear all over the wrappers. It also gives the seasonings time to distribute through the meat."
+        },
+        {
+          "title": "Set up your folding station",
+          "text": "Lay out the stack of wrappers under a barely damp towel, the bowl of filling with a small spoon, a little bowl of water, and a parchment-lined sheet pan dusted with cornstarch. Work with five or six wrappers at a time and keep the rest covered, because exposed wrappers dry out in about two minutes and then crack instead of sealing."
+        },
+        {
+          "title": "Fill and pleat",
+          "text": "Hold a wrapper in your cupped palm, place a rounded teaspoon of filling in the center, and dip a fingertip in water to wet the top half of the rim. Fold it into a half-moon and pinch the center closed. Then make three or four small pleats along one side only, pressing each pleat against the flat back edge to seal. The pleats are what curve the dumpling into a crescent so it sits flat and stands upright in the pan."
+        },
+        {
+          "title": "Seal and inspect",
+          "text": "Run your fingers along the seam of each finished dumpling and press firmly to make sure there are no gaps, then set it on the sheet pan with the flat bottom down and a little space around it. Overfilled dumplings burst while cooking, so if the wrapper is straining, use less filling. A rounded teaspoon really is the right amount even though it looks stingy at first."
+        },
+        {
+          "title": "Freeze what you will not eat",
+          "text": "Cook only as many as you need now, and freeze the rest on the sheet pan for 2 hours until solid, then transfer them to a zip bag. They keep 3 months and go straight from freezer to pan with no thawing, just an extra 2 minutes of steaming. Never stack raw dumplings on top of each other, frozen or not, because they weld together and tear apart."
+        },
+        {
+          "title": "Mix the dipping sauce",
+          "text": "Stir the 1/4 cup soy sauce, 3 tbsp rice vinegar, 1 tsp chile oil and 1 tsp sesame oil together and divide it into small bowls. Gyoza sauce should lean sharply vinegary, since its job is to cut through rich pork. Set it on the table now so nothing waits once the dumplings come out."
+        },
+        {
+          "title": "Arrange them in the pan",
+          "text": "Heat 1 tbsp of the oil in a 10 in (25 cm) nonstick skillet over medium heat until it shimmers, then arrange 12 to 14 dumplings flat side down in a tight spiral or rows, just touching. Fry undisturbed for 2 to 3 minutes, until the bottoms are deep golden brown. Lift one with a spatula to check rather than moving them all around."
+        },
+        {
+          "title": "Steam with the flour slurry",
+          "text": "Whisk the flour-water slurry and pour about 1/3 cup (80 ml) into the pan, standing back because it will spit violently. Cover immediately and steam for 5 to 6 minutes for fresh dumplings or 7 to 8 for frozen, until the water is nearly gone and the wrappers look translucent. The flour in the water sets into a thin lacy sheet that fries crisp, which is the famous gyoza skirt."
+        },
+        {
+          "title": "Crisp the skirt",
+          "text": "Uncover and let the pan cook 2 to 3 minutes more over medium heat, until every drop of liquid has evaporated and you hear the sizzle change from a wet spatter to a dry crackle. The skirt will turn golden and lift away from the pan on its own when it is ready. Do not rush this or the lace will tear and stick."
+        },
+        {
+          "title": "Check and turn out",
+          "text": "Push a thermometer into the filling of one dumpling; ground pork must read 160°F (71°C). Slide a thin spatula under the whole sheet, then invert a plate over the pan and flip the dumplings out crisp side up in one piece. Serve immediately with the dipping sauce, and start the next batch while everyone eats."
+        }
+      ],
+      "tips": [
+        "Ground pork with real fat content matters. Lean pork makes dry, crumbly filling, so if your butcher only has lean, add 2 tbsp of finely chopped pork fat or a splash of neutral oil.",
+        "Wrappers dry out fast. Keep the stack under a damp towel, and if one cracks while folding, patch it with a dab of water and press firmly rather than starting over.",
+        "Make-ahead: this is the ultimate freezer recipe. Fold a double batch, freeze flat, and cook them straight from frozen with an extra 2 minutes under the lid.",
+        "Use a nonstick pan for your first few batches. Stainless and cast iron both work but the skirt is much more likely to weld itself to the surface.",
+        "Shrimp and chive is the other classic filling: swap in 1 lb (450 g) chopped shrimp and 1 cup minced garlic chives, keeping the rest of the seasoning the same."
+      ],
+      "keyTemp": "The ground pork filling must reach 160°F (71°C) at the center; check one dumpling with an instant-read thermometer before serving the batch. The wrappers are done when the tops are translucent and springy rather than chalky white, and the bottoms are deep mahogany.",
+      "pairing": "A cold Japanese lager, a bowl of miso soup, and a sharp vinegary dipping sauce with extra chile oil.",
+      "videoQuery": "pork gyoza pleating crispy skirt recipe",
+      "photoQuery": "pan fried gyoza crispy bottom",
+      "tags": [
+        "Japanese",
+        "Freezer Friendly",
+        "Weekend Project"
+      ]
+    },
+    {
+      "id": "thai-green-curry-chicken",
+      "title": "Thai Green Curry with Chicken",
+      "emoji": "🍛",
+      "art": "curry",
+      "blurb": "Coconut milk cracked in the pan with green curry paste until the oil separates, then simmered with chicken and basil. Thirty minutes, one pot, and it tastes like a restaurant.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Curry base",
+          "items": [
+            "2 cans (13.5 oz / 400 ml each) full-fat coconut milk, not shaken",
+            "3 to 4 tbsp (50 to 65 g) Thai green curry paste",
+            "1 1/2 lb (680 g) boneless skinless chicken thighs, sliced 1/2 in (1 cm) thick"
+          ]
+        },
+        {
+          "group": "Seasoning",
+          "items": [
+            "2 tbsp (30 ml) fish sauce, plus more to taste",
+            "1 tbsp (18 g) palm sugar or light brown sugar",
+            "4 makrut lime leaves, torn, or 1 tsp (2 g) lime zest",
+            "1/2 tsp (3 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Vegetables and finish",
+          "items": [
+            "1 cup (100 g) sliced Japanese or Thai eggplant, in 1 in (2.5 cm) pieces",
+            "1 cup (150 g) sliced bamboo shoots, drained and rinsed",
+            "1 red bell pepper (6 oz / 170 g), sliced 1/2 in (1 cm) thick",
+            "1 cup (30 g) Thai basil leaves",
+            "1 tbsp (15 ml) fresh lime juice",
+            "4 cups (660 g) hot cooked jasmine rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Do not shake the coconut milk",
+          "text": "Open both cans without shaking or stirring them and spoon the thick white cream off the top of one can into a wide pot or deep skillet, about 1/2 cup (120 ml). Full-fat coconut milk separates in the can into thick cream on top and thin water below, and that cream is the fat you are about to cook the paste in. Light coconut milk cannot do this, which is why every good Thai curry recipe insists on full fat."
+        },
+        {
+          "title": "Crack the coconut cream",
+          "text": "Set the pot over medium heat and simmer the coconut cream for 3 to 5 minutes, stirring occasionally, until it thickens, sputters, and you can see clear oil pooling at the edges. This is called cracking the cream and it is the step nearly everyone skips. Frying the paste in coconut oil rather than boiling it in coconut water is what makes the difference between a flat curry and a fragrant one."
+        },
+        {
+          "title": "Fry the curry paste",
+          "text": "Add 3 tbsp of the green curry paste and mash it into the hot cream with the back of your spoon, then fry for 2 to 3 minutes, stirring constantly. It should darken slightly, thicken into a glossy paste, and smell so strongly of lemongrass, galangal and chile that it makes your eyes water a bit. If it starts to catch on the bottom, lower the heat rather than adding liquid."
+        },
+        {
+          "title": "Taste for heat",
+          "text": "Dip a spoon in and taste a tiny amount. Curry paste brands vary enormously in heat, so if yours is mild, add the last 1 tbsp now and fry it another minute. It should taste aggressively spicy at this stage, because two cans of coconut milk are about to mellow it substantially."
+        },
+        {
+          "title": "Coat the chicken",
+          "text": "Add the sliced chicken and stir for 2 minutes so every piece is coated in the fried paste and the surfaces turn opaque. You are not browning it, just sealing the paste onto the meat so the flavor goes into the chicken instead of only floating in the sauce. Slicing the thighs 1/2 in (1 cm) thick keeps them juicy through the simmer."
+        },
+        {
+          "title": "Add the rest of the coconut milk",
+          "text": "Pour in the remaining coconut milk from both cans, scraping the pot to loosen anything stuck. Bring it to a gentle simmer with small bubbles breaking the surface, never a hard rolling boil. Boiling coconut milk hard makes it split into grainy curds and an oil slick, and you cannot bring it back once that happens."
+        },
+        {
+          "title": "Simmer with aromatics",
+          "text": "Add the torn makrut lime leaves, 2 tbsp fish sauce and 1 tbsp palm sugar, and simmer gently for 8 minutes. Tear the lime leaves rather than chopping them, so they release oil but are easy to spot and set aside on the plate. The sauce should reduce slightly and take on a pale sage green color."
+        },
+        {
+          "title": "Cook the vegetables in order",
+          "text": "Add the eggplant first and simmer 4 minutes, then the bamboo shoots and bell pepper for a final 3 minutes. Eggplant needs the longest and turns creamy; the pepper should stay slightly crisp. Adding everything at once means either raw eggplant or dissolved pepper, so stagger them."
+        },
+        {
+          "title": "Check the chicken and season",
+          "text": "Cut into the thickest piece of chicken or check with a thermometer; it must read 165°F (74°C) with no pink. Now taste the sauce properly. It should hit salty, sweet, spicy and a little sour all at once, so adjust with fish sauce for salt, palm sugar for balance, or a pinch of kosher salt."
+        },
+        {
+          "title": "Finish with basil and lime",
+          "text": "Turn off the heat, stir in the 1 cup Thai basil and 1 tbsp lime juice, and let it sit 2 minutes so the leaves wilt in the residual heat. Adding the lime off the heat keeps its brightness, which simmering would cook straight out. Ladle over hot jasmine rice in shallow bowls and serve while the basil is still vivid green."
+        }
+      ],
+      "tips": [
+        "Maesri and Mae Ploy are the two paste brands worth seeking out, and both come in small cans for a couple of dollars. They are far more aromatic than the jarred supermarket versions.",
+        "Full-fat coconut milk only. Light coconut milk will not crack, will not thicken, and produces a thin watery curry no matter how long you simmer it.",
+        "Make-ahead: green curry is better on day two once the flavors settle. Reheat gently over low heat and add the basil and lime fresh each time.",
+        "Swap the chicken for 1 1/2 lb (680 g) of shrimp added in the last 3 minutes, or 14 oz (400 g) of pressed tofu plus extra vegetables for a vegetarian pot.",
+        "If the curry tastes flat, it almost always needs fish sauce rather than salt, and if it tastes harsh, a teaspoon more palm sugar will round it out."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C). Keep the curry at a gentle simmer around 190°F (88°C) with small lazy bubbles, because a hard boil splits coconut milk into grainy curds and floating oil.",
+      "pairing": "Jasmine rice, a cold Singha or a slightly sweet Riesling, and cucumber slices to cool the heat.",
+      "videoQuery": "thai green curry chicken coconut milk recipe",
+      "photoQuery": "thai green curry chicken basil",
+      "tags": [
+        "Thai",
+        "One Pot",
+        "30 Minutes"
+      ]
+    },
+    {
+      "id": "butter-chicken-murgh-makhani",
+      "title": "Butter Chicken Murgh Makhani",
+      "emoji": "🧈",
+      "art": "curry",
+      "blurb": "Yogurt-marinated chicken charred under the broiler, then folded into a silky tomato and cream sauce finished with crushed fenugreek. It is rich, gentle and almost impossible to stop eating.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "20 min",
+      "cookTime": "40 min",
+      "totalTime": "2 hr",
+      "ingredients": [
+        {
+          "group": "Chicken and marinade",
+          "items": [
+            "2 lb (900 g) boneless skinless chicken thighs, cut into 1 1/2 in (4 cm) pieces",
+            "1/2 cup (120 g) whole-milk plain yogurt",
+            "1 tbsp (15 ml) fresh lemon juice",
+            "1 tbsp (8 g) minced fresh ginger",
+            "4 garlic cloves, minced",
+            "2 tsp (5 g) garam masala",
+            "1 tsp (3 g) ground turmeric",
+            "1 tsp (2 g) Kashmiri chile powder",
+            "1 1/2 tsp (9 g) kosher salt"
+          ]
+        },
+        {
+          "group": "Makhani sauce",
+          "items": [
+            "4 tbsp (55 g) unsalted butter, divided",
+            "1 large yellow onion (10 oz / 285 g), finely chopped",
+            "1 tbsp (8 g) minced fresh ginger",
+            "4 garlic cloves, minced",
+            "1 can (28 oz / 800 g) whole peeled tomatoes",
+            "1 tsp (2 g) Kashmiri chile powder",
+            "2 tsp (5 g) garam masala",
+            "1 tsp (4 g) granulated sugar",
+            "1 tsp (6 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To finish and serve",
+          "items": [
+            "3/4 cup (180 ml) heavy cream",
+            "1 tsp (1 g) dried fenugreek leaves (kasoori methi), crushed",
+            "2 tbsp (30 ml) neutral oil, for the pan",
+            "2 tbsp (8 g) chopped fresh cilantro",
+            "4 naan breads or 4 cups (660 g) cooked basmati rice"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Marinate the chicken",
+          "text": "Whisk the 1/2 cup yogurt, 1 tbsp lemon juice, 1 tbsp ginger, 4 minced garlic cloves, 2 tsp garam masala, 1 tsp turmeric, 1 tsp Kashmiri chile powder and 1 1/2 tsp salt in a large bowl, then fold in the chicken. Cover and refrigerate for at least 1 hour and up to 12. The lactic acid in yogurt tenderizes gently without turning the meat mushy the way a straight lemon marinade would, and it clings to the chicken so the spices actually stick."
+        },
+        {
+          "title": "Start the sauce base",
+          "text": "Melt 2 tbsp of the butter in a heavy 5 qt (4.7 L) pot over medium heat, add the chopped onion and a pinch of salt, and cook for 8 to 10 minutes, stirring often. You want the onion soft, translucent and just beginning to turn golden at the edges, not browned and crisp. This slow start builds the sweet foundation that makes butter chicken taste rounded rather than sharp."
+        },
+        {
+          "title": "Bloom the aromatics and spices",
+          "text": "Add the 1 tbsp ginger and 4 minced garlic cloves and cook 90 seconds until fragrant, then stir in the 1 tsp Kashmiri chile powder and 2 tsp garam masala and cook 30 seconds more. Ground spices need fat and heat to release their oils, which is called blooming and takes well under a minute. Stir constantly here, because ground spices scorch and turn bitter almost instantly on a hot pot bottom."
+        },
+        {
+          "title": "Add the tomatoes and simmer",
+          "text": "Pour in the can of whole tomatoes with their juice, crushing each one in your hand as it goes in, then add the 1 tsp sugar and 1 tsp salt. Simmer uncovered over medium-low for 20 minutes, stirring occasionally, until the sauce darkens to brick red and thickens noticeably. Whole canned tomatoes are consistently better than crushed or diced, which are firmed up with calcium chloride and never break down properly."
+        },
+        {
+          "title": "Heat the broiler",
+          "text": "While the sauce simmers, set an oven rack about 6 in (15 cm) from the broiler element and turn the broiler to high. Line a sheet pan with foil and set a wire rack on top, then brush the rack with the 2 tbsp oil. The rack lets the marinade drip away so the chicken chars instead of poaching in its own liquid."
+        },
+        {
+          "title": "Broil the chicken",
+          "text": "Shake the excess marinade off each piece and arrange the chicken on the rack with space between the pieces. Broil for 7 to 9 minutes, until the tops are charred in spots and blistered. This is standing in for a tandoor, and those blackened edges are a real flavor component, not an accident, so let them get properly dark."
+        },
+        {
+          "title": "Flip and finish the chicken",
+          "text": "Turn each piece and broil another 5 to 6 minutes, then check the thickest piece with a thermometer; it must read 165°F (74°C). Pull the pan and let the chicken rest while you finish the sauce. Do not worry if it looks slightly dry, because it will spend the next ten minutes soaking in cream and butter."
+        },
+        {
+          "title": "Blend the sauce smooth",
+          "text": "Take the tomato sauce off the heat and blend it with an immersion blender right in the pot, or in a countertop blender in two batches, until completely silky. Vent the blender lid and cover it with a towel, since hot liquid expands violently and will blow the lid off. Butter chicken should be smooth as velvet with no visible onion, which is what separates it from a rustic curry."
+        },
+        {
+          "title": "Enrich with butter and cream",
+          "text": "Return the blended sauce to low heat, whisk in the remaining 2 tbsp butter one piece at a time, then stir in the 3/4 cup heavy cream. Keep the heat low and never let it boil, because dairy this rich will break into grainy specks and an oil slick. The sauce should turn from brick red to a warm terracotta orange."
+        },
+        {
+          "title": "Add the fenugreek",
+          "text": "Crush the 1 tsp dried fenugreek leaves between your palms directly over the pot, which wakes up the aromatic oils. Kasoori methi is the maple-and-celery-like note you cannot identify in restaurant butter chicken, and there is no real substitute. Stir it in and simmer gently for 2 minutes."
+        },
+        {
+          "title": "Fold in the chicken",
+          "text": "Add the broiled chicken and any juices from the sheet pan and simmer gently for 5 minutes so the pieces absorb the sauce and everything comes together. Taste and adjust with salt, a pinch of sugar if the tomatoes are sharp, or a splash of cream if it is too intense. The sauce should coat a spoon thickly but still pour."
+        },
+        {
+          "title": "Rest, garnish and serve",
+          "text": "Take the pot off the heat and let it stand 5 minutes, which lets the sauce settle and thicken slightly. Scatter the chopped cilantro over the top and serve with warm naan or basmati rice. It reheats beautifully over low heat for 4 days, and honestly tastes even better the next day."
+        }
+      ],
+      "tips": [
+        "Kashmiri chile powder brings deep red color with mild heat. If you only have cayenne, use 1/4 tsp cayenne plus 3/4 tsp sweet paprika to get the color without setting anyone on fire.",
+        "Thighs, not breasts. Breast meat dries out under a broiler and in a long simmer, while thighs stay tender and forgiving.",
+        "Make-ahead: the sauce can be made and blended up to 3 days ahead or frozen for 3 months. Broil the chicken fresh and combine the two just before serving.",
+        "No broiler? Sear the marinated chicken in batches in a screaming hot cast iron skillet for 3 minutes per side. You want char, however you get it.",
+        "Kasoori methi is sold at any Indian grocer and keeps for a year. It is the one ingredient here you should not skip, because it is the flavor people cannot name."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the thickest point after broiling, with charred blistered edges. Keep the finished sauce below a simmer, roughly 180°F (82°C), because boiling cream and butter will split the sauce into grainy curds.",
+      "pairing": "Warm garlic naan for scooping, basmati rice, and a mango lassi or an off-dry Gewurztraminer.",
+      "videoQuery": "butter chicken murgh makhani restaurant style recipe",
+      "photoQuery": "butter chicken curry naan",
+      "tags": [
+        "Indian",
+        "Comfort Food",
+        "Make Ahead"
+      ]
+    },
+    {
+      "id": "chicken-tikka-masala",
+      "title": "Chicken Tikka Masala",
+      "emoji": "🍅",
+      "art": "curry",
+      "blurb": "Charred spiced chicken in a warm, creamy tomato gravy with real backbone from toasted whole spices. Marinate it in the morning and dinner practically makes itself.",
+      "difficulty": "Medium",
+      "servings": "6 servings",
+      "prepTime": "25 min",
+      "cookTime": "45 min",
+      "totalTime": "5 hr 10 min",
+      "ingredients": [
+        {
+          "group": "Tikka marinade",
+          "items": [
+            "2 lb (900 g) boneless skinless chicken thighs, cut into 2 in (5 cm) pieces",
+            "1 cup (240 g) whole-milk plain yogurt",
+            "2 tbsp (30 ml) fresh lemon juice",
+            "2 tbsp (16 g) minced fresh ginger",
+            "6 garlic cloves, minced",
+            "2 tsp (5 g) ground cumin",
+            "2 tsp (5 g) sweet paprika",
+            "1 tsp (3 g) ground turmeric",
+            "1 tsp (2 g) cayenne pepper",
+            "2 tsp (12 g) kosher salt"
+          ]
+        },
+        {
+          "group": "Masala sauce",
+          "items": [
+            "3 tbsp (45 ml) ghee or neutral oil",
+            "1 large yellow onion (10 oz / 285 g), finely diced",
+            "2 tbsp (16 g) minced fresh ginger",
+            "6 garlic cloves, minced",
+            "2 tsp (5 g) ground coriander",
+            "2 tsp (5 g) ground cumin",
+            "1 tbsp (8 g) sweet paprika",
+            "2 tsp (5 g) garam masala",
+            "1 can (28 oz / 800 g) crushed tomatoes",
+            "1 1/2 tsp (9 g) kosher salt"
+          ]
+        },
+        {
+          "group": "To finish and serve",
+          "items": [
+            "1 cup (240 ml) heavy cream",
+            "1 tbsp (14 g) unsalted butter",
+            "1/4 cup (10 g) chopped fresh cilantro",
+            "1 tsp (5 ml) fresh lemon juice",
+            "4 cups (660 g) cooked basmati rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Build the marinade",
+          "text": "Whisk the 1 cup yogurt, 2 tbsp lemon juice, 2 tbsp ginger, 6 minced garlic cloves, 2 tsp cumin, 2 tsp paprika, 1 tsp turmeric, 1 tsp cayenne and 2 tsp salt in a large bowl until it is a uniform rust-orange paste. Use whole-milk yogurt, because low-fat versions are thin and watery and will slide off the chicken instead of clinging. It should be thick enough to coat a spoon heavily."
+        },
+        {
+          "title": "Marinate for hours",
+          "text": "Add the chicken pieces and turn them until each one is thickly coated, then cover and refrigerate for at least 4 hours and ideally overnight. Yogurt tenderizes gently and slowly, so long marinating actually improves the texture rather than turning the surface to mush. Cutting the thighs into large 2 in (5 cm) pieces means they can char hard on the outside while staying juicy inside."
+        },
+        {
+          "title": "Start the onions",
+          "text": "Heat the 3 tbsp ghee in a heavy 5 qt (4.7 L) pot over medium heat and add the diced onion with a pinch of salt. Cook for 10 to 12 minutes, stirring every couple of minutes, until deeply softened and golden brown at the edges. This is longer than you think it needs and it is the flavor foundation of the entire dish, so do not cut it short at five minutes."
+        },
+        {
+          "title": "Bloom the ground spices",
+          "text": "Add the 2 tbsp ginger and 6 minced garlic cloves and cook 90 seconds, then add the 2 tsp coriander, 2 tsp cumin, 1 tbsp paprika and 2 tsp garam masala and stir constantly for 45 seconds. The pot will smell suddenly enormous and the spices will darken a shade. Ground spices burn in well under a minute at this heat, so have the tomatoes open and ready to go in."
+        },
+        {
+          "title": "Add tomatoes and simmer",
+          "text": "Pour in the can of crushed tomatoes and the 1 1/2 tsp salt, scraping the bottom to lift every bit of stuck spice. Bring it to a simmer, then lower the heat and cook uncovered for 20 minutes, stirring occasionally. The sauce should darken from bright red to brick and thicken enough that a spoon dragged through leaves a trail for a second."
+        },
+        {
+          "title": "Preheat the broiler",
+          "text": "Position an oven rack 6 in (15 cm) below the broiler element and heat the broiler to high for 5 minutes. Line a sheet pan with foil and fit a wire rack inside it. The rack matters: it lets the marinade drip away so the chicken blisters and chars rather than sitting in a puddle and steaming."
+        },
+        {
+          "title": "Broil the chicken hard",
+          "text": "Shake the excess marinade off each piece and lay them out with at least 1/2 in (1 cm) of space between them. Broil for 8 to 10 minutes without opening the door, until the tops are blackened in spots. Those charred edges are the tikka part of tikka masala and they carry a smokiness the sauce cannot produce on its own, so be brave and let them go dark."
+        },
+        {
+          "title": "Flip and check",
+          "text": "Turn each piece with tongs and broil for another 5 to 7 minutes. Check the largest piece with an instant-read thermometer; it must reach 165°F (74°C). Set the pan aside and do not discard the juices that collect in the foil, because they are pure concentrated flavor."
+        },
+        {
+          "title": "Blend or leave rustic",
+          "text": "For a restaurant-smooth gravy, blend the tomato sauce with an immersion blender until silky, about 30 seconds. For a homestyle texture, leave it chunky with visible onion. Either is legitimate; blended sauces coat the chicken more evenly while rustic ones have more bite. If you use a countertop blender, vent the lid and work in batches, because hot liquid expands and can blow the top off."
+        },
+        {
+          "title": "Add the cream",
+          "text": "Lower the heat and stir in the 1 cup heavy cream and 1 tbsp butter, whisking until the sauce turns a soft coral orange. Keep it below a simmer from here on, around 180°F (82°C), because boiling will curdle the cream into grainy flecks. Taste it now, before the chicken goes in, and correct the salt."
+        },
+        {
+          "title": "Combine and simmer gently",
+          "text": "Add the broiled chicken along with every drop of juice from the sheet pan and simmer very gently for 8 to 10 minutes, uncovered. The chicken releases some of its marinade flavor into the gravy while it soaks the sauce up in return, and this exchange is what makes the finished dish taste unified rather than like two separate things. Stir a couple of times so nothing catches on the bottom."
+        },
+        {
+          "title": "Finish and rest",
+          "text": "Stir in the 1 tsp lemon juice and half the cilantro, then take the pot off the heat and let it sit 10 minutes. That rest lets the sauce thicken and the flavors settle, and tikka masala genuinely improves in those ten minutes. Scatter the remaining cilantro over the top and serve over hot basmati rice with naan alongside."
+        }
+      ],
+      "tips": [
+        "Marinate overnight if you possibly can. Four hours works, but twelve gives noticeably more tender, more deeply seasoned chicken.",
+        "No broiler? Grill the chicken over high heat for 4 minutes per side, or sear it in a smoking hot cast iron skillet. The char is not optional flavor.",
+        "Make-ahead: the sauce keeps 4 days refrigerated and freezes for 3 months without the cream. Add the cream when you reheat so it never gets boiled twice.",
+        "Cayenne is the heat dial. One teaspoon is medium-warm; use 1/2 tsp for mild or 2 tsp if you want it to bite back.",
+        "Skewer the marinated chicken and cook it over charcoal if you have a grill going. That is closest to a real tandoor and the difference is obvious."
+      ],
+      "keyTemp": "Chicken must reach 165°F (74°C) at the center of the largest piece, with blackened blistered edges from the broiler. Hold the finished sauce below a simmer, around 180°F (82°C), so the cream stays smooth instead of curdling.",
+      "pairing": "Basmati rice, garlic naan, and a cold IPA or a chilled off-dry Riesling.",
+      "videoQuery": "chicken tikka masala restaurant style recipe",
+      "photoQuery": "chicken tikka masala rice cilantro",
+      "tags": [
+        "Indian",
+        "Make Ahead",
+        "Comfort Food"
+      ]
+    },
+    {
+      "id": "beef-pho-rice-noodles",
+      "title": "Beef Pho with Rice Noodles",
+      "emoji": "🍲",
+      "art": "soup",
+      "blurb": "A clear, deeply spiced beef broth built over an afternoon, poured boiling over rice noodles and raw slices of steak. This is the weekend project that fills the whole apartment with star anise.",
+      "difficulty": "Advanced",
+      "servings": "6 servings",
+      "prepTime": "45 min",
+      "cookTime": "6 hr",
+      "totalTime": "6 hr 45 min",
+      "ingredients": [
+        {
+          "group": "Bones and meat",
+          "items": [
+            "4 lb (1.8 kg) beef marrow and knuckle bones",
+            "1 lb (450 g) beef oxtail or short rib",
+            "2 lb (900 g) beef brisket, in one piece",
+            "6 qt (5.7 L) cold water"
+          ]
+        },
+        {
+          "group": "Charred aromatics and spices",
+          "items": [
+            "2 large yellow onions (1 lb / 450 g total), halved",
+            "1 piece fresh ginger (4 in / 10 cm), halved lengthwise",
+            "6 star anise pods",
+            "1 cinnamon stick (3 in / 8 cm)",
+            "6 whole cloves",
+            "1 tbsp (6 g) coriander seeds",
+            "1 tsp (2 g) fennel seeds",
+            "3 black cardamom pods, or 4 green cardamom pods"
+          ]
+        },
+        {
+          "group": "Broth seasoning",
+          "items": [
+            "3 tbsp (45 ml) fish sauce, plus more to taste",
+            "1 oz (30 g) yellow rock sugar, about a 1 in (2.5 cm) piece",
+            "2 tsp (12 g) kosher salt, plus more to taste"
+          ]
+        },
+        {
+          "group": "Bowls and garnish",
+          "items": [
+            "1 lb (450 g) dried flat rice noodles (banh pho), 1/4 in (5 mm) wide",
+            "12 oz (340 g) beef eye of round, frozen 30 minutes and sliced paper thin",
+            "2 cups (100 g) bean sprouts",
+            "1 bunch Thai basil (about 1 oz / 30 g)",
+            "2 limes, cut into wedges",
+            "4 scallions, thinly sliced",
+            "2 jalapenos, thinly sliced",
+            "1/4 cup (10 g) cilantro leaves"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Parboil the bones",
+          "text": "Put the bones and oxtail in a large stockpot, cover with cold water, and bring to a hard boil over high heat for 10 minutes. Gray foam and scum will rise to the top in alarming quantity. This step exists purely to purge blood and impurities, and it is the difference between a crystal clear pho broth and a cloudy murky one."
+        },
+        {
+          "title": "Scrub the bones clean",
+          "text": "Dump the whole pot into the sink through a colander and rinse each bone under running water, scrubbing off any dark bits clinging to the surface. Scrub the pot itself clean too, because the residue sticks to the sides. Do not skip the scrubbing; leftover scum will cloud the broth all over again."
+        },
+        {
+          "title": "Char the onions and ginger",
+          "text": "Set the onion halves and ginger cut side down directly on a gas burner over high flame, or under a broiler 4 in (10 cm) from the element, and cook 8 to 12 minutes until blackened in patches and soft. Turn them so several sides char. This charring is not optional decoration; it caramelizes sugars and adds the smoky sweetness that makes pho taste like pho. Rinse off any loose ash and set aside."
+        },
+        {
+          "title": "Toast the spices",
+          "text": "Toast the 6 star anise, cinnamon stick, 6 cloves, 1 tbsp coriander seeds, 1 tsp fennel seeds and 3 black cardamom pods in a dry skillet over medium heat for 3 to 4 minutes, shaking often, until intensely fragrant. Watch closely because they go from toasty to burnt fast, and burnt star anise will make six quarts of broth taste like ash. Tie them into a spice bag or a square of cheesecloth so you can fish them out later."
+        },
+        {
+          "title": "Start the long simmer",
+          "text": "Return the scrubbed bones to the clean pot, add the 6 qt cold water, and bring it up to a bare simmer over medium heat, which takes about 30 minutes. Add the charred onion and ginger and the spice bag. Starting from cold water lets the proteins release slowly and rise as a raft you can skim, rather than clouding the broth all at once."
+        },
+        {
+          "title": "Hold a bare simmer and skim",
+          "text": "Adjust the heat until you see only occasional lazy bubbles breaking the surface, roughly 195 to 205°F (90 to 96°C), and never let it reach a rolling boil. Skim the surface every 20 minutes for the first hour, then every 45 minutes after. A boiling pot emulsifies fat into the liquid and turns it permanently cloudy and greasy, and no amount of straining later will fix it."
+        },
+        {
+          "title": "Add and remove the brisket",
+          "text": "Slide the brisket into the pot after the first hour of simmering and cook it for 90 minutes to 2 hours, until a fork slides in with little resistance. Pull it out, plunge it into a bowl of ice water for 10 minutes to stop the cooking and keep it from graying, then wrap and refrigerate. Cooling it firm makes it far easier to slice thin later."
+        },
+        {
+          "title": "Simmer, then season",
+          "text": "Let the broth continue at that bare simmer for a total of 5 to 6 hours, topping up with hot water if the level drops below the bones. In the last hour, add the 3 tbsp fish sauce, the 1 oz rock sugar and 2 tsp salt. Seasoning late means you are salting a broth that has already reduced, so you do not overshoot and end up with something inedible."
+        },
+        {
+          "title": "Strain and defat",
+          "text": "Pull out the bones and spice bag, then strain the broth through a fine mesh sieve lined with cheesecloth into a clean pot. Let it settle 10 minutes and skim the fat off the top with a wide spoon, or chill it and lift the solid cap off. Taste it now: it should be aromatic, savory and slightly sweet, and you should want to drink it plain from a mug."
+        },
+        {
+          "title": "Slice the raw beef paper thin",
+          "text": "Freeze the eye of round for 30 minutes until firm, then slice it across the grain as thinly as you possibly can, ideally under 1/8 in (3 mm) so it is nearly translucent. Lay the slices flat on a plate and refrigerate until the moment you serve. Thin enough and the boiling broth cooks them through in seconds right in the bowl."
+        },
+        {
+          "title": "Cook the noodles to order",
+          "text": "Bring a separate large pot of water to a boil and cook the rice noodles for 6 to 8 minutes according to the package, then drain. Cook them just before serving and portion them straight into bowls, because noodles that sit around clump into a solid mass. Never cook noodles in your broth; the starch they release will cloud six hours of careful work in about two minutes."
+        },
+        {
+          "title": "Slice the brisket",
+          "text": "Take the chilled brisket out and slice it across the grain about 1/8 in (3 mm) thick. Cold meat slices cleanly where warm meat shreds and tears. Arrange the slices with the raw eye of round on a platter along with everything else you need for assembly."
+        },
+        {
+          "title": "Assemble the bowls",
+          "text": "Bring the strained broth back to a hard rolling boil, which is the one time boiling is correct. Divide the hot noodles among six large bowls, top each with sliced brisket and a layer of raw eye of round, then ladle 2 cups of furiously boiling broth over the top. The raw slices should go from red to gray-brown within about 20 seconds. If you would rather not serve barely-cooked beef, blanch the slices in the boiling broth for 30 seconds first so they reach 145°F (63°C)."
+        },
+        {
+          "title": "Garnish at the table",
+          "text": "Put the bean sprouts, Thai basil, lime wedges, sliced scallions, jalapenos and cilantro on a platter in the middle of the table so everyone builds their own bowl. Add herbs a few at a time as you eat rather than all at once, so they stay fresh and fragrant instead of wilting into the broth. Hoisin and sriracha belong in a small side dish for dipping the meat, not squeezed into the broth, though nobody will stop you."
+        }
+      ],
+      "tips": [
+        "The parboil-and-scrub step is what separates homemade pho from restaurant pho. It takes fifteen minutes and it is the single highest-value thing you can do for clarity.",
+        "Make-ahead: the broth is the whole project and it keeps 5 days refrigerated or 3 months frozen. Freeze it in quart containers and a bowl of pho is twenty minutes away any weeknight.",
+        "Yellow rock sugar has a cleaner, less cloying sweetness than granulated. If you cannot find it, use 1 tbsp of granulated sugar instead.",
+        "Ask the butcher for a mix of marrow bones and knuckle bones. Marrow gives richness and knuckles give collagen and body, and you want both.",
+        "If your broth still comes out cloudy, the culprit is almost always heat. Keep it at a lazy bare simmer where a bubble breaks every second or two, not a bubbling boil."
+      ],
+      "keyTemp": "Hold the broth at 195 to 205°F (90 to 96°C) throughout the simmer, never a rolling boil. Brisket is tender around 195°F (91°C) internal, and the raw eye of round slices should be blanched to 145°F (63°C) if you want them fully cooked rather than just flashed in boiling broth.",
+      "pairing": "A cup of the plain broth on the side, Vietnamese iced coffee afterward, and plenty of lime and herbs on the table.",
+      "videoQuery": "vietnamese beef pho broth from scratch",
+      "photoQuery": "beef pho bowl herbs lime",
+      "tags": [
+        "Vietnamese",
+        "Weekend Project",
+        "Soup"
+      ]
+    },
+    {
+      "id": "mongolian-beef",
+      "title": "Mongolian Beef with Scallions",
+      "emoji": "🧅",
+      "art": "steak",
+      "blurb": "Crisp cornstarch-coated beef in a dark, glossy soy and brown sugar glaze with a pile of scallions. Thirty minutes start to finish and it disappears faster than that.",
+      "difficulty": "Easy",
+      "servings": "4 servings",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "totalTime": "30 min",
+      "ingredients": [
+        {
+          "group": "Beef",
+          "items": [
+            "1 1/2 lb (680 g) flank steak, sliced 1/4 in (6 mm) against the grain",
+            "1/2 cup (65 g) cornstarch",
+            "1/2 tsp (3 g) kosher salt"
+          ]
+        },
+        {
+          "group": "Sauce",
+          "items": [
+            "1/2 cup (120 ml) low-sodium soy sauce",
+            "1/2 cup (120 ml) water",
+            "2/3 cup (145 g) dark brown sugar, packed",
+            "1 tbsp (8 g) minced fresh ginger",
+            "5 garlic cloves, minced",
+            "1/4 tsp (0.5 g) red pepper flakes"
+          ]
+        },
+        {
+          "group": "To cook and serve",
+          "items": [
+            "1/2 cup (120 ml) neutral oil, for shallow frying",
+            "1 tbsp (15 ml) neutral oil, for the sauce",
+            "8 scallions, cut into 2 in (5 cm) lengths",
+            "1 tsp (3 g) toasted sesame seeds",
+            "4 cups (660 g) hot cooked jasmine rice, for serving"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Slice the flank steak",
+          "text": "Chill the flank steak in the freezer for 15 minutes so it firms up, then find the grain and cut straight across it into slices about 1/4 in (6 mm) thick. Angle your knife at roughly 45 degrees to get wider slices that hold more coating. Cutting against the grain shortens the muscle fibers, and with a lean cut like flank that is the only thing standing between tender and chewy."
+        },
+        {
+          "title": "Dry the beef thoroughly",
+          "text": "Blot the slices with paper towels until they no longer feel wet, then season with the 1/2 tsp salt. Cornstarch will not adhere to a damp surface; it turns into a slimy paste that slides off in the oil. Two minutes of blotting here saves the entire texture of the dish."
+        },
+        {
+          "title": "Coat in cornstarch",
+          "text": "Toss the beef with the 1/2 cup cornstarch in a large bowl until every slice is chalky white with no bare spots, then shake off the excess in a colander. A thin even coat fries into a crisp shell that grabs the sauce; a thick clumpy one goes gummy. Let the coated beef rest 10 minutes so the starch hydrates slightly and clings better."
+        },
+        {
+          "title": "Mix the sauce",
+          "text": "Stir the 1/2 cup soy sauce, 1/2 cup water, 2/3 cup dark brown sugar, 1 tbsp ginger, 5 minced garlic cloves and 1/4 tsp red pepper flakes together in a bowl until the sugar mostly dissolves. It will look alarmingly sweet, and that is correct, since it reduces down to a balanced glaze. Low-sodium soy sauce matters here because you are reducing a half cup of it and regular soy would end up brutally salty."
+        },
+        {
+          "title": "Set up your station",
+          "text": "Put the coated beef, sauce bowl, scallions and a wire rack set over a sheet pan all within arm's reach of the stove. Start the rice now if you have not. From the moment the oil is hot this dish moves quickly and you will be using tongs with both hands."
+        },
+        {
+          "title": "Heat the frying oil",
+          "text": "Pour the 1/2 cup oil into a 12 in (30 cm) skillet or wok and heat over medium-high until it shimmers and a pinch of cornstarch dropped in sizzles immediately, about 350°F (175°C). This is shallow frying, not deep frying, so the oil only needs to come about 1/4 in (6 mm) up the pan. If the oil is not hot enough the coating absorbs it and turns greasy instead of crisping."
+        },
+        {
+          "title": "Fry the beef in batches",
+          "text": "Lay a third of the slices in the oil in a single layer with space between them and fry for 60 to 90 seconds per side, until the edges are golden and the coating is set. Move them to the wire rack and repeat with the remaining beef. Crowding drops the oil temperature and the slices will stick together into a single mass, so three small batches beat one big one every time."
+        },
+        {
+          "title": "Pour off the oil",
+          "text": "Carefully pour the frying oil into a heatproof bowl, leaving any browned bits behind, and wipe the pan with a paper towel if there is burnt cornstarch stuck to it. Return the pan to the heat with 1 tbsp of fresh oil. Cooking the sauce in old frying oil makes it heavy and greasy."
+        },
+        {
+          "title": "Reduce the sauce",
+          "text": "Pour the sauce into the hot pan and bring it to a boil over medium-high heat, then let it bubble for 3 to 4 minutes, stirring, until it reduces by about a third and turns syrupy. Drag a spatula through it: the sauce should hold a clear line on the pan bottom for a second before flowing back. Watch it closely at the end, because sugar syrups go from perfect to burnt in under thirty seconds."
+        },
+        {
+          "title": "Toss the beef in the glaze",
+          "text": "Add all the fried beef back to the pan and toss for 30 to 45 seconds, just until every slice is coated in dark shiny glaze. Do not linger here; the longer the crisp coating sits in liquid, the softer it gets. The beef should look lacquered, not swimming."
+        },
+        {
+          "title": "Finish with scallions and serve",
+          "text": "Add the scallions, toss twice, and kill the heat so they stay bright green with a little crunch. Scatter the 1 tsp sesame seeds over the top and serve immediately over hot jasmine rice with the pan sauce spooned around. Mongolian beef is at its best in the first five minutes, so get it to the table straight from the stove."
+        }
+      ],
+      "tips": [
+        "Flank is traditional, but skirt steak, sirloin or flat iron all work well. Any lean cut sliced thin against the grain is fine.",
+        "Use low-sodium soy sauce. This sauce reduces significantly and regular soy sauce will make the finished dish nearly inedible.",
+        "The sauce is very sweet by design. If you prefer it more savory, cut the brown sugar to 1/2 cup and add 1 tbsp of rice vinegar at the end.",
+        "Make-ahead: slice and coat the beef up to 2 hours ahead and keep it on a rack in the fridge. Mix the sauce up to 3 days ahead.",
+        "Broccoli or snow peas make this a full meal. Blanch 8 oz (225 g) for 2 minutes and toss them in with the scallions."
+      ],
+      "keyTemp": "Beef is safe at 145°F (63°C), and slices this thin get there within about 90 seconds per side in 350°F (175°C) oil. Go by the coating: pull the slices when the crust is golden and set, because overcooked flank turns tough no matter how it is sauced.",
+      "pairing": "Steamed jasmine rice, quick-blanched broccoli, and a cold lager to cut the sweetness.",
+      "videoQuery": "mongolian beef crispy flank steak recipe",
+      "photoQuery": "mongolian beef scallions rice",
+      "tags": [
+        "Takeout at Home",
+        "30 Minutes",
+        "Weeknight"
+      ]
+    },
+    {
+      "id": "beef-bibimbap-crispy-rice",
+      "title": "Beef Bibimbap with Crispy Rice",
+      "emoji": "🍳",
+      "art": "rice",
+      "blurb": "A bowl of seasoned vegetables, marinated beef and a fried egg over rice that crackles against a hot pan. You stir it all together with gochujang and it becomes something entirely new.",
+      "difficulty": "Advanced",
+      "servings": "4 servings",
+      "prepTime": "45 min",
+      "cookTime": "30 min",
+      "totalTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "group": "Beef and marinade",
+          "items": [
+            "12 oz (340 g) beef sirloin or ribeye, thinly sliced 1/8 in (3 mm)",
+            "2 tbsp (30 ml) soy sauce",
+            "1 tbsp (15 ml) toasted sesame oil",
+            "1 tbsp (13 g) light brown sugar",
+            "3 garlic cloves, minced",
+            "1/2 tsp (1 g) freshly ground black pepper"
+          ]
+        },
+        {
+          "group": "Namul vegetables",
+          "items": [
+            "6 oz (170 g) fresh spinach",
+            "1 large carrot (5 oz / 140 g), cut into matchsticks",
+            "5 oz (140 g) shiitake mushrooms, stemmed and sliced",
+            "2 cups (200 g) mung bean sprouts",
+            "1 medium zucchini (7 oz / 200 g), cut into matchsticks",
+            "3 tbsp (45 ml) toasted sesame oil, divided",
+            "2 tsp (12 g) kosher salt, divided",
+            "3 garlic cloves, minced and divided",
+            "2 tbsp (18 g) toasted sesame seeds"
+          ]
+        },
+        {
+          "group": "Bibimbap sauce",
+          "items": [
+            "3 tbsp (50 g) gochujang",
+            "1 tbsp (15 ml) toasted sesame oil",
+            "1 tbsp (15 ml) water",
+            "1 tbsp (13 g) granulated sugar",
+            "1 tbsp (15 ml) rice vinegar",
+            "1 garlic clove, grated"
+          ]
+        },
+        {
+          "group": "Rice and eggs",
+          "items": [
+            "4 cups (660 g) hot cooked short-grain white rice",
+            "2 tbsp (30 ml) toasted sesame oil, for the bowls",
+            "4 large eggs",
+            "1 tbsp (15 ml) neutral oil, for frying the eggs",
+            "1 sheet toasted nori, cut into thin strips"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Marinate the beef",
+          "text": "Toss the sliced beef with the 2 tbsp soy sauce, 1 tbsp sesame oil, 1 tbsp brown sugar, 3 minced garlic cloves and 1/2 tsp black pepper, then refrigerate for 30 minutes while you prepare everything else. Slicing the beef at 1/8 in (3 mm) means it takes on the marinade quickly and cooks in about two minutes. If the meat is hard to slice, freeze it for 20 minutes first."
+        },
+        {
+          "title": "Understand namul",
+          "text": "Each vegetable in bibimbap is cooked and seasoned separately, which is the technique called namul. Set out five small bowls, one per vegetable, and keep them separate all the way to the table. It sounds like extra work but it is the entire point: every component tastes distinctly of itself, and stirring them together at the last second is what makes the bowl interesting rather than muddy."
+        },
+        {
+          "title": "Blanch and season the spinach",
+          "text": "Boil a medium pot of salted water, drop in the spinach for 30 seconds, then transfer it to ice water. Squeeze it into a tight ball and wring out every bit of water you can, then chop it and toss with 1/2 tsp sesame oil, a pinch of the salt and a third of the minced garlic. Wet spinach will leak into the rice and make the bottom soggy, so squeeze it harder than seems reasonable."
+        },
+        {
+          "title": "Blanch the bean sprouts",
+          "text": "Using the same pot of boiling water, cook the mung bean sprouts for 2 minutes, then drain and rinse under cold water. Squeeze them gently and toss with 1/2 tsp sesame oil, a pinch of salt and another third of the garlic. They should stay crunchy, since raw sprouts taste grassy but overcooked ones go limp and sad."
+        },
+        {
+          "title": "Saute the carrots",
+          "text": "Heat 1 tsp of the sesame oil in a skillet over medium-high, add the carrot matchsticks and a pinch of salt, and cook for 2 minutes until they turn bright orange and just start to soften. Tip them into their bowl. Cook the vegetables in order from lightest to darkest so you do not have to wash the pan between each one."
+        },
+        {
+          "title": "Saute the zucchini",
+          "text": "Add another 1 tsp sesame oil, then the zucchini matchsticks and a pinch of salt, and cook 2 minutes until barely tender and still bright green. Zucchini is mostly water and will turn to mush in another minute, so pull it early. Salt it lightly, because it releases water as it sits."
+        },
+        {
+          "title": "Brown the mushrooms",
+          "text": "Add 1 tbsp sesame oil, then the sliced shiitakes and a pinch of salt, and cook 4 to 5 minutes without stirring much, until they release their liquid, it cooks off, and the edges brown. Stir in the last of the garlic for the final 30 seconds. Mushrooms need a hot pan and patience; constant stirring keeps them pale and squeaky."
+        },
+        {
+          "title": "Cook the beef",
+          "text": "Wipe the skillet, turn the heat to high, and spread the marinated beef in a single layer. Cook 60 seconds without touching it, then toss for 60 to 90 seconds more until browned and just cooked through. Beef is safe at 145°F (63°C) and slices this thin race past it, so pull them the moment the edges caramelize."
+        },
+        {
+          "title": "Mix the gochujang sauce",
+          "text": "Whisk the 3 tbsp gochujang, 1 tbsp sesame oil, 1 tbsp water, 1 tbsp sugar, 1 tbsp rice vinegar and the grated garlic clove until smooth and pourable. Taste it: it should be spicy, sweet and tangy in about equal measure. This sauce is what unifies the whole bowl, so make more than you think you need and put extra on the table."
+        },
+        {
+          "title": "Crisp the rice",
+          "text": "Heat 1/2 tbsp of sesame oil in a small nonstick or cast iron skillet over medium heat, add 1 cup of the hot rice, and press it into an even layer. Cook undisturbed for 4 to 5 minutes until you hear a steady crackling and the bottom is golden and crisp. Slide it into a warmed bowl crust side down and repeat for each serving. If you own a stone dolsot, oil it and heat it to about 400°F (205°C) instead, then press the rice in."
+        },
+        {
+          "title": "Fry the eggs sunny side up",
+          "text": "Heat the 1 tbsp neutral oil in a nonstick skillet over medium heat and crack in the eggs. Cook 2 to 3 minutes until the whites are fully set and opaque but the yolks are still liquid, spooning a little hot oil over the whites to help them along. The runny yolk becomes part of the sauce when you stir the bowl, which is exactly the point."
+        },
+        {
+          "title": "Arrange the bowls",
+          "text": "Over each bowl of crisped rice, arrange the seasoned vegetables and beef in separate wedges around the edge like spokes on a wheel, keeping the colors next to each other for contrast. Set a fried egg in the center. Take a moment with this, because the arrangement is genuinely part of the dish and it only stays pretty for about a minute."
+        },
+        {
+          "title": "Garnish and serve hot",
+          "text": "Scatter the 2 tbsp sesame seeds and the nori strips over the top and bring the bowls to the table with the gochujang sauce alongside. Serve immediately while the bottom rice is still crackling. Bibimbap loses its magic if it sits, so this is a dish you plate and carry straight out."
+        },
+        {
+          "title": "Stir it all together",
+          "text": "At the table, everyone adds a heaping spoonful of gochujang sauce and stirs the whole bowl vigorously with a spoon until the yolk, sauce, rice and vegetables are completely combined. Bibimbap literally means mixed rice, and the mixing is not optional. Scrape the crispy rice up from the bottom as you go so those toasted bits get distributed through every bite."
+        }
+      ],
+      "tips": [
+        "Cook every vegetable separately even though it feels excessive. Together they steam into a single flavor, and the whole appeal of bibimbap is that each bite is slightly different.",
+        "Make-ahead: all the namul vegetables can be made up to 3 days in advance and kept in separate containers. Then a bowl of bibimbap is a 15 minute dinner.",
+        "For a runny yolk with less risk, use pasteurized eggs, or cook the eggs to 160°F (71°C) with a set yolk if anyone eating is pregnant, elderly or immunocompromised.",
+        "A stone dolsot bowl gives you the best crust, but a small cast iron skillet or a nonstick pan gets you eighty percent of the way there.",
+        "Leftover bulgogi, roast chicken or a can of drained tuna all work in place of the marinated beef. Bibimbap started as a way to use up side dishes."
+      ],
+      "keyTemp": "Beef slices are safe at 145°F (63°C) and reach it in about 2 minutes over high heat; pull them the moment the edges caramelize. Fried eggs with fully set whites and runny yolks sit around 145°F (63°C), so use pasteurized eggs or cook them through to 160°F (71°C) if anyone at the table should avoid soft yolks.",
+      "pairing": "A small bowl of kimchi, a cold Korean lager or barley tea, and extra gochujang sauce on the table.",
+      "videoQuery": "korean bibimbap namul vegetables dolsot recipe",
+      "photoQuery": "bibimbap bowl fried egg vegetables",
+      "tags": [
+        "Korean",
+        "Weekend Project",
+        "Make Ahead"
+      ]
+    }
+  ]
+}

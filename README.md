@@ -17,15 +17,25 @@ image search for that specific dish.
 
 ## What's in it
 
-- Illustrated card for every recipe, drawn as inline SVG so nothing can 404
-- Full ingredient lists with US and metric measurements
-- Prep / cook / total times and servings
-- 8–14 detailed instruction steps per recipe, written to explain the *why*
-- Chef tips, doneness temperatures (°F and °C), and serving suggestions
-- Search across titles, ingredients and tags
+Every recipe carries:
+
+- An illustrated dish card, drawn as inline SVG so nothing can ever 404
+- A full ingredient list with US **and** metric measurements
+- Prep / cook / total time and servings
+- 8–14 instruction steps written to explain the *why*, not just the *what*
+- Chef tips, doneness temperatures in °F and °C, and a serving suggestion
+- A **Watch it made** button (YouTube search for that exact dish) and a
+  **See real photos** button (image search for the finished plate)
+
+And the book itself does:
+
+- Search across titles, ingredients and tags, with filters for quick, easy,
+  impressive, and favorites
 - Favorites, a shopping list, and tap-to-check ingredients and steps
-- Batch scaling (½× / 1× / 2× / 3×)
-- Tap-to-start countdown timers pulled out of the step text
+- Batch scaling (½× / 1× / 2× / 3×) that refuses to scale per-item and
+  dimension amounts, so it never prints two amounts that contradict each other
+- Tap-to-start countdown timers pulled out of the step text, anchored to
+  wall-clock time so they survive the phone backgrounding the tab
 - Cook mode that keeps the screen awake
 - Light and dark themes
 
